@@ -1,0 +1,22 @@
+{
+  "train": [],
+  "test": [
+    {
+      "input": {
+        "disease": "NEURODEVELOPMENTAL DISORDER WITH SEIZURES AND CEREBELLAR HYPOPLASIA",
+        "symbol": "NEDSCH",
+        "phenotype_mim_number": "621710",
+        "gene": "ATG12"
+      },
+      "output": [
+        {
+          "pmid": "41895291",
+          "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "omim_url": "https://omim.org/entry/621710"
+  }
+}

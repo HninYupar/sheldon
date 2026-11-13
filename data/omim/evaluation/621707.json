@@ -1,0 +1,38 @@
+{
+  "train": [],
+  "test": [
+    {
+      "input": {
+        "disease": "MAGIS SYNDROME",
+        "symbol": "MAGIS",
+        "phenotype_mim_number": "621707",
+        "gene": "GNAI2"
+      },
+      "output": [
+        {
+          "pmid": "39298586",
+          "title": "Germline mutations in a G protein identify signaling cross-talk in T cells."
+        },
+        {
+          "pmid": "27787898",
+          "title": "Role of a heterotrimeric G-protein, Gi2, in the corticogenesis: possible involvement in periventricular nodular heterotopia and intellectual disability."
+        },
+        {
+          "pmid": "",
+          "title": "Hamosh, A. Personal Communication. Baltimore, Md. 10/06/2026."
+        },
+        {
+          "pmid": "40926810",
+          "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment."
+        },
+        {
+          "pmid": "31036916",
+          "title": "Variant recurrence in neurodevelopmental disorders: the use of publicly available genomic data identifies clinically relevant pathogenic missense variants."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "omim_url": "https://omim.org/entry/621707"
+  }
+}

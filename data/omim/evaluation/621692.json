@@ -1,0 +1,34 @@
+{
+  "train": [],
+  "test": [
+    {
+      "input": {
+        "disease": "DEVELOPMENTAL AND EPILEPTIC ENCEPHALOPATHY 42B",
+        "symbol": "DEE42B",
+        "phenotype_mim_number": "621692",
+        "gene": "CACNA1A"
+      },
+      "output": [
+        {
+          "pmid": "34267336",
+          "title": "Biallelic variants in genes previously associated with dominant inheritance: CACNA1A, RET and SLC20A2."
+        },
+        {
+          "pmid": "39416668",
+          "title": "Intrafamilial neurological phenotypic variability due to either biallelic or monoallelic pathogenic variants in CACNA1A."
+        },
+        {
+          "pmid": "27250579",
+          "title": "Biallelic CACNA1A mutations cause early onset epileptic encephalopathy with progressive cerebral, cerebellar, and optic nerve atrophy."
+        },
+        {
+          "pmid": "36063114",
+          "title": "Biallelic CACNA1A variants: review of literature and report of a child with drug-resistant epilepsy and developmental delay."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "omim_url": "https://omim.org/entry/621692"
+  }
+}

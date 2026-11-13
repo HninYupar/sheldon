@@ -1,0 +1,30 @@
+{
+  "train": [],
+  "test": [
+    {
+      "input": {
+        "disease": "NEURODEGENERATION, INFANTILE-ONSET, WITH OPTIC ATROPHY AND STRUCTURAL BRAIN ABNORMALITIES 2",
+        "symbol": "NDOABA2",
+        "phenotype_mim_number": "621704",
+        "gene": "BORCS5"
+      },
+      "output": [
+        {
+          "pmid": "27435318",
+          "title": "Exome sequencing in mostly consanguineous Arab families with neurologic disease provides a high potential molecular diagnosis rate."
+        },
+        {
+          "pmid": "40621786",
+          "title": "Neuroaxonal dystrophy with osteopetrosis associated with a novel biallelic nonsense homozygous variant in BORCS5."
+        },
+        {
+          "pmid": "42012897",
+          "title": "Pathogenic variants in BORCS5 cause a spectrum of neurodevelopmental and neurodegenerative disorders with lysosomal dysfunction."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "omim_url": "https://omim.org/entry/621704"
+  }
+}

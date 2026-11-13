@@ -1,0 +1,22 @@
+{
+  "train": [],
+  "test": [
+    {
+      "input": {
+        "disease": "ARTHROGRYPOSIS MULTIPLEX CONGENITA 8, NEUROGENIC TYPE",
+        "symbol": "AMC8",
+        "phenotype_mim_number": "621695",
+        "gene": "PSMF1"
+      },
+      "output": [
+        {
+          "pmid": "41986367",
+          "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "omim_url": "https://omim.org/entry/621695"
+  }
+}

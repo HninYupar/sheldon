@@ -1,0 +1,22 @@
+{
+  "train": [],
+  "test": [
+    {
+      "input": {
+        "disease": "PARKINSON DISEASE 27, AUTOSOMAL RECESSIVE EARLY-ONSET",
+        "symbol": "PARK27",
+        "phenotype_mim_number": "621693",
+        "gene": "PSMF1"
+      },
+      "output": [
+        {
+          "pmid": "41986367",
+          "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "omim_url": "https://omim.org/entry/621693"
+  }
+}

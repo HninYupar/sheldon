@@ -1,0 +1,22 @@
+{
+  "train": [],
+  "test": [
+    {
+      "input": {
+        "disease": "IMMUNODEFICIENCY 135",
+        "symbol": "IMD135",
+        "phenotype_mim_number": "621699",
+        "gene": "SIT1"
+      },
+      "output": [
+        {
+          "pmid": "42128181",
+          "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "omim_url": "https://omim.org/entry/621699"
+  }
+}

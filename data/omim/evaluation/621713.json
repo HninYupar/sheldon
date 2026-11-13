@@ -1,0 +1,22 @@
+{
+  "train": [],
+  "test": [
+    {
+      "input": {
+        "disease": "OOCYTE/ZYGOTE/EMBRYO MATURATION ARREST 27",
+        "symbol": "OZEMA27",
+        "phenotype_mim_number": "621713",
+        "gene": "TACC3"
+      },
+      "output": [
+        {
+          "pmid": "36395215",
+          "title": "The mechanism of acentrosomal spindle assembly in human oocytes."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "omim_url": "https://omim.org/entry/621713"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "train": [],
+  "test": [
+    {
+      "input": {
+        "disease": "NEURODEGENERATION, CHILDHOOD-ONSET, WITH MOVEMENT DISORDERS, COGNITIVE DECLINE, AND BRAIN ABNORMALITIES",
+        "symbol": "CONDMCB",
+        "phenotype_mim_number": "621694",
+        "gene": "PSMF1"
+      },
+      "output": [
+        {
+          "pmid": "41986367",
+          "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "omim_url": "https://omim.org/entry/621694"
+  }
+}

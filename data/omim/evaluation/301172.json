@@ -1,0 +1,22 @@
+{
+  "train": [],
+  "test": [
+    {
+      "input": {
+        "disease": "SYSTEMIC LUPUS ERYTHEMATOSUS 19",
+        "symbol": "SLEB19",
+        "phenotype_mim_number": "301172",
+        "gene": "SAT1"
+      },
+      "output": [
+        {
+          "pmid": "35977808",
+          "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "omim_url": "https://omim.org/entry/301172"
+  }
+}
