@@ -1,0 +1,26 @@
+{
+  "id": "r127",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (combined immunodeficiency OR severe combined immunodeficiency OR immunodeficiency OR CID OR SCID) AND (patient OR patients OR case report OR family OR cohort)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'SIT1[gene] AND (combined immunodeficiency OR severe combined immunodeficiency OR immunodeficiency OR CID OR SCID) AND (patient OR patients OR case report OR family OR cohort)'; showing 1 (PubMed read it as: \"SIT1\"[All Fields] AND (((\"combinable\"[All Fields] OR \"combinated\"[All Fields] OR \"combination\"[All Fields] OR \"combinational\"[All Fields] OR \"combinations\"[All Fields] OR \"combinative\"[All Fields] OR \"combine\"[All Fields] OR \"combined\"[All Fields] OR \"combines\"[All Fields] OR \"combining\"[All Fields]) AND (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields])) OR (\"severe combined immunodeficiency\"[MeSH Terms] OR (\"severe\"[All Fields] AND \"combined\"[All Fields] AND \"immunodeficiency\"[All Fields]) OR \"severe combined immunodeficiency\"[All Fields]) OR (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields]) OR \"CID\"[All Fields] OR \"SCID\"[All Fields]) AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"case reports\"[Publication Type] OR \"case report\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

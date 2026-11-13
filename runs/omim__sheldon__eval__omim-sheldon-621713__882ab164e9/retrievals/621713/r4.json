@@ -1,0 +1,191 @@
+{
+  "id": "r4",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[tiab] AND (female infertility[tiab] OR oocyte[tiab] OR zygote[tiab] OR embryo[tiab] OR arrest[tiab]) AND (case report[pt] OR cohort[tiab] OR family[tiab] OR patients[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "15 PubMed hits for 'TACC3[tiab] AND (female infertility[tiab] OR oocyte[tiab] OR zygote[tiab] OR embryo[tiab] OR arrest[tiab]) AND (case report[pt] OR cohort[tiab] OR family[tiab] OR patients[tiab])'; showing 15 (PubMed read it as: \"TACC3\"[Title/Abstract] AND (\"female infertility\"[Title/Abstract] OR \"oocyte\"[Title/Abstract] OR \"zygote\"[Title/Abstract] OR \"embryo\"[Title/Abstract] OR \"arrest\"[Title/Abstract]) AND (\"cohort\"[Title/Abstract] OR \"family\"[Title/Abstract] OR \"patients\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36674642",
+      "title": "PAK1 Is Involved in the Spindle Assembly during the First Meiotic Division in Porcine Oocytes.",
+      "first_author": "Peng L",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms24021123",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38012214",
+      "title": "Knockdown of TACC3 inhibits tumor cell proliferation and increases chemosensitivity in pancreatic cancer.",
+      "first_author": "Shi S",
+      "year": "2023",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-023-06313-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31987043",
+      "title": "FGFR3 signaling and function in triple negative breast cancer.",
+      "first_author": "Chew NJ",
+      "year": "2020",
+      "journal": "Cell Commun Signal",
+      "doi": "10.1186/s12964-019-0486-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37341435",
+      "title": "TACC3 is an independent prognostic marker, and knockdown of TACC3 enhances the efficacy of CDK1 inhibitor RO3306 in liver cancer cells.",
+      "first_author": "Guo E",
+      "year": "2023",
+      "journal": "J Biochem Mol Toxicol",
+      "doi": "10.1002/jbt.23402",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "11121038",
+      "title": "The TACC domain identifies a family of centrosomal proteins that can interact with microtubules.",
+      "first_author": "Gergely F",
+      "year": "2000",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.97.26.14352",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36864125",
+      "title": "Targeting TACC3 represents a novel vulnerability in highly aggressive breast cancers with centrosome amplification.",
+      "first_author": "Saatci O",
+      "year": "2023",
+      "journal": "Cell Death Differ",
+      "doi": "10.1038/s41418-023-01140-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12389629",
+      "title": "AINT/ERIC/TACC: an expanding family of proteins with C-terminal coiled coil domains.",
+      "first_author": "Lappin TR",
+      "year": "2002",
+      "journal": "Leuk Lymphoma",
+      "doi": "10.1080/1042819022386644",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32217742",
+      "title": "A Highly Potent TACC3 Inhibitor as a Novel Anticancer Drug Candidate.",
+      "first_author": "Akbulut O",
+      "year": "2020",
+      "journal": "Mol Cancer Ther",
+      "doi": "10.1158/1535-7163.MCT-19-0957",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27991556",
+      "title": "KIF2A regulates the spindle assembly and the metaphase I-anaphase I transition in mouse oocyte.",
+      "first_author": "Chen MH",
+      "year": "2016",
+      "journal": "Sci Rep",
+      "doi": "10.1038/srep39337",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37745348",
+      "title": "Reviving immunogenic cell death upon targeting TACC3 enhances T-DM1 response in HER2-positive breast cancer.",
+      "first_author": "Gedik ME",
+      "year": "2023",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2023.09.12.557273",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27705912",
+      "title": "TACC3 overexpression in cholangiocarcinoma correlates with poor prognosis and is a potential anti-cancer molecular drug target for HDAC inhibitors.",
+      "first_author": "He JC",
+      "year": "2016",
+      "journal": "Oncotarget",
+      "doi": "10.18632/oncotarget.12254",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17359303",
+      "title": "TACC3 is required for the proper mitosis of sclerotome mesenchymal cells during formation of the axial skeleton.",
+      "first_author": "Yao R",
+      "year": "2007",
+      "journal": "Cancer Sci",
+      "doi": "10.1111/j.1349-7006.2007.00433.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25613365",
+      "title": "Suppression of centrosome protein TACC3 induces G1 arrest and cell death through activation of p38-p53-p21 stress signaling pathway.",
+      "first_author": "Suhail TV",
+      "year": "2015",
+      "journal": "Eur J Cell Biol",
+      "doi": "10.1016/j.ejcb.2014.12.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

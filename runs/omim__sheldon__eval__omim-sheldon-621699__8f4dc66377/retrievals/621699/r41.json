@@ -1,0 +1,606 @@
+{
+  "id": "r41",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (functional study OR signaling OR T cell activation OR TCR signaling OR knockdown OR knockout OR mechanism)",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "112 PubMed hits for 'SIT1[gene] AND (functional study OR signaling OR T cell activation OR TCR signaling OR knockdown OR knockout OR mechanism)'; showing 50 (PubMed read it as: \"SIT1\"[All Fields] AND (((\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms]) AND (\"studies\"[All Fields] OR \"study\"[All Fields] OR \"study s\"[All Fields] OR \"studying\"[All Fields] OR \"studys\"[All Fields])) OR (\"signal transduction\"[MeSH Terms] OR (\"signal\"[All Fields] AND \"transduction\"[All Fields]) OR \"signal transduction\"[All Fields] OR \"signaling\"[All Fields] OR \"signal\"[All Fields] OR \"signal s\"[All Fields] OR \"signaled\"[All Fields] OR \"signaler\"[All Fields] OR \"signaler s\"[All Fields] OR \"signalers\"[All Fields] OR \"signalings\"[All Fields] OR \"signalization\"[All Fields] OR \"signalled\"[All Fields] OR \"signaller\"[All Fields] OR \"signaller s\"[All Fields] OR \"signallers\"[All Fields] OR \"signalling\"[All Fields] OR \"signallings\"[All Fields] OR \"signals\"[All Fields]) OR ((\"t lymphocytes\"[MeSH Terms] OR \"t lymphocytes\"[All Fields] OR \"t cell\"[All Fields]) AND (\"activable\"[All Fields] OR \"activate\"[All Fields] OR \"activated\"[All Fields] OR \"activates\"[All Fields] OR \"activating\"[All Fields] OR \"activation\"[All Fields] OR \"activations\"[All Fields] OR \"activator\"[All Fields] OR \"activator s\"[All Fields] OR \"activators\"[All Fields] OR \"active\"[All Fields] OR \"actived\"[All Fields] OR \"actively\"[All Fields] OR \"actives\"[All Fields] OR \"activities\"[All Fields] OR \"activity s\"[All Fields] OR \"activitys\"[All Fields] OR \"exercise\"[MeSH Terms] OR \"exercise\"[All Fields] OR \"activity\"[All Fields])) OR ((\"transl cancer res\"[Journal] OR \"tcr\"[All Fields]) AND (\"signal transduction\"[MeSH Terms] OR (\"signal\"[All Fields] AND \"transduction\"[All Fields]) OR \"signal transduction\"[All Fields] OR \"signaling\"[All Fields] OR \"signal\"[All Fields] OR \"signal s\"[All Fields] OR \"signaled\"[All Fields] OR \"signaler\"[All Fields] OR \"signaler s\"[All Fields] OR \"signalers\"[All Fields] OR \"signalings\"[All Fields] OR \"signalization\"[All Fields] OR \"signalled\"[All Fields] OR \"signaller\"[All Fields] OR \"signaller s\"[All Fields] OR \"signallers\"[All Fields] OR \"signalling\"[All Fields] OR \"signallings\"[All Fields] OR \"signals\"[All Fields])) OR (\"knockdown\"[All Fields] OR \"knockdowned\"[All Fields] OR \"knockdowns\"[All Fields]) OR (\"knockout\"[All Fields] OR \"knockouts\"[All Fields]) OR (\"mechanism\"[All Fields] OR \"mechanisms\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37515120",
+      "title": "Applications of the Microscale Thermophoresis Binding Assay in COVID-19 Research.",
+      "first_author": "Nydegger DT",
+      "year": "2023",
+      "journal": "Viruses",
+      "doi": "10.3390/v15071432",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38951531",
+      "title": "Structure and function of the SIT1 proline transporter in complex with the COVID-19 receptor ACE2.",
+      "first_author": "Li HZ",
+      "year": "2024",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-024-48921-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38907990",
+      "title": "Biomimetic Analogues of the Desferrioxamine E Siderophore for PET Imaging of Invasive Aspergillosis: Targeting Properties and Species Specificity.",
+      "first_author": "Mular A",
+      "year": "2024",
+      "journal": "J Med Chem",
+      "doi": "10.1021/acs.jmedchem.4c00887",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27183719",
+      "title": "[MOLECULAR CHARACTERISTICS OF THE MULTIDRUG-RESISTANT MYCOBACTERIUM TUBERCULOSIS STRAINS IN THE NORTHWEST RUSSIA].",
+      "first_author": "Vyazovaya AA",
+      "year": "2016",
+      "journal": "Mol Gen Mikrobiol Virusol",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39159813",
+      "title": "Cryo-EM structure of ACE2-SIT1 in complex with tiagabine.",
+      "first_author": "Br\u00f6er A",
+      "year": "2024",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2024.107687",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32608016",
+      "title": "Is susceptibility to severe COVID-19 disease an inborn error of metabolism?",
+      "first_author": "Clayton PT",
+      "year": "2020",
+      "journal": "J Inherit Metab Dis",
+      "doi": "10.1002/jimd.12280",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "8723457",
+      "title": "Ciprofloxacin pharmacokinetics in burn patients.",
+      "first_author": "Garrelts JC",
+      "year": "1996",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.40.5.1153",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12793843",
+      "title": "Pharmacokinetics and pharmacodynamics of intravenous levofloxacin in patients with early-onset ventilator-associated pneumonia.",
+      "first_author": "Pea F",
+      "year": "2003",
+      "journal": "Clin Pharmacokinet",
+      "doi": "10.2165/00003088-200342060-00008",
+      "pubtype": [
+        "Clinical Trial",
+        "Clinical Trial, Phase I",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36008101",
+      "title": "Distinct blood protein profiles associated with the risk of short-term and mid/long-term clinical relapse in patients with Crohn's disease stopping infliximab: when the remission state hides different types of residual disease activity.",
+      "first_author": "Pierre N",
+      "year": "2023",
+      "journal": "Gut",
+      "doi": "10.1136/gutjnl-2022-327321",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31405853",
+      "title": "ASP2397 Is a Novel Natural Compound That Exhibits Rapid and Potent Fungicidal Activity against Aspergillus Species through a Specific Transporter.",
+      "first_author": "Nakamura I",
+      "year": "2019",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.02689-18",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40873928",
+      "title": "Role of the putative sit1 gene in normal germination of spores and virulence of the Mucor lusitanicus.",
+      "first_author": "V\u00e1g\u00f3 B",
+      "year": "2025",
+      "journal": "Microb Cell",
+      "doi": "10.15698/mic2025.08.856",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32580724",
+      "title": "The clinical relevance of early identification and treatment of sleep disorders in mental health care: protocol of a randomized control trial.",
+      "first_author": "Ter Heege FM",
+      "year": "2020",
+      "journal": "BMC Psychiatry",
+      "doi": "10.1186/s12888-020-02737-3",
+      "pubtype": [
+        "Clinical Trial Protocol",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36675674",
+      "title": "Discovery and Validation of a SIT1-Related Prognostic Signature Associated with Immune Infiltration in Cutaneous Melanoma.",
+      "first_author": "Jia M",
+      "year": "2022",
+      "journal": "J Pers Med",
+      "doi": "10.3390/jpm13010013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31405865",
+      "title": "The Siderophore Transporter Sit1 Determines Susceptibility to the Antifungal VL-2397.",
+      "first_author": "Dietl AM",
+      "year": "2019",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.00807-19",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25106487",
+      "title": "The diagnostic value of SE MRI and DWI of the spine in patients with monoclonal gammopathy of undetermined significance, smouldering myeloma and multiple myeloma.",
+      "first_author": "Dutoit JC",
+      "year": "2014",
+      "journal": "Eur Radiol",
+      "doi": "10.1007/s00330-014-3324-5",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Observational Study"
+      ]
+    },
+    {
+      "pmid": "28760824",
+      "title": "The glucose sensor Snf1 and the transcription factors Msn2 and Msn4 regulate transcription of the vacuolar iron importer gene CCC1 and iron resistance in yeast.",
+      "first_author": "Li L",
+      "year": "2017",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M117.802504",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31221736",
+      "title": "Mutual Regulation of Receptor-Like Kinase SIT1 and B'\u03ba-PP2A Shapes the Early Response of Rice to Salt Stress.",
+      "first_author": "Zhao JL",
+      "year": "2019",
+      "journal": "Plant Cell",
+      "doi": "10.1105/tpc.18.00706",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12760852",
+      "title": "Ciclopirox olamine treatment affects the expression pattern of Candida albicans genes encoding virulence factors, iron metabolism proteins, and drug resistance factors.",
+      "first_author": "Niewerth M",
+      "year": "2003",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.47.6.1805-1817.2003",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41609499",
+      "title": "The siderophore transporter Sit1 is involved in the uptake of caspofungin by Candida albicans.",
+      "first_author": "Pedras A",
+      "year": "2026",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/aac.01236-25",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "10227885",
+      "title": "Evaluation of treatment response in active Crohn's disease by low-field magnetic resonance imaging.",
+      "first_author": "Madsen SM",
+      "year": "1999",
+      "journal": "Abdom Imaging",
+      "doi": "10.1007/s002619900487",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34969185",
+      "title": "SIT1 transporter as a potential novel target in treatment of COVID-19.",
+      "first_author": "Semiz S",
+      "year": "2021",
+      "journal": "Biomol Concepts",
+      "doi": "10.1515/bmc-2021-0017",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25797613",
+      "title": "Tuberculosis - A global emergency: Tools and methods to monitor, understand, and control the epidemic with specific example of the Beijing lineage.",
+      "first_author": "Couvin D",
+      "year": "2015",
+      "journal": "Tuberculosis (Edinb)",
+      "doi": "10.1016/j.tube.2015.02.023",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17185532",
+      "title": "The iron- and cAMP-regulated gene SIT1 influences ferrioxamine B utilization, melanization and cell wall structure in Cryptococcus neoformans.",
+      "first_author": "Tangen KL",
+      "year": "2007",
+      "journal": "Microbiology (Reading)",
+      "doi": "10.1099/mic.0.2006/000927-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41142409",
+      "title": "Mechanisms involved in aminoacidurias: impacts of genetic and environmental factors.",
+      "first_author": "Ajayi JA",
+      "year": "2025",
+      "journal": "Curr Res Physiol",
+      "doi": "10.1016/j.crphys.2025.100168",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "23011956",
+      "title": "Cell volume regulation in mammalian oocytes and preimplantation embryos.",
+      "first_author": "Baltz JM",
+      "year": "2012",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.22117",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40332667",
+      "title": "Identifying Immune Response Protein Biomarkers in Parkinson's-Related Cognitive Impairment and Depression.",
+      "first_author": "Su Q",
+      "year": "2025",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-025-05022-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24907341",
+      "title": "The Receptor-Like Kinase SIT1 Mediates Salt Sensitivity by Activating MAPK3/6 and Regulating Ethylene Homeostasis in Rice.",
+      "first_author": "Li CH",
+      "year": "2014",
+      "journal": "Plant Cell",
+      "doi": "10.1105/tpc.114.125187",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30692939",
+      "title": "Photobiomodulation by Led Does Not Alter Muscle Recovery Indicators and Presents Similar Outcomes to Cold-Water Immersion and Active Recovery.",
+      "first_author": "Malta ES",
+      "year": "2018",
+      "journal": "Front Physiol",
+      "doi": "10.3389/fphys.2018.01948",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "10209036",
+      "title": "SHP2-interacting transmembrane adaptor protein (SIT), a novel disulfide-linked dimer regulating human T cell activation.",
+      "first_author": "Marie-Cardine A",
+      "year": "1999",
+      "journal": "J Exp Med",
+      "doi": "10.1084/jem.189.8.1181",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "9884238",
+      "title": "Siderophore-mediated iron uptake in Saccharomyces cerevisiae: the SIT1 gene encodes a ferrioxamine B permease that belongs to the major facilitator superfamily.",
+      "first_author": "Lesuisse E",
+      "year": "1998",
+      "journal": "Microbiology (Reading)",
+      "doi": "10.1099/00221287-144-12-3455",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37199664",
+      "title": "The Siderophore Ferricrocin Mediates Iron Acquisition in Aspergillus fumigatus.",
+      "first_author": "Happacher I",
+      "year": "2023",
+      "journal": "Microbiol Spectr",
+      "doi": "10.1128/spectrum.00496-23",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35972918",
+      "title": "Multiomic Signatures of Chronic Beryllium Disease Bronchoalveolar Lavage Cells Relate to T-Cell Function and Innate Immunity.",
+      "first_author": "Li L",
+      "year": "2022",
+      "journal": "Am J Respir Cell Mol Biol",
+      "doi": "10.1165/rcmb.2022-0077OC",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16174864",
+      "title": "Luminal kidney and intestine SLC6 amino acid transporters of B0AT-cluster and their tissue distribution in Mus musculus.",
+      "first_author": "Romeo E",
+      "year": "2006",
+      "journal": "Am J Physiol Renal Physiol",
+      "doi": "10.1152/ajprenal.00286.2005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42695863",
+      "title": "Identification of Immune Response-Related Proteomic Biomarkers in Moyamoya Disease Using Serum Olink Proteomics.",
+      "first_author": "Zhang Z",
+      "year": "2026",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/acs.jproteome.6c00310",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36135634",
+      "title": "GR-2397: Review of the Novel Siderophore-like Antifungal Agent for the Treatment of Invasive Aspergillosis.",
+      "first_author": "Shaw KJ",
+      "year": "2022",
+      "journal": "J Fungi (Basel)",
+      "doi": "10.3390/jof8090909",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21957439",
+      "title": "The transmembrane adaptor protein SIT inhibits TCR-mediated signaling.",
+      "first_author": "Arndt B",
+      "year": "2011",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0023761",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30161091",
+      "title": "Metabolic Profile and Performance Responses During Two Consecutive Sessions of Sprint Interval Training.",
+      "first_author": "Malta ES",
+      "year": "2020",
+      "journal": "J Strength Cond Res",
+      "doi": "10.1519/JSC.0000000000002789",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37961417",
+      "title": "Molecular Forecasting of Domoic Acid during a Pervasive Toxic Diatom Bloom.",
+      "first_author": "Brunson JK",
+      "year": "2023",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2023.11.02.565333",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37628672",
+      "title": "OsPMS1 Mutation Enhances Salt Tolerance by Suppressing ROS Accumulation, Maintaining Na(+)/K(+) Homeostasis, and Promoting ABA Biosynthesis.",
+      "first_author": "Li WQ",
+      "year": "2023",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes14081621",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24912522",
+      "title": "Drug resistance and molecular epidemiology of Mycobacterium tuberculosis in Mexico: a systematic review.",
+      "first_author": "Flores-Trevi\u00f1o S",
+      "year": "2014",
+      "journal": "Salud Publica Mex",
+      "doi": "10.21149/spm.v56i1.7324",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "36951900",
+      "title": "Advantages of analysing both pairwise SNV-distance and differing SNVs between Mycobacterium tuberculosis isolates for recurrent tuberculosis cause determination.",
+      "first_author": "Sadovska D",
+      "year": "2023",
+      "journal": "Microb Genom",
+      "doi": "10.1099/mgen.0.000956",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41033605",
+      "title": "Identification of Distinct Subtypes in Immune Tolerance after Hematopoietic Cell Transplantation Using the Prospective ABLE1.0 Pediatric Study Cohort.",
+      "first_author": "Ng B",
+      "year": "2026",
+      "journal": "Transplant Cell Ther",
+      "doi": "10.1016/j.jtct.2025.09.034",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27677155",
+      "title": "Changes in expression of genes involved in antitumor immunity in mice vaccinated with tumor vaccine composed of irradiated syngeneic tumor cells and CpG oligodeoxynucleotides.",
+      "first_author": "Cerkovnik P",
+      "year": "2016",
+      "journal": "Mol Immunol",
+      "doi": "10.1016/j.molimm.2016.09.016",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37684251",
+      "title": "Structural insight into the substrate recognition and transport mechanism of amino acid transporter complex ACE2-B(0)AT1 and ACE2-SIT1.",
+      "first_author": "Li Y",
+      "year": "2023",
+      "journal": "Cell Discov",
+      "doi": "10.1038/s41421-023-00596-2",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "35435077",
+      "title": "Spoligotyping of Mycobacterium tuberculosis isolates from Pulmonary Tuberculosis patients from North Karnataka, India.",
+      "first_author": "Bellad R",
+      "year": "2022",
+      "journal": "Trop Doct",
+      "doi": "10.1177/00494755221080584",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36982620",
+      "title": "The ENA1 Na(+)-ATPase Gene Is Regulated by the SPS Sensing Pathway and the Stp1/Stp2 Transcription Factors.",
+      "first_author": "Zekhnini A",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms24065548",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36836349",
+      "title": "Molecular Regulatory Mechanism of the Iron-Ion-Promoted Asexual Sporulation of Antrodia cinnamomea in Submerged Fermentation Revealed by Comparative Transcriptomics.",
+      "first_author": "Li H",
+      "year": "2023",
+      "journal": "J Fungi (Basel)",
+      "doi": "10.3390/jof9020235",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

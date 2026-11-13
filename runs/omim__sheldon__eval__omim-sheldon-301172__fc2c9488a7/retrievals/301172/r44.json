@@ -1,0 +1,12 @@
+{
+  "id": "r44",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"SLEB19\"[tiab] OR \"systemic lupus erythematosus 19\"[tiab] OR \"X-linked childhood-onset systemic lupus erythematosus\"[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '(\"SLEB19\"[tiab] OR \"systemic lupus erythematosus 19\"[tiab] OR \"X-linked childhood-onset systemic lupus erythematosus\"[tiab])'; showing 0 (PubMed read it as: (\"SLEB19\"[tiab] OR \"systemic lupus erythematosus 19\"[tiab] OR \"X-linked childhood-onset systemic lupus erythematosus\"[tiab]))",
+  "ok": true,
+  "evidence": []
+}

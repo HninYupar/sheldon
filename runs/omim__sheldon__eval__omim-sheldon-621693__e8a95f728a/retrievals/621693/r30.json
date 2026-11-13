@@ -1,0 +1,59 @@
+{
+  "id": "r30",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"PSMF1\"[All Fields]) AND (\"Mov Disord\"[jour] OR \"Nat Commun\"[jour] OR preprint[pt] OR letter[pt])",
+    "max_results": 20,
+    "sort": "pub_date"
+  },
+  "summary": "4 PubMed hits for '(\"PSMF1\"[All Fields]) AND (\"Mov Disord\"[jour] OR \"Nat Commun\"[jour] OR preprint[pt] OR letter[pt])'; showing 4 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"Mov Disord\"[Journal] OR \"Nat Commun\"[Journal] OR \"preprint\"[Publication Type] OR \"letter\"[Publication Type]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    }
+  ]
+}

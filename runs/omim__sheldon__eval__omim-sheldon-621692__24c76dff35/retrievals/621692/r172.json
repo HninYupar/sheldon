@@ -1,0 +1,233 @@
+{
+  "id": "r172",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (\"functional\"[tiab] OR electrophysiology[tiab] OR patch clamp[tiab] OR excitability[tiab]) AND (Thr501Met[tiab] OR T501M[tiab] OR c.1502C>T[tiab] OR p.Thr501Met[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "18 PubMed hits for 'CACNA1A[gene] AND (\"functional\"[tiab] OR electrophysiology[tiab] OR patch clamp[tiab] OR excitability[tiab]) AND (Thr501Met[tiab] OR T501M[tiab] OR c.1502C>T[tiab] OR p.Thr501Met[tiab])'; showing 18 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"functional\"[Title/Abstract] OR \"electrophysiology\"[Title/Abstract] OR \"patch clamp\"[Title/Abstract] OR \"excitability\"[Title/Abstract]) AND (\"Thr501Met\"[Title/Abstract] OR (\"T\"[Title/Abstract]) OR \"p.Thr501Met\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "first_author": "El Ghaleb Y",
+      "year": "2021",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40789467",
+      "title": "Noribogaine altered intrinsic properties of thalamocortical neurons in a sex-dependent manner.",
+      "first_author": "Villalba S",
+      "year": "2025",
+      "journal": "Prog Neuropsychopharmacol Biol Psychiatry",
+      "doi": "10.1016/j.pnpbp.2025.111467",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41359828",
+      "title": "Impact of PPP1R1A Knockdown on the Proteomic Landscape of INS-1 Cells: A Focus on Significant Modulated Pathways.",
+      "first_author": "Taneera J",
+      "year": "2026",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/acs.jproteome.5c00889",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37243399",
+      "title": "Functional characterization of a novel PRRT2 variant found in a Portuguese patient with hemiplegic migraine.",
+      "first_author": "Dias A",
+      "year": "2023",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14379",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35928792",
+      "title": "Investigation of CACNA1I Cav3.3 Dysfunction in Hemiplegic Migraine.",
+      "first_author": "Maksemous N",
+      "year": "2022",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2022.892820",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24498617",
+      "title": "Screening of CACNA1A and ATP1A2 genes in hemiplegic migraine: clinical, genetic, and functional studies.",
+      "first_author": "Carre\u00f1o O",
+      "year": "2013",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.24",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22787604",
+      "title": "The Voltage-Gated Calcium Channel and Absence Epilepsy.",
+      "first_author": "Noebels JL",
+      "year": "2012",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25871318",
+      "title": "Methamphetamine blunts Ca(2+) currents and excitatory synaptic transmission through D1/5 receptor-mediated mechanisms in the mouse medial prefrontal cortex.",
+      "first_author": "Gonz\u00e1lez B",
+      "year": "2016",
+      "journal": "Addict Biol",
+      "doi": "10.1111/adb.12249",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41918402",
+      "title": "Single-cell transcriptome deciphers key targets of thrombopoietin receptor agonists and immune microenvironment characteristics of immune thrombocytopenia.",
+      "first_author": "Wang W",
+      "year": "2026",
+      "journal": "Platelets",
+      "doi": "10.1080/09537104.2026.2651849",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26758833",
+      "title": "Isolated P/Q Calcium Channel Deletion in Layer VI Corticothalamic Neurons Generates Absence Epilepsy.",
+      "first_author": "Bomben VC",
+      "year": "2016",
+      "journal": "J Neurosci",
+      "doi": "10.1523/JNEUROSCI.2555-15.2016",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20091047",
+      "title": "Role of voltage-gated calcium channels in epilepsy.",
+      "first_author": "Zamponi GW",
+      "year": "2010",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-009-0772-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25481823",
+      "title": "Familial hemiplegic migraine type-1 mutated cav2.1 calcium channels alter inhibitory and excitatory synaptic transmission in the lateral superior olive of mice.",
+      "first_author": "Inchauspe CG",
+      "year": "2015",
+      "journal": "Hear Res",
+      "doi": "10.1016/j.heares.2014.11.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41645189",
+      "title": "Conductive MXene/adECM hydrogel promotes skeletal muscle regeneration and innervation through Ca(2+) influx modulation and neuromuscular junction formation.",
+      "first_author": "Jin M",
+      "year": "2026",
+      "journal": "J Nanobiotechnology",
+      "doi": "10.1186/s12951-026-04077-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "16325861",
+      "title": "Early onset, non fluctuating spinocerebellar ataxia and a novel missense mutation in CACNA1A gene.",
+      "first_author": "Tonelli A",
+      "year": "2006",
+      "journal": "J Neurol Sci",
+      "doi": "10.1016/j.jns.2005.10.007",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39826673",
+      "title": "Susceptibility to pseudoexfoliation linked to intronic variant rs4926246 in CACNA1A: Evidence from an Indian population study.",
+      "first_author": "Hayat B",
+      "year": "2025",
+      "journal": "Biochim Biophys Acta Gene Regul Mech",
+      "doi": "10.1016/j.bbagrm.2025.195076",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31800012",
+      "title": "Adult loss of Cacna1a in mice recapitulates childhood absence epilepsy by distinct thalamic bursting mechanisms.",
+      "first_author": "Miao QL",
+      "year": "2020",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awz365",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Video-Audio Media"
+      ]
+    },
+    {
+      "pmid": "22005682",
+      "title": "Trigeminal ganglion neuron subtype-specific alterations of Ca(V)2.1 calcium current and excitability in a Cacna1a mouse model of migraine.",
+      "first_author": "Fioretti B",
+      "year": "2011",
+      "journal": "J Physiol",
+      "doi": "10.1113/jphysiol.2011.220533",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11179022",
+      "title": "Complete loss of P/Q calcium channel activity caused by a CACNA1A missense mutation carried by patients with episodic ataxia type 2.",
+      "first_author": "Guida S",
+      "year": "2001",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1086/318804",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

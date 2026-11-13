@@ -1,0 +1,255 @@
+{
+  "id": "r144",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (\"p.\"[tiab] OR \"c.\"[tiab] OR \"variant\"[tiab] OR \"mutation\"[tiab]) AND (\"functional study\"[tiab] OR \"patch clamp\"[tiab] OR electrophysiology[tiab] OR currents[tiab] OR channel function[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "110 PubMed hits for 'CACNA1A[gene] AND (\"p.\"[tiab] OR \"c.\"[tiab] OR \"variant\"[tiab] OR \"mutation\"[tiab]) AND (\"functional study\"[tiab] OR \"patch clamp\"[tiab] OR electrophysiology[tiab] OR currents[tiab] OR channel function[tiab])'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"p\"[Title/Abstract] OR \"c\"[Title/Abstract] OR \"variant\"[Title/Abstract] OR \"mutation\"[Title/Abstract]) AND (\"functional study\"[Title/Abstract] OR \"patch clamp\"[Title/Abstract] OR \"electrophysiology\"[Title/Abstract] OR \"currents\"[Title/Abstract] OR \"channel function\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "30838925",
+      "title": "Double agent mTOR.",
+      "first_author": "Danzer SC",
+      "year": "2019",
+      "journal": "Epilepsy Curr",
+      "doi": "10.1177/1535759718822033",
+      "pubtype": [
+        "Journal Article",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "first_author": "El Ghaleb Y",
+      "year": "2021",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "first_author": "Hommersom MP",
+      "year": "2025",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36938367",
+      "title": "A neurodevelopmental disorder caused by a dysfunctional CACNA1A allele.",
+      "first_author": "Kramer AA",
+      "year": "2023",
+      "journal": "eNeurologicalSci",
+      "doi": "10.1016/j.ensci.2023.100456",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41370402",
+      "title": "Characterization of the functional and clinical impacts of CACNA1A missense variants found in neurodevelopmental disorders.",
+      "first_author": "Kurganov E",
+      "year": "2025",
+      "journal": "Sci Transl Med",
+      "doi": "10.1126/scitranslmed.adr0024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38175838",
+      "title": "Pearls & Oy-sters: CACNA1A-Related Paroxysmal Tonic Upgaze With Ataxia Responsive to Acetazolamide.",
+      "first_author": "Lazar SM",
+      "year": "2024",
+      "journal": "Neurology",
+      "doi": "10.1212/WNL.0000000000207992",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31800012",
+      "title": "Adult loss of Cacna1a in mice recapitulates childhood absence epilepsy by distinct thalamic bursting mechanisms.",
+      "first_author": "Miao QL",
+      "year": "2020",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awz365",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Video-Audio Media"
+      ]
+    },
+    {
+      "pmid": "35154276",
+      "title": "Whole-Exome Sequencing Implicates Neuronal Calcium Channel with Familial Atrial Fibrillation.",
+      "first_author": "Vad OB",
+      "year": "2022",
+      "journal": "Front Genet",
+      "doi": "10.3389/fgene.2022.806429",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32116539",
+      "title": "Zebrafish as a Model System for the Study of Severe Ca(V)2.1 (\u03b1(1A)) Channelopathies.",
+      "first_author": "Tyagi S",
+      "year": "2019",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2019.00329",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40789467",
+      "title": "Noribogaine altered intrinsic properties of thalamocortical neurons in a sex-dependent manner.",
+      "first_author": "Villalba S",
+      "year": "2025",
+      "journal": "Prog Neuropsychopharmacol Biol Psychiatry",
+      "doi": "10.1016/j.pnpbp.2025.111467",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17395139",
+      "title": "Molecular pathogenesis of spinocerebellar ataxia type 6.",
+      "first_author": "Kordasiewicz HB",
+      "year": "2007",
+      "journal": "Neurotherapeutics",
+      "doi": "10.1016/j.nurt.2007.01.003",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "27260834",
+      "title": "A CaV2.1 N-terminal fragment relieves the dominant-negative inhibition by an Episodic ataxia 2 mutant.",
+      "first_author": "Dahimene S",
+      "year": "2016",
+      "journal": "Neurobiol Dis",
+      "doi": "10.1016/j.nbd.2016.05.020",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35928792",
+      "title": "Investigation of CACNA1I Cav3.3 Dysfunction in Hemiplegic Migraine.",
+      "first_author": "Maksemous N",
+      "year": "2022",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2022.892820",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "9153580",
+      "title": "Properties of cloned rat alpha1A calcium channels transiently expressed in the COS-7 cell line.",
+      "first_author": "Berrow NS",
+      "year": "1997",
+      "journal": "Eur J Neurosci",
+      "doi": "10.1111/j.1460-9568.1997.tb01422.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11018106",
+      "title": "G protein modulation of recombinant P/Q-type calcium channels by regulators of G protein signalling proteins.",
+      "first_author": "Mark MD",
+      "year": "2000",
+      "journal": "J Physiol",
+      "doi": "10.1111/j.1469-7793.2000.00065.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16595610",
+      "title": "C-termini of P/Q-type Ca2+ channel alpha1A subunits translocate to nuclei and promote polyglutamine-mediated toxicity.",
+      "first_author": "Kordasiewicz HB",
+      "year": "2006",
+      "journal": "Hum Mol Genet",
+      "doi": "10.1093/hmg/ddl080",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40869402",
+      "title": "CACNA1A Genetic Variants and Their Potential Involvement in Migraine Pathogenesis.",
+      "first_author": "Szymanowicz O",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms26168083",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40470204",
+      "title": "Calcium channel-coupled transcription factors facilitate direct nuclear signaling.",
+      "first_author": "Rao ER",
+      "year": "2025",
+      "journal": "Res Sq",
+      "doi": "10.21203/rs.3.rs-6180510/v1",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "16381801",
+      "title": "Compensatory contribution of Cav2.3 channels to acetylcholine release at the neuromuscular junction of tottering mice.",
+      "first_author": "Kaja S",
+      "year": "2006",
+      "journal": "J Neurophysiol",
+      "doi": "10.1152/jn.01221.2005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15985579",
+      "title": "CACNA1A mutations causing episodic and progressive ataxia alter channel trafficking and kinetics.",
+      "first_author": "Wan J",
+      "year": "2005",
+      "journal": "Neurology",
+      "doi": "10.1212/01.WNL.0000167409.59089.C0",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    }
+  ]
+}

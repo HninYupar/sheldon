@@ -1,0 +1,247 @@
+{
+  "id": "r30",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND epilepsy AND cohort[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "24 PubMed hits for 'CACNA1A[gene] AND epilepsy AND cohort[tiab]'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields]) AND \"cohort\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "23934111",
+      "title": "De novo mutations in epileptic encephalopathies.",
+      "first_author": "Epi4K Consortium",
+      "year": "2013",
+      "journal": "Nature",
+      "doi": "10.1038/nature12439",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, American Recovery and Reinvestment Act",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39096015",
+      "title": "Solving the Etiology of Developmental and Epileptic Encephalopathy with Spike-Wave Activation in Sleep (D/EE-SWAS).",
+      "first_author": "Viswanathan S",
+      "year": "2024",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.27041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30185235",
+      "title": "Novel and de novo mutations in pediatric refractory epilepsy.",
+      "first_author": "Liu J",
+      "year": "2018",
+      "journal": "Mol Brain",
+      "doi": "10.1186/s13041-018-0392-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41370402",
+      "title": "Characterization of the functional and clinical impacts of CACNA1A missense variants found in neurodevelopmental disorders.",
+      "first_author": "Kurganov E",
+      "year": "2025",
+      "journal": "Sci Transl Med",
+      "doi": "10.1126/scitranslmed.adr0024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37820178",
+      "title": "Importance of targeted next-generation sequencing in pediatric patients with developmental epileptic encephalopathy.",
+      "first_author": "Bari\u015f S",
+      "year": "2023",
+      "journal": "Rev Assoc Med Bras (1992)",
+      "doi": "10.1590/1806-9282.20230547",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38946946",
+      "title": "A Longitudinal Exploration of CACNA1A -related Hemiplegic Migraine in Children.",
+      "first_author": "Schaare D",
+      "year": "2024",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.14.24308953",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "29997391",
+      "title": "Exome sequencing in congenital ataxia identifies two new candidate genes and highlights a pathophysiological link between some congenital ataxias and early infantile epileptic encephalopathies.",
+      "first_author": "Valence S",
+      "year": "2019",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-018-0089-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39763636",
+      "title": "A Longitudinal Exploration of CACNA1A-Related Hemiplegic Migraine in Children Using Electronic Medical Records.",
+      "first_author": "Schaare D",
+      "year": "2025",
+      "journal": "Neurol Genet",
+      "doi": "10.1212/NXG.0000000000200228",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39412438",
+      "title": "The clinical and genetic spectrum of paediatric speech and language disorders.",
+      "first_author": "Magielski JH",
+      "year": "2025",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awae264",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33544220",
+      "title": "The electrophysiological footprint of CACNA1A disorders.",
+      "first_author": "Indelicato E",
+      "year": "2021",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-021-10415-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41518736",
+      "title": "Targeted gene panel testing in pediatric epilepsy: Diagnostic outcomes and expanding genetic insights.",
+      "first_author": "Sanri A",
+      "year": "2026",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2025.104498",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35600082",
+      "title": "CACNA1A Mutations Associated With Epilepsies and Their Molecular Sub-Regional Implications.",
+      "first_author": "Li XL",
+      "year": "2022",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2022.860662",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34649875",
+      "title": "Hemiplegic Migraine Associated With PRRT2 Variations: A Clinical and Genetic Study.",
+      "first_author": "Riant F",
+      "year": "2022",
+      "journal": "Neurology",
+      "doi": "10.1212/WNL.0000000000012947",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38712155",
+      "title": "The clinical and genetic spectrum of paediatric speech and language disorders in 52,143 individuals.",
+      "first_author": "Magielski J",
+      "year": "2024",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.04.23.24306192",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29056246",
+      "title": "Diagnostic Yield From 339 Epilepsy Patients Screened on a Clinical Gene Panel.",
+      "first_author": "Butler KM",
+      "year": "2017",
+      "journal": "Pediatr Neurol",
+      "doi": "10.1016/j.pediatrneurol.2017.09.003",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38328757",
+      "title": "Validation of targeted next-generation sequencing panels in a cohort of Polish patients with epilepsy: assessing variable performance across clinical endophenotypes and uncovering novel genetic variants.",
+      "first_author": "Badura-Stronka M",
+      "year": "2023",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2023.1316933",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38125836",
+      "title": "Prospective evaluation of NGS-based sequencing in epilepsy patients: results of seven NASGE-associated diagnostic laboratories.",
+      "first_author": "Witzel MGW",
+      "year": "2023",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2023.1276238",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41726570",
+      "title": "Genetic Risk Factors for Epilepsy: From Familial Studies to Gene Discoveries and Polygenic Risk Scores, Strides Toward Unlocking an Age-Old Question in Epilepsy.",
+      "first_author": "Yano ST",
+      "year": "2026",
+      "journal": "Epilepsy Curr",
+      "doi": "10.1177/15357597251410840",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36035117",
+      "title": "The Usefulness of a Targeted Next Generation Sequencing Gene Panel in Providing Molecular Diagnosis to Patients With a Broad Spectrum of Neurodevelopmental Disorders.",
+      "first_author": "Mellone S",
+      "year": "2022",
+      "journal": "Front Genet",
+      "doi": "10.3389/fgene.2022.875182",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33425808",
+      "title": "CACNA1A Gene Variants in Eight Chinese Patients With a Wide Range of Phenotypes.",
+      "first_author": "Zhang L",
+      "year": "2020",
+      "journal": "Front Pediatr",
+      "doi": "10.3389/fped.2020.577544",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

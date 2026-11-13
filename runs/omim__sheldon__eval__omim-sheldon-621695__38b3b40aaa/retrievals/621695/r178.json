@@ -1,0 +1,12 @@
+{
+  "id": "r178",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (arthrogryposis OR contracture OR neuropathy OR congenital myopathy)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (arthrogryposis OR contracture OR neuropathy OR congenital myopathy)'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields] OR (\"contractural\"[All Fields] OR \"contracture\"[MeSH Terms] OR \"contracture\"[All Fields] OR \"contractures\"[All Fields] OR \"contractured\"[All Fields]) OR (\"neuropathies\"[All Fields] OR \"neuropathy\"[All Fields]) OR ((\"congenital\"[MeSH Subheading] OR \"congenital\"[All Fields] OR \"congenitally\"[All Fields]) AND (\"muscular diseases\"[MeSH Terms] OR (\"muscular\"[All Fields] AND \"diseases\"[All Fields]) OR \"muscular diseases\"[All Fields] OR \"myopathies\"[All Fields] OR \"myopathy\"[All Fields]))))",
+  "ok": true,
+  "evidence": []
+}

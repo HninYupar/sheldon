@@ -1,0 +1,290 @@
+{
+  "id": "r5",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (\"epileptic encephalopathy\"[tiab] OR \"developmental and epileptic encephalopathy\"[tiab] OR encephalopathy[tiab]) AND (case report[pt] OR cohort[tiab] OR family[tiab])",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "23 PubMed hits for 'CACNA1A[gene] AND (\"epileptic encephalopathy\"[tiab] OR \"developmental and epileptic encephalopathy\"[tiab] OR encephalopathy[tiab]) AND (case report[pt] OR cohort[tiab] OR family[tiab])'; showing 23 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"epileptic encephalopathy\"[Title/Abstract] OR \"developmental and epileptic encephalopathy\"[Title/Abstract] OR \"encephalopathy\"[Title/Abstract]) AND (\"cohort\"[Title/Abstract] OR \"family\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "30020674",
+      "title": "Hemiplegic Migraine.",
+      "first_author": "Kumar A",
+      "year": "2023",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Study Guide"
+      ]
+    },
+    {
+      "pmid": "23934111",
+      "title": "De novo mutations in epileptic encephalopathies.",
+      "first_author": "Epi4K Consortium",
+      "year": "2013",
+      "journal": "Nature",
+      "doi": "10.1038/nature12439",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, American Recovery and Reinvestment Act",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39096015",
+      "title": "Solving the Etiology of Developmental and Epileptic Encephalopathy with Spike-Wave Activation in Sleep (D/EE-SWAS).",
+      "first_author": "Viswanathan S",
+      "year": "2024",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.27041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40111503",
+      "title": "Phenotypic variability in cases with CACNA1A mutation.",
+      "first_author": "Bozkaya-Yilmaz S",
+      "year": "2025",
+      "journal": "Eur J Pediatr",
+      "doi": "10.1007/s00431-025-06062-3",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "35041321",
+      "title": "[Diversity of CACNA1A-related disorders].",
+      "first_author": "Rudenskaya GE",
+      "year": "2021",
+      "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+      "doi": "10.17116/jnevro2021121121106",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41146775",
+      "title": "From Stroke Suspicion to Genetic Confirmation: Familial Hemiplegic Migraine Type 2 as a Rare Stroke Mimic With Persistent Hemiplegia.",
+      "first_author": "Haggag M",
+      "year": "2025",
+      "journal": "Cureus",
+      "doi": "10.7759/cureus.93313",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41370402",
+      "title": "Characterization of the functional and clinical impacts of CACNA1A missense variants found in neurodevelopmental disorders.",
+      "first_author": "Kurganov E",
+      "year": "2025",
+      "journal": "Sci Transl Med",
+      "doi": "10.1126/scitranslmed.adr0024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37820178",
+      "title": "Importance of targeted next-generation sequencing in pediatric patients with developmental epileptic encephalopathy.",
+      "first_author": "Bari\u015f S",
+      "year": "2023",
+      "journal": "Rev Assoc Med Bras (1992)",
+      "doi": "10.1590/1806-9282.20230547",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36833327",
+      "title": "Concomitant Calcium Channelopathies Involving CACNA1A and CACNA1F: A Case Report and Review of the Literature.",
+      "first_author": "Schaare D",
+      "year": "2023",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes14020400",
+      "pubtype": [
+        "Systematic Review",
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41518736",
+      "title": "Targeted gene panel testing in pediatric epilepsy: Diagnostic outcomes and expanding genetic insights.",
+      "first_author": "Sanri A",
+      "year": "2026",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2025.104498",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31824404",
+      "title": "Familial Hemiplegic Migraine With Progressive Cerebellar Ataxia Caused by a p.Thr666Met CACNA1A Gene Mutation in a Chinese Family.",
+      "first_author": "Li M",
+      "year": "2019",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2019.01221",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42377810",
+      "title": "Clinical and Radiological Variability in Episodic Ataxia Type 2: A Case Report and Review of the Literature.",
+      "first_author": "Ortiz JF",
+      "year": "2026",
+      "journal": "Cerebellum",
+      "doi": "10.1007/s12311-026-02044-9",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "18462636",
+      "title": "[Alternating hemiplegia of childhood in Spanish population. Study of a series of 17 patients].",
+      "first_author": "Fons C",
+      "year": "2008",
+      "journal": "Med Clin (Barc)",
+      "doi": "10.1157/13119979",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "33425808",
+      "title": "CACNA1A Gene Variants in Eight Chinese Patients With a Wide Range of Phenotypes.",
+      "first_author": "Zhang L",
+      "year": "2020",
+      "journal": "Front Pediatr",
+      "doi": "10.3389/fped.2020.577544",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35600082",
+      "title": "CACNA1A Mutations Associated With Epilepsies and Their Molecular Sub-Regional Implications.",
+      "first_author": "Li XL",
+      "year": "2022",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2022.860662",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30142438",
+      "title": "Major intra-familial phenotypic heterogeneity and incomplete penetrance due to a CACNA1A pathogenic variant.",
+      "first_author": "Angelini C",
+      "year": "2019",
+      "journal": "Eur J Med Genet",
+      "doi": "10.1016/j.ejmg.2018.08.011",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38689878",
+      "title": "AARS and CACNA1A mutations: diagnostic insights into a case report of uncommon epileptic encephalopathy phenotypes in two siblings.",
+      "first_author": "Romero VI",
+      "year": "2024",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2024.1376643",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22136990",
+      "title": "Sporadic hemiplegic migraine presenting as acute encephalopathy.",
+      "first_author": "Ohmura K",
+      "year": "2012",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2011.11.002",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "16178956",
+      "title": "Familial hemiplegic migraine presenting as recurrent encephalopathy in a Native Indian family.",
+      "first_author": "Spacey SD",
+      "year": "2005",
+      "journal": "Headache",
+      "doi": "10.1111/j.1526-4610.2005.00249.x",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29056246",
+      "title": "Diagnostic Yield From 339 Epilepsy Patients Screened on a Clinical Gene Panel.",
+      "first_author": "Butler KM",
+      "year": "2017",
+      "journal": "Pediatr Neurol",
+      "doi": "10.1016/j.pediatrneurol.2017.09.003",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33790770",
+      "title": "R1352Q CACNA1A Variant in a Patient with Sporadic Hemiplegic Migraine, Ataxia, Seizures and Cerebral Oedema: A Case Report.",
+      "first_author": "Stubberud A",
+      "year": "2021",
+      "journal": "Case Rep Neurol",
+      "doi": "10.1159/000512275",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32418750",
+      "title": "GABRG2 Deletion Linked to Genetic Epilepsy with Febrile Seizures Plus Affects the Expression of GABA(A) Receptor Subunits and Other Genes at Different Temperatures.",
+      "first_author": "Li X",
+      "year": "2020",
+      "journal": "Neuroscience",
+      "doi": "10.1016/j.neuroscience.2020.04.049",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41726570",
+      "title": "Genetic Risk Factors for Epilepsy: From Familial Studies to Gene Discoveries and Polygenic Risk Scores, Strides Toward Unlocking an Age-Old Question in Epilepsy.",
+      "first_author": "Yano ST",
+      "year": "2026",
+      "journal": "Epilepsy Curr",
+      "doi": "10.1177/15357597251410840",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

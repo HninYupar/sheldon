@@ -1,0 +1,248 @@
+{
+  "id": "r51",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[tiab] AND autophagy AND patient[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "22 PubMed hits for 'ATG12[tiab] AND autophagy AND patient[tiab]'; showing 20 (PubMed read it as: \"ATG12\"[Title/Abstract] AND (\"autophagies\"[All Fields] OR \"autophagy\"[MeSH Terms] OR \"autophagy\"[All Fields] OR \"autophagy s\"[All Fields]) AND \"patient\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "32401642",
+      "title": "Autophagy in the physiological endometrium and cancer.",
+      "first_author": "Devis-Jauregui L",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1752548",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33068778",
+      "title": "lncRNA SNHG11 Promotes Gastric Cancer Progression by Activating the Wnt/\u03b2-Catenin Pathway and Oncogenic Autophagy.",
+      "first_author": "Wu Q",
+      "year": "2021",
+      "journal": "Mol Ther",
+      "doi": "10.1016/j.ymthe.2020.10.011",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29259263",
+      "title": "Clinical Implications of the Autophagy Core Gene Variations in Advanced Lung Adenocarcinoma Treated with Gefitinib.",
+      "first_author": "Yuan J",
+      "year": "2017",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-017-18165-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40350399",
+      "title": "[Mechanism of BNIP3-mediated mitophagy in m.3635G>A related Leber hereditary optic neuropathy].",
+      "first_author": "Liu Z",
+      "year": "2025",
+      "journal": "Zhonghua Yi Xue Yi Chuan Xue Za Zhi",
+      "doi": "10.3760/cma.j.cn511374-20221101-00574",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42243075",
+      "title": "GATA6-CRT axis promotes stress-associated autophagy, EMT, and stemness-associated traits in pancreatic cancer.",
+      "first_author": "Wang MQ",
+      "year": "2026",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-026-08914-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30809091",
+      "title": "Emodin induces apoptosis and autophagy of fibroblasts obtained from patient with ankylosing spondylitis.",
+      "first_author": "Ma C",
+      "year": "2019",
+      "journal": "Drug Des Devel Ther",
+      "doi": "10.2147/DDDT.S182087",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29162158",
+      "title": "Long noncoding RNA MALAT1 regulates autophagy associated chemoresistance via miR-23b-3p sequestration in gastric cancer.",
+      "first_author": "YiRen H",
+      "year": "2017",
+      "journal": "Mol Cancer",
+      "doi": "10.1186/s12943-017-0743-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37294358",
+      "title": "Autophagy in an extruded disc compared to the remaining disc after lumbar disc herniation in the same patient.",
+      "first_author": "Seo JY",
+      "year": "2024",
+      "journal": "Eur Spine J",
+      "doi": "10.1007/s00586-023-07731-3",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28229934",
+      "title": "Novel and functional ATG12 gene variants in sporadic Parkinson's disease.",
+      "first_author": "Li Y",
+      "year": "2017",
+      "journal": "Neurosci Lett",
+      "doi": "10.1016/j.neulet.2017.02.028",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35582016",
+      "title": "Nuclear Receptor 4A2 (NR4A2/NURR1) Regulates Autophagy and Chemoresistance in Pancreatic Ductal Adenocarcinoma.",
+      "first_author": "Zarei M",
+      "year": "2021",
+      "journal": "Cancer Res Commun",
+      "doi": "10.1158/2767-9764.crc-21-0073",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "39337618",
+      "title": "Rice Husk Silica Liquid Enhances Autophagy and Reduces Overactive Immune Responses via TLR-7 Signaling in Lupus-Prone Models.",
+      "first_author": "Kao C",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms251810133",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37268273",
+      "title": "SNRPD1 inhibition suppresses the proliferation of hepatocellular carcinoma and promotes autophagy through the PI3K/AKT/mTOR/4EBP1 pathway.",
+      "first_author": "Wang H",
+      "year": "2023",
+      "journal": "Arch Biochem Biophys",
+      "doi": "10.1016/j.abb.2023.109661",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34586588",
+      "title": "Multifunctional thiosemicarbazones targeting sigma receptors: in vitro and in vivo antitumor activities in pancreatic cancer models.",
+      "first_author": "Niso M",
+      "year": "2021",
+      "journal": "Cell Oncol (Dordr)",
+      "doi": "10.1007/s13402-021-00638-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42204123",
+      "title": "Autophagy-centered gene networks reveal prognostic biomarkers and therapeutic targets in esophageal cancer.",
+      "first_author": "Salehi S",
+      "year": "2026",
+      "journal": "Discov Oncol",
+      "doi": "10.1007/s12672-026-04783-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25898131",
+      "title": "Novel adjuvants from seaweed impede autophagy signaling in therapy-resistant residual pancreatic cancer.",
+      "first_author": "Aravindan S",
+      "year": "2015",
+      "journal": "J Biomed Sci",
+      "doi": "10.1186/s12929-015-0132-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23965851",
+      "title": "The anti-malarial chloroquine overcomes primary resistance and restores sensitivity to trastuzumab in HER2-positive breast cancer.",
+      "first_author": "Cuf\u00ed S",
+      "year": "2013",
+      "journal": "Sci Rep",
+      "doi": "10.1038/srep02469",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30867818",
+      "title": "Interaction between p53 and Ras signaling controls cisplatin resistance via HDAC4- and HIF-1\u03b1-mediated regulation of apoptosis and autophagy.",
+      "first_author": "Zhang X",
+      "year": "2019",
+      "journal": "Theranostics",
+      "doi": "10.7150/thno.29673",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17213804",
+      "title": "NF-kappaB inhibition sensitizes to starvation-induced cell death in high-risk myelodysplastic syndrome and acute myeloid leukemia.",
+      "first_author": "Fabre C",
+      "year": "2007",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1210187",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29080810",
+      "title": "G\u03b1(12) overexpression induced by miR-16 dysregulation contributes to liver fibrosis by promoting autophagy in hepatic stellate cells.",
+      "first_author": "Kim KM",
+      "year": "2018",
+      "journal": "J Hepatol",
+      "doi": "10.1016/j.jhep.2017.10.011",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

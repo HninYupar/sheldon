@@ -1,0 +1,109 @@
+{
+  "id": "r125",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "7577667",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "8 'cited_by' links for PMID 7577667; showing 8",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "28928594",
+      "title": "Anesthesia Management of a Child with Osteopetrosis.",
+      "first_author": "Jarineshin H",
+      "year": "2017",
+      "journal": "Anesth Essays Res",
+      "doi": "10.4103/0259-1162.194554",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28592808",
+      "title": "SNX10 gene mutation leading to osteopetrosis with dysfunctional osteoclasts.",
+      "first_author": "Stattin EL",
+      "year": "2017",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-017-02533-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23877423",
+      "title": "Osteopetrosis: genetics, treatment and new insights into osteoclast function.",
+      "first_author": "Sobacchi C",
+      "year": "2013",
+      "journal": "Nat Rev Endocrinol",
+      "doi": "10.1038/nrendo.2013.137",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "18651947",
+      "title": "Arthrogryposis multiplex congenital in a child manifesting phenotypic features resembling dysosteosclerosis/osteosclerosis malformation complex; 3DCT scan analysis of the skull base.",
+      "first_author": "Al Kaissi A",
+      "year": "2008",
+      "journal": "Cases J",
+      "doi": "10.1186/1757-1626-1-56",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "13130312",
+      "title": "Long-term outcome of haematopoietic stem cell transplantation in autosomal recessive osteopetrosis: an EBMT report.",
+      "first_author": "Driessen GJ",
+      "year": "2003",
+      "journal": "Bone Marrow Transplant",
+      "doi": "10.1038/sj.bmt.1704194",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "11040159",
+      "title": "Autosomal recessive osteopetrosis: diagnosis, management, and outcome.",
+      "first_author": "Wilson CJ",
+      "year": "2000",
+      "journal": "Arch Dis Child",
+      "doi": "10.1136/adc.83.5.449",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "10918435",
+      "title": "Long-term follow-up of two children with a variant of mild autosomal recessive osteopetrosis undergoing bone marrow transplantation.",
+      "first_author": "Dini G",
+      "year": "2000",
+      "journal": "Bone Marrow Transplant",
+      "doi": "10.1038/sj.bmt.1702491",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "10325711",
+      "title": "Importance of neurological assessment before bone marrow transplantation for osteopetrosis.",
+      "first_author": "Abinun M",
+      "year": "1999",
+      "journal": "Arch Dis Child",
+      "doi": "10.1136/adc.80.3.273",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

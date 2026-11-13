@@ -1,0 +1,87 @@
+{
+  "id": "r165",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "38263665",
+      "35149194",
+      "37438615"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38263665",
+      "title": "Contribution of rare and predicted pathogenic gene variants to childhood-onset lupus: a large, genetic panel analysis of British and French cohorts.",
+      "authors": [
+        "Belot A",
+        "Rice GI",
+        "Omarjee SO",
+        "Rouchon Q",
+        "Smith EMD",
+        "Moreews M",
+        "et al."
+      ],
+      "year": "2020",
+      "journal": "The Lancet. Rheumatology",
+      "doi": "10.1016/S2665-9913(19)30142-0",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "BACKGROUND: Systemic lupus erythematosus (SLE) is a rare immunological disorder and genetic factors are considered important in its causation. Monogenic lupus has been associated with around 30 genotypes in humans and 60 in mice, while genome-wide association studies have identified more than 90 risk loci. We aimed to analyse the contribution of rare and predicted pathogenic gene variants in a population of unselected cases of childhood-onset SLE.\nMETHODS: For this genetic panel analysis we designed a next-generation sequencing panel comprising 147 genes, including all known lupus-causing genes in humans, and potentially lupus-causing genes identified through GWAS and animal models. We screened 117 probands fulfilling American College of Rheumatology (ACR) criteria for SLE, ascertained through British and French cohorts of childhood-onset SLE, and compared these data with those of 791 ethnically matched controls from the 1000 Genomes Project and 574 controls from the FREX Consortium.\nFINDINGS: After filtering, mendelian genotypes were confirmed in eight probands, involving variants in C1QA, C1QC, C2, DNASE1L3, and IKZF1. Seven additional patients carried heterozygous variants in complement or type I interferon-associated autosomal recessive genes, with decreased concentrations of the encoded proteins C3 and C9 recorded in two patients. Rare variants that were predicted to be damaging were significantly enriched in the childhood-onset SLE cohort compared with controls; 25% of SLE probands versus 5% of controls were identified to harbour at least one rare, predicted damaging variant (p=2\u00b798\u2008\u00d7\u200810-11). Inborn errors of immunity were estimated to account for 7% of cases of childhood-onset SLE, with defects in innate immunity representing the main monogenic contribution.\nINTERPRETATION: An accumulation of rare variants that are predicted to be damaging in SLE-associated genes might contribute to disease expression and clinical heterogeneity.\nFUNDING: European Research Council."
+    },
+    {
+      "pmid": "35149194",
+      "title": "Systemic lupus erythematosus as a genetic disease.",
+      "authors": [
+        "Harley ITW",
+        "Sawalha AH"
+      ],
+      "year": "2022",
+      "journal": "Clinical immunology (Orlando, Fla.)",
+      "doi": "10.1016/j.clim.2022.108953",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Autoantibodies",
+        "Autoimmune Diseases",
+        "Humans",
+        "Lupus Erythematosus, Systemic",
+        "Risk Factors"
+      ],
+      "abstract": "Systemic lupus erythematosus is the prototypical systemic autoimmune disease, as it is characterized both by protean multi-organ system manifestations and by the uniform presence of pathogenic autoantibodies directed against components of the nucleus. Prior to the modern genetic era, the diverse clinical manifestations of SLE suggested to many that SLE patients were unlikely to share a common genetic risk basis. However, modern genetic studies have revealed that SLE usually arises when an environmental exposure occurs in an individual with a collection of genetic risk variants passing a liability threshold. Here, we summarize the current state of the field aimed at: (1) understanding the genetic architecture of this complex disease, (2) synthesizing how this genetic risk architecture impacts cellular and molecular disease pathophysiology, (3) providing illustrative examples that highlight the rich complexity of the pathobiology of this prototypical autoimmune disease and (4) communicating this complex etiopathogenesis to patients."
+    },
+    {
+      "pmid": "37438615",
+      "title": "Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants.",
+      "authors": [
+        "Vinuesa CG",
+        "Shen N",
+        "Ware T"
+      ],
+      "year": "2023",
+      "journal": "Nature reviews. Nephrology",
+      "doi": "10.1038/s41581-023-00732-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Animals",
+        "Mice",
+        "Genome-Wide Association Study",
+        "Lupus Erythematosus, Systemic",
+        "Autoimmunity",
+        "Autoantibodies",
+        "DNA",
+        "Genetic Predisposition to Disease"
+      ],
+      "abstract": "The past few years have provided important insights into the genetic architecture of systemic autoimmunity through aggregation of findings from genome-wide association studies (GWAS) and whole-exome or whole-genome sequencing studies. In the prototypic systemic autoimmune disease systemic lupus erythematosus (SLE), monogenic disease accounts for a small fraction of cases but has been instrumental in the elucidation of disease mechanisms. Defects in the\u00a0clearance or digestion of extracellular or intracellular DNA or RNA lead to increased sensing of nucleic acids, which can break B cell tolerance and induce the production of type I interferons leading to tissue damage. Current data suggest that multiple GWAS SLE risk alleles act in concert with rare functional variants to promote SLE development. Moreover, introduction of orthologous variant alleles into mice has revealed that pathogenic X-linked dominant and recessive SLE can be caused by novel variants in TLR7 and SAT1, respectively. Such bespoke models of disease help to\u00a0unravel pathogenic pathways and can be used to test targeted therapies. Cell type-specific expression data revealed that most GWAS SLE risk genes are highly expressed in age-associated B cells (ABCs), which supports the view that ABCs produce lupus autoantibodies and contribute to end-organ damage by persisting in inflamed tissues, including the kidneys. ABCs have thus emerged as key targets of promising precision therapeutics."
+    }
+  ]
+}

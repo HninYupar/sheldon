@@ -1,0 +1,130 @@
+{
+  "id": "r50",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (homozygous[tiab] OR variant[tiab] OR mutation[tiab] OR c. [tiab] OR p.[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "22 PubMed hits for 'PSMF1[gene] AND (homozygous[tiab] OR variant[tiab] OR mutation[tiab] OR c. [tiab] OR p.[tiab])'; showing 10 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"homozygous\"[Title/Abstract] OR \"variant\"[Title/Abstract] OR \"mutation\"[Title/Abstract] OR \"c\"[Title/Abstract] OR \"p\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "33226164",
+      "title": "Characterisation of sperm piRNAs and their correlation with semen quality traits in swine.",
+      "first_author": "Ablondi M",
+      "year": "2021",
+      "journal": "Anim Genet",
+      "doi": "10.1111/age.13022",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33651148",
+      "title": "Potentially functional variants of ERAP1, PSMF1 and NCF2 in the MHC-I-related pathway predict non-small cell lung cancer survival.",
+      "first_author": "Yang S",
+      "year": "2021",
+      "journal": "Cancer Immunol Immunother",
+      "doi": "10.1007/s00262-021-02877-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33942992",
+      "title": "Genomic analysis of host gene responses to cerebral Plasmodium falciparum malaria.",
+      "first_author": "Li K",
+      "year": "2021",
+      "journal": "Immun Inflamm Dis",
+      "doi": "10.1002/iid3.436",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "first_author": "Li X",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21940337",
+      "title": "Impaired activation of phosphatidylinositol 3-kinase by leptin is a novel mechanism of hepatic leptin resistance in NAFLD.",
+      "first_author": "Xu D",
+      "year": "2011",
+      "journal": "Hepatogastroenterology",
+      "doi": "10.5754/hge11005",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "r77",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (variant OR mutation OR de novo OR missense) AND (PI3K OR AKT OR MAPK OR signaling OR T-cell)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "58 PubMed hits for 'GNAI2[gene] AND (variant OR mutation OR de novo OR missense) AND (PI3K OR AKT OR MAPK OR signaling OR T-cell)'; showing 20 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields] OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR \"de novo\"[All Fields] OR (\"missenses\"[All Fields] OR \"mutation, missense\"[MeSH Terms] OR (\"mutation\"[All Fields] AND \"missense\"[All Fields]) OR \"missense mutation\"[All Fields] OR \"missense\"[All Fields])) AND (\"pik3cg protein human\"[Supplementary Concept] OR \"pik3cg protein human\"[All Fields] OR \"pi3k\"[All Fields] OR \"pik3cb protein human\"[Supplementary Concept] OR \"pik3cb protein human\"[All Fields] OR \"AKT\"[All Fields] OR \"MAPK\"[All Fields] OR (\"signal transduction\"[MeSH Terms] OR (\"signal\"[All Fields] AND \"transduction\"[All Fields]) OR \"signal transduction\"[All Fields] OR \"signaling\"[All Fields] OR \"signal\"[All Fields] OR \"signal s\"[All Fields] OR \"signaled\"[All Fields] OR \"signaler\"[All Fields] OR \"signaler s\"[All Fields] OR \"signalers\"[All Fields] OR \"signalings\"[All Fields] OR \"signalization\"[All Fields] OR \"signalled\"[All Fields] OR \"signaller\"[All Fields] OR \"signaller s\"[All Fields] OR \"signallers\"[All Fields] OR \"signalling\"[All Fields] OR \"signallings\"[All Fields] OR \"signals\"[All Fields]) OR (\"t lymphocytes\"[MeSH Terms] OR \"t lymphocytes\"[All Fields] OR \"t cell\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41632920",
+      "title": "Hepatic GPR75 exacerbates MASH through GNAI2-dependent signaling.",
+      "first_author": "Yang X",
+      "year": "2026",
+      "journal": "Hepatology",
+      "doi": "10.1097/HEP.0000000000001706",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "26854024",
+      "title": "JAK-STAT and G-protein-coupled receptor signaling pathways are frequently altered in epitheliotropic intestinal T-cell lymphoma.",
+      "first_author": "Nairism\u00e4gi ML",
+      "year": "2016",
+      "journal": "Leukemia",
+      "doi": "10.1038/leu.2016.13",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "first_author": "Huang X",
+      "year": "2009",
+      "journal": "Med Hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25972449",
+      "title": "Direct Coupling of a Seven-Transmembrane-Span Receptor to a G\u03b1i G-Protein Regulatory Motif Complex.",
+      "first_author": "Robichaux WG 3rd",
+      "year": "2015",
+      "journal": "Mol Pharmacol",
+      "doi": "10.1124/mol.115.097741",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "7655640",
+      "title": "Oncogenic mutations of alpha-Gi2 protein are not determinant for human adrenocortical tumourigenesis.",
+      "first_author": "Gicquel C",
+      "year": "1995",
+      "journal": "Eur J Endocrinol",
+      "doi": "10.1530/eje.0.1330166",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "9779986",
+      "title": "Regulation of cell proliferation by G proteins.",
+      "first_author": "Dhanasekaran N",
+      "year": "1998",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1202242",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21349876",
+      "title": "G\u03b1(i2)-mediated protection from ischaemic injury is modulated by endogenous RGS proteins in the mouse heart.",
+      "first_author": "Waterson RE",
+      "year": "2011",
+      "journal": "Cardiovasc Res",
+      "doi": "10.1093/cvr/cvr054",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40607519",
+      "title": "Pan-Cancer Analysis of G Protein-Coupled Receptors as Cancer Driver Genes and Drug Repurposing Targets.",
+      "first_author": "Hou Y",
+      "year": "2025",
+      "journal": "J Chem Inf Model",
+      "doi": "10.1021/acs.jcim.5c00689",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29619247",
+      "title": "Cardiac arrhythmia and neuroexcitability gene variants in resected brain tissue from patients with sudden unexpected death in epilepsy (SUDEP).",
+      "first_author": "Friedman D",
+      "year": "2018",
+      "journal": "NPJ Genom Med",
+      "doi": "10.1038/s41525-018-0048-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36275898",
+      "title": "GNAI2 Is a Risk Factor for Gastric Cancer: Study of Tumor Microenvironment (TME) and Establishment of Immune Risk Score (IRS).",
+      "first_author": "Yu H",
+      "year": "2022",
+      "journal": "Oxid Med Cell Longev",
+      "doi": "10.1155/2022/1254367",
+      "pubtype": [
+        "Journal Article",
+        "Retracted Publication"
+      ]
+    },
+    {
+      "pmid": "33914258",
+      "title": "Genetic etiologies associated with infantile hydrocephalus in a Chinese infantile cohort.",
+      "first_author": "Mei HF",
+      "year": "2021",
+      "journal": "World J Pediatr",
+      "doi": "10.1007/s12519-021-00429-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "11850064",
+      "title": "Opposing changes of trimeric G protein levels during ontogenetic development of rat brain.",
+      "first_author": "Ihnatovych I",
+      "year": "2002",
+      "journal": "Brain Res Dev Brain Res",
+      "doi": "10.1016/s0165-3806(01)00322-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19169048",
+      "title": "Non-functioning pituitary adenomas infrequently harbor G-protein gene mutations.",
+      "first_author": "Ruggeri RM",
+      "year": "2008",
+      "journal": "J Endocrinol Invest",
+      "doi": "10.1007/BF03345630",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40028213",
+      "title": "Analysis of biopsies of gastric cancer, intestinal and diffuse, and non-atrophic gastritis: an overview of loss of heterozygosity in Mexican patients.",
+      "first_author": "Larios-Serrato V",
+      "year": "2025",
+      "journal": "PeerJ",
+      "doi": "10.7717/peerj.18928",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17928396",
+      "title": "Resistance to diet-induced obesity and improved insulin sensitivity in mice with a regulator of G protein signaling-insensitive G184S Gnai2 allele.",
+      "first_author": "Huang X",
+      "year": "2008",
+      "journal": "Diabetes",
+      "doi": "10.2337/db07-0599",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12351703",
+      "title": "Dopamine-D2S receptor inhibition of calcium influx, adenylyl cyclase, and mitogen-activated protein kinase in pituitary cells: distinct Galpha and Gbetagamma requirements.",
+      "first_author": "Banihashemi B",
+      "year": "2002",
+      "journal": "Mol Endocrinol",
+      "doi": "10.1210/me.2001-0220",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25291362",
+      "title": "Mutation analysis of inhibitory guanine nucleotide binding protein alpha (GNAI) loci in young and familial pituitary adenomas.",
+      "first_author": "Demir H",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0109897",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

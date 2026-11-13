@@ -1,0 +1,131 @@
+{
+  "id": "r72",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "MAGIS syndrome[tiab] OR MAGIS[tiab] OR \"phenotype MIM 621707\"[tiab]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "43 PubMed hits for 'MAGIS syndrome[tiab] OR MAGIS[tiab] OR \"phenotype MIM 621707\"[tiab]'; showing 10 (PubMed read it as: \"magis syndrome\"[Title/Abstract] OR \"MAGIS\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36699383",
+      "title": "MAGI-MS: multiple seed-centric module discovery.",
+      "first_author": "Chow JC",
+      "year": "2022",
+      "journal": "Bioinform Adv",
+      "doi": "10.1093/bioadv/vbac025",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35192169",
+      "title": "Memory-Assisted Global Impression of Change (MAGIC).",
+      "first_author": "Deal LS",
+      "year": "2022",
+      "journal": "Ther Innov Regul Sci",
+      "doi": "10.1007/s43441-022-00377-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30547889",
+      "title": "Cytokines and male infertility.",
+      "first_author": "Syriou V",
+      "year": "2018",
+      "journal": "Eur Cytokine Netw",
+      "doi": "10.1684/ecn.2018.0412",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33712709",
+      "title": "MAGIs regulate aPKC to enable balanced distribution of intercellular tension for epithelial sheet homeostasis.",
+      "first_author": "Matsuzawa K",
+      "year": "2021",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-021-01874-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21498811",
+      "title": "MAGUKs, synaptic development, and synaptic plasticity.",
+      "first_author": "Zheng CY",
+      "year": "2011",
+      "journal": "Neuroscientist",
+      "doi": "10.1177/1073858410386384",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35153844",
+      "title": "Rwanda's Resiliency During the Coronavirus Disease Pandemic.",
+      "first_author": "Louis EF",
+      "year": "2021",
+      "journal": "Front Psychiatry",
+      "doi": "10.3389/fpsyt.2021.589526",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34503076",
+      "title": "A New Story of the Three Magi: Scaffolding Proteins and lncRNA Suppressors of Cancer.",
+      "first_author": "Kotelevets L",
+      "year": "2021",
+      "journal": "Cancers (Basel)",
+      "doi": "10.3390/cancers13174264",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29992660",
+      "title": "Identification of seminal markers of male accessory gland inflammation: From molecules to proteome.",
+      "first_author": "Grande G",
+      "year": "2018",
+      "journal": "Am J Reprod Immunol",
+      "doi": "10.1111/aji.12992",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

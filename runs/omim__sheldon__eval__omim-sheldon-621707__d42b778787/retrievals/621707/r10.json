@@ -1,0 +1,252 @@
+{
+  "id": "r10",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"MAGIS syndrome\"[tiab] OR MAGIS[tiab] OR \"GNAI2\"[gene]) AND (case reports[pt] OR review[pt] OR cohort[tiab] OR phenotype[tiab] OR natural history[tiab] OR pathogenesis[tiab] OR treatment[tiab] OR functional[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "168 PubMed hits for '(\"MAGIS syndrome\"[tiab] OR MAGIS[tiab] OR \"GNAI2\"[gene]) AND (case reports[pt] OR review[pt] OR cohort[tiab] OR phenotype[tiab] OR natural history[tiab] OR pathogenesis[tiab] OR treatment[tiab] OR functional[tiab])'; showing 20 (PubMed read it as: (\"MAGIS syndrome\"[Title/Abstract] OR \"MAGIS\"[Title/Abstract] OR \"GNAI2\"[All Fields]) AND (\"case reports\"[Publication Type] OR \"review\"[Publication Type] OR \"cohort\"[Title/Abstract] OR \"phenotype\"[Title/Abstract] OR \"natural history\"[Title/Abstract] OR \"pathogenesis\"[Title/Abstract] OR \"treatment\"[Title/Abstract] OR \"functional\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34294713",
+      "title": "S-nitrosylation-mediated coupling of G-protein alpha-2 with CXCR5 induces Hippo/YAP-dependent diabetes-accelerated atherosclerosis.",
+      "first_author": "Chao ML",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-24736-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41632920",
+      "title": "Hepatic GPR75 exacerbates MASH through GNAI2-dependent signaling.",
+      "first_author": "Yang X",
+      "year": "2026",
+      "journal": "Hepatology",
+      "doi": "10.1097/HEP.0000000000001706",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36959563",
+      "title": "Potential\u00a0biomarkers\u00a0of aortic dissection based on expression network\u00a0analysis.",
+      "first_author": "Feng J",
+      "year": "2023",
+      "journal": "BMC Cardiovasc Disord",
+      "doi": "10.1186/s12872-023-03173-3",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36201743",
+      "title": "Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma.",
+      "first_author": "Thomas N",
+      "year": "2023",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2022016534",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30547889",
+      "title": "Cytokines and male infertility.",
+      "first_author": "Syriou V",
+      "year": "2018",
+      "journal": "Eur Cytokine Netw",
+      "doi": "10.1684/ecn.2018.0412",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37713293",
+      "title": "Extracellular Vesicles and Endocannabinoid Signaling in Patients with COVID-19.",
+      "first_author": "Brandes F",
+      "year": "2024",
+      "journal": "Cannabis Cannabinoid Res",
+      "doi": "10.1089/can.2023.0040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39670989",
+      "title": "Single-cell transcriptomics of vomeronasal neuroepithelium reveals a differential endoplasmic reticulum environment amongst neuronal subtypes.",
+      "first_author": "Devakinandan GVS",
+      "year": "2024",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.98250",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35192169",
+      "title": "Memory-Assisted Global Impression of Change (MAGIC).",
+      "first_author": "Deal LS",
+      "year": "2022",
+      "journal": "Ther Innov Regul Sci",
+      "doi": "10.1007/s43441-022-00377-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26373671",
+      "title": "Genetic evidence for a Smoothened-G\u03b1(i) signaling axis in mammals.",
+      "first_author": "Ogden SK",
+      "year": "2015",
+      "journal": "Sci Signal",
+      "doi": "10.1126/scisignal.aad0353",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "24423449",
+      "title": "Suppression of GNAI2 message in ovarian cancer.",
+      "first_author": "Raymond JR Jr",
+      "year": "2014",
+      "journal": "J Ovarian Res",
+      "doi": "10.1186/1757-2215-7-6",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28921447",
+      "title": "Structure, Pharmacology and Roles in Physiology of the P2Y(12) Receptor.",
+      "first_author": "von K\u00fcgelgen I",
+      "year": "2017",
+      "journal": "Adv Exp Med Biol",
+      "doi": "10.1007/5584_2017_98",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38169377",
+      "title": "Identification and validation of iron metabolism genes in osteoporosis.",
+      "first_author": "Li Z",
+      "year": "2024",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-023-01779-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33531622",
+      "title": "Increased functional coupling of the mu opioid receptor in the anterior insula of depressed individuals.",
+      "first_author": "Lutz PE",
+      "year": "2021",
+      "journal": "Neuropsychopharmacology",
+      "doi": "10.1038/s41386-021-00974-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40784450",
+      "title": "A non-coding RNA circGNAI2 suppresses triple-negative breast cancer progression by sponging miR-454-3p to inhibit the VGLL4-STAT3 signaling.",
+      "first_author": "Song H",
+      "year": "2025",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2025.110577",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34322898",
+      "title": "Guanine Nucleotide-Binding Protein G(i) Subunit Alpha 2 Exacerbates NASH Progression by Regulating Peroxiredoxin 1-Related Inflammation and Lipophagy.",
+      "first_author": "Zhang Z",
+      "year": "2021",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32078",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39273699",
+      "title": "Key Disease-Related Genes and Immune Cell Infiltration Landscape in Inflammatory Bowel Disease: A Bioinformatics Investigation.",
+      "first_author": "Alghamdi KS",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25179751",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38811421",
+      "title": "Targeting G\u03b1(i2) in neutrophils protects from myocardial ischemia reperfusion injury.",
+      "first_author": "K\u00f6hler D",
+      "year": "2024",
+      "journal": "Basic Res Cardiol",
+      "doi": "10.1007/s00395-024-01057-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37537613",
+      "title": "Integration of single-cell sequencing and bulk expression data reveals chemokine signaling pathway in proliferating cells is associated with the survival outcome of osteosarcoma.",
+      "first_author": "Yu L",
+      "year": "2023",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-023-01617-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40145347",
+      "title": "Functional Genomics Using High-Throughput Methods for Salivary Analysis in Sj\u00f6gren's Disease.",
+      "first_author": "Florezi GP",
+      "year": "2025",
+      "journal": "Oral Dis",
+      "doi": "10.1111/odi.15328",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

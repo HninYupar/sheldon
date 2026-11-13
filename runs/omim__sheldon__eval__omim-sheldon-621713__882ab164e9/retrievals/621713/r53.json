@@ -1,0 +1,121 @@
+{
+  "id": "r53",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "40796344",
+      "36395215",
+      "31249032"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "authors": [
+        "Hu H",
+        "Wan X",
+        "Sun J",
+        "Zhang S",
+        "Guo J",
+        "Zhang Y",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Human reproduction (Oxford, England)",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Female",
+        "Animals",
+        "Mice",
+        "Spindle Apparatus",
+        "Embryonic Development",
+        "Infertility, Female",
+        "HeLa Cells",
+        "Microtubule-Associated Proteins",
+        "Exome Sequencing",
+        "Oocytes",
+        "Alleles"
+      ],
+      "abstract": "STUDY QUESTION: What effects do DLGAP5 defects have on human early embryo development?\nSUMMARY ANSWER: DLGAP5 deficiency disrupts normal spindle assembly through its interaction with TACC3, leading to female infertility characterized by recurrent early embryonic arrest (REEA).\nWHAT IS KNOWN ALREADY: REEA is a significant contributor to failures in assisted reproductive technology. While genetic factors play a crucial role, known gene variants account for only a small proportion of affected individuals, leaving many underlying genetic factors yet to be elucidated. The relationship between spindle assembly and early embryonic development has emerged as a key research focus, however, our understanding of bipolar spindles in human oocytes and early embryos remains limited, highlighting the need for further investigation into the essential molecular players involved.\nSTUDY DESIGN, SIZE, DURATION: A total of 488 female patients experiencing infertility characterized as REEA were recruited from a university-affiliated center from November 2021 to December 2023.\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Whole-exome sequencing was performed on the REEA cohort to identify candidate variants. HeLa cells were transiently transfected with wild-type and mutant plasmids to evaluate protein abundance and localization. Mutant mRNAs were expressed at the zygote stage to monitor subsequent embryonic development. Immunoprecipitation-mass spectrometry was employed to identify altered interacting molecules associated with the candidate variants. Additionally, a site-directed mutant mouse model was developed to investigate the pathogenic mechanisms in vivo, validated with patient oocytes and arrested embryos.\nMAIN RESULTS AND THE ROLE OF CHANCE: The study identified two nonsense variants, one frameshift variant, and one missense pathogenic variant in the DLGAP5 gene of three independent families from the cohort of 488 REEA patients through whole-exome sequencing. All affected individuals displayed a Mendelian recessive inheritance pattern. These variants significantly altered protein length, abundance, or localization, resulting in spindle abnormalities in HeLa cells and mouse zygotes. Furthermore, the microinjection of exogenous mutant DLGAP5 mRNA into mouse zygote and the construction of Dlgap5 site-directed mutant mice successfully replicated the patient phenotypes. Functional studies, both in vivo and in vitro, revealed that DLGAP5 deficiency disrupts normal spindle assembly"
+    },
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "authors": [
+        "Wu T",
+        "Dong J",
+        "Fu J",
+        "Kuang Y",
+        "Chen B",
+        "Gu H",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Chromosome Segregation",
+        "Kinetochores",
+        "Microtubule-Associated Proteins",
+        "Microtubule-Organizing Center",
+        "Oocytes",
+        "Spindle Apparatus",
+        "Cells, Cultured",
+        "Phosphoproteins",
+        "Cell Cycle Proteins",
+        "Nerve Tissue Proteins"
+      ],
+      "abstract": "Meiotic spindle assembly ensures proper chromosome segregation in oocytes. However, the mechanisms behind spindle assembly in human oocytes remain largely unknown. We used three-dimensional high-resolution imaging of more than 2000 human oocytes to identify a structure that we named the human oocyte microtubule organizing center (huoMTOC). The proteins TACC3, CCP110, CKAP5, and DISC1 were found to be essential components of the huoMTOC. The huoMTOC arises beneath the oocyte cortex and migrates adjacent to the nuclear envelope before nuclear envelope breakdown (NEBD). After NEBD, the huoMTOC fragments and relocates on the kinetochores to initiate microtubule nucleation and spindle assembly. Disrupting the huoMTOC led to spindle assembly defects and oocyte maturation arrest. These results reveal a physiological mechanism of huoMTOC-regulated spindle assembly in human oocytes."
+    },
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "authors": [
+        "So C",
+        "Seres KB",
+        "Steyer AM",
+        "M\u00f6nnich E",
+        "Clift D",
+        "Pejkovska A",
+        "et al."
+      ],
+      "year": "2019",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Animals",
+        "Aurora Kinase A",
+        "Centrosome",
+        "Clathrin Heavy Chains",
+        "Female",
+        "Fetal Proteins",
+        "Meiosis",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Microtubule-Associated Proteins",
+        "Microtubules",
+        "NIH 3T3 Cells",
+        "Oocytes",
+        "Spindle Apparatus"
+      ],
+      "abstract": "Mammalian oocytes segregate chromosomes with a microtubule spindle that lacks centrosomes, but the mechanisms by which acentrosomal spindles are organized and function are largely unclear. In this study, we identify a conserved subcellular structure in mammalian oocytes that forms by phase separation. This structure, which we term the liquid-like meiotic spindle domain (LISD), permeates the spindle poles and forms dynamic protrusions that extend well beyond the spindle. The LISD selectively concentrates multiple microtubule regulatory factors and allows them to diffuse rapidly within the spindle volume. Disruption of the LISD via different means disperses these factors and leads to severe spindle assembly defects. Our data suggest a model whereby the LISD promotes meiotic spindle assembly by serving as a reservoir that sequesters and mobilizes microtubule regulatory factors in proximity to spindle microtubules."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "r136",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "36395215",
+      "27273344",
+      "38413710",
+      "40796344"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "authors": [
+        "Wu T",
+        "Dong J",
+        "Fu J",
+        "Kuang Y",
+        "Chen B",
+        "Gu H",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Chromosome Segregation",
+        "Kinetochores",
+        "Microtubule-Associated Proteins",
+        "Microtubule-Organizing Center",
+        "Oocytes",
+        "Spindle Apparatus",
+        "Cells, Cultured",
+        "Phosphoproteins",
+        "Cell Cycle Proteins",
+        "Nerve Tissue Proteins"
+      ],
+      "abstract": "Meiotic spindle assembly ensures proper chromosome segregation in oocytes. However, the mechanisms behind spindle assembly in human oocytes remain largely unknown. We used three-dimensional high-resolution imaging of more than 2000 human oocytes to identify a structure that we named the human oocyte microtubule organizing center (huoMTOC). The proteins TACC3, CCP110, CKAP5, and DISC1 were found to be essential components of the huoMTOC. The huoMTOC arises beneath the oocyte cortex and migrates adjacent to the nuclear envelope before nuclear envelope breakdown (NEBD). After NEBD, the huoMTOC fragments and relocates on the kinetochores to initiate microtubule nucleation and spindle assembly. Disrupting the huoMTOC led to spindle assembly defects and oocyte maturation arrest. These results reveal a physiological mechanism of huoMTOC-regulated spindle assembly in human oocytes."
+    },
+    {
+      "pmid": "27273344",
+      "title": "Mutations in TUBB8 cause a multiplicity of phenotypes in human oocytes and early embryos.",
+      "authors": [
+        "Feng R",
+        "Yan Z",
+        "Li B",
+        "Yu M",
+        "Sang Q",
+        "Tian G",
+        "et al."
+      ],
+      "year": "2016",
+      "journal": "Journal of medical genetics",
+      "doi": "10.1136/jmedgenet-2016-103891",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Embryo, Mammalian",
+        "Female",
+        "Humans",
+        "Infertility, Female",
+        "Mice",
+        "Mutation",
+        "Oocytes",
+        "Phenotype",
+        "Spindle Apparatus",
+        "Tubulin"
+      ],
+      "abstract": "BACKGROUND: TUBB8 is a primate-specific \u03b2-tubulin isotype whose expression is confined to oocytes and the early embryo. We previously found that mutations in TUBB8 caused oocyte maturation arrest. The objective was to describe newly discovered mutations in TUBB8 and to characterise the accompanying spectrum of phenotypes and modes of inheritance.\nMETHODS AND RESULTS: Patients with oocyte maturation arrest were sequenced with respect to TUBB8. We investigated the effects of identified mutations in vitro, in cultured cells and in mouse oocytes. Seven heterozygous missense and two homozygous mutations were identified. These mutations cause a range of folding defects in vitro, different degrees of microtubule disruption upon expression in cultured cells and interfere to varying extents in the proper assembly of the meiotic spindle in mouse oocytes. Several of the newly discovered TUBB8 mutations result in phenotypic variability. For example, oocytes harbouring any of three missense mutations (I210V, T238M and N348S) could extrude the first polar body. Moreover, they could be fertilised, although the ensuing embryos became developmentally arrested. Surprisingly, oocytes from patients harbouring homozygous TUBB8 mutations that in either case preclude the expression of a functional TUBB8 polypeptide nonetheless contained identifiable spindles.\nCONCLUSIONS: Our data substantially expand the range of dysfunctional oocyte phenotypes incurred by mutation in TUBB8, underscore the independent nature of human oocyte meiosis and differentiation, extend the class of genetic diseases known as the tubulinopathies and provide new criteria for the qualitative evaluation of meiosis II (MII) oocytes for in vitro fertilization (IVF)."
+    },
+    {
+      "pmid": "38413710",
+      "title": "Male meiotic spindle poles are stabilized by TACC3 and cKAP5/chTOG differently from female meiotic or somatic mitotic spindles in mice.",
+      "authors": [
+        "Simerly C",
+        "Robertson E",
+        "Harrison C",
+        "Ward S",
+        "George C",
+        "Deleon J",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-024-55376-z",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Female",
+        "Male",
+        "Mice",
+        "Aurora Kinase A",
+        "Cell Cycle Proteins",
+        "Glycols",
+        "Meiosis",
+        "Microtubule-Associated Proteins",
+        "Microtubules",
+        "Oocytes",
+        "Semen",
+        "Spindle Apparatus",
+        "Spindle Poles",
+        "Fetal Proteins"
+      ],
+      "abstract": "Transforming acidic acid coiled-coil protein 3 (TACC3) and cytoskeleton associated protein 5 (cKAP5; or colonic hepatic tumor overexpressed gene, chTOG) are vital for spindle assembly and stabilization initiated through TACC3 Aurora-A kinase interaction. Here, TACC3 and cKAP5/chTOG localization with monospecific antibodies is investigated in eGFP-centrin-2- expressing mouse meiotic spermatocytes. Both proteins bind spermatocyte spindle poles but neither kinetochore nor interpolar microtubules, unlike in mitotic mouse fibroblasts or female meiotic oocyte spindles. Spermatocytes do not display a liquid-like spindle domain (LISD), although fusing them into maturing oocytes generates LISD-like TACC3 condensates around sperm chromatin but sparse microtubule assembly. Microtubule inhibitors do not reduce TACC3 and cKAP5/chTOG spindle pole binding. MLN 8237 Aurora-A kinase inhibitor removes TACC3, not cKAP5/chTOG, disrupting spindle organization, chromosome alignment, and impacting spindle pole \u03b3-tubulin intensity. The LISD disruptor 1,6-hexanediol abolished TACC3 in spermatocytes, impacting spindle bipolarity and chromosome organization. Cold microtubule disassembly and rescue experiments in the presence of 1,6-hexanediol reinforce the concept that spermatocyte TACC3 spindle pole presence is not required for spindle pole microtubule assembly. Collectively, meiotic spermatocytes without a LISD localize TACC3 and cKAP5/chTOG exclusively at spindle poles to support meiotic spindle pole stabilization during male meiosis, different from either female meiosis or mitosis."
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "authors": [
+        "Hu H",
+        "Wan X",
+        "Sun J",
+        "Zhang S",
+        "Guo J",
+        "Zhang Y",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Human reproduction (Oxford, England)",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Female",
+        "Animals",
+        "Mice",
+        "Spindle Apparatus",
+        "Embryonic Development",
+        "Infertility, Female",
+        "HeLa Cells",
+        "Microtubule-Associated Proteins",
+        "Exome Sequencing",
+        "Oocytes",
+        "Alleles"
+      ],
+      "abstract": "STUDY QUESTION: What effects do DLGAP5 defects have on human early embryo development?\nSUMMARY ANSWER: DLGAP5 deficiency disrupts normal spindle assembly through its interaction with TACC3, leading to female infertility characterized by recurrent early embryonic arrest (REEA).\nWHAT IS KNOWN ALREADY: REEA is a significant contributor to failures in assisted reproductive technology. While genetic factors play a crucial role, known gene variants account for only a small proportion of affected individuals, leaving many underlying genetic factors yet to be elucidated. The relationship between spindle assembly and early embryonic development has emerged as a key research focus, however, our understanding of bipolar spindles in human oocytes and early embryos remains limited, highlighting the need for further investigation into the essential molecular players involved.\nSTUDY DESIGN, SIZE, DURATION: A total of 488 female patients experiencing infertility characterized as REEA were recruited from a university-affiliated center from November 2021 to December 2023.\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Whole-exome sequencing was performed on the REEA cohort to identify candidate variants. HeLa cells were transiently transfected with wild-type and mutant plasmids to evaluate protein abundance and localization. Mutant mRNAs were expressed at the zygote stage to monitor subsequent embryonic development. Immunoprecipitation-mass spectrometry was employed to identify altered interacting molecules associated with the candidate variants. Additionally, a site-directed mutant mouse model was developed to investigate the pathogenic mechanisms in vivo, validated with patient oocytes and arrested embryos.\nMAIN RESULTS AND THE ROLE OF CHANCE: The study identified two nonsense variants, one frameshift variant, and one missense pathogenic variant in the DLGAP5 gene of three independent families from the cohort of 488 REEA patients through whole-exome sequencing. All affected individuals displayed a Mendelian recessive inheritance pattern. These variants significantly altered protein length, abundance, or localization, resulting in spindle abnormalities in HeLa cells and mouse zygotes. Furthermore, the microinjection of exogenous mutant DLGAP5 mRNA into mouse zygote and the construction of Dlgap5 site-directed mutant mice successfully replicated the patient phenotypes. Functional studies, both in vivo and in vitro, revealed that DLGAP5 deficiency disrupts normal spindle assembly"
+    }
+  ]
+}

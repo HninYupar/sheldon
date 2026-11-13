@@ -1,0 +1,12 @@
+{
+  "id": "r48",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Magrinelli\"[au] AND PSMF1",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"Magrinelli\"[au] AND PSMF1'; showing 0 (PubMed read it as: \"Magrinelli\"[Author] AND \"PSMF1\"[All Fields])",
+  "ok": true,
+  "evidence": []
+}

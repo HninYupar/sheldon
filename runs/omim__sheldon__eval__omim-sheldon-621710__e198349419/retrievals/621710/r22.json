@@ -1,0 +1,50 @@
+{
+  "id": "r22",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (neurodevelopmental disorder OR epilep* OR cerebellar hypoplasia) AND (case report OR cohort OR patient)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for 'ATG12[gene] AND (neurodevelopmental disorder OR epilep* OR cerebellar hypoplasia) AND (case report OR cohort OR patient)'; showing 3 (PubMed read it as: \"ATG12\"[All Fields] AND (\"neurodevelopmental disorders\"[MeSH Terms] OR (\"neurodevelopmental\"[All Fields] AND \"disorders\"[All Fields]) OR \"neurodevelopmental disorders\"[All Fields] OR (\"neurodevelopmental\"[All Fields] AND \"disorder\"[All Fields]) OR \"neurodevelopmental disorder\"[All Fields] OR \"epilep*\"[All Fields] OR (\"cerebellar hypoplasia\"[Supplementary Concept] OR \"cerebellar hypoplasia\"[All Fields])) AND (\"case reports\"[Publication Type] OR \"case report\"[All Fields] OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "26812546",
+      "title": "Mutation in ATG5 reduces autophagy and leads to ataxia with developmental delay.",
+      "first_author": "Kim M",
+      "year": "2016",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.12245",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21679777",
+      "title": "Decreased heat shock protein 27 expression and altered autophagy in human cells harboring A8344G mitochondrial DNA mutation.",
+      "first_author": "Chen CY",
+      "year": "2011",
+      "journal": "Mitochondrion",
+      "doi": "10.1016/j.mito.2011.05.014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

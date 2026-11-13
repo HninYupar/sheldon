@@ -1,0 +1,133 @@
+{
+  "id": "r72",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "35722745",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "37 'cited_by' links for PMID 35722745; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42884121",
+      "title": "Precision Medicine in Epilepsy: Diagnostic Yield by Next-Generation Sequencing and Genotype-Phenotype Findings in a Romanian Cohort.",
+      "first_author": "Butnariu LI",
+      "year": "2026",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms27198878",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42633474",
+      "title": "When Hemiplegic Migraine Defies Expectations: Diagnostic Complexity in a Rare Genetic Disorder.",
+      "first_author": "Goossens A",
+      "year": "2026",
+      "journal": "Case Rep Neurol",
+      "doi": "10.1159/000553486",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42426153",
+      "title": "Timothy syndrome and CACNA1C-Related Disorder: first international language and management guidelines consensus statement.",
+      "first_author": "Underwood JFG",
+      "year": "2026",
+      "journal": "Eur J Hum Genet",
+      "doi": "10.1038/s41431-026-02178-8",
+      "pubtype": [
+        "Journal Article",
+        "Consensus Statement",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42388704",
+      "title": "Novel advanced patient-derived in vitro models of pediatric movement disorders to develop personalized therapeutic strategies.",
+      "first_author": "Yeadon S",
+      "year": "2026",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2026.1810863",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42377810",
+      "title": "Clinical and Radiological Variability in Episodic Ataxia Type 2: A Case Report and Review of the Literature.",
+      "first_author": "Ortiz JF",
+      "year": "2026",
+      "journal": "Cerebellum",
+      "doi": "10.1007/s12311-026-02044-9",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42346283",
+      "title": "From Suspected Congenital Cytomegalovirus Infection to Malan Syndrome: Delayed Genetic Diagnosis Due to Diagnostic Anchoring.",
+      "first_author": "Kovacevic G",
+      "year": "2026",
+      "journal": "Diseases",
+      "doi": "10.3390/diseases14060191",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42068099",
+      "title": "Movement Disorders in Developmental and Epileptic Encephalopathies.",
+      "first_author": "Mohammad S",
+      "year": "2026",
+      "journal": "Mov Disord Clin Pract",
+      "doi": "10.1002/mdc3.70641",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41594250",
+      "title": "Adams-Oliver Syndrome Type 3: A Case Report of Concurrent RBPJ, CACNA1A, and Double-Heterozygous MTHFR Variants.",
+      "first_author": "Damian GC",
+      "year": "2026",
+      "journal": "Diagnostics (Basel)",
+      "doi": "10.3390/diagnostics16020274",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41576935",
+      "title": "Human neuronal networks on micro-electrode arrays as a tool to assess genotype-phenotype correlation in CACNA1A-related disorders.",
+      "first_author": "Hommersom MP",
+      "year": "2026",
+      "journal": "Stem Cell Reports",
+      "doi": "10.1016/j.stemcr.2025.102783",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41530369",
+      "title": "Childhood motor speech disorders: who to prioritise for genetic testing.",
+      "first_author": "Van Niel H",
+      "year": "2026",
+      "journal": "Eur J Hum Genet",
+      "doi": "10.1038/s41431-025-01993-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

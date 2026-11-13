@@ -1,0 +1,12 @@
+{
+  "id": "r130",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (arthrogryposis OR contractures OR \"congenital contractures\" OR AMC8 OR \"arthrogryposis multiplex congenita 8\")",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (arthrogryposis OR contractures OR \"congenital contractures\" OR AMC8 OR \"arthrogryposis multiplex congenita 8\")'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields] OR (\"contractural\"[All Fields] OR \"contracture\"[MeSH Terms] OR \"contracture\"[All Fields] OR \"contractures\"[All Fields] OR \"contractured\"[All Fields]) OR \"congenital contractures\"[All Fields] OR \"AMC8\"[All Fields] OR ((\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR (\"arthrogryposis\"[All Fields] AND \"multiplex\"[All Fields] AND \"congenita\"[All Fields]) OR \"arthrogryposis multiplex congenita\"[All Fields]) AND \"8\"[All Fields])))",
+  "ok": true,
+  "evidence": []
+}

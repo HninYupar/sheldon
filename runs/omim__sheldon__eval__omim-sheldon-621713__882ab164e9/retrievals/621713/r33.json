@@ -1,0 +1,614 @@
+{
+  "id": "r33",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (female infertility OR oocyte maturation arrest OR embryonic arrest OR early embryonic arrest OR spindle assembly) NOT review[pt]",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "60 PubMed hits for 'TACC3[gene] AND (female infertility OR oocyte maturation arrest OR embryonic arrest OR early embryonic arrest OR spindle assembly) NOT review[pt]'; showing 50 (PubMed read it as: (\"TACC3\"[All Fields] AND (\"infertility, female\"[MeSH Terms] OR (\"infertility\"[All Fields] AND \"female\"[All Fields]) OR \"female infertility\"[All Fields] OR (\"female\"[All Fields] AND \"infertility\"[All Fields]) OR ((\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) AND (\"maturate\"[All Fields] OR \"maturated\"[All Fields] OR \"maturating\"[All Fields] OR \"maturation\"[All Fields] OR \"maturational\"[All Fields] OR \"maturations\"[All Fields] OR \"maturative\"[All Fields] OR \"mature\"[All Fields] OR \"matured\"[All Fields] OR \"maturer\"[All Fields] OR \"maturers\"[All Fields] OR \"matures\"[All Fields] OR \"maturing\"[All Fields] OR \"maturities\"[All Fields] OR \"maturity\"[All Fields]) AND (\"arrestant\"[All Fields] OR \"arrestants\"[All Fields] OR \"arresting\"[All Fields] OR \"arrestment\"[All Fields] OR \"arrests\"[All Fields] OR \"heart arrest\"[MeSH Terms] OR (\"heart\"[All Fields] AND \"arrest\"[All Fields]) OR \"heart arrest\"[All Fields] OR \"arrest\"[All Fields] OR \"arrested\"[All Fields])) OR ((\"embryonal\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryonic\"[All Fields] OR \"embryonically\"[All Fields] OR \"embryonics\"[All Fields]) AND (\"arrestant\"[All Fields] OR \"arrestants\"[All Fields] OR \"arresting\"[All Fields] OR \"arrestment\"[All Fields] OR \"arrests\"[All Fields] OR \"heart arrest\"[MeSH Terms] OR (\"heart\"[All Fields] AND \"arrest\"[All Fields]) OR \"heart arrest\"[All Fields] OR \"arrest\"[All Fields] OR \"arrested\"[All Fields])) OR (\"early\"[All Fields] AND (\"embryonal\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryonic\"[All Fields] OR \"embryonically\"[All Fields] OR \"embryonics\"[All Fields]) AND (\"arrestant\"[All Fields] OR \"arrestants\"[All Fields] OR \"arresting\"[All Fields] OR \"arrestment\"[All Fields] OR \"arrests\"[All Fields] OR \"heart arrest\"[MeSH Terms] OR (\"heart\"[All Fields] AND \"arrest\"[All Fields]) OR \"heart arrest\"[All Fields] OR \"arrest\"[All Fields] OR \"arrested\"[All Fields])) OR ((\"spindle\"[All Fields] OR \"spindle s\"[All Fields] OR \"spindled\"[All Fields] OR \"spindles\"[All Fields] OR \"spindling\"[All Fields]) AND (\"assemblies\"[All Fields] OR \"assembly\"[All Fields])))) NOT \"review\"[Publication Type])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38319231",
+      "title": "Targeting TACC3 Induces Immunogenic Cell Death and Enhances T-DM1 Response in HER2-Positive Breast Cancer.",
+      "first_author": "Gedik ME",
+      "year": "2024",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-23-2812",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "first_author": "So C",
+      "year": "2019",
+      "journal": "Science",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35930054",
+      "title": "Effects of Ran-GTP/importin \u03b2 inhibition on the meiotic division of porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Histochem Cell Biol",
+      "doi": "10.1007/s00418-022-02134-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33318147",
+      "title": "Satellite cell expansion is mediated by P-eIF2\u03b1-dependent Tacc3 translation.",
+      "first_author": "Fujita R",
+      "year": "2021",
+      "journal": "Development",
+      "doi": "10.1242/dev.194480",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25971232",
+      "title": "Solution NMR assignment of the cryptic sixth TOG domain of mini spindles.",
+      "first_author": "Burgess SG",
+      "year": "2015",
+      "journal": "Biomol NMR Assign",
+      "doi": "10.1007/s12104-015-9620-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21685933",
+      "title": "Disruption of Tacc3 function leads to in vivo tumor regression.",
+      "first_author": "Yao R",
+      "year": "2012",
+      "journal": "Oncogene",
+      "doi": "10.1038/onc.2011.235",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18508920",
+      "title": "Xenopus TACC3/maskin is not required for microtubule stability but is required for anchoring microtubules at the centrosome.",
+      "first_author": "Albee AJ",
+      "year": "2008",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.e07-11-1204",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "16172207",
+      "title": "Function and regulation of Maskin, a TACC family protein, in microtubule growth during mitosis.",
+      "first_author": "Peset I",
+      "year": "2005",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.200504037",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18833336",
+      "title": "Meiotic regulation of TPX2 protein levels governs cell cycle progression in mouse oocytes.",
+      "first_author": "Brunet S",
+      "year": "2008",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0003338",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17057251",
+      "title": "Phosphorylation of maskin by Aurora-A is regulated by RanGTP and importin beta.",
+      "first_author": "Albee AJ",
+      "year": "2006",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M607203200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "36739938",
+      "title": "Cobalt chloride exposure disturbs spindle assembly and decreases mouse oocyte development potential.",
+      "first_author": "Zhao SC",
+      "year": "2023",
+      "journal": "Toxicology",
+      "doi": "10.1016/j.tox.2023.153450",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18756265",
+      "title": "Dissecting the role of Aurora A during spindle assembly.",
+      "first_author": "Sardon T",
+      "year": "2008",
+      "journal": "EMBO J",
+      "doi": "10.1038/emboj.2008.173",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35576634",
+      "title": "TPX2 deficiency leads to spindle abnormity and meiotic impairment in porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Theriogenology",
+      "doi": "10.1016/j.theriogenology.2022.04.031",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "15207008",
+      "title": "Structure-function evolution of the transforming acidic coiled coil genes revealed by analysis of phylogenetically diverse organisms.",
+      "first_author": "Still IH",
+      "year": "2004",
+      "journal": "BMC Evol Biol",
+      "doi": "10.1186/1471-2148-4-16",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "32217742",
+      "title": "A Highly Potent TACC3 Inhibitor as a Novel Anticancer Drug Candidate.",
+      "first_author": "Akbulut O",
+      "year": "2020",
+      "journal": "Mol Cancer Ther",
+      "doi": "10.1158/1535-7163.MCT-19-0957",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40903356",
+      "title": "The mechanisms of MTOCs maturation in human and mouse oocytes.",
+      "first_author": "Gu H",
+      "year": "2025",
+      "journal": "Sci Bull (Beijing)",
+      "doi": "10.1016/j.scib.2025.08.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38413710",
+      "title": "Male meiotic spindle poles are stabilized by TACC3 and cKAP5/chTOG differently from female meiotic or somatic mitotic spindles in mice.",
+      "first_author": "Simerly C",
+      "year": "2024",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-024-55376-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32053743",
+      "title": "Aurora A inhibition disrupts chromosome condensation and spindle assembly during the first embryonic division in pigs.",
+      "first_author": "Cui P",
+      "year": "2020",
+      "journal": "Reprod Domest Anim",
+      "doi": "10.1111/rda.13655",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38397472",
+      "title": "PAK1-Dependent Regulation of Microtubule Organization and Spindle Migration Is Essential for the Metaphase I-Metaphase II Transition in Porcine Oocytes.",
+      "first_author": "Peng L",
+      "year": "2024",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom14020237",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36790370",
+      "title": "TACC3-ch-TOG interaction regulates spindle microtubule assembly by controlling centrosomal recruitment of \u03b3-TuRC.",
+      "first_author": "Rajeev R",
+      "year": "2023",
+      "journal": "Biosci Rep",
+      "doi": "10.1042/BSR20221882",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25940345",
+      "title": "Hsp72 is targeted to the mitotic spindle by Nek6 to promote K-fiber assembly and mitotic progression.",
+      "first_author": "O'Regan L",
+      "year": "2015",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.201409151",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24003142",
+      "title": "Self-assembly and sorting of acentrosomal microtubules by TACC3 facilitate kinetochore capture during the mitotic spindle assembly.",
+      "first_author": "Fu W",
+      "year": "2013",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1312382110",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36674642",
+      "title": "PAK1 Is Involved in the Spindle Assembly during the First Meiotic Division in Porcine Oocytes.",
+      "first_author": "Peng L",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms24021123",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "15788567",
+      "title": "The Xenopus TACC homologue, maskin, functions in mitotic spindle assembly.",
+      "first_author": "O'Brien LL",
+      "year": "2005",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.e04-10-0926",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "19373773",
+      "title": "TOGp regulates microtubule assembly and density during mitosis and contributes to chromosome directional instability.",
+      "first_author": "Cassimeris L",
+      "year": "2009",
+      "journal": "Cell Motil Cytoskeleton",
+      "doi": "10.1002/cm.20359",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26114227",
+      "title": "AIBp regulates mitotic entry and mitotic spindle assembly by controlling activation of both Aurora-A and Plk1.",
+      "first_author": "Chou CH",
+      "year": "2015",
+      "journal": "Cell Cycle",
+      "doi": "10.1080/15384101.2015.1066536",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27991556",
+      "title": "KIF2A regulates the spindle assembly and the metaphase I-anaphase I transition in mouse oocyte.",
+      "first_author": "Chen MH",
+      "year": "2016",
+      "journal": "Sci Rep",
+      "doi": "10.1038/srep39337",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15687499",
+      "title": "Phosphorylation of maskin by Aurora-A participates in the control of sequential protein synthesis during Xenopus laevis oocyte maturation.",
+      "first_author": "Pascreau G",
+      "year": "2005",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M410584200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18283114",
+      "title": "Integrin-linked kinase localizes to the centrosome and regulates mitotic spindle organization.",
+      "first_author": "Fielding AB",
+      "year": "2008",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.200710074",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24273164",
+      "title": "The centrosomal adaptor TACC3 and the microtubule polymerase chTOG interact via defined C-terminal subdomains in an Aurora-A kinase-independent manner.",
+      "first_author": "Thakur HC",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M113.532333",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23918938",
+      "title": "Coordination of adjacent domains mediates TACC3-ch-TOG-clathrin assembly and mitotic spindle binding.",
+      "first_author": "Hood FE",
+      "year": "2013",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.201211127",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20923838",
+      "title": "Clathrin recruits phosphorylated TACC3 to spindle poles for bipolar spindle assembly and chromosome alignment.",
+      "first_author": "Fu W",
+      "year": "2010",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.075911",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41279925",
+      "title": "The scaffold protein PRR14L links the PP2A-TACC3 axis to mitotic fidelity and sensitivity to MPS1 inhibition.",
+      "first_author": "Liu AZ",
+      "year": "2025",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2025.11.04.686150",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "23887685",
+      "title": "Aurora A kinase and its substrate TACC3 are required for central spindle assembly.",
+      "first_author": "Lioutas A",
+      "year": "2013",
+      "journal": "EMBO Rep",
+      "doi": "10.1038/embor.2013.109",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26134678",
+      "title": "Aurora-A-Dependent Control of TACC3 Influences the Rate of Mitotic Spindle Assembly.",
+      "first_author": "Burgess SG",
+      "year": "2015",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1005345",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17359303",
+      "title": "TACC3 is required for the proper mitosis of sclerotome mesenchymal cells during formation of the axial skeleton.",
+      "first_author": "Yao R",
+      "year": "2007",
+      "journal": "Cancer Sci",
+      "doi": "10.1111/j.1349-7006.2007.00433.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17044029",
+      "title": "Proteomic profiling of murine oocyte maturation.",
+      "first_author": "Vitale AM",
+      "year": "2007",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.20648",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37745348",
+      "title": "Reviving immunogenic cell death upon targeting TACC3 enhances T-DM1 response in HER2-positive breast cancer.",
+      "first_author": "Gedik ME",
+      "year": "2023",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2023.09.12.557273",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42160513",
+      "title": "The scaffold protein PRR14L is linked to mitotic fidelity and sensitivity to MPS1 inhibition.",
+      "first_author": "Liu AZ",
+      "year": "2026",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.E25-12-0634",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41107451",
+      "title": "Meiotic progression in multinuclear mouse spermatocytes without the spindle pole clustering motor protein KIFC1 or cytokinesis forms single-cell late-stage spermatids.",
+      "first_author": "Simerly C",
+      "year": "2025",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-025-20463-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34152366",
+      "title": "Loss of acentriolar MTOCs disrupts spindle pole Aurora A and assembly of the liquid-like meiotic spindle domain in oocytes.",
+      "first_author": "Wang X",
+      "year": "2021",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.256297",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "36221072",
+      "title": "E2F1 promotes cell cycle progression by stabilizing spindle fiber in colorectal cancer cells.",
+      "first_author": "Fang Z",
+      "year": "2022",
+      "journal": "Cell Mol Biol Lett",
+      "doi": "10.1186/s11658-022-00392-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29017056",
+      "title": "Mitotic Spindle Assembly and Genomic Stability in Breast Cancer Require PI3K-C2\u03b1 Scaffolding Function.",
+      "first_author": "Gulluni F",
+      "year": "2017",
+      "journal": "Cancer Cell",
+      "doi": "10.1016/j.ccell.2017.09.002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25246530",
+      "title": "TACC3 protein regulates microtubule nucleation by affecting \u03b3-tubulin ring complexes.",
+      "first_author": "Singh P",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M114.575100",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19823035",
+      "title": "Cdh1 controls the stability of TACC3.",
+      "first_author": "Jeng JC",
+      "year": "2009",
+      "journal": "Cell Cycle",
+      "doi": "10.4161/cc.8.21.9935",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20826821",
+      "title": "Lamin B counteracts the kinesin Eg5 to restrain spindle pole separation during spindle assembly.",
+      "first_author": "Goodman B",
+      "year": "2010",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M110.140749",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "17599038",
+      "title": "TACC3 depletion sensitizes to paclitaxel-induced cell death and overrides p21WAF-mediated cell cycle arrest.",
+      "first_author": "Schneider L",
+      "year": "2008",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1210628",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

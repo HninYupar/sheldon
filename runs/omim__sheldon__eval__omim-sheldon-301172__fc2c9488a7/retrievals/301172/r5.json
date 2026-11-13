@@ -1,0 +1,261 @@
+{
+  "id": "r5",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "35977808",
+    "relation": "references",
+    "max_results": 20
+  },
+  "summary": "57 'references' links for PMID 35977808; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38263665",
+      "title": "Contribution of rare and predicted pathogenic gene variants to childhood-onset lupus: a large, genetic panel analysis of British and French cohorts.",
+      "first_author": "Belot A",
+      "year": "2020",
+      "journal": "Lancet Rheumatol",
+      "doi": "10.1016/S2665-9913(19)30142-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35477763",
+      "title": "TLR7 gain-of-function genetic variation causes human lupus.",
+      "first_author": "Brown GJ",
+      "year": "2022",
+      "journal": "Nature",
+      "doi": "10.1038/s41586-022-04642-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35283196",
+      "title": "Whole-genome sequencing identifies rare missense variants of WNT16 and ERVW-1 causing the systemic lupus erythematosus.",
+      "first_author": "Chen J",
+      "year": "2022",
+      "journal": "Genomics",
+      "doi": "10.1016/j.ygeno.2022.110332",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35269518",
+      "title": "Polyamine Immunometabolism: Central Regulators of Inflammation, Cancer and Autoimmunity.",
+      "first_author": "Chia TY",
+      "year": "2022",
+      "journal": "Cells",
+      "doi": "10.3390/cells11050896",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35149194",
+      "title": "Systemic lupus erythematosus as a genetic disease.",
+      "first_author": "Harley ITW",
+      "year": "2022",
+      "journal": "Clin Immunol",
+      "doi": "10.1016/j.clim.2022.108953",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34731289",
+      "title": "Recent advances in understanding the genetic basis of systemic lupus erythematosus.",
+      "first_author": "Ha E",
+      "year": "2022",
+      "journal": "Semin Immunopathol",
+      "doi": "10.1007/s00281-021-00900-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34493863",
+      "title": "A single-cell-type transcriptomics map of human tissues.",
+      "first_author": "Alam O",
+      "year": "2021",
+      "journal": "Nat Genet",
+      "doi": "10.1038/s41588-021-00938-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34385713",
+      "title": "Glutathione peroxidase 4-regulated neutrophil ferroptosis induces systemic autoimmunity.",
+      "first_author": "Li P",
+      "year": "2021",
+      "journal": "Nat Immunol",
+      "doi": "10.1038/s41590-021-00993-3",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34358466",
+      "title": "Polyamine: A metabolic compass for T helper cell fate direction.",
+      "first_author": "Shi H",
+      "year": "2021",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2021.07.012",
+      "pubtype": [
+        "Journal Article",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "34321199",
+      "title": "A single-cell type transcriptomics map of human tissues.",
+      "first_author": "Karlsson M",
+      "year": "2021",
+      "journal": "Sci Adv",
+      "doi": "10.1126/sciadv.abh2169",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34216540",
+      "title": "Polyamine metabolism is a central determinant of helper T\u00a0cell lineage fidelity.",
+      "first_author": "Puleston DJ",
+      "year": "2021",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2021.06.007",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34216539",
+      "title": "Metabolic modeling of single Th17 cells reveals regulators of autoimmunity.",
+      "first_author": "Wagner A",
+      "year": "2021",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2021.05.045",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34039599",
+      "title": "Elevated type I interferon responses potentiate metabolic dysfunction, inflammation, and accelerated aging in mtDNA mutator mice.",
+      "first_author": "Lei Y",
+      "year": "2021",
+      "journal": "Sci Adv",
+      "doi": "10.1126/sciadv.abe7548",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "33568819",
+      "title": "Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program.",
+      "first_author": "Taliun D",
+      "year": "2021",
+      "journal": "Nature",
+      "doi": "10.1038/s41586-021-03205-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "32913098",
+      "title": "The GTEx Consortium atlas of genetic regulatory effects across human tissues.",
+      "first_author": "GTEx Consortium",
+      "year": "2020",
+      "journal": "Science",
+      "doi": "10.1126/science.aaz1776",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32524751",
+      "title": "Low-Density Neutrophils in Systemic Lupus Erythematosus.",
+      "first_author": "Tay SH",
+      "year": "2020",
+      "journal": "Arthritis Rheumatol",
+      "doi": "10.1002/art.41395",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32461654",
+      "title": "The mutational constraint spectrum quantified from variation in 141,456 humans.",
+      "first_author": "Karczewski KJ",
+      "year": "2020",
+      "journal": "Nature",
+      "doi": "10.1038/s41586-020-2308-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32251387",
+      "title": "The clearance of dead cells by efferocytosis.",
+      "first_author": "Boada-Romero E",
+      "year": "2020",
+      "journal": "Nat Rev Mol Cell Biol",
+      "doi": "10.1038/s41580-020-0232-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31875850",
+      "title": "A GPR174-CCL21 module imparts sexual dimorphism to humoral immunity.",
+      "first_author": "Zhao R",
+      "year": "2020",
+      "journal": "Nature",
+      "doi": "10.1038/s41586-019-1873-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31848144",
+      "title": "Germline genetic patterns underlying familial rheumatoid arthritis, systemic lupus erythematosus and primary Sj\u00f6gren's syndrome highlight T cell-initiated autoimmunity.",
+      "first_author": "Wang Y",
+      "year": "2020",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/annrheumdis-2019-215533",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

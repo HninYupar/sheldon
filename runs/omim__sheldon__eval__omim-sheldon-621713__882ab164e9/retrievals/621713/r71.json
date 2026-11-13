@@ -1,0 +1,92 @@
+{
+  "id": "r71",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"oocyte/zygote/embryo maturation arrest\" OR OZEMA OR \"OZEMA27\" OR \"phenotype MIM 621713\")",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "7 PubMed hits for '(\"oocyte/zygote/embryo maturation arrest\" OR OZEMA OR \"OZEMA27\" OR \"phenotype MIM 621713\")'; showing 7 (PubMed read it as: \"oocyte/zygote/embryo maturation arrest\"[All Fields] OR \"OZEMA\"[All Fields] OR ((\"phenotype\"[MeSH Terms] OR \"phenotype\"[All Fields] OR \"phenotypes\"[All Fields] OR \"phenotyped\"[All Fields] OR \"phenotypic\"[All Fields] OR \"phenotypical\"[All Fields] OR \"phenotypically\"[All Fields] OR \"phenotyping\"[All Fields] OR \"phenotypings\"[All Fields]) AND \"mim\"[All Fields] AND \"621713\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40657385",
+      "title": "Novel Genetic Variants in PATL2 Corresponding to Different Clinical Phenotypes of Female Infertility.",
+      "first_author": "Yang X",
+      "year": "2025",
+      "journal": "Int J Med Sci",
+      "doi": "10.7150/ijms.109085",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39871066",
+      "title": "Oocyte/zygote/embryo maturation arrest: a clinical study expanding the phenotype of NOBOX variants.",
+      "first_author": "Van Der Kelen A",
+      "year": "2025",
+      "journal": "J Assist Reprod Genet",
+      "doi": "10.1007/s10815-025-03402-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42409946",
+      "title": "Gene panel analysis for oocyte/zygote/embryo maturation arrest in female infertility: a multicenter study in Japan.",
+      "first_author": "Sako Y",
+      "year": "2026",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-026-60724-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42222905",
+      "title": "A comprehensive review for defining cut-off values of oocyte, zygote, and embryo maturation arrest (OZEMA) due to maternal-effect genes: towards the establishment of clinical criteria.",
+      "first_author": "Van Der Kelen A",
+      "year": "2026",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deag072",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42957105",
+      "title": "Clinical characteristics and maternal whole-exome sequencing findings in patients with recurrent oocyte, zygote, and early embryo maturation arrest: a single-center experience.",
+      "first_author": "Kahraman S",
+      "year": "2026",
+      "journal": "Gene",
+      "doi": "10.1016/j.gene.2026.150470",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41762928",
+      "title": "TUBB8 variants in infertile Japanese women, including a novel homozygous nonsense variant causing zygote multinucleation.",
+      "first_author": "Sako Y",
+      "year": "2026",
+      "journal": "Reprod Biomed Online",
+      "doi": "10.1016/j.rbmo.2025.105372",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "41566502",
+      "title": "Novel LHX8 variants associated with distinctive oocyte morphological abnormalities and maturation arrest in primary infertility.",
+      "first_author": "Sako Y",
+      "year": "2026",
+      "journal": "J Ovarian Res",
+      "doi": "10.1186/s13048-026-01978-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

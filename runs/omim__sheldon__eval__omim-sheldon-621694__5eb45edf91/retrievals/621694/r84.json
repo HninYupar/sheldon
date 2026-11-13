@@ -1,0 +1,256 @@
+{
+  "id": "r84",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (case report[pt] OR cohort[tiab] OR letter[pt] OR review[pt] OR functional[tiab] OR fibroblast*[tiab] OR mouse[tiab] OR fly[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "27 PubMed hits for 'PSMF1[gene] AND (case report[pt] OR cohort[tiab] OR letter[pt] OR review[pt] OR functional[tiab] OR fibroblast*[tiab] OR mouse[tiab] OR fly[tiab])'; showing 20 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"cohort\"[Title/Abstract] OR \"letter\"[Publication Type] OR \"review\"[Publication Type] OR \"functional\"[Title/Abstract] OR \"fibroblast*\"[Title/Abstract] OR \"mouse\"[Title/Abstract] OR \"fly\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31327739",
+      "title": "PI31 Is an Adaptor Protein for Proteasome Transport in Axons and Required for Synaptic Development.",
+      "first_author": "Liu K",
+      "year": "2019",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2019.06.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33651148",
+      "title": "Potentially functional variants of ERAP1, PSMF1 and NCF2 in the MHC-I-related pathway predict non-small cell lung cancer survival.",
+      "first_author": "Yang S",
+      "year": "2021",
+      "journal": "Cancer Immunol Immunother",
+      "doi": "10.1007/s00262-021-02877-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "17936981",
+      "title": "[Novel methylation and expression markers associated with breast cancer].",
+      "first_author": "Kuznetsova EB",
+      "year": "2007",
+      "journal": "Mol Biol (Mosk)",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26711386",
+      "title": "[Application of gene microarray to screen differential expression genes of Modic changes at vertebral endplates].",
+      "first_author": "Xu M",
+      "year": "2015",
+      "journal": "Zhonghua Yi Xue Za Zhi",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "first_author": "Clemen CS",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24107298",
+      "title": "Beyond ubiquitination: the atypical functions of Fbxo7 and other F-box proteins.",
+      "first_author": "Nelson DE",
+      "year": "2013",
+      "journal": "Open Biol",
+      "doi": "10.1098/rsob.130131",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "15571818",
+      "title": "The proteasome and MHC class I antigen processing.",
+      "first_author": "Kloetzel PM",
+      "year": "2004",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbamcr.2004.10.004",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39427606",
+      "title": "Exploring a novel four-gene system as a diagnostic and prognostic biomarker for triple-negative breast cancer, using clinical variables.",
+      "first_author": "Ali F",
+      "year": "2024",
+      "journal": "Comput Biol Chem",
+      "doi": "10.1016/j.compbiolchem.2024.108247",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22362029",
+      "title": "Fub1p, a novel protein isolated by boundary screening, binds the proteasome complex.",
+      "first_author": "Hatanaka A",
+      "year": "2011",
+      "journal": "Genes Genet Syst",
+      "doi": "10.1266/ggs.86.305",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33009551",
+      "title": "Genome-Wide Association Analysis of Neonatal White Matter Microstructure.",
+      "first_author": "Zhang J",
+      "year": "2021",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhaa266",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "12374861",
+      "title": "PI31 is a modulator of proteasome formation and antigen processing.",
+      "first_author": "Zaiss DM",
+      "year": "2002",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.212257299",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32856318",
+      "title": "PIK3R2/Pik3r2 Activating Mutations Result in Brain Overgrowth and EEG Changes.",
+      "first_author": "Shi X",
+      "year": "2020",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.25890",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

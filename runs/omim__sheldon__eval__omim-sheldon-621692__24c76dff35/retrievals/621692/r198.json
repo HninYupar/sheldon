@@ -1,0 +1,35 @@
+{
+  "id": "r198",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(CACNA1A[gene]) AND (\"Thr501Met\"[tiab] OR T501M[tiab] OR \"c.1502C>T\"[tiab] OR \"p.Thr501Met\"[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for '(CACNA1A[gene]) AND (\"Thr501Met\"[tiab] OR T501M[tiab] OR \"c.1502C>T\"[tiab] OR \"p.Thr501Met\"[tiab])'; showing 2 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"Thr501Met\"[Title/Abstract] OR \"p.Thr501Met\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "24498617",
+      "title": "Screening of CACNA1A and ATP1A2 genes in hemiplegic migraine: clinical, genetic, and functional studies.",
+      "first_author": "Carre\u00f1o O",
+      "year": "2013",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.24",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34320921",
+      "title": "CACNA1A-p.Thr501Met mutation associated with familial hemiplegic migraine: a family report.",
+      "first_author": "Romozzi M",
+      "year": "2021",
+      "journal": "J Headache Pain",
+      "doi": "10.1186/s10194-021-01297-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

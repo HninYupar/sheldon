@@ -1,0 +1,27 @@
+{
+  "id": "r20",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "39148840",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "1 'cited_by' links for PMID 39148840; showing 1",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42510804",
+      "title": "Expanding the Clinical and Mutational Spectrum of FBXO7-Related Parkinsonism: A Novel Italian Family and Comprehensive Literature Review.",
+      "first_author": "Zampatti S",
+      "year": "2026",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes17070764",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

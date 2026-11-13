@@ -1,0 +1,131 @@
+{
+  "id": "r105",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(AMC8[tiab] OR \"arthrogryposis multiplex congenita 8\"[tiab] OR \"arthrogryposis multiplex congenita, neurogenic type\"[tiab] OR \"arthrogryposis multiplex congenita neurogenic type\"[tiab] OR \"neurogenic arthrogryposis\"[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "50 PubMed hits for '(AMC8[tiab] OR \"arthrogryposis multiplex congenita 8\"[tiab] OR \"arthrogryposis multiplex congenita, neurogenic type\"[tiab] OR \"arthrogryposis multiplex congenita neurogenic type\"[tiab] OR \"neurogenic arthrogryposis\"[tiab])'; showing 10 (PubMed read it as: \"AMC8\"[Title/Abstract] OR \"arthrogryposis multiplex congenita neurogenic type\"[Title/Abstract] OR \"arthrogryposis multiplex congenita neurogenic type\"[Title/Abstract] OR \"neurogenic arthrogryposis\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "37431644",
+      "title": "DST variants are responsible for neurogenic arthrogryposis multiplex congenita enlarging the spectrum of type VI hereditary sensory autonomic neuropathy.",
+      "first_author": "Capri Y",
+      "year": "2023",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14397",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36445400",
+      "title": "Early onset hereditary neuronopathies: an update on non-5q motor neuron diseases.",
+      "first_author": "Zambon AA",
+      "year": "2023",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awac452",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35948005",
+      "title": "A reverse genetics and genomics approach to gene paralog function and disease: Myokymia and the juxtaparanode.",
+      "first_author": "Marafi D",
+      "year": "2022",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2022.07.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40580892",
+      "title": "Development of a versatile deep hyperthermia treatment planning tool.",
+      "first_author": "Drizdal T",
+      "year": "2025",
+      "journal": "Phys Med",
+      "doi": "10.1016/j.ejmp.2025.105035",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31206972",
+      "title": "Deleterious de novo variants of X-linked ZC4H2 in females cause a variable phenotype with neurogenic arthrogryposis multiplex congenita.",
+      "first_author": "Frints SGM",
+      "year": "2019",
+      "journal": "Hum Mutat",
+      "doi": "10.1002/humu.23841",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "4837288",
+      "title": "Arthrogryposis multiplex congenita: neurogenic type with autosomal recessive inheritance.",
+      "first_author": "Rosenmann A",
+      "year": "1974",
+      "journal": "J Med Genet",
+      "doi": "10.1136/jmg.11.1.91",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40243816",
+      "title": "Novel SCYL2 Mutations and Arthrogryposis Multiplex Congenita 4: Case Report and Review of the Literature.",
+      "first_author": "Zamel K",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms26073079",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28567106",
+      "title": "Antenatal ultrasonography findings and magnetic resonance imaging in a case of Pena-Shokeir phenotype.",
+      "first_author": "Tomai XH",
+      "year": "2017",
+      "journal": "Ultrasound",
+      "doi": "10.1177/1742271X16688235",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "3251214",
+      "title": "Neurogenic arthrogryposis multiplex congenita: clinical and muscle biopsy findings.",
+      "first_author": "Adams C",
+      "year": "1988",
+      "journal": "Pediatr Neurosci",
+      "doi": "10.1159/000120370",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12503654",
+      "title": "Severe spinal muscular atrophy variant associated with congenital bone fractures.",
+      "first_author": "Felderhoff-Mueser U",
+      "year": "2002",
+      "journal": "J Child Neurol",
+      "doi": "10.1177/088307380201700915",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "r28",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1 AND (minigene OR functional OR assay OR knockout OR mouse OR mice OR CRISPR OR overexpression OR polyamine) AND lupus",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'SAT1 AND (minigene OR functional OR assay OR knockout OR mouse OR mice OR CRISPR OR overexpression OR polyamine) AND lupus'; showing 2 (PubMed read it as: \"SAT1\"[All Fields] AND (\"minigene\"[All Fields] OR \"minigenes\"[All Fields] OR (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms]) OR (\"analysis\"[MeSH Subheading] OR \"analysis\"[All Fields] OR \"assay\"[All Fields] OR \"biological assay\"[MeSH Terms] OR (\"biological\"[All Fields] AND \"assay\"[All Fields]) OR \"biological assay\"[All Fields] OR \"assay s\"[All Fields] OR \"assayed\"[All Fields] OR \"assaying\"[All Fields] OR \"assays\"[All Fields]) OR (\"knockout\"[All Fields] OR \"knockouts\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields]) OR (\"clustered regularly interspaced short palindromic repeats\"[MeSH Terms] OR (\"clustered\"[All Fields] AND \"regularly\"[All Fields] AND \"interspaced\"[All Fields] AND \"short\"[All Fields] AND \"palindromic\"[All Fields] AND \"repeats\"[All Fields]) OR \"clustered regularly interspaced short palindromic repeats\"[All Fields] OR \"crispr\"[All Fields] OR \"crisprs\"[All Fields]) OR (\"overexpress\"[All Fields] OR \"overexpressed\"[All Fields] OR \"overexpresser\"[All Fields] OR \"overexpressers\"[All Fields] OR \"overexpresses\"[All Fields] OR \"overexpressing\"[All Fields] OR \"overexpression\"[All Fields] OR \"overexpressions\"[All Fields]) OR (\"polyamines\"[Supplementary Concept] OR \"polyamines\"[All Fields] OR \"polyamine\"[All Fields] OR \"polyamines\"[MeSH Terms])) AND (\"lupus vulgaris\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"vulgaris\"[All Fields]) OR \"lupus vulgaris\"[All Fields] OR \"lupus\"[All Fields] OR \"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37438615",
+      "title": "Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants.",
+      "first_author": "Vinuesa CG",
+      "year": "2023",
+      "journal": "Nat Rev Nephrol",
+      "doi": "10.1038/s41581-023-00732-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

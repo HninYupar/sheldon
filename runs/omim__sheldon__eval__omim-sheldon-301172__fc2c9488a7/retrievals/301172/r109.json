@@ -1,0 +1,49 @@
+{
+  "id": "r109",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "35977808"
+    ]
+  },
+  "summary": "fetched 1 of 1 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "authors": [
+        "Xu L",
+        "Zhao J",
+        "Sun Q",
+        "Xu X",
+        "Wang L",
+        "Liu T",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "Annals of the rheumatic diseases",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Animals",
+        "Child",
+        "Female",
+        "Humans",
+        "Male",
+        "Mice",
+        "Genetic Predisposition to Disease",
+        "Homozygote",
+        "Lupus Erythematosus, Systemic",
+        "Spermine",
+        "Genetic Diseases, X-Linked",
+        "Acetyltransferases",
+        "Diamine N-Acetyltransferase"
+      ],
+      "abstract": "OBJECTIVES: Families that contain multiple siblings affected with childhood onset of systemic lupus erythematosus (SLE) likely have strong genetic predispositions. We performed whole exome sequencing (WES) to identify familial rare risk variants and to assess their effects in lupus.\nMETHODS: Sanger sequencing validated the two ultra-rare, predicted pathogenic risk variants discovered by WES and identified additional variants in 562 additional patients with SLE. Effects of a splice site variant and a frameshift variant were assessed using a Minigene assay and CRISPR/Cas9-mediated knock-in (KI) mice, respectively.\nRESULTS: The two familial ultra-rare, predicted loss-of-function (LOF) SAT1 variants exhibited X-linked recessive Mendelian inheritance in two unrelated African-American families. Each LOF variant was transmitted from the heterozygous unaffected mother to her two sons with childhood-onset SLE. The p.Asp40Tyr variant affected a splice donor site causing deleterious transcripts. The young hemizygous male and homozygous female Sat1 p.Glu92Leufs*6 KI mice spontaneously developed splenomegaly, enlarged glomeruli with leucocyte infiltration, proteinuria and elevated expression of type I interferon-inducible genes. SAT1 is highly expressed in neutrophils and encodes spermidine/spermine-N1-acetyltransferase 1 (SSAT1), a rate-limiting enzyme in polyamine catabolism. Young male KI mice exhibited neutrophil defects and decreased proportions of Foxp3 +CD4+ T-cell subsets. Circulating neutrophil counts and proportions of Foxp3 +CD4+ T cells correlated with decreased plasma levels of spermine in treatment-naive, incipient SLE patients.\nCONCLUSIONS: We identified two novel SAT1 LOF variants, showed the ability of the frameshift variant to confer murine lupus, highlighted the pathogenic role of dysregulated polyamine catabolism and identified SAT1 LOF variants as new monogenic causes for SLE."
+    }
+  ]
+}

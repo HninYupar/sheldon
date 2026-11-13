@@ -1,0 +1,48 @@
+{
+  "config": {
+    "benchmark": "omim",
+    "method": "sheldon",
+    "split": "eval",
+    "limit": null,
+    "tasks": "621704",
+    "seed": 0,
+    "engine": "toolloop",
+    "provider": "auto",
+    "base_url": null,
+    "model": "gpt-5.4-mini",
+    "effort": "high",
+    "max_tokens": 16000,
+    "thinking": true,
+    "max_rounds": 4,
+    "max_calls": 120,
+    "max_usd": 1.0,
+    "max_seconds": null,
+    "params": {
+      "mode": "staged",
+      "plan": true,
+      "plan_min_chars": 120,
+      "n_initial": 3,
+      "n_explore": 3,
+      "select_k": 5,
+      "candidate_analysis_max_evals": 3,
+      "candidate_analysis_concurrent": true,
+      "stage_probes": true,
+      "explore_probe_calls": 20,
+      "finalize_probe_calls": 20,
+      "benchmark_opts": {
+        "gene_hint": true
+      },
+      "probes": []
+    },
+    "concurrency": 8,
+    "call_concurrency": 0,
+    "cache": true,
+    "trace_prompts": true,
+    "resume": true,
+    "tag": "omim-sheldon-621704",
+    "notes": ""
+  },
+  "git_sha": "7fbf027",
+  "git_dirty": true,
+  "n_tasks": 1
+}

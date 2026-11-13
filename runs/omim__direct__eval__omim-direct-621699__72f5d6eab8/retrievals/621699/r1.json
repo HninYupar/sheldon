@@ -1,0 +1,248 @@
+{
+  "id": "r1",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] OR site-1[tiab] OR immunodeficiency 135[tiab] OR IMD135[tiab] OR 621699[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "5657 PubMed hits for 'SIT1[gene] OR site-1[tiab] OR immunodeficiency 135[tiab] OR IMD135[tiab] OR 621699[tiab]'; showing 20 (PubMed read it as: \"SIT1\"[All Fields] OR \"site-1\"[Title/Abstract] OR ((\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields]) AND \"135\"[Title/Abstract]) OR \"621699\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35912445",
+      "title": "Monkeypox in Germany.",
+      "first_author": "Hoffmann C",
+      "year": "2022",
+      "journal": "Dtsch Arztebl Int",
+      "doi": "10.3238/arztebl.m2022.0287",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "23891358",
+      "title": "Trimethoprim-associated hyponatremia.",
+      "first_author": "Babayev R",
+      "year": "2013",
+      "journal": "Am J Kidney Dis",
+      "doi": "10.1053/j.ajkd.2013.06.007",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12342840",
+      "title": "Caribbean.",
+      "first_author": "Narain J",
+      "year": "1990",
+      "journal": "AIDS Action",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33275684",
+      "title": "Preventing infections in children and adults with asplenia.",
+      "first_author": "Lee GM",
+      "year": "2020",
+      "journal": "Hematology Am Soc Hematol Educ Program",
+      "doi": "10.1182/hematology.2020000117",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34137790",
+      "title": "Human STAT3 variants underlie autosomal dominant hyper-IgE syndrome by negative dominance.",
+      "first_author": "Asano T",
+      "year": "2021",
+      "journal": "J Exp Med",
+      "doi": "10.1084/jem.20202592",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36030644",
+      "title": "Meningoencephalitis in primary antibody deficiency: Our experience from northwest India.",
+      "first_author": "Jindal AK",
+      "year": "2022",
+      "journal": "J Neuroimmunol",
+      "doi": "10.1016/j.jneuroim.2022.577952",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37863316",
+      "title": "The Association Between Malignancy, Immunodeficiency, and Atopy in IgE-Deficient Patients.",
+      "first_author": "Agress A",
+      "year": "2024",
+      "journal": "J Allergy Clin Immunol Pract",
+      "doi": "10.1016/j.jaip.2023.10.026",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36992383",
+      "title": "The Combined Effects of Cannabis, Methamphetamine, and HIV on Neurocognition.",
+      "first_author": "Rogers JM",
+      "year": "2023",
+      "journal": "Viruses",
+      "doi": "10.3390/v15030674",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39079031",
+      "title": "HIV Drug Resistance in Newly Diagnosed Young Children in the Western Cape, South Africa.",
+      "first_author": "Anderson K",
+      "year": "2024",
+      "journal": "Pediatr Infect Dis J",
+      "doi": "10.1097/INF.0000000000004482",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "41394881",
+      "title": "The T385M STAT1 gain-of-function mutation confers the most severe disease outcomes.",
+      "first_author": "Torrance R",
+      "year": "2025",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2025.1717692",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "36504114",
+      "title": "Perceptions and attitudes regarding HIV pre-exposure prophylaxis (PrEP) among dermatology clinicians and trainees.",
+      "first_author": "Delgado F",
+      "year": "2023",
+      "journal": "Arch Dermatol Res",
+      "doi": "10.1007/s00403-022-02500-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28744922",
+      "title": "IFN-\u03b3R1 defects: Mutation update and description of the IFNGR1 variation database.",
+      "first_author": "van de Vosse E",
+      "year": "2017",
+      "journal": "Hum Mutat",
+      "doi": "10.1002/humu.23302",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37925109",
+      "title": "Clinical significance of mutations in dihydropteroate synthase in Pneumocystis jirovecii pneumonia among non-HIV-infected patients.",
+      "first_author": "Liao TY",
+      "year": "2024",
+      "journal": "Int J Antimicrob Agents",
+      "doi": "10.1016/j.ijantimicag.2023.107019",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31729142",
+      "title": "Subclinical cardiovascular disease in HIV controller and long-term nonprogressor populations.",
+      "first_author": "Brusca RM",
+      "year": "2020",
+      "journal": "HIV Med",
+      "doi": "10.1111/hiv.12820",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36730069",
+      "title": "Single-center experience evaluating and initiating people with HIV on long-acting cabotegravir/rilpivirine.",
+      "first_author": "Hill LA",
+      "year": "2023",
+      "journal": "AIDS",
+      "doi": "10.1097/QAD.0000000000003446",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31100116",
+      "title": "Greater Weight Gain in Treatment-naive Persons Starting Dolutegravir-based Antiretroviral Therapy.",
+      "first_author": "Bourgi K",
+      "year": "2020",
+      "journal": "Clin Infect Dis",
+      "doi": "10.1093/cid/ciz407",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37945466",
+      "title": "Knowledge, attitudes and practices in HIV-related chronic inflammation and cardiovascular risk in Spain.",
+      "first_author": "Serrano-Villar S",
+      "year": "2024",
+      "journal": "Enferm Infecc Microbiol Clin (Engl Ed)",
+      "doi": "10.1016/j.eimce.2023.07.009",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34099923",
+      "title": "HIV is associated with an increased risk of age-related clonal hematopoiesis among older adults.",
+      "first_author": "Dharan NJ",
+      "year": "2021",
+      "journal": "Nat Med",
+      "doi": "10.1038/s41591-021-01357-y",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36104731",
+      "title": "Malaria prevalence in HIV-positive children, pregnant women, and adults: a systematic review and meta-analysis.",
+      "first_author": "Mirzohreh ST",
+      "year": "2022",
+      "journal": "Parasit Vectors",
+      "doi": "10.1186/s13071-022-05432-2",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "38012649",
+      "title": "Coping strategies among adolescents and young adults living with HIV/AIDS in Accra-Ghana.",
+      "first_author": "Dake S",
+      "year": "2023",
+      "journal": "BMC Public Health",
+      "doi": "10.1186/s12889-023-17147-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

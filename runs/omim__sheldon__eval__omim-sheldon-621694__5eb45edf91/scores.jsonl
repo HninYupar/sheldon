@@ -1,0 +1,1 @@
+{"task_id": "621694", "score": 1.0, "metrics": {"recall": 1.0, "precision": 0.125, "n_found": 8.0, "n_gold": 1.0, "n_gold_with_pmid": 1.0, "scored": 1.0}, "detail": {"hits": ["41986367"], "missed": [], "gold_without_pmid": [], "new": ["26086101", "31327739", "38466799", "39148840", "40956890", "41253044", "42649079"]}}

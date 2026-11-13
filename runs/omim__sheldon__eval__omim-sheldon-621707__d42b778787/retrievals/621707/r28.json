@@ -1,0 +1,220 @@
+{
+  "id": "r28",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"GNAI2\"[gene] OR \"GNAI2\"[tiab]) AND (MAGIS[tiab] OR \"midline malformations\"[tiab] OR pituitary[tiab] OR growth retardation[tiab] OR immunodysregulation[tiab] OR immunodeficiency[tiab] OR skeletal defects[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "17 PubMed hits for '(\"GNAI2\"[gene] OR \"GNAI2\"[tiab]) AND (MAGIS[tiab] OR \"midline malformations\"[tiab] OR pituitary[tiab] OR growth retardation[tiab] OR immunodysregulation[tiab] OR immunodeficiency[tiab] OR skeletal defects[tiab])'; showing 17 (PubMed read it as: (\"GNAI2\"[All Fields] OR \"GNAI2\"[Title/Abstract]) AND (\"MAGIS\"[Title/Abstract] OR \"midline malformations\"[Title/Abstract] OR \"pituitary\"[Title/Abstract] OR \"growth retardation\"[Title/Abstract] OR \"immunodysregulation\"[Title/Abstract] OR \"immunodeficiency\"[Title/Abstract] OR \"skeletal defects\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32856736",
+      "title": "miR-34a is upregulated in AIP-mutated somatotropinomas and promotes octreotide resistance.",
+      "first_author": "Bogner EM",
+      "year": "2020",
+      "journal": "Int J Cancer",
+      "doi": "10.1002/ijc.33268",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "8272874",
+      "title": "Targeting of G alpha i2 to the Golgi by alternative spliced carboxyl-terminal region.",
+      "first_author": "Montmayeur JP",
+      "year": "1994",
+      "journal": "Science",
+      "doi": "10.1126/science.8272874",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "7655640",
+      "title": "Oncogenic mutations of alpha-Gi2 protein are not determinant for human adrenocortical tumourigenesis.",
+      "first_author": "Gicquel C",
+      "year": "1995",
+      "journal": "Eur J Endocrinol",
+      "doi": "10.1530/eje.0.1330166",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "7663509",
+      "title": "Ulcerative colitis and adenocarcinoma of the colon in G alpha i2-deficient mice.",
+      "first_author": "Rudolph U",
+      "year": "1995",
+      "journal": "Nat Genet",
+      "doi": "10.1038/ng0695-143",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "10347206",
+      "title": "Stimulation of cAMP synthesis by Gi-coupled receptors upon ablation of distinct Galphai protein expression. Gi subtype specificity of the 5-HT1A receptor.",
+      "first_author": "Liu YF",
+      "year": "1999",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.274.23.16444",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "25291362",
+      "title": "Mutation analysis of inhibitory guanine nucleotide binding protein alpha (GNAI) loci in young and familial pituitary adenomas.",
+      "first_author": "Demir H",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0109897",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11850064",
+      "title": "Opposing changes of trimeric G protein levels during ontogenetic development of rat brain.",
+      "first_author": "Ihnatovych I",
+      "year": "2002",
+      "journal": "Brain Res Dev Brain Res",
+      "doi": "10.1016/s0165-3806(01)00322-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "10449917",
+      "title": "Human chromosome 3 and pig chromosome 13 show complete synteny conservation but extensive gene-order differences.",
+      "first_author": "Sun HF",
+      "year": "1999",
+      "journal": "Cytogenet Cell Genet",
+      "doi": "10.1159/000015312",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "26232433",
+      "title": "B Lymphocyte-Specific Loss of Ric-8A Results in a G\u03b1 Protein Deficit and Severe Humoral Immunodeficiency.",
+      "first_author": "Boularan C",
+      "year": "2015",
+      "journal": "J Immunol",
+      "doi": "10.4049/jimmunol.1500523",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "39521089",
+      "title": "The Keap1-Nrf2/ARE signaling pathway regulates redox balance and apoptosis in the small yellow croaker (Larimichthys polyactis) under hypoxic stress.",
+      "first_author": "Wang J",
+      "year": "2024",
+      "journal": "Sci Total Environ",
+      "doi": "10.1016/j.scitotenv.2024.177396",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "9606722",
+      "title": "Inactivation of the G alpha i2 and G alpha o genes by homologous recombination.",
+      "first_author": "Jiang M",
+      "year": "1997",
+      "journal": "Recept Channels",
+      "doi": "",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "12351703",
+      "title": "Dopamine-D2S receptor inhibition of calcium influx, adenylyl cyclase, and mitogen-activated protein kinase in pituitary cells: distinct Galpha and Gbetagamma requirements.",
+      "first_author": "Banihashemi B",
+      "year": "2002",
+      "journal": "Mol Endocrinol",
+      "doi": "10.1210/me.2001-0220",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19169048",
+      "title": "Non-functioning pituitary adenomas infrequently harbor G-protein gene mutations.",
+      "first_author": "Ruggeri RM",
+      "year": "2008",
+      "journal": "J Endocrinol Invest",
+      "doi": "10.1007/BF03345630",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "9626141",
+      "title": "Activating mutation of the stimulatory G protein (gsp) as a putative cause of ovarian and testicular human stromal Leydig cell tumors.",
+      "first_author": "Fragoso MC",
+      "year": "1998",
+      "journal": "J Clin Endocrinol Metab",
+      "doi": "10.1210/jcem.83.6.4847",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11158006",
+      "title": "Study of the multiple endocrine neoplasia type 1, growth hormone-releasing hormone receptor, Gs alpha, and Gi2 alpha genes in isolated familial acromegaly.",
+      "first_author": "Jorge BH",
+      "year": "2001",
+      "journal": "J Clin Endocrinol Metab",
+      "doi": "10.1210/jcem.86.2.7218",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    }
+  ]
+}

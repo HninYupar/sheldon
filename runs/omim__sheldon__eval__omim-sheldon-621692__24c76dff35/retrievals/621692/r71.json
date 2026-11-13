@@ -1,0 +1,12 @@
+{
+  "id": "r71",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A AND (DEE42B OR developmental and epileptic encephalopathy 42B OR developmental epileptic encephalopathy 42B)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'CACNA1A AND (DEE42B OR developmental and epileptic encephalopathy 42B OR developmental epileptic encephalopathy 42B)'; showing 0 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epileptic\"[All Fields] OR \"epileptics\"[All Fields] OR \"epileptic s\"[All Fields] OR \"epileptical\"[All Fields] OR \"epileptization\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields]) AND \"42B\"[All Fields]) OR ((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epileptic\"[All Fields] OR \"epileptics\"[All Fields] OR \"epileptic s\"[All Fields] OR \"epileptical\"[All Fields] OR \"epileptization\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields]) AND \"42B\"[All Fields])))",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,109 @@
+{
+  "id": "r108",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "38492953",
+      "40926810",
+      "42920069",
+      "19282110"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38492953",
+      "title": "Exploring the free energy landscape of proteins using magnetic tweezers.",
+      "authors": [
+        "Sun H",
+        "Le S",
+        "Guo Z",
+        "Chen H"
+      ],
+      "year": "2024",
+      "journal": "Methods in enzymology",
+      "doi": "10.1016/bs.mie.2023.12.008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Proteins",
+        "Molecular Conformation",
+        "Magnetic Phenomena",
+        "Protein Folding",
+        "Thermodynamics"
+      ],
+      "abstract": "Proteins fold to their native states by searching through the free energy landscapes. As single-domain proteins are the basic building block of multiple-domain proteins or protein complexes composed of subunits, the free energy landscapes of single-domain proteins are of critical importance to understand the folding and unfolding processes of proteins. To explore the free energy landscapes of proteins over large conformational space, the stability of native structure is perturbed by biochemical or mechanical means, and the conformational transition process is measured. In single molecular manipulation experiments, stretching force is applied to proteins, and the folding and unfolding transitions are recorded by the extension time course. Due to the broad force range and long-time stability of magnetic tweezers, the free energy landscape over large conformational space can be obtained. In this article, we describe the magnetic tweezers instrument design, protein construct design and preparation, fluid chamber preparation, common-used measuring protocols including force-ramp and force-jump measurements, and data analysis methods to construct the free energy landscape. Single-domain cold shock protein is introduced as an example to build its free energy landscape by magnetic tweezers measurements."
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "authors": [
+        "Lamborn IT",
+        "Jing H",
+        "Chattopadhyay E",
+        "Ham H",
+        "Zhang Y",
+        "Su HC"
+      ],
+      "year": "2025",
+      "journal": "Journal of human immunity",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Inborn errors of immunity (IEI) presenting with immunodeficiency and autoimmunity can illuminate pathways essential for immunocompetence and self-tolerance. We recently characterized a new IEI named MAGIS (\"Midline malformations of the brain, Anterior pituitary gland dysfunction, Growth retardation, Immunodysregulation/immunodeficiency, and Skeletal defects\") caused by heterozygous germline activating mutations in GNAI2 (encoding the heterotrimeric G-protein, G\u03b1i2). This disorder demonstrates the central role of G\u03b1i2 regulation of chemotaxis in humans and a novel pathway by which G-proteins regulate T-cell activation. Here, we review the clinical features, current genetic and biochemical understanding, and future therapeutic considerations for this new syndromic immune dysregulation disorder."
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "authors": [
+        "Giannakopoulos A",
+        "Sertedaki A",
+        "Efthymiadou A",
+        "Kostopoulou E",
+        "Chrysis D"
+      ],
+      "year": "2026",
+      "journal": "Hormones (Athens, Greece)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [],
+      "abstract": "CONTEXT: Germline activating variants in the GNAI2 gene have recently been associated with MAGIS syndrome, characterized by midline malformations of the brain, anterior pituitary gland dysfunction, growth retardation, immunodysregulation, and skeletal defects. However, the full phenotypic spectrum, particularly regarding endocrine dysfunction, remains incompletely defined.\nCASE DESCRIPTION: We report on a 9.5-year-old male presenting with MAGIS syndrome due to a de novo GNAI2 (NM_002070.4):c.544A>C, p.(Thr182Pro) variant. He initially presented at 17 months with short stature and hypopituitarism. Pituitary MRI confirmed anterior pituitary hypoplasia with thin stalk and normal posterior pituitary. Long-term follow-up revealed suboptimal response to recombinant growth hormone therapy with persistent low IGF-1, profound prolactin deficiency, and evolving gonadotropin deficiency. He also had delayed developmental milestones, recurrent infections, chronic diarrhea, subclinical hypothyroidism, and skeletal abnormalities. Immunological evaluation showed low T-cell counts, inadequate antibody responses and no overt autoimmune features apart from infantile atopic dermatitis.\nCONCLUSIONS: This report details the longitudinal clinical, endocrine, and growth data in a patient with MAGIS syndrome harboring a GNAI2 p.Thr182Pro variant. It highlights the suboptimal growth response to GH with fluctuating height velocity and the development of additional endocrine abnormalities such as prolactin, thyroid dysfunction and suspected gonadotropin deficiency. Detailed phenotypic characterization in such cases is crucial for understanding this complex genetic disorder."
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "authors": [
+        "Huang X",
+        "Fu Y",
+        "Charbeneau RA",
+        "Neubig RR"
+      ],
+      "year": "2009",
+      "journal": "Medical hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Animals",
+        "GTP-Binding Protein alpha Subunit, Gi2",
+        "GTP-Binding Proteins",
+        "Humans",
+        "Mice",
+        "Models, Biological",
+        "Noonan Syndrome",
+        "Signal Transduction"
+      ],
+      "abstract": "Noonan syndrome (NS OMIM 163950) is a relatively common autosomal dominant developmental disorder characterized by short stature, specific facial features, and congenital cardiac anomalies. Approximately 50-66% of cases have defined mutations in the K-ras/Raf/MEK/ERK pathway that lead to constitutive signaling, but a significant number remain unexplained. We hypothesize that enhanced signaling through Galpha(i2) (from the GNAI2 gene) may also produce a NS-like phenotype. This is based on a recently described mouse model in which RGS-mediated inhibition of Galpha(i2) is prevented by a knock-in mutation (G184S) that blocks RGS binding [Huang et al., Mol. Cell. Biol. 2006;26:6870-9]. The mice have short body length, cardiac hypertrophy, a triangular face with wide-set eyes and ears, and hematologic alterations. There is a slight increase in ERK activation and a pronounced enhancement of PI3K/Akt phosphorylation in MEFs from these mice suggesting that abnormal increases in Galpha(i2) signaling could represent a novel upstream mechanism for NS. This suggests a novel set of candidate genes for NS (GNAI2 and RGS proteins) and if validated could have important implications for therapy as well."
+    }
+  ]
+}

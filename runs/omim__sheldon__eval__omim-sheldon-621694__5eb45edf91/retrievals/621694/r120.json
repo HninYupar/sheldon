@@ -1,0 +1,12 @@
+{
+  "id": "r120",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Proteasome regulator PI31\"[tiab] OR \"PSMF1 variants\"[tiab] OR \"PI31-related\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"Proteasome regulator PI31\"[tiab] OR \"PSMF1 variants\"[tiab] OR \"PI31-related\"[tiab]'; showing 0 (PubMed read it as: \"Proteasome regulator PI31\"[tiab] OR \"PSMF1 variants\"[tiab] OR \"PI31-related\"[tiab])",
+  "ok": true,
+  "evidence": []
+}

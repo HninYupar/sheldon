@@ -1,0 +1,145 @@
+{
+  "id": "r100",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (oocyte OR oocytes OR spindle) AND (patient OR patients OR female infertility OR infertility) NOT DLGAP5",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "11 PubMed hits for 'TACC3[gene] AND (oocyte OR oocytes OR spindle) AND (patient OR patients OR female infertility OR infertility) NOT DLGAP5'; showing 11 (PubMed read it as: (\"TACC3\"[All Fields] AND (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields] OR (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) OR (\"spindle\"[All Fields] OR \"spindle s\"[All Fields] OR \"spindled\"[All Fields] OR \"spindles\"[All Fields] OR \"spindling\"[All Fields])) AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"infertility, female\"[MeSH Terms] OR (\"infertility\"[All Fields] AND \"female\"[All Fields]) OR \"female infertility\"[All Fields] OR (\"female\"[All Fields] AND \"infertility\"[All Fields])) OR (\"infertiles\"[All Fields] OR \"infertilities\"[All Fields] OR \"infertility\"[MeSH Terms] OR \"infertility\"[All Fields] OR \"infertile\"[All Fields]))) NOT \"DLGAP5\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38319231",
+      "title": "Targeting TACC3 Induces Immunogenic Cell Death and Enhances T-DM1 Response in HER2-Positive Breast Cancer.",
+      "first_author": "Gedik ME",
+      "year": "2024",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-23-2812",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36864125",
+      "title": "Targeting TACC3 represents a novel vulnerability in highly aggressive breast cancers with centrosome amplification.",
+      "first_author": "Saatci O",
+      "year": "2023",
+      "journal": "Cell Death Differ",
+      "doi": "10.1038/s41418-023-01140-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37745348",
+      "title": "Reviving immunogenic cell death upon targeting TACC3 enhances T-DM1 response in HER2-positive breast cancer.",
+      "first_author": "Gedik ME",
+      "year": "2023",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2023.09.12.557273",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36221072",
+      "title": "E2F1 promotes cell cycle progression by stabilizing spindle fiber in colorectal cancer cells.",
+      "first_author": "Fang Z",
+      "year": "2022",
+      "journal": "Cell Mol Biol Lett",
+      "doi": "10.1186/s11658-022-00392-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31987043",
+      "title": "FGFR3 signaling and function in triple negative breast cancer.",
+      "first_author": "Chew NJ",
+      "year": "2020",
+      "journal": "Cell Commun Signal",
+      "doi": "10.1186/s12964-019-0486-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35959857",
+      "title": "Elevated expression of transforming acidic coiled-coil-containing protein 3 (TACC3) reflects aggressiveness of primary central nervous system lymphomas.",
+      "first_author": "Matsuda K",
+      "year": "2022",
+      "journal": "Pathol Int",
+      "doi": "10.1111/pin.13264",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22837387",
+      "title": "Transforming fusions of FGFR and TACC genes in human glioblastoma.",
+      "first_author": "Singh D",
+      "year": "2012",
+      "journal": "Science",
+      "doi": "10.1126/science.1220834",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17545617",
+      "title": "Localization of human TACC3 to mitotic spindles is mediated by phosphorylation on Ser558 by Aurora A: a novel pharmacodynamic method for measuring Aurora A activity.",
+      "first_author": "LeRoy PJ",
+      "year": "2007",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-07-0122",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26133271",
+      "title": "High expression of transforming acidic coiled coil-containing protein 3 strongly correlates with aggressive characteristics and poor prognosis of gastric cancer.",
+      "first_author": "Yun M",
+      "year": "2015",
+      "journal": "Oncol Rep",
+      "doi": "10.3892/or.2015.4093",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

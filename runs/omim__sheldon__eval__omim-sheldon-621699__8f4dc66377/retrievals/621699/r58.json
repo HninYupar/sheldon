@@ -1,0 +1,26 @@
+{
+  "id": "r58",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[tiab] AND (combined immunodeficiency OR primary immunodeficiency OR immunodeficiency OR T-cell receptor signaling)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'SIT1[tiab] AND (combined immunodeficiency OR primary immunodeficiency OR immunodeficiency OR T-cell receptor signaling)'; showing 1 (PubMed read it as: \"SIT1\"[Title/Abstract] AND (((\"combinable\"[All Fields] OR \"combinated\"[All Fields] OR \"combination\"[All Fields] OR \"combinational\"[All Fields] OR \"combinations\"[All Fields] OR \"combinative\"[All Fields] OR \"combine\"[All Fields] OR \"combined\"[All Fields] OR \"combines\"[All Fields] OR \"combining\"[All Fields]) AND (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields])) OR (\"primary immunodeficiency diseases\"[MeSH Terms] OR (\"primary\"[All Fields] AND \"immunodeficiency\"[All Fields] AND \"diseases\"[All Fields]) OR \"primary immunodeficiency diseases\"[All Fields] OR (\"primary\"[All Fields] AND \"immunodeficiency\"[All Fields]) OR \"primary immunodeficiency\"[All Fields]) OR (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields]) OR ((\"receptors antigen t cell\"[Supplementary Concept] OR \"receptors antigen t cell\"[All Fields] OR \"t cell receptor\"[All Fields] OR \"receptors, antigen, t cell\"[MeSH Terms] OR (\"receptors\"[All Fields] AND \"antigen\"[All Fields] AND \"t cell\"[All Fields]) OR \"t-cell antigen receptors\"[All Fields]) AND (\"signal transduction\"[MeSH Terms] OR (\"signal\"[All Fields] AND \"transduction\"[All Fields]) OR \"signal transduction\"[All Fields] OR \"signaling\"[All Fields] OR \"signal\"[All Fields] OR \"signal s\"[All Fields] OR \"signaled\"[All Fields] OR \"signaler\"[All Fields] OR \"signaler s\"[All Fields] OR \"signalers\"[All Fields] OR \"signalings\"[All Fields] OR \"signalization\"[All Fields] OR \"signalled\"[All Fields] OR \"signaller\"[All Fields] OR \"signaller s\"[All Fields] OR \"signallers\"[All Fields] OR \"signalling\"[All Fields] OR \"signallings\"[All Fields] OR \"signals\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "r41",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"CACNA1A\"[gene] AND (functional OR electrophysiology OR in vitro OR iPSC OR mouse OR zebrafish)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1114 PubMed hits for '\"CACNA1A\"[gene] AND (functional OR electrophysiology OR in vitro OR iPSC OR mouse OR zebrafish)'; showing 10 (PubMed read it as: \"CACNA1A\"[All Fields] AND (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms] OR (\"electrophysiology\"[MeSH Terms] OR \"electrophysiology\"[All Fields]) OR (\"in vitro techniques\"[MeSH Terms] OR (\"vitro\"[All Fields] AND \"techniques\"[All Fields]) OR \"in vitro techniques\"[All Fields] OR \"vitro\"[All Fields] OR \"in vitro\"[All Fields]) OR (\"induced pluripotent stem cells\"[MeSH Terms] OR (\"induced\"[All Fields] AND \"pluripotent\"[All Fields] AND \"stem\"[All Fields] AND \"cells\"[All Fields]) OR \"induced pluripotent stem cells\"[All Fields] OR \"ipsc\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields]) OR (\"zebrafish\"[MeSH Terms] OR \"zebrafish\"[All Fields] OR \"zebrafishes\"[All Fields] OR \"zebrafish s\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36592223",
+      "title": "CACNA1A-Related Channelopathies: Clinical Manifestations and Treatment Options.",
+      "first_author": "Indelicato E",
+      "year": "2023",
+      "journal": "Handb Exp Pharmacol",
+      "doi": "10.1007/164_2022_625",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20204399",
+      "title": "CaV2.1 channelopathies.",
+      "first_author": "Pietrobon D",
+      "year": "2010",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-010-0802-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "19104145",
+      "title": "Deciphering migraine.",
+      "first_author": "Takano T",
+      "year": "2009",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI38051",
+      "pubtype": [
+        "Comment",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38785745",
+      "title": "A Review of the CACNA Gene Family: Its Role in Neurological Disorders.",
+      "first_author": "Szymanowicz O",
+      "year": "2024",
+      "journal": "Diseases",
+      "doi": "10.3390/diseases12050090",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30838925",
+      "title": "Double agent mTOR.",
+      "first_author": "Danzer SC",
+      "year": "2019",
+      "journal": "Epilepsy Curr",
+      "doi": "10.1177/1535759718822033",
+      "pubtype": [
+        "Journal Article",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "37609676",
+      "title": "BDNF and Cerebellar Ataxia.",
+      "first_author": "Lalonde R",
+      "year": "2024",
+      "journal": "Curr Drug Res Rev",
+      "doi": "10.2174/2589977515666230811093021",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "17395138",
+      "title": "Familial hemiplegic migraine.",
+      "first_author": "Pietrobon D",
+      "year": "2007",
+      "journal": "Neurotherapeutics",
+      "doi": "10.1016/j.nurt.2007.01.008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40111503",
+      "title": "Phenotypic variability in cases with CACNA1A mutation.",
+      "first_author": "Bozkaya-Yilmaz S",
+      "year": "2025",
+      "journal": "Eur J Pediatr",
+      "doi": "10.1007/s00431-025-06062-3",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    }
+  ]
+}

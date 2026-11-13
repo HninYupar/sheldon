@@ -1,0 +1,133 @@
+{
+  "id": "r91",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(CACNA1A[gene] AND (haploinsufficiency[tiab] OR \"loss of function\"[tiab] OR LoF[tiab] OR \"loss-of-function\"[tiab])) AND (epilepsy[tiab] OR encephalopathy[tiab] OR patient[tiab] OR case[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "40 PubMed hits for '(CACNA1A[gene] AND (haploinsufficiency[tiab] OR \"loss of function\"[tiab] OR LoF[tiab] OR \"loss-of-function\"[tiab])) AND (epilepsy[tiab] OR encephalopathy[tiab] OR patient[tiab] OR case[tiab])'; showing 10 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"haploinsufficiency\"[Title/Abstract] OR \"loss-of-function\"[Title/Abstract] OR \"LoF\"[Title/Abstract] OR \"loss-of-function\"[Title/Abstract]) AND (\"epilepsy\"[Title/Abstract] OR \"encephalopathy\"[Title/Abstract] OR \"patient\"[Title/Abstract] OR \"case\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "first_author": "Hommersom MP",
+      "year": "2025",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42094580",
+      "title": "In vivo characterization of a patient CACNA1A variant reveals paradoxical synaptic effects.",
+      "first_author": "Krawchuk MB",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.04.27.721138",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "31800012",
+      "title": "Adult loss of Cacna1a in mice recapitulates childhood absence epilepsy by distinct thalamic bursting mechanisms.",
+      "first_author": "Miao QL",
+      "year": "2020",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awz365",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Video-Audio Media"
+      ]
+    },
+    {
+      "pmid": "33985586",
+      "title": "Calcium channelopathies and intellectual disability: a systematic review.",
+      "first_author": "Kessi M",
+      "year": "2021",
+      "journal": "Orphanet J Rare Dis",
+      "doi": "10.1186/s13023-021-01850-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "15549578",
+      "title": "The physiopathology of migraine: the contribution of genetics.",
+      "first_author": "Montagna P",
+      "year": "2004",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-004-0261-0",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20816411",
+      "title": "Biological science of headache channels.",
+      "first_author": "Pietrobon D",
+      "year": "2010",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/S0072-9752(10)97005-X",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40514452",
+      "title": "CACNA1A loss-of-function affects neurogenesis in human iPSC-derived neural models.",
+      "first_author": "Musante I",
+      "year": "2025",
+      "journal": "Cell Mol Life Sci",
+      "doi": "10.1007/s00018-025-05740-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28593511",
+      "title": "De novo exonic duplication of ATP1A2 in Italian patient with hemiplegic migraine: a case report.",
+      "first_author": "Gagliardi S",
+      "year": "2017",
+      "journal": "J Headache Pain",
+      "doi": "10.1186/s10194-017-0770-x",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "r130",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[tiab] AND fibroblast*[tiab] AND patient[tiab] AND autophagy[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for 'ATG12[tiab] AND fibroblast*[tiab] AND patient[tiab] AND autophagy[tiab]'; showing 3 (PubMed read it as: \"ATG12\"[Title/Abstract] AND \"fibroblast*\"[Title/Abstract] AND \"patient\"[Title/Abstract] AND \"autophagy\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30809091",
+      "title": "Emodin induces apoptosis and autophagy of fibroblasts obtained from patient with ankylosing spondylitis.",
+      "first_author": "Ma C",
+      "year": "2019",
+      "journal": "Drug Des Devel Ther",
+      "doi": "10.2147/DDDT.S182087",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25259530",
+      "title": "Trehalose improves human fibroblast deficits in a new CHIP-mutation related ataxia.",
+      "first_author": "Casarejos MJ",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0106931",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

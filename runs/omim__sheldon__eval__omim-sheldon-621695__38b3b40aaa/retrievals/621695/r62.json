@@ -1,0 +1,256 @@
+{
+  "id": "r62",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (variant OR mutation OR family OR families OR siblings OR homozygous OR compound heterozygous)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "21 PubMed hits for 'PSMF1[gene] AND (variant OR mutation OR family OR families OR siblings OR homozygous OR compound heterozygous)'; showing 20 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields] OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"sibling s\"[All Fields] OR \"siblings\"[MeSH Terms] OR \"siblings\"[All Fields] OR \"sibling\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33651148",
+      "title": "Potentially functional variants of ERAP1, PSMF1 and NCF2 in the MHC-I-related pathway predict non-small cell lung cancer survival.",
+      "first_author": "Yang S",
+      "year": "2021",
+      "journal": "Cancer Immunol Immunother",
+      "doi": "10.1007/s00262-021-02877-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "24107298",
+      "title": "Beyond ubiquitination: the atypical functions of Fbxo7 and other F-box proteins.",
+      "first_author": "Nelson DE",
+      "year": "2013",
+      "journal": "Open Biol",
+      "doi": "10.1098/rsob.130131",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "26678661",
+      "title": "MicroRNA-203 Modulates the Radiation Sensitivity of Human Malignant Glioma Cells.",
+      "first_author": "Chang JH",
+      "year": "2016",
+      "journal": "Int J Radiat Oncol Biol Phys",
+      "doi": "10.1016/j.ijrobp.2015.10.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31585107",
+      "title": "A Rare Variant Nonparametric Linkage Method for Nuclear and Extended Pedigrees with Application to Late-Onset Alzheimer Disease via WGS Data.",
+      "first_author": "Zhao L",
+      "year": "2019",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2019.09.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "32856318",
+      "title": "PIK3R2/Pik3r2 Activating Mutations Result in Brain Overgrowth and EEG Changes.",
+      "first_author": "Shi X",
+      "year": "2020",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.25890",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17302559",
+      "title": "Exploring the specificity of the PI3K family inhibitor LY294002.",
+      "first_author": "Gharbi SI",
+      "year": "2007",
+      "journal": "Biochem J",
+      "doi": "10.1042/BJ20061489",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31327739",
+      "title": "PI31 Is an Adaptor Protein for Proteasome Transport in Axons and Required for Synaptic Development.",
+      "first_author": "Liu K",
+      "year": "2019",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2019.06.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "1447206",
+      "title": "Two related genes encoding extremely hydrophobic proteins suppress a lethal mutation in the yeast mitochondrial processing enhancing protein.",
+      "first_author": "West AH",
+      "year": "1992",
+      "journal": "J Biol Chem",
+      "doi": "",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "21757251",
+      "title": "Marsdenia tenacissima extract restored gefitinib sensitivity in resistant non-small cell lung cancer cells.",
+      "first_author": "Han SY",
+      "year": "2012",
+      "journal": "Lung Cancer",
+      "doi": "10.1016/j.lungcan.2011.06.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18495667",
+      "title": "Structure of a conserved dimerization domain within the F-box protein Fbxo7 and the PI31 proteasome inhibitor.",
+      "first_author": "Kirk R",
+      "year": "2008",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M709900200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

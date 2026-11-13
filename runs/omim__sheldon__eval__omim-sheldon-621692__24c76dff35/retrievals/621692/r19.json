@@ -1,0 +1,250 @@
+{
+  "id": "r19",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND de novo AND epilepsy",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "39 PubMed hits for 'CACNA1A[gene] AND de novo AND epilepsy'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND \"de novo\"[All Fields] AND (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "23934111",
+      "title": "De novo mutations in epileptic encephalopathies.",
+      "first_author": "Epi4K Consortium",
+      "year": "2013",
+      "journal": "Nature",
+      "doi": "10.1038/nature12439",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, American Recovery and Reinvestment Act",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30185235",
+      "title": "Novel and de novo mutations in pediatric refractory epilepsy.",
+      "first_author": "Liu J",
+      "year": "2018",
+      "journal": "Mol Brain",
+      "doi": "10.1186/s13041-018-0392-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31171384",
+      "title": "Genomic backgrounds of Japanese patients with undiagnosed neurodevelopmental disorders.",
+      "first_author": "Yamamoto T",
+      "year": "2019",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2019.05.007",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "first_author": "El Ghaleb Y",
+      "year": "2021",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41370402",
+      "title": "Characterization of the functional and clinical impacts of CACNA1A missense variants found in neurodevelopmental disorders.",
+      "first_author": "Kurganov E",
+      "year": "2025",
+      "journal": "Sci Transl Med",
+      "doi": "10.1126/scitranslmed.adr0024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33565063",
+      "title": "[Clinical manifestation and genetic analysis of a child with early infantile epileptic encephalopathy 42].",
+      "first_author": "Ran Y",
+      "year": "2021",
+      "journal": "Zhonghua Yi Xue Yi Chuan Xue Za Zhi",
+      "doi": "10.3760/cma.j.cn511374-20201022-00743",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29997391",
+      "title": "Exome sequencing in congenital ataxia identifies two new candidate genes and highlights a pathophysiological link between some congenital ataxias and early infantile epileptic encephalopathies.",
+      "first_author": "Valence S",
+      "year": "2019",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-018-0089-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40184228",
+      "title": "Protective effect of CACNA1A deficiency in oligogenic refractory epilepsy with CACNA1A-CELSR2 digenic mutations.",
+      "first_author": "Liu CQ",
+      "year": "2025",
+      "journal": "Epilepsia",
+      "doi": "10.1111/epi.18390",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "19811514",
+      "title": "Sporadic hemiplegic migraine and delayed cerebral oedema after minor head trauma: a novel de novo CACNA1A gene mutation.",
+      "first_author": "Malpas TJ",
+      "year": "2010",
+      "journal": "Dev Med Child Neurol",
+      "doi": "10.1111/j.1469-8749.2009.03493.x",
+      "pubtype": [
+        "Case Reports",
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "35497372",
+      "title": "Two Children with Early-Onset Strokes and Intractable Epilepsy, Both with CACNA1A Mutations.",
+      "first_author": "Bolte KN",
+      "year": "2022",
+      "journal": "Child Neurol Open",
+      "doi": "10.1177/2329048X221094977",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35600082",
+      "title": "CACNA1A Mutations Associated With Epilepsies and Their Molecular Sub-Regional Implications.",
+      "first_author": "Li XL",
+      "year": "2022",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2022.860662",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34263451",
+      "title": "Genotype-phenotype correlation of CACNA1A variants in children with epilepsy.",
+      "first_author": "Niu X",
+      "year": "2022",
+      "journal": "Dev Med Child Neurol",
+      "doi": "10.1111/dmcn.14985",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31468518",
+      "title": "Both gain-of-function and loss-of-function de novo CACNA1A mutations cause severe developmental epileptic encephalopathies in the spectrum of Lennox-Gastaut syndrome.",
+      "first_author": "Jiang X",
+      "year": "2019",
+      "journal": "Epilepsia",
+      "doi": "10.1111/epi.16316",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41751517",
+      "title": "Molecular Profiling of Polish Pediatric Patients with Epilepsy: A Single-Center Diagnostic Experience Using Next-Generation Sequencing.",
+      "first_author": "Cha\u0142upczy\u0144ska B",
+      "year": "2026",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes17020133",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40703772",
+      "title": "Prolonged apnea in a boy with epilepsy and a novel gain-of-function missense CACNA1A variant indicating SUDEP risk.",
+      "first_author": "Pelizzari S",
+      "year": "2025",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2025.1582548",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33737904",
+      "title": "From Genotype to Phenotype: Expanding the Clinical Spectrum of CACNA1A Variants in the Era of Next Generation Sequencing.",
+      "first_author": "Indelicato E",
+      "year": "2021",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2021.639994",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41726570",
+      "title": "Genetic Risk Factors for Epilepsy: From Familial Studies to Gene Discoveries and Polygenic Risk Scores, Strides Toward Unlocking an Age-Old Question in Epilepsy.",
+      "first_author": "Yano ST",
+      "year": "2026",
+      "journal": "Epilepsy Curr",
+      "doi": "10.1177/15357597251410840",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33425808",
+      "title": "CACNA1A Gene Variants in Eight Chinese Patients With a Wide Range of Phenotypes.",
+      "first_author": "Zhang L",
+      "year": "2020",
+      "journal": "Front Pediatr",
+      "doi": "10.3389/fped.2020.577544",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34727962",
+      "title": "Clinical and molecular spectrum of P/Q type calcium channel Cav2.1 in epileptic patients.",
+      "first_author": "Alehabib E",
+      "year": "2021",
+      "journal": "Orphanet J Rare Dis",
+      "doi": "10.1186/s13023-021-02101-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

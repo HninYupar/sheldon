@@ -1,0 +1,172 @@
+{
+  "id": "r36",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (activating[tiab] OR de novo[tiab] OR missense[tiab] OR germline[tiab]) AND (patient*[tiab] OR syndrome[tiab] OR disease[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "13 PubMed hits for 'GNAI2[gene] AND (activating[tiab] OR de novo[tiab] OR missense[tiab] OR germline[tiab]) AND (patient*[tiab] OR syndrome[tiab] OR disease[tiab])'; showing 13 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"activating\"[Title/Abstract] OR \"de novo\"[Title/Abstract] OR \"missense\"[Title/Abstract] OR \"germline\"[Title/Abstract]) AND (\"patient*\"[Title/Abstract] OR \"syndrome\"[Title/Abstract] OR \"disease\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34294713",
+      "title": "S-nitrosylation-mediated coupling of G-protein alpha-2 with CXCR5 induces Hippo/YAP-dependent diabetes-accelerated atherosclerosis.",
+      "first_author": "Chao ML",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-24736-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41632920",
+      "title": "Hepatic GPR75 exacerbates MASH through GNAI2-dependent signaling.",
+      "first_author": "Yang X",
+      "year": "2026",
+      "journal": "Hepatology",
+      "doi": "10.1097/HEP.0000000000001706",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "26588071",
+      "title": "Genome-Wide Association Study of Golden Retrievers Identifies Germ-Line Risk Factors Predisposing to Mast Cell Tumours.",
+      "first_author": "Arendt ML",
+      "year": "2015",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1005647",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26275051",
+      "title": "Microarray and Proteomic Analyses of Myeloproliferative Neoplasms with a Highlight on the mTOR Signaling Pathway.",
+      "first_author": "\u010coki\u0107 VP",
+      "year": "2015",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0135463",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "26854024",
+      "title": "JAK-STAT and G-protein-coupled receptor signaling pathways are frequently altered in epitheliotropic intestinal T-cell lymphoma.",
+      "first_author": "Nairism\u00e4gi ML",
+      "year": "2016",
+      "journal": "Leukemia",
+      "doi": "10.1038/leu.2016.13",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25291362",
+      "title": "Mutation analysis of inhibitory guanine nucleotide binding protein alpha (GNAI) loci in young and familial pituitary adenomas.",
+      "first_author": "Demir H",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0109897",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15728518",
+      "title": "Macrophages induce the inflammatory response in the pulmonary Arthus reaction through G alpha i2 activation that controls C5aR and Fc receptor cooperation.",
+      "first_author": "Skokowa J",
+      "year": "2005",
+      "journal": "J Immunol",
+      "doi": "10.4049/jimmunol.174.5.3041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23699601",
+      "title": "Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing.",
+      "first_author": "Morin RD",
+      "year": "2013",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2013-02-483727",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42420675",
+      "title": "The NeuroWES project: lessons learned from comprehensive phenotyping and genetic analysis of neurodevelopmental disorders over a decade.",
+      "first_author": "Cardaropoli S",
+      "year": "2026",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-026-02843-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31036916",
+      "title": "Variant\u00a0recurrence in neurodevelopmental disorders: the use of publicly available genomic data identifies clinically relevant pathogenic missense variants.",
+      "first_author": "Lecoquierre F",
+      "year": "2019",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-019-0518-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

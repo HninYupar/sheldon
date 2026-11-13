@@ -1,0 +1,24 @@
+{
+  "id": "r99",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12 variants autophagy neurodevelopmental disorder cerebellar hypoplasia",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'ATG12 variants autophagy neurodevelopmental disorder cerebellar hypoplasia'; showing 1 (PubMed read it as: \"ATG12\"[All Fields] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) AND (\"autophagies\"[All Fields] OR \"autophagy\"[MeSH Terms] OR \"autophagy\"[All Fields] OR \"autophagy s\"[All Fields]) AND (\"neurodevelopmental disorders\"[MeSH Terms] OR (\"neurodevelopmental\"[All Fields] AND \"disorders\"[All Fields]) OR \"neurodevelopmental disorders\"[All Fields] OR (\"neurodevelopmental\"[All Fields] AND \"disorder\"[All Fields]) OR \"neurodevelopmental disorder\"[All Fields]) AND (\"cerebellar hypoplasia\"[Supplementary Concept] OR \"cerebellar hypoplasia\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

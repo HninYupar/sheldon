@@ -1,0 +1,216 @@
+{
+  "id": "r117",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "39148840",
+      "41986367",
+      "37431644",
+      "31206972",
+      "15791927",
+      "35948005"
+    ]
+  },
+  "summary": "fetched 6 of 6 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "authors": [
+        "Magrinelli F",
+        "Tesson C",
+        "Angelova PR",
+        "Rodriguez JA",
+        "Scardamaglia A",
+        "O'Callaghan B",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh": [],
+      "abstract": "Dissecting biological pathways highlighted by Mendelian gene discovery has provided critical insights into the pathogenesis of Parkinson's disease (PD) and neurodegeneration. This approach ultimately catalyzes the identification of potential biomarkers and therapeutic targets. Here, we identify PSMF1 as a novel gene implicated in parkinsonism and childhood neurodegeneration. We find that biallelic PSMF1 missense and loss-of-function variants co-segregate with phenotypes from early-onset PD to perinatal lethality with neurological manifestations across 17 pedigrees with 24 affected subjects, showing clear genotype-phenotype correlation. PSMF1 encodes the proteasome regulator PSMF1/PI31, a highly conserved, ubiquitously expressed partner of the 20S proteasome and neurodegeneration-associated F-box-O 7 and valosin-containing proteins. We demonstrate that PSMF1 variants impair mitochondrial membrane potential, dynamics and mitophagy, and may affect proteasomal abundance and assembly in patient-derived fibroblasts. Furthermore, Drosophila and mouse models of PSMF1 loss of function exhibit age-dependent motor impairment, as well as brain-wide mitochondrial membrane depolarization and dopaminergic neurodegeneration in aged flies, and diffuse gliosis in mice. Collectively, our findings unequivocally link defective PSMF1 to early-onset parkinsonism and neurodegeneration, and suggest proteasomal and mitochondrial dysfunction as mechanistic contributors."
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "authors": [
+        "Magrinelli F",
+        "Tesson C",
+        "Angelova PR",
+        "Rodriguez JA",
+        "Scardamaglia A",
+        "O'Callaghan B",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Parkinsonian Disorders",
+        "Female",
+        "Mice",
+        "Male",
+        "Pedigree",
+        "Phenotype",
+        "Mitochondria",
+        "Disease Models, Animal",
+        "Parkinson Disease",
+        "Fibroblasts",
+        "Membrane Potential, Mitochondrial",
+        "Drosophila melanogaster"
+      ],
+      "abstract": "Dissecting biological pathways highlighted by Mendelian gene discovery has provided critical insights into the pathogenesis of Parkinson's disease (PD) and neurodegeneration. This approach ultimately catalyzes the identification of potential biomarkers and therapeutic targets. Here we identify PSMF1 as a gene implicated in parkinsonism and childhood neurodegeneration. We find that biallelic PSMF1 missense and loss-of-function variants co-segregate with phenotypes from early-onset PD to perinatal lethality with neurological manifestations across 18 pedigrees with 25 affected subjects, showing clear genotype-phenotype correlation. PSMF1 encodes the proteasome regulator PSMF1/hPI31, a highly conserved, ubiquitously expressed partner of the 20S proteasome and neurodegeneration-associated F-box-O 7 and valosin-containing proteins. We demonstrate that PSMF1 variants may affect proteasomal abundance and assembly, and are associated with alterations of mitochondrial membrane potential, respiration, dynamics and mitophagy in patient-derived fibroblasts. Furthermore, Drosophila and mouse models of PI31 loss of function exhibit age-dependent motor impairment, as well as brain-wide mitochondrial membrane depolarization and dopaminergic neurodegeneration in aged flies, and diffuse gliosis in mice. Collectively, our findings unequivocally link defective PSMF1/hPI31 to early-onset parkinsonism and neurodegeneration, and suggest proteasomal and mitochondrial dysfunction as pathogenic contributors."
+    },
+    {
+      "pmid": "37431644",
+      "title": "DST variants are responsible for neurogenic arthrogryposis multiplex congenita enlarging the spectrum of type VI hereditary sensory autonomic neuropathy.",
+      "authors": [
+        "Capri Y",
+        "Bourmance L",
+        "Dupont C",
+        "Saint-Frison MH",
+        "Guimiot F",
+        "Grotto S",
+        "et al."
+      ],
+      "year": "2023",
+      "journal": "Clinical genetics",
+      "doi": "10.1111/cge.14397",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Adult",
+        "Humans",
+        "Pregnancy",
+        "Female",
+        "Arthrogryposis",
+        "Dystonin",
+        "Hereditary Sensory and Autonomic Neuropathies",
+        "Protein Isoforms"
+      ],
+      "abstract": "Arthrogryposis multiplex congenita (AMC) is a developmental condition characterized by multiple joint contractures resulting from reduced or absent fetal movements. Through whole-exome sequencing combined with arrayCGH from DNA of a fetus presenting with early onset AMC, we identified biallelic loss of function variants in Dystonin (DST): a stop gain variant (NM_001144769.5:c.12208G\u2009>\u2009T:p.(Glu4070Ter)) on the neuronal isoform and a 175\u2009kb microdeletion including exons 25-96 of this isoform on the other allele [NC_000006.11:g.(56212278_56323554)_(56499398_56507586)del]. Transmission electron microscopy of the sciatic nerve revealed abnormal morphology of the peripheral nerve with severe hypomyelination associated with dramatic reduction of fiber density which highlights the critical role of DST in peripheral nerve axonogenesis during development in human. Variants in the neuronal isoforms of DST cause hereditary sensory and autonomic neuropathy which has been reported in several unrelated families with highly variable age of onset from fetal to adult onset. Our data enlarge the disease mechanisms of neurogenic AMC."
+    },
+    {
+      "pmid": "31206972",
+      "title": "Deleterious de novo variants of X-linked ZC4H2 in females cause a variable phenotype with neurogenic arthrogryposis multiplex congenita.",
+      "authors": [
+        "Frints SGM",
+        "Hennig F",
+        "Colombo R",
+        "Jacquemont S",
+        "Terhal P",
+        "Zimmerman HH",
+        "et al."
+      ],
+      "year": "2019",
+      "journal": "Human mutation",
+      "doi": "10.1002/humu.23841",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Arthrogryposis",
+        "Codon, Nonsense",
+        "Disease Models, Animal",
+        "Female",
+        "Frameshift Mutation",
+        "Genes, X-Linked",
+        "Genetic Predisposition to Disease",
+        "Humans",
+        "Intracellular Signaling Peptides and Proteins",
+        "Male",
+        "Mutation",
+        "Mutation, Missense",
+        "Nuclear Proteins",
+        "Pedigree",
+        "Phenotype",
+        "Sequence Deletion",
+        "Sex Characteristics",
+        "Zebrafish"
+      ],
+      "abstract": "Pathogenic variants in the X-linked gene ZC4H2, which encodes a zinc-finger protein, cause an infrequently described syndromic form of arthrogryposis multiplex congenita (AMC) with central and peripheral nervous system involvement. We present genetic and detailed phenotypic information on 23 newly identified families and simplex cases that include 19 affected females from 18 families and 14 affected males from nine families. Of note, the 15 females with deleterious de novo ZC4H2 variants presented with phenotypes ranging from mild to severe, and their clinical features overlapped with those seen in affected males. By contrast, of the nine carrier females with inherited ZC4H2 missense variants that were deleterious in affected male relatives, four were symptomatic. We also compared clinical phenotypes with previously published cases of both sexes and provide an overview on 48 males and 57 females from 42 families. The spectrum of ZC4H2 defects comprises novel and recurrent mostly inherited missense variants in affected males, and de novo splicing, frameshift, nonsense, and partial ZC4H2 deletions in affected females. Pathogenicity of two newly identified missense variants was further supported by studies in zebrafish. We propose ZC4H2 as a good candidate for early genetic testing of males and females with a clinical suspicion of fetal hypo-/akinesia and/or (neurogenic) AMC."
+    },
+    {
+      "pmid": "15791927",
+      "title": "Neurogenic arthrogryposis multiplex congenita and velopharyngeal incompetence associated with chromosome 22q11.2 deletion.",
+      "authors": [
+        "Castro-Gago M",
+        "Iglesias-Meleiro JM",
+        "Blanco-Barca MO",
+        "Grande-Seijo M",
+        "Barros-Angueira F",
+        "Eir\u00eds-Pu\u00f1al J"
+      ],
+      "year": "2005",
+      "journal": "Journal of child neurology",
+      "doi": "10.1177/08830738050200011301",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh": [
+        "Arthrogryposis",
+        "Chromosome Deletion",
+        "Chromosomes, Human, Pair 22",
+        "Humans",
+        "Infant",
+        "Male",
+        "Polymerase Chain Reaction"
+      ],
+      "abstract": "We report a case of neurogenic arthrogryposis multiplex congenita and velopharyngeal incompetence in association with a chromosome 22q11.2 deletion in a 5-month-old boy, the only child of a non-consanguineous couple without relevant antecedents. Specifically, polymerase chain reaction amplification of microsatellite markers revealed a noninherited microdeletion in position D22S306. This phenotype has not been reported previously in association with chromosome 22q11.2 deletions, and these findings raise the possibility that at least some cases of neurogenic arthrogryposis multiplex congenita might be due to genetic defects of this type."
+    },
+    {
+      "pmid": "35948005",
+      "title": "A reverse genetics and genomics approach to gene paralog function and disease: Myokymia and the juxtaparanode.",
+      "authors": [
+        "Marafi D",
+        "Kozar N",
+        "Duan R",
+        "Bradley S",
+        "Yokochi K",
+        "Al Mutairi F",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "American journal of human genetics",
+      "doi": "10.1016/j.ajhg.2022.07.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Autoantibodies",
+        "Axons",
+        "Genomics",
+        "Humans",
+        "Intracellular Signaling Peptides and Proteins",
+        "Mammals",
+        "Mice",
+        "Myokymia",
+        "Nerve Tissue Proteins",
+        "Phenotype",
+        "Reverse Genetics"
+      ],
+      "abstract": "The leucine-rich glioma-inactivated (LGI) family consists of four highly conserved paralogous genes, LGI1-4, that are highly expressed in mammalian central and/or peripheral nervous systems. LGI1 antibodies are detected in subjects with autoimmune limbic encephalitis and peripheral nerve hyperexcitability syndromes (PNHSs) such as Isaacs and Morvan syndromes. Pathogenic variations of LGI1 and LGI4 are associated with neurological disorders as disease traits including familial temporal lobe epilepsy and neurogenic arthrogryposis multiplex congenita 1 with myelin defects, respectively. No human disease has been reported associated with either LGI2 or LGI3. We implemented exome sequencing and family-based genomics to identify individuals with deleterious variants in LGI3 and utilized GeneMatcher to connect practitioners and researchers worldwide to investigate the clinical and electrophysiological phenotype in affected subjects. We also generated Lgi3-null mice and performed peripheral nerve dissection and immunohistochemistry to examine the juxtaparanode LGI3 microarchitecture. As a result, we identified 16 individuals from eight unrelated families with loss-of-function (LoF) bi-allelic variants in LGI3. Deep phenotypic characterization showed LGI3 LoF causes a potentially clinically recognizable PNHS trait characterized by global developmental delay, intellectual disability, distal deformities with diminished reflexes, visible facial myokymia, and distinctive electromyographic features suggestive of motor nerve instability. Lgi3-null mice showed reduced and mis-localized Kv1 channel complexes in myelinated peripheral axons. Our data demonstrate bi-allelic LoF variants in LGI3 cause a clinically distinguishable disease trait of PNHS, most likely caused by disturbed Kv1 channel distribution in the absence of LGI3."
+    }
+  ]
+}

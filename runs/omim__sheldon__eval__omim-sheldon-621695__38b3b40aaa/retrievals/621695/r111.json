@@ -1,0 +1,98 @@
+{
+  "id": "r111",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"neurogenic arthrogryposis multiplex congenita\"[tiab] AND (gene OR mutation OR variant)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "7 PubMed hits for '\"neurogenic arthrogryposis multiplex congenita\"[tiab] AND (gene OR mutation OR variant)'; showing 7 (PubMed read it as: \"neurogenic arthrogryposis multiplex congenita\"[Title/Abstract] AND (\"genes\"[MeSH Terms] OR \"genes\"[All Fields] OR \"gene\"[All Fields] OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36445400",
+      "title": "Early onset hereditary neuronopathies: an update on non-5q motor neuron diseases.",
+      "first_author": "Zambon AA",
+      "year": "2023",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awac452",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37431644",
+      "title": "DST variants are responsible for neurogenic arthrogryposis multiplex congenita enlarging the spectrum of type VI hereditary sensory autonomic neuropathy.",
+      "first_author": "Capri Y",
+      "year": "2023",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14397",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31206972",
+      "title": "Deleterious de novo variants of X-linked ZC4H2 in females cause a variable phenotype with neurogenic arthrogryposis multiplex congenita.",
+      "first_author": "Frints SGM",
+      "year": "2019",
+      "journal": "Hum Mutat",
+      "doi": "10.1002/humu.23841",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17804187",
+      "title": "Unusual clinical features in infantile Spinal Muscular Atrophies.",
+      "first_author": "Guillot N",
+      "year": "2008",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2007.07.008",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "15791927",
+      "title": "Neurogenic arthrogryposis multiplex congenita and velopharyngeal incompetence associated with chromosome 22q11.2 deletion.",
+      "first_author": "Castro-Gago M",
+      "year": "2005",
+      "journal": "J Child Neurol",
+      "doi": "10.1177/08830738050200011301",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35948005",
+      "title": "A reverse genetics and genomics approach to gene paralog function and disease: Myokymia and the juxtaparanode.",
+      "first_author": "Marafi D",
+      "year": "2022",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2022.07.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15052268",
+      "title": "Mutations in VPS33B, encoding a regulator of SNARE-dependent membrane fusion, cause arthrogryposis-renal dysfunction-cholestasis (ARC) syndrome.",
+      "first_author": "Gissen P",
+      "year": "2004",
+      "journal": "Nat Genet",
+      "doi": "10.1038/ng1325",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

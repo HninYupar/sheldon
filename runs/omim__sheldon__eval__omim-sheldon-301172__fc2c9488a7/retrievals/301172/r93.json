@@ -1,0 +1,37 @@
+{
+  "id": "r93",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1[gene] AND (lupus OR \"systemic lupus erythematosus\" OR SLE OR monogenic lupus OR childhood-onset lupus OR early-onset lupus)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'SAT1[gene] AND (lupus OR \"systemic lupus erythematosus\" OR SLE OR monogenic lupus OR childhood-onset lupus OR early-onset lupus)'; showing 2 (PubMed read it as: \"SAT1\"[All Fields] AND (\"lupus vulgaris\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"vulgaris\"[All Fields]) OR \"lupus vulgaris\"[All Fields] OR \"lupus\"[All Fields] OR \"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields] OR \"systemic lupus erythematosus\"[All Fields] OR \"SLE\"[All Fields] OR ((\"monogenic\"[All Fields] OR \"monogenically\"[All Fields] OR \"monogenics\"[All Fields]) AND (\"lupus vulgaris\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"vulgaris\"[All Fields]) OR \"lupus vulgaris\"[All Fields] OR \"lupus\"[All Fields] OR \"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields])) OR (\"childhood-onset\"[All Fields] AND (\"lupus vulgaris\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"vulgaris\"[All Fields]) OR \"lupus vulgaris\"[All Fields] OR \"lupus\"[All Fields] OR \"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields])) OR (\"early-onset\"[All Fields] AND (\"lupus vulgaris\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"vulgaris\"[All Fields]) OR \"lupus vulgaris\"[All Fields] OR \"lupus\"[All Fields] OR \"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37438615",
+      "title": "Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants.",
+      "first_author": "Vinuesa CG",
+      "year": "2023",
+      "journal": "Nat Rev Nephrol",
+      "doi": "10.1038/s41581-023-00732-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

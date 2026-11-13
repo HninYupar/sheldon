@@ -1,0 +1,12 @@
+{
+  "id": "r18",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (arthrogryposis[tiab] OR contracture*[tiab] OR congenital[tiab] OR \"multiple congenital contracture\"[tiab] OR neuropathy[tiab] OR neurogenic[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (arthrogryposis[tiab] OR contracture*[tiab] OR congenital[tiab] OR \"multiple congenital contracture\"[tiab] OR neuropathy[tiab] OR neurogenic[tiab])'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"arthrogryposis\"[Title/Abstract] OR \"contracture*\"[Title/Abstract] OR \"congenital\"[Title/Abstract] OR \"multiple congenital contracture\"[Title/Abstract] OR \"neuropathy\"[Title/Abstract] OR \"neurogenic\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": []
+}

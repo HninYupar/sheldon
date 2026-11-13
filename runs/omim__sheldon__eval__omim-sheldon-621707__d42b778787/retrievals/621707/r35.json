@@ -1,0 +1,135 @@
+{
+  "id": "r35",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "MAGIS syndrome[tiab] OR MAGIS[tiab] OR \"GNAI2\"[gene] AND (syndrome[tiab] OR disease[tiab] OR patient*[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "122 PubMed hits for 'MAGIS syndrome[tiab] OR MAGIS[tiab] OR \"GNAI2\"[gene] AND (syndrome[tiab] OR disease[tiab] OR patient*[tiab])'; showing 10 (PubMed read it as: (\"magis syndrome\"[Title/Abstract] OR \"MAGIS\"[Title/Abstract] OR \"GNAI2\"[All Fields]) AND (\"syndrome\"[Title/Abstract] OR \"disease\"[Title/Abstract] OR \"patient*\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34294713",
+      "title": "S-nitrosylation-mediated coupling of G-protein alpha-2 with CXCR5 induces Hippo/YAP-dependent diabetes-accelerated atherosclerosis.",
+      "first_author": "Chao ML",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-24736-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41632920",
+      "title": "Hepatic GPR75 exacerbates MASH through GNAI2-dependent signaling.",
+      "first_author": "Yang X",
+      "year": "2026",
+      "journal": "Hepatology",
+      "doi": "10.1097/HEP.0000000000001706",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36868481",
+      "title": "Liquid biopsy-based protein biomarkers for risk prediction, early diagnosis, and prognostication of cholangiocarcinoma.",
+      "first_author": "Lapitz A",
+      "year": "2023",
+      "journal": "J Hepatol",
+      "doi": "10.1016/j.jhep.2023.02.027",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36201743",
+      "title": "Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma.",
+      "first_author": "Thomas N",
+      "year": "2023",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2022016534",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36699383",
+      "title": "MAGI-MS: multiple seed-centric module discovery.",
+      "first_author": "Chow JC",
+      "year": "2022",
+      "journal": "Bioinform Adv",
+      "doi": "10.1093/bioadv/vbac025",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35192169",
+      "title": "Memory-Assisted Global Impression of Change (MAGIC).",
+      "first_author": "Deal LS",
+      "year": "2022",
+      "journal": "Ther Innov Regul Sci",
+      "doi": "10.1007/s43441-022-00377-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24423449",
+      "title": "Suppression of GNAI2 message in ovarian cancer.",
+      "first_author": "Raymond JR Jr",
+      "year": "2014",
+      "journal": "J Ovarian Res",
+      "doi": "10.1186/1757-2215-7-6",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41226691",
+      "title": "G\u03b1(i2) Signaling Regulates Neonatal Respiratory Adaptation.",
+      "first_author": "Leiss V",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms262110655",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34322898",
+      "title": "Guanine Nucleotide-Binding Protein G(i) Subunit Alpha 2 Exacerbates NASH Progression by Regulating Peroxiredoxin 1-Related Inflammation and Lipophagy.",
+      "first_author": "Zhang Z",
+      "year": "2021",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32078",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

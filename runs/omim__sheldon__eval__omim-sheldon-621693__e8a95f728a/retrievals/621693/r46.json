@@ -1,0 +1,12 @@
+{
+  "id": "r46",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function\"[tiab]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson\\'s disease to perinatal lethality and disrupt mitochondrial function\"[tiab]'; showing 0 (PubMed read it as: \"Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function\"[tiab])",
+  "ok": true,
+  "evidence": []
+}

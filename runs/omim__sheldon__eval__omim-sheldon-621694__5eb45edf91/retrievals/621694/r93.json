@@ -1,0 +1,114 @@
+{
+  "id": "r93",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"PSMF1 variants\"[tiab] OR \"PI31\"[tiab] AND patients",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "9 PubMed hits for '\"PSMF1 variants\"[tiab] OR \"PI31\"[tiab] AND patients'; showing 9 (PubMed read it as: \"PI31\"[Title/Abstract] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "first_author": "Rodriguez JA",
+      "year": "2025",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38466799",
+      "title": "Study of an FBXO7 patient mutation reveals Fbxo7 and PI31 co-regulate proteasomes and mitochondria.",
+      "first_author": "Al Rawi S",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17114",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "31114588",
+      "title": "NOD2 and TLR2 Signal via TBK1 and PI31 to Direct Cross-Presentation and CD8 T Cell Responses.",
+      "first_author": "Corridoni D",
+      "year": "2019",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2019.00958",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42363684",
+      "title": "FMRP-Mediated Proteasome Regulation: A Novel Mechanism in ALS Pathology.",
+      "first_author": "Majumder P",
+      "year": "2026",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.202600563R",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36295489",
+      "title": "Integrating Radiosensitivity Gene Signature Improves Glioma Outcome and Radiotherapy Response Prediction.",
+      "first_author": "Wu S",
+      "year": "2022",
+      "journal": "Medicina (Kaunas)",
+      "doi": "10.3390/medicina58101327",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33322065",
+      "title": "Using an Untargeted Metabolomics Approach to Identify Salivary Metabolites in Women with Breast Cancer.",
+      "first_author": "Xavier Assad D",
+      "year": "2020",
+      "journal": "Metabolites",
+      "doi": "10.3390/metabo10120506",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "r136",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "42128181",
+      "10209036"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "authors": [
+        "Chen P",
+        "Le KM",
+        "Li W",
+        "Hinrichsen F",
+        "Liu X",
+        "Braathen RS",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "The Journal of allergy and clinical immunology",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Adaptor Proteins, Signal Transducing",
+        "Homozygote",
+        "Immunologic Deficiency Syndromes",
+        "Loss of Function Mutation",
+        "Receptors, Antigen, T-Cell",
+        "Severe Combined Immunodeficiency",
+        "Signal Transduction"
+      ],
+      "abstract": "BACKGROUND: The transmembrane adaptor protein SIT1 (signaling threshold-regulating transmembrane adaptor 1) is a negative regulator of T-cell receptor (TCR) signaling, but its role in human immunity remains poorly characterized.\nOBJECTIVE: We sought to investigate the molecular consequences of a biallelic loss-of-function SIT1 variant in a patient with combined immune deficiency and recurrent lymphoma.\nMETHODS: Exome sequencing identified the putative disease-causing variant. Immunophenotyping and functional assays were performed on patient-derived lymphocytes and CRISPR-Cas9-mediated SIT1 knockout (KO) T cells from healthy donors. Transcriptomics, proteomics, and super-resolution imaging were used to characterize SIT1 deficiency.\nRESULTS: The c.236+2T>G variant caused exon 2 skipping and complete SIT1 loss. Patient/KO T cells revealed skewed T-cell subsets, increased activation and proliferation, and impaired CD8+ cytotoxicity. Transcriptomic analysis demonstrated that SIT1 KO upregulated cytokine signaling, metabolic reprogramming, and cell cycle hallmarks. Proteomic analysis confirmed SIT1's association with Src and receptor tyrosine kinases and suggested a novel role for SIT1 in intracellular vesicle trafficking. Imaging revealed SIT1 localized to plasma membrane and TCR microclusters, colocalizing with endolysosomal compartments and linker for activation of T cells. Patient T cells exhibited impaired immune synapse maturation and vesicle accumulation on TCR stimulation. Population data link this rare SIT1 variant to lymphoid malignancy and reduced risk of autoimmunity.\nCONCLUSIONS: We report the first patient with biallelic loss-of-function SIT1 variant, establishing SIT1 as a critical regulator of T-cell activation, proliferation, and synapse organization, implicating SIT1 deficiency as a novel cause of combined immunodeficiency, predisposing to lymphoid malignancy."
+    },
+    {
+      "pmid": "10209036",
+      "title": "SHP2-interacting transmembrane adaptor protein (SIT), a novel disulfide-linked dimer regulating human T cell activation.",
+      "authors": [
+        "Marie-Cardine A",
+        "Kirchgessner H",
+        "Bruyns E",
+        "Shevchenko A",
+        "Mann M",
+        "Autschbach F",
+        "et al."
+      ],
+      "year": "1999",
+      "journal": "The Journal of experimental medicine",
+      "doi": "10.1084/jem.189.8.1181",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Adaptor Proteins, Signal Transducing",
+        "Amino Acid Sequence",
+        "Carrier Proteins",
+        "Cloning, Molecular",
+        "DNA-Binding Proteins",
+        "Dimerization",
+        "Disulfides",
+        "Gene Expression Regulation",
+        "Humans",
+        "Intracellular Signaling Peptides and Proteins",
+        "Jurkat Cells",
+        "Lymphocyte Activation",
+        "Membrane Glycoproteins",
+        "Membrane Proteins",
+        "Molecular Sequence Data",
+        "NFATC Transcription Factors",
+        "Nuclear Proteins",
+        "Phorbol Esters",
+        "Phosphorylation",
+        "Protein Tyrosine Phosphatase, Non-Receptor Type 11",
+        "Protein Tyrosine Phosphatase, Non-Receptor Type 6",
+        "Protein Tyrosine Phosphatases",
+        "RNA, Messenger",
+        "Receptors, Antigen, T-Cell",
+        "SH2 Domain-Containing Protein Tyrosine Phosphatases",
+        "Sequence Alignment",
+        "Signal Transduction",
+        "T-Lymphocytes",
+        "Transcription Factors",
+        "src Homology Domains"
+      ],
+      "abstract": "T lymphocytes express several low molecular weight transmembrane adaptor proteins that recruit src homology (SH)2 domain-containing intracellular molecules to the cell membrane via tyrosine-based signaling motifs. We describe here a novel molecule of this group termed SIT (SHP2 interacting transmembrane adaptor protein). SIT is a disulfide-linked homodimeric glycoprotein that is expressed in lymphocytes. After tyrosine phosphorylation by src and possibly syk protein tyrosine kinases SIT recruits the SH2 domain-containing tyrosine phosphatase SHP2 via an immunoreceptor tyrosine-based inhibition motif. Overexpression of SIT in Jurkat cells downmodulates T cell receptor- and phytohemagglutinin-mediated activation of the nuclear factor of activated T cells (NF-AT) by interfering with signaling processes that are probably located upstream of activation of phospholipase C. However, binding of SHP2 to SIT is not required for inhibition of NF-AT induction, suggesting that SIT not only regulates NF-AT activity but also controls NF-AT unrelated pathways of T cell activation involving SHP2."
+    }
+  ]
+}

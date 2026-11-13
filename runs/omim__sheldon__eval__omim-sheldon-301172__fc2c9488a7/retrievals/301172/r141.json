@@ -1,0 +1,12 @@
+{
+  "id": "r141",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1[gene] AND (lupus OR \"systemic lupus erythematosus\" OR SLE) AND (case reports[pt] OR cohort[tiab] OR patient[tiab] OR family[tiab] OR report[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'SAT1[gene] AND (lupus OR \"systemic lupus erythematosus\" OR SLE) AND (case reports[pt] OR cohort[tiab] OR patient[tiab] OR family[tiab] OR report[tiab])'; showing 0 (PubMed read it as: \"SAT1\"[All Fields] AND (\"lupus vulgaris\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"vulgaris\"[All Fields]) OR \"lupus vulgaris\"[All Fields] OR \"lupus\"[All Fields] OR \"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields] OR \"systemic lupus erythematosus\"[All Fields] OR \"SLE\"[All Fields]) AND (\"case reports\"[Publication Type] OR \"cohort\"[Title/Abstract] OR \"patient\"[Title/Abstract] OR \"family\"[Title/Abstract] OR \"report\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": []
+}

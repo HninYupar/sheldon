@@ -1,0 +1,12 @@
+{
+  "id": "r136",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1 AND (38263665 OR 36379578 OR 38739464 OR 30707351 OR 35149194)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'SAT1 AND (38263665 OR 36379578 OR 38739464 OR 30707351 OR 35149194)'; showing 0 (PubMed read it as: \"SAT1\"[All Fields] AND (38263665[UID] OR 36379578[UID] OR 38739464[UID] OR 30707351[UID] OR 35149194[UID]))",
+  "ok": true,
+  "evidence": []
+}

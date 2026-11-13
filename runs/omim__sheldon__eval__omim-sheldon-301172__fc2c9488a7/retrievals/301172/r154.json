@@ -1,0 +1,253 @@
+{
+  "id": "r154",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "30073059",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "95 'similar' links for PMID 30073059; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38343588",
+      "title": "Phylotranscriptomic discordance is best explained by incomplete lineage sorting within Allium subgenus Cyathophora and thus hemiplasy accounts for interspecific trait transition.",
+      "first_author": "Zhang Z",
+      "year": "2024",
+      "journal": "Plant Divers",
+      "doi": "10.1016/j.pld.2023.07.004",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25281848",
+      "title": "From gene trees to a dated allopolyploid network: insights from the angiosperm genus Viola (Violaceae).",
+      "first_author": "Marcussen T",
+      "year": "2015",
+      "journal": "Syst Biol",
+      "doi": "10.1093/sysbio/syu071",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17520504",
+      "title": "Estimating species phylogeny from gene-tree probabilities despite incomplete lineage sorting: an example from Melanoplus grasshoppers.",
+      "first_author": "Carstens BC",
+      "year": "2007",
+      "journal": "Syst Biol",
+      "doi": "10.1080/10635150701405560",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "29087487",
+      "title": "Coalescent-Based Analyses of Genomic Sequence Data Provide a Robust Resolution of Phylogenetic Relationships among Major Groups of Gibbons.",
+      "first_author": "Shi CM",
+      "year": "2018",
+      "journal": "Mol Biol Evol",
+      "doi": "10.1093/molbev/msx277",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35498660",
+      "title": "Localized Phylogenetic Discordance Among Nuclear Loci Due to Incomplete Lineage Sorting and Introgression in the Family of Cotton and Cacao (Malvaceae).",
+      "first_author": "Hern\u00e1ndez-Guti\u00e9rrez R",
+      "year": "2022",
+      "journal": "Front Plant Sci",
+      "doi": "10.3389/fpls.2022.850521",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29029338",
+      "title": "To Include or Not to Include: The Impact of Gene Filtering on Species Tree Estimation Methods.",
+      "first_author": "Molloy EK",
+      "year": "2018",
+      "journal": "Syst Biol",
+      "doi": "10.1093/sysbio/syx077",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "29710372",
+      "title": "A matter of phylogenetic scale: Distinguishing incomplete lineage sorting from lateral gene transfer as the cause of gene tree discord in recent versus deep diversification histories.",
+      "first_author": "Knowles LL",
+      "year": "2018",
+      "journal": "Am J Bot",
+      "doi": "10.1002/ajb2.1064",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34677617",
+      "title": "Theoretical and Practical Considerations when using Retroelement Insertions to Estimate Species Trees in the Anomaly Zone.",
+      "first_author": "Molloy EK",
+      "year": "2022",
+      "journal": "Syst Biol",
+      "doi": "10.1093/sysbio/syab086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30565862",
+      "title": "Cryptic diversity in the Mexican highlands: Thousands of UCE loci help illuminate phylogenetic relationships, species limits and divergence times of montane rattlesnakes (Viperidae: Crotalus).",
+      "first_author": "Blair C",
+      "year": "2019",
+      "journal": "Mol Ecol Resour",
+      "doi": "10.1111/1755-0998.12970",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28177088",
+      "title": "Using Genomic Location and Coalescent Simulation to Investigate Gene Tree Discordance in Medicago L.",
+      "first_author": "Sousa F",
+      "year": "2017",
+      "journal": "Syst Biol",
+      "doi": "10.1093/sysbio/syx035",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33507304",
+      "title": "A Total-Group Phylogenetic Metatree for Cetacea and the Importance of Fossil Data in Diversification Analyses.",
+      "first_author": "Lloyd GT",
+      "year": "2021",
+      "journal": "Syst Biol",
+      "doi": "10.1093/sysbio/syab002",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28431121",
+      "title": "StarBEAST2 Brings Faster Species Tree Inference and Accurate Estimates of Substitution Rates.",
+      "first_author": "Ogilvie HA",
+      "year": "2017",
+      "journal": "Mol Biol Evol",
+      "doi": "10.1093/molbev/msx126",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29788398",
+      "title": "Inferring Diversification Rate Variation From Phylogenies With Fossils.",
+      "first_author": "Mitchell JS",
+      "year": "2019",
+      "journal": "Syst Biol",
+      "doi": "10.1093/sysbio/syy035",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "25450097",
+      "title": "Applying species-tree analyses to deep phylogenetic histories: challenges and potential suggested from a survey of empirical phylogenetic studies.",
+      "first_author": "Lanier HC",
+      "year": "2015",
+      "journal": "Mol Phylogenet Evol",
+      "doi": "10.1016/j.ympev.2014.10.022",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "31024760",
+      "title": "The synergistic effect of concatenation in phylogenomics: the case in Pantoea.",
+      "first_author": "Palmer M",
+      "year": "2019",
+      "journal": "PeerJ",
+      "doi": "10.7717/peerj.6698",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29272547",
+      "title": "Detecting Environment-Dependent Diversification From Phylogenies: A Simulation Study and Some Empirical Illustrations.",
+      "first_author": "Lewitus E",
+      "year": "2018",
+      "journal": "Syst Biol",
+      "doi": "10.1093/sysbio/syx095",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27927902",
+      "title": "Challenges in Species Tree Estimation Under the Multispecies Coalescent Model.",
+      "first_author": "Xu B",
+      "year": "2016",
+      "journal": "Genetics",
+      "doi": "10.1534/genetics.116.190173",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25431481",
+      "title": "Coalescent methods are robust to the simultaneous effects of long branches and incomplete lineage sorting.",
+      "first_author": "Liu L",
+      "year": "2015",
+      "journal": "Mol Biol Evol",
+      "doi": "10.1093/molbev/msu331",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35689633",
+      "title": "Species Tree Estimation and the Impact of Gene Loss Following Whole-Genome Duplication.",
+      "first_author": "Xiong H",
+      "year": "2022",
+      "journal": "Syst Biol",
+      "doi": "10.1093/sysbio/syac040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18845264",
+      "title": "Does gene flow destroy phylogenetic signal? The performance of three methods for estimating species phylogenies in the presence of gene flow.",
+      "first_author": "Eckert AJ",
+      "year": "2008",
+      "journal": "Mol Phylogenet Evol",
+      "doi": "10.1016/j.ympev.2008.09.008",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article"
+      ]
+    }
+  ]
+}

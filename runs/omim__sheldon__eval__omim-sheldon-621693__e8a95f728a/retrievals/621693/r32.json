@@ -1,0 +1,12 @@
+{
+  "id": "r32",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (family[tiab] OR pedigree[tiab] OR case[tiab] OR variant[tiab]) AND (parkinsonism[tiab] OR Parkinson[tiab])",
+    "max_results": 20,
+    "sort": "pub_date"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (family[tiab] OR pedigree[tiab] OR case[tiab] OR variant[tiab]) AND (parkinsonism[tiab] OR Parkinson[tiab])'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"family\"[Title/Abstract] OR \"pedigree\"[Title/Abstract] OR \"case\"[Title/Abstract] OR \"variant\"[Title/Abstract]) AND (\"parkinsonism\"[Title/Abstract] OR \"Parkinson\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": []
+}

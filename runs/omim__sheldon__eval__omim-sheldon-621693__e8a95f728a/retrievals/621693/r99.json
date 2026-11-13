@@ -1,0 +1,162 @@
+{
+  "id": "r99",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(PSMF1[tiab] OR PARK27[tiab] OR \"parkinson disease 27\"[tiab] OR \"autosomal recessive early-onset parkinson disease\"[tiab] OR PI31[tiab]) AND (review[pt] OR comment[pt] OR editorial[pt] OR letter[pt] OR news[pt])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "12 PubMed hits for '(PSMF1[tiab] OR PARK27[tiab] OR \"parkinson disease 27\"[tiab] OR \"autosomal recessive early-onset parkinson disease\"[tiab] OR PI31[tiab]) AND (review[pt] OR comment[pt] OR editorial[pt] OR letter[pt] OR news[pt])'; showing 12 (PubMed read it as: (\"PSMF1\"[Title/Abstract] OR \"autosomal recessive early-onset parkinson disease\"[Title/Abstract] OR \"PI31\"[Title/Abstract]) AND (\"review\"[Publication Type] OR \"comment\"[Publication Type] OR \"editorial\"[Publication Type] OR \"letter\"[Publication Type] OR \"news\"[Publication Type]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "16250896",
+      "title": "Proteasomes.",
+      "first_author": "Dahlmann B",
+      "year": "2005",
+      "journal": "Essays Biochem",
+      "doi": "10.1042/EB0410031",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41796444",
+      "title": "Magical moments in protease biology: proteasome autocatalytic activation and PI31-mediated inhibition.",
+      "first_author": "Rajakumar T",
+      "year": "2026",
+      "journal": "Trends Biochem Sci",
+      "doi": "10.1016/j.tibs.2026.02.003",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "10363639",
+      "title": "The proteasome-dependent proteolytic system.",
+      "first_author": "Tanahashi N",
+      "year": "1999",
+      "journal": "Mol Biol Rep",
+      "doi": "10.1023/a:1006909522731",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "24284401",
+      "title": "Oxidative stress mechanisms underlying Parkinson's disease-associated neurodegeneration in C. elegans.",
+      "first_author": "Chakraborty S",
+      "year": "2013",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms141123103",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "35699891",
+      "title": "The Role of PTEN-L in Modulating PINK1-Parkin-Mediated Mitophagy.",
+      "first_author": "Eldeeb MA",
+      "year": "2022",
+      "journal": "Neurotox Res",
+      "doi": "10.1007/s12640-022-00475-w",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42270400",
+      "title": "Glyoxalase activities of Parkinson's disease relevant protein DJ-1/PARK7: Past discoveries and future perspectives.",
+      "first_author": "Ogiwara S",
+      "year": "2026",
+      "journal": "Proc Jpn Acad Ser B Phys Biol Sci",
+      "doi": "10.2183/pjab.102.015",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "24107298",
+      "title": "Beyond ubiquitination: the atypical functions of Fbxo7 and other F-box proteins.",
+      "first_author": "Nelson DE",
+      "year": "2013",
+      "journal": "Open Biol",
+      "doi": "10.1098/rsob.130131",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32274753",
+      "title": "The Proteasome System in Health and Disease.",
+      "first_author": "Coux O",
+      "year": "2020",
+      "journal": "Adv Exp Med Biol",
+      "doi": "10.1007/978-3-030-38266-7_3",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "16407572",
+      "title": "Lessons from Drosophila models of DJ-1 deficiency.",
+      "first_author": "Moore DJ",
+      "year": "2006",
+      "journal": "Sci Aging Knowledge Environ",
+      "doi": "10.1126/sageke.2006.2.pe2",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

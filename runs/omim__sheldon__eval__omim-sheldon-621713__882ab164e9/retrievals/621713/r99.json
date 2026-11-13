@@ -1,0 +1,135 @@
+{
+  "id": "r99",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "12237944",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "11 'cited_by' links for PMID 12237944; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41143332",
+      "title": "Broad H3K4me3 domains support oocyte genome silencing and maturation but are dispensable for repression in early embryos.",
+      "first_author": "Skuland T",
+      "year": "2025",
+      "journal": "Development",
+      "doi": "10.1242/dev.204638",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39484643",
+      "title": "Animal Wellness: The Power of Multiomics and Integrative Strategies: Multiomics in Improving Animal Health.",
+      "first_author": "Choudhary RK",
+      "year": "2024",
+      "journal": "Vet Med Int",
+      "doi": "10.1155/2024/4125118",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "24804254",
+      "title": "Proteomes of animal oocytes: what can we learn for human oocytes in the in vitro fertilization programme?",
+      "first_author": "Virant-Klun I",
+      "year": "2014",
+      "journal": "Biomed Res Int",
+      "doi": "10.1155/2014/856907",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "24723138",
+      "title": "RNAi silencing of the SoxE gene suppresses cell proliferation in silkworm BmN4 cells.",
+      "first_author": "Wei L",
+      "year": "2014",
+      "journal": "Mol Biol Rep",
+      "doi": "10.1007/s11033-014-3348-6",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24273164",
+      "title": "The centrosomal adaptor TACC3 and the microtubule polymerase chTOG interact via defined C-terminal subdomains in an Aurora-A kinase-independent manner.",
+      "first_author": "Thakur HC",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M113.532333",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21757510",
+      "title": "Control of messenger RNA fate by RNA-binding proteins: an emphasis on mammalian spermatogenesis.",
+      "first_author": "Idler RK",
+      "year": "2012",
+      "journal": "J Androl",
+      "doi": "10.2164/jandrol.111.014167",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20804727",
+      "title": "Transforming acidic coiled-coil protein-3 (Tacc3) acts as a negative regulator of Notch signaling through binding to CDC10/Ankyrin repeats.",
+      "first_author": "Bargo S",
+      "year": "2010",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2010.08.111",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "19363788",
+      "title": "Gene expression during the oocyte-to-embryo transition in mammals.",
+      "first_author": "Evsikov AV",
+      "year": "2009",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.21038",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "17241108",
+      "title": "Translational control of maskin mRNA by its 3' untranslated region.",
+      "first_author": "Meijer HA",
+      "year": "2007",
+      "journal": "Biol Cell",
+      "doi": "10.1042/BC20060112",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15207008",
+      "title": "Structure-function evolution of the transforming acidic coiled coil genes revealed by analysis of phylogenetically diverse organisms.",
+      "first_author": "Still IH",
+      "year": "2004",
+      "journal": "BMC Evol Biol",
+      "doi": "10.1186/1471-2148-4-16",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    }
+  ]
+}

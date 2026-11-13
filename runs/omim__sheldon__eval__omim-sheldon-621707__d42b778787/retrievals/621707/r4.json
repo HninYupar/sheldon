@@ -1,0 +1,121 @@
+{
+  "id": "r4",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "40926810",
+      "39298586",
+      "19282110",
+      "36699383"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "authors": [
+        "Lamborn IT",
+        "Jing H",
+        "Chattopadhyay E",
+        "Ham H",
+        "Zhang Y",
+        "Su HC"
+      ],
+      "year": "2025",
+      "journal": "Journal of human immunity",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Inborn errors of immunity (IEI) presenting with immunodeficiency and autoimmunity can illuminate pathways essential for immunocompetence and self-tolerance. We recently characterized a new IEI named MAGIS (\"Midline malformations of the brain, Anterior pituitary gland dysfunction, Growth retardation, Immunodysregulation/immunodeficiency, and Skeletal defects\") caused by heterozygous germline activating mutations in GNAI2 (encoding the heterotrimeric G-protein, G\u03b1i2). This disorder demonstrates the central role of G\u03b1i2 regulation of chemotaxis in humans and a novel pathway by which G-proteins regulate T-cell activation. Here, we review the clinical features, current genetic and biochemical understanding, and future therapeutic considerations for this new syndromic immune dysregulation disorder."
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "authors": [
+        "Ham H",
+        "Jing H",
+        "Lamborn IT",
+        "Kober MM",
+        "Koval A",
+        "Berchiche YA",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Humans",
+        "Cell Movement",
+        "Cell Proliferation",
+        "Germ-Line Mutation",
+        "GTP-Binding Protein alpha Subunit, Gi2",
+        "Immunity",
+        "MAP Kinase Signaling System",
+        "Phosphatidylinositol 3-Kinases",
+        "Proto-Oncogene Proteins c-akt",
+        "ras GTPase-Activating Proteins",
+        "ras Proteins",
+        "Receptors, Antigen, T-Cell",
+        "Signal Transduction",
+        "T-Lymphocytes",
+        "Pedigree"
+      ],
+      "abstract": "Humans with monogenic inborn errors responsible for extreme disease phenotypes can reveal essential physiological pathways. We investigated germline mutations in GNAI2, which encodes G\u03b1i2, a key component in heterotrimeric G protein signal transduction usually thought to regulate adenylyl cyclase-mediated cyclic adenosine monophosphate (cAMP) production. Patients with activating G\u03b1i2 mutations had clinical presentations that included impaired immunity. Mutant G\u03b1i2 impaired cell migration and augmented responses to T cell receptor (TCR) stimulation. We found that mutant G\u03b1i2 influenced TCR signaling by sequestering the guanosine triphosphatase (GTPase)-activating protein RASA2, thereby promoting RAS activation and increasing downstream extracellular signal-regulated kinase (ERK)/mitogen-activated protein kinase (MAPK) and phosphatidylinositol 3-kinase (PI3K)-AKT S6 signaling to drive cellular growth and proliferation."
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "authors": [
+        "Huang X",
+        "Fu Y",
+        "Charbeneau RA",
+        "Neubig RR"
+      ],
+      "year": "2009",
+      "journal": "Medical hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Animals",
+        "GTP-Binding Protein alpha Subunit, Gi2",
+        "GTP-Binding Proteins",
+        "Humans",
+        "Mice",
+        "Models, Biological",
+        "Noonan Syndrome",
+        "Signal Transduction"
+      ],
+      "abstract": "Noonan syndrome (NS OMIM 163950) is a relatively common autosomal dominant developmental disorder characterized by short stature, specific facial features, and congenital cardiac anomalies. Approximately 50-66% of cases have defined mutations in the K-ras/Raf/MEK/ERK pathway that lead to constitutive signaling, but a significant number remain unexplained. We hypothesize that enhanced signaling through Galpha(i2) (from the GNAI2 gene) may also produce a NS-like phenotype. This is based on a recently described mouse model in which RGS-mediated inhibition of Galpha(i2) is prevented by a knock-in mutation (G184S) that blocks RGS binding [Huang et al., Mol. Cell. Biol. 2006;26:6870-9]. The mice have short body length, cardiac hypertrophy, a triangular face with wide-set eyes and ears, and hematologic alterations. There is a slight increase in ERK activation and a pronounced enhancement of PI3K/Akt phosphorylation in MEFs from these mice suggesting that abnormal increases in Galpha(i2) signaling could represent a novel upstream mechanism for NS. This suggests a novel set of candidate genes for NS (GNAI2 and RGS proteins) and if validated could have important implications for therapy as well."
+    },
+    {
+      "pmid": "36699383",
+      "title": "MAGI-MS: multiple seed-centric module discovery.",
+      "authors": [
+        "Chow JC",
+        "Zhou R",
+        "Hormozdiari F"
+      ],
+      "year": "2022",
+      "journal": "Bioinformatics advances",
+      "doi": "10.1093/bioadv/vbac025",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "SUMMARY: Complex disorders manifest by the interaction of multiple genetic and environmental factors. Through the construction of genetic modules that consist of highly coexpressed genes, it is possible to identify genes that participate in common biological pathways relevant to specific phenotypes. We have previously developed tools MAGI and MAGI-S for genetic module discovery by incorporating coexpression and protein interaction networks. Here, we introduce an extension to MAGI-S, denoted as Merging Affected Genes into Integrated Networks-Multiple Seeds (MAGI-MS), which permits the user to further specify a disease pathway of interest by selecting multiple seed genes likely to function in the same molecular mechanism. By providing MAGI-MS with seed genes involved in processes underlying certain classes of neurodevelopmental disorders, such as epilepsy, we demonstrate that MAGI-MS can reveal modules enriched in genes relevant to chemical synaptic transmission, glutamatergic synapse and other functions associated with the provided seed genes.\nAVAILABILITY AND IMPLEMENTATION: MAGI-MS is free and available at https://github.com/jchow32/MAGI-MS.\nSUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics Advances online."
+    }
+  ]
+}

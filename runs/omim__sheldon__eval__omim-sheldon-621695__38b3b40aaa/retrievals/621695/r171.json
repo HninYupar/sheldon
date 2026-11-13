@@ -1,0 +1,12 @@
+{
+  "id": "r171",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (arthrogryposis[tiab] OR arthrogryposis multiplex congenita[tiab] OR congenital contractures[tiab] OR neuromuscular[tiab] OR hypotonia[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (arthrogryposis[tiab] OR arthrogryposis multiplex congenita[tiab] OR congenital contractures[tiab] OR neuromuscular[tiab] OR hypotonia[tiab])'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"arthrogryposis\"[Title/Abstract] OR \"arthrogryposis multiplex congenita\"[Title/Abstract] OR \"congenital contractures\"[Title/Abstract] OR \"neuromuscular\"[Title/Abstract] OR \"hypotonia\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": []
+}

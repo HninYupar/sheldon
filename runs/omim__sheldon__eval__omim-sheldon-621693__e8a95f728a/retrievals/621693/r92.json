@@ -1,0 +1,47 @@
+{
+  "id": "r92",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND (fibroblast OR mouse OR drosophila OR mitochondrial) AND Parkinson",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for 'PSMF1[tiab] AND (fibroblast OR mouse OR drosophila OR mitochondrial) AND Parkinson'; showing 3 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields] OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields]) OR (\"drosophila\"[MeSH Terms] OR \"drosophila\"[All Fields] OR \"drosophilas\"[All Fields] OR \"drosophila s\"[All Fields]) OR (\"mitochondria\"[MeSH Terms] OR \"mitochondria\"[All Fields] OR \"mitochondrial\"[All Fields] OR \"mitochondrially\"[All Fields] OR \"mitochondrials\"[All Fields])) AND (\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR \"parkinson s\"[All Fields] OR \"parkinsons\"[All Fields] OR \"parkinson\"[All Fields] OR \"parkinsonian disorders\"[MeSH Terms] OR (\"parkinsonian\"[All Fields] AND \"disorders\"[All Fields]) OR \"parkinsonian disorders\"[All Fields] OR \"parkinsonism\"[All Fields] OR \"parkinsonisms\"[All Fields] OR \"parkinsons s\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

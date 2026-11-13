@@ -1,0 +1,12 @@
+{
+  "id": "r50",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"bi-allelic ATG12\"[tiab] OR \"biallelic ATG12\"[tiab] OR \"ATG12 variants\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"bi-allelic ATG12\"[tiab] OR \"biallelic ATG12\"[tiab] OR \"ATG12 variants\"[tiab]'; showing 0 (PubMed read it as: \"bi-allelic ATG12\"[tiab] OR \"biallelic ATG12\"[tiab] OR \"ATG12 variants\"[tiab])",
+  "ok": true,
+  "evidence": []
+}

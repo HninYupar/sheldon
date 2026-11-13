@@ -1,0 +1,138 @@
+{
+  "id": "r183",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (\"functional\"[tiab] OR electrophysiology[tiab] OR patch clamp[tiab] OR current[tiab]) AND (R1349Q[tiab] OR R583Q[tiab] OR R1667W[tiab] OR E1115K[tiab] OR D287N[tiab] OR S218L[tiab] OR T666M[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "10 PubMed hits for 'CACNA1A[gene] AND (\"functional\"[tiab] OR electrophysiology[tiab] OR patch clamp[tiab] OR current[tiab]) AND (R1349Q[tiab] OR R583Q[tiab] OR R1667W[tiab] OR E1115K[tiab] OR D287N[tiab] OR S218L[tiab] OR T666M[tiab])'; showing 10 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"functional\"[Title/Abstract] OR \"electrophysiology\"[Title/Abstract] OR \"patch clamp\"[Title/Abstract] OR \"current\"[Title/Abstract]) AND (\"R1349Q\"[Title/Abstract] OR \"R583Q\"[Title/Abstract] OR \"R1667W\"[Title/Abstract] OR \"E1115K\"[Title/Abstract] OR \"D287N\"[Title/Abstract] OR \"S218L\"[Title/Abstract] OR \"T666M\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "30080864",
+      "title": "Drosophila CaV2 channels harboring human migraine mutations cause synapse hyperexcitability that can be suppressed by inhibition of a Ca2+ store release pathway.",
+      "first_author": "Brusich DJ",
+      "year": "2018",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1007577",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23115190",
+      "title": "Cerebellar ataxia by enhanced Ca(V)2.1 currents is alleviated by Ca2+-dependent K+-channel activators in Cacna1a(S218L) mutant mice.",
+      "first_author": "Gao Z",
+      "year": "2012",
+      "journal": "J Neurosci",
+      "doi": "10.1523/JNEUROSCI.2454-12.2012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23165010",
+      "title": "Calcium channels and migraine.",
+      "first_author": "Pietrobon D",
+      "year": "2013",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbamem.2012.11.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "23407676",
+      "title": "Cerebellar ataxia, hemiplegic migraine, and related phenotypes due to a CACNA1A missense mutation: 12-year follow-up of a large Portuguese family.",
+      "first_author": "Barros J",
+      "year": "2013",
+      "journal": "JAMA Neurol",
+      "doi": "10.1001/jamaneurol.2013.591",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35238776",
+      "title": "Ca(V)2.1 channel mutations causing familial hemiplegic migraine type 1 increase the susceptibility for cortical spreading depolarizations and seizures and worsen outcome after experimental traumatic brain injury.",
+      "first_author": "Terpolilli NA",
+      "year": "2022",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.74923",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "26208839",
+      "title": "Differential cerebellar GABAA receptor expression in mice with mutations in CaV2.1 (P/Q-type) calcium channels.",
+      "first_author": "Kaja S",
+      "year": "2015",
+      "journal": "Neuroscience",
+      "doi": "10.1016/j.neuroscience.2015.07.044",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39568055",
+      "title": "A structural analysis of the splice-specific functional impact of the pathogenic familial hemiplegic migraine type 1 S218L mutation on Ca(v)2.1 P/Q-type channel gating.",
+      "first_author": "Sack AS",
+      "year": "2024",
+      "journal": "Mol Brain",
+      "doi": "10.1186/s13041-024-01152-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "10024348",
+      "title": "Functional consequences of mutations in the human alpha1A calcium channel subunit linked to familial hemiplegic migraine.",
+      "first_author": "Hans M",
+      "year": "1999",
+      "journal": "J Neurosci",
+      "doi": "10.1523/JNEUROSCI.19-05-01610.1999",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24849341",
+      "title": "Synaptic gain-of-function effects of mutant Cav2.1 channels in a mouse model of familial hemiplegic migraine are due to increased basal [Ca2+]i.",
+      "first_author": "Di Guilmi MN",
+      "year": "2014",
+      "journal": "J Neurosci",
+      "doi": "10.1523/JNEUROSCI.2526-13.2014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18581134",
+      "title": "The S218L familial hemiplegic migraine mutation promotes deinhibition of Ca(v)2.1 calcium channels during direct G-protein regulation.",
+      "first_author": "Weiss N",
+      "year": "2008",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-008-0541-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

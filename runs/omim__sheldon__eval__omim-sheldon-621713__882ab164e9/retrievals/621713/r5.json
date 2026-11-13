@@ -1,0 +1,25 @@
+{
+  "id": "r5",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[tiab] AND (\"whole-exome\"[tiab] OR WES[tiab] OR sequencing[tiab] OR homozygous[tiab] OR compound heterozygous[tiab]) AND infertility[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'TACC3[tiab] AND (\"whole-exome\"[tiab] OR WES[tiab] OR sequencing[tiab] OR homozygous[tiab] OR compound heterozygous[tiab]) AND infertility[tiab]'; showing 1 (PubMed read it as: \"TACC3\"[Title/Abstract] AND (\"whole-exome\"[Title/Abstract] OR \"WES\"[Title/Abstract] OR \"sequencing\"[Title/Abstract] OR \"homozygous\"[Title/Abstract] OR \"compound heterozygous\"[Title/Abstract]) AND \"infertility\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

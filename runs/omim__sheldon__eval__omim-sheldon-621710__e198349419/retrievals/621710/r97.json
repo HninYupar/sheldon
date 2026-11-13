@@ -1,0 +1,257 @@
+{
+  "id": "r97",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND autophagy AND (human OR patients)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "805 PubMed hits for 'ATG12[gene] AND autophagy AND (human OR patients)'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"autophagies\"[All Fields] OR \"autophagy\"[MeSH Terms] OR \"autophagy\"[All Fields] OR \"autophagy s\"[All Fields]) AND (\"human s\"[All Fields] OR \"humans\"[MeSH Terms] OR \"humans\"[All Fields] OR \"human\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31969156",
+      "title": "Autophagy and autophagy-related proteins in cancer.",
+      "first_author": "Li X",
+      "year": "2020",
+      "journal": "Mol Cancer",
+      "doi": "10.1186/s12943-020-1138-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39087410",
+      "title": "ZDHHC7-mediated S-palmitoylation of ATG16L1 facilitates LC3 lipidation and autophagosome formation.",
+      "first_author": "Wei F",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2386915",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35222638",
+      "title": "Deficient Autophagy in Microglia Aggravates Repeated Social Defeat Stress-Induced Social Avoidance.",
+      "first_author": "Sakai M",
+      "year": "2022",
+      "journal": "Neural Plast",
+      "doi": "10.1155/2022/7503553",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21175768",
+      "title": "Autophagy basics.",
+      "first_author": "Tanida I",
+      "year": "2011",
+      "journal": "Microbiol Immunol",
+      "doi": "10.1111/j.1348-0421.2010.00271.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31020708",
+      "title": "Pleotropic role of RNA binding protein CELF2 in autophagy induction.",
+      "first_author": "New J",
+      "year": "2019",
+      "journal": "Mol Carcinog",
+      "doi": "10.1002/mc.23023",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37039556",
+      "title": "NR3C1/Glucocorticoid receptor activation promotes pancreatic \u03b2-cell autophagy overload in response to glucolipotoxicity.",
+      "first_author": "Wu T",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2023.2200625",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33033362",
+      "title": "Macrophage scavenger receptor 1 controls Chikungunya virus infection through autophagy in mice.",
+      "first_author": "Yang L",
+      "year": "2020",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-020-01285-6",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33709560",
+      "title": "Quercetin induces pro-apoptotic autophagy via SIRT1/AMPK signaling pathway in human lung cancer cell lines A549 and H1299 in vitro.",
+      "first_author": "Guo H",
+      "year": "2021",
+      "journal": "Thorac Cancer",
+      "doi": "10.1111/1759-7714.13925",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26286850",
+      "title": "Proteasome inhibitors induce FLT3-ITD degradation through autophagy in AML cells.",
+      "first_author": "Larrue C",
+      "year": "2016",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2015-05-646497",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36095096",
+      "title": "Apicoplast biogenesis mediated by ATG8 requires the ATG12-ATG5-ATG16L and SNAP29 complexes in Toxoplasma gondii.",
+      "first_author": "Fu J",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2123639",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31905032",
+      "title": "Crimean-Congo hemorrhagic fever virus replication imposes hyper-lipidation of MAP1LC3 in epithelial cells.",
+      "first_author": "Moroso M",
+      "year": "2020",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2019.1709765",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28160545",
+      "title": "Impact of resistance training on the autophagy-inflammation-apoptosis crosstalk in elderly subjects.",
+      "first_author": "Mej\u00edas-Pe\u00f1a Y",
+      "year": "2017",
+      "journal": "Aging (Albany NY)",
+      "doi": "10.18632/aging.101167",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40763565",
+      "title": "Targeting the ATG12-ATG3 protein-protein interaction: From structural insights to therapeutic opportunities in autophagy modulation.",
+      "first_author": "Kamel EM",
+      "year": "2025",
+      "journal": "Pathol Res Pract",
+      "doi": "10.1016/j.prp.2025.156156",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37432567",
+      "title": "Zinc Oxide Nanoparticles Trigger Autophagy in the Human Multiple Myeloma Cell Line RPMI8226: an In Vitro Study.",
+      "first_author": "Li Z",
+      "year": "2024",
+      "journal": "Biol Trace Elem Res",
+      "doi": "10.1007/s12011-023-03737-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37673390",
+      "title": "Phenothiazines reduced autophagy in ischemic stroke through endoplasmic reticulum (ER) stress-associated PERK-eIF2\u03b1 pathway.",
+      "first_author": "Lv S",
+      "year": "2023",
+      "journal": "Exp Neurol",
+      "doi": "10.1016/j.expneurol.2023.114524",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30765325",
+      "title": "miR-221/222-Mediated Inhibition of Autophagy Promotes Dexamethasone Resistance in Multiple Myeloma.",
+      "first_author": "Xu J",
+      "year": "2019",
+      "journal": "Mol Ther",
+      "doi": "10.1016/j.ymthe.2019.01.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18212533",
+      "title": "Blocking autophagy to prevent parasite differentiation: a possible new strategy for fighting parasitic infections?",
+      "first_author": "Alvarez VE",
+      "year": "2008",
+      "journal": "Autophagy",
+      "doi": "10.4161/auto.5592",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33146789",
+      "title": "In vitro study of the role of FOXO transcription factors in regulating cigarette smoke extract-induced autophagy.",
+      "first_author": "Bagam P",
+      "year": "2021",
+      "journal": "Cell Biol Toxicol",
+      "doi": "10.1007/s10565-020-09556-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30953511",
+      "title": "Long non-coding RNA GBCDRlnc1 induces chemoresistance of gallbladder cancer cells by activating autophagy.",
+      "first_author": "Cai Q",
+      "year": "2019",
+      "journal": "Mol Cancer",
+      "doi": "10.1186/s12943-019-1016-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30106666",
+      "title": "Expression of Autophagy Signaling Molecules in the Outer Membranes of Chronic Subdural Hematomas.",
+      "first_author": "Osuka K",
+      "year": "2019",
+      "journal": "J Neurotrauma",
+      "doi": "10.1089/neu.2018.5626",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

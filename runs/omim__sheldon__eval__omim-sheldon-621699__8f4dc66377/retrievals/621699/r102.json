@@ -1,0 +1,254 @@
+{
+  "id": "r102",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (loss-of-function OR homozygous OR variant OR mutation) AND humans",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "21 PubMed hits for 'SIT1[gene] AND (loss-of-function OR homozygous OR variant OR mutation) AND humans'; showing 20 (PubMed read it as: \"SIT1\"[All Fields] AND (\"loss-of-function\"[All Fields] OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields])) AND (\"human s\"[All Fields] OR \"humans\"[MeSH Terms] OR \"humans\"[All Fields] OR \"human\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38951531",
+      "title": "Structure and function of the SIT1 proline transporter in complex with the COVID-19 receptor ACE2.",
+      "first_author": "Li HZ",
+      "year": "2024",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-024-48921-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37515120",
+      "title": "Applications of the Microscale Thermophoresis Binding Assay in COVID-19 Research.",
+      "first_author": "Nydegger DT",
+      "year": "2023",
+      "journal": "Viruses",
+      "doi": "10.3390/v15071432",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33320938",
+      "title": "Drug-resistant Mycobacterium tuberculosis and its genotypes isolated from an outbreak in western Thailand.",
+      "first_author": "Rudeeaneksin J",
+      "year": "2021",
+      "journal": "Trans R Soc Trop Med Hyg",
+      "doi": "10.1093/trstmh/traa148",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19184091",
+      "title": "Kidney amino acid transport.",
+      "first_author": "Verrey F",
+      "year": "2009",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-009-0638-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41142409",
+      "title": "Mechanisms involved in aminoacidurias: impacts of genetic and environmental factors.",
+      "first_author": "Ajayi JA",
+      "year": "2025",
+      "journal": "Curr Res Physiol",
+      "doi": "10.1016/j.crphys.2025.100168",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33140827",
+      "title": "ACE2 and gut amino acid transport.",
+      "first_author": "Camargo SMR",
+      "year": "2020",
+      "journal": "Clin Sci (Lond)",
+      "doi": "10.1042/CS20200477",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32330146",
+      "title": "Genetic profiling of Mycobacterium tuberculosis revealed \"modern\" Beijing strains linked to MDR-TB from Southwestern Colombia.",
+      "first_author": "Nieto Ramirez LM",
+      "year": "2020",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0224908",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24912522",
+      "title": "Drug resistance and molecular epidemiology of Mycobacterium tuberculosis in Mexico: a systematic review.",
+      "first_author": "Flores-Trevi\u00f1o S",
+      "year": "2014",
+      "journal": "Salud Publica Mex",
+      "doi": "10.21149/spm.v56i1.7324",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "36951900",
+      "title": "Advantages of analysing both pairwise SNV-distance and differing SNVs between Mycobacterium tuberculosis isolates for recurrent tuberculosis cause determination.",
+      "first_author": "Sadovska D",
+      "year": "2023",
+      "journal": "Microb Genom",
+      "doi": "10.1099/mgen.0.000956",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12183576",
+      "title": "The siderophore iron transporter of Candida albicans (Sit1p/Arn1p) mediates uptake of ferrichrome-type siderophores and is required for epithelial invasion.",
+      "first_author": "Heymann P",
+      "year": "2002",
+      "journal": "Infect Immun",
+      "doi": "10.1128/IAI.70.9.5246-5255.2002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31299365",
+      "title": "Insight into genetic diversity of Mycobacterium tuberculosis in Kandy, Sri Lanka reveals predominance of the Euro-American lineage.",
+      "first_author": "Mendis C",
+      "year": "2019",
+      "journal": "Int J Infect Dis",
+      "doi": "10.1016/j.ijid.2019.07.001",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "14534538",
+      "title": "The phosphotyrosine phosphatase SHP2 is a critical mediator of transformation induced by the oncogenic fibroblast growth factor receptor 3.",
+      "first_author": "Agazie YM",
+      "year": "2003",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1206798",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "19657969",
+      "title": "Sodium translocation by the iminoglycinuria associated imino transporter (SLC6A20).",
+      "first_author": "Br\u00f6er A",
+      "year": "2009",
+      "journal": "Mol Membr Biol",
+      "doi": "10.1080/09687680903150027",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15814599",
+      "title": "Genome-wide expression profiling of the response to ciclopirox olamine in Candida albicans.",
+      "first_author": "Lee RE",
+      "year": "2005",
+      "journal": "J Antimicrob Chemother",
+      "doi": "10.1093/jac/dki105",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "25752595",
+      "title": "Nature and nurture: a case of transcending haematological pre-malignancies in a pair of monozygotic twins adding possible clues on the pathogenesis of B-cell proliferations.",
+      "first_author": "Hansen MC",
+      "year": "2015",
+      "journal": "Br J Haematol",
+      "doi": "10.1111/bjh.13305",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Twin Study"
+      ]
+    },
+    {
+      "pmid": "31405853",
+      "title": "ASP2397 Is a Novel Natural Compound That Exhibits Rapid and Potent Fungicidal Activity against Aspergillus Species through a Specific Transporter.",
+      "first_author": "Nakamura I",
+      "year": "2019",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.02689-18",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21394425",
+      "title": "Extremely high prevalence of multidrug resistant tuberculosis in Murmansk, Russia: a population-based study.",
+      "first_author": "M\u00e4kinen J",
+      "year": "2011",
+      "journal": "Eur J Clin Microbiol Infect Dis",
+      "doi": "10.1007/s10096-011-1200-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26064938",
+      "title": "Discrepancies in Drug Susceptibility Test for Tuberculosis Patients Resulted from the Mixed Infection and the Testing System.",
+      "first_author": "Mei Z",
+      "year": "2015",
+      "journal": "Biomed Res Int",
+      "doi": "10.1155/2015/651980",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32608016",
+      "title": "Is susceptibility to severe COVID-19 disease an inborn error of metabolism?",
+      "first_author": "Clayton PT",
+      "year": "2020",
+      "journal": "J Inherit Metab Dis",
+      "doi": "10.1002/jimd.12280",
+      "pubtype": [
+        "Letter"
+      ]
+    }
+  ]
+}

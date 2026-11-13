@@ -1,0 +1,137 @@
+{
+  "id": "r110",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (fibroblast OR HEK293 OR mitochondria OR synapse OR neuronal survival OR axonal transport)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "10 PubMed hits for 'PSMF1[gene] AND (fibroblast OR HEK293 OR mitochondria OR synapse OR neuronal survival OR axonal transport)'; showing 10 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields] OR (\"hek293\"[All Fields] OR \"hek293e\"[All Fields] OR \"hek293s\"[All Fields]) OR (\"mitochondria\"[MeSH Terms] OR \"mitochondria\"[All Fields] OR \"mitochondria s\"[All Fields] OR \"mitochondriae\"[All Fields] OR \"mitochondrias\"[All Fields]) OR (\"synapse s\"[All Fields] OR \"synapsed\"[All Fields] OR \"synapses\"[MeSH Terms] OR \"synapses\"[All Fields] OR \"synapse\"[All Fields] OR \"synapsing\"[All Fields]) OR ((\"neuron s\"[All Fields] OR \"neuronal\"[All Fields] OR \"neuronally\"[All Fields] OR \"neuronals\"[All Fields] OR \"neurone s\"[All Fields] OR \"neurones\"[All Fields] OR \"neuronic\"[All Fields] OR \"neurons\"[MeSH Terms] OR \"neurons\"[All Fields] OR \"neuron\"[All Fields] OR \"neurone\"[All Fields]) AND (\"mortality\"[MeSH Subheading] OR \"mortality\"[All Fields] OR \"survival\"[All Fields] OR \"survival\"[MeSH Terms] OR \"survivability\"[All Fields] OR \"survivable\"[All Fields] OR \"survivals\"[All Fields] OR \"survive\"[All Fields] OR \"survived\"[All Fields] OR \"survives\"[All Fields] OR \"surviving\"[All Fields])) OR (\"axonal transport\"[MeSH Terms] OR (\"axonal\"[All Fields] AND \"transport\"[All Fields]) OR \"axonal transport\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31327739",
+      "title": "PI31 Is an Adaptor Protein for Proteasome Transport in Axons and Required for Synaptic Development.",
+      "first_author": "Liu K",
+      "year": "2019",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2019.06.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "first_author": "Li X",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "28031328",
+      "title": "Interactome Analysis Reveals a Novel Role for RAD6 in the Regulation of Proteasome Activity and Localization in Response to DNA Damage.",
+      "first_author": "An H",
+      "year": "2017",
+      "journal": "Mol Cell Biol",
+      "doi": "10.1128/MCB.00419-16",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "1447206",
+      "title": "Two related genes encoding extremely hydrophobic proteins suppress a lethal mutation in the yeast mitochondrial processing enhancing protein.",
+      "first_author": "West AH",
+      "year": "1992",
+      "journal": "J Biol Chem",
+      "doi": "",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "21909130",
+      "title": "AKT induces senescence in human cells via mTORC1 and p53 in the absence of DNA damage: implications for targeting mTOR during malignancy.",
+      "first_author": "Astle MV",
+      "year": "2012",
+      "journal": "Oncogene",
+      "doi": "10.1038/onc.2011.394",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

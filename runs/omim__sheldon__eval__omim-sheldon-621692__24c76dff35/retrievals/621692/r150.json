@@ -1,0 +1,160 @@
+{
+  "id": "r150",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "35722745",
+      "23934111",
+      "32593896",
+      "25877686"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "authors": [
+        "Lipman AR",
+        "Fan X",
+        "Shen Y",
+        "Chung WK"
+      ],
+      "year": "2022",
+      "journal": "Clinical genetics",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Autism Spectrum Disorder",
+        "Calcium Channels",
+        "Humans",
+        "Nystagmus, Pathologic",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Pathogenic variants in the CACNA1A gene have been associated with episodic ataxia type 2, familial hemiplegic migraine, and spinocerebellar ataxia 6. With increasing use of clinical genetic testing, associations have expanded to include developmental delay, epilepsy, paroxysmal dystonia, and neuropsychiatric disorders. We report 47 individuals with 33 unique likely pathogenic or pathogenic CACNA1A variants. A machine learning method, funNCion, was used to predict loss-of-function (LoF)/gain-of-function (GoF) impact of genetic variants, and a heuristic severity score was designed to analyze genotype/phenotype correlations. Commonly reported phenotypes include developmental delay/intellectual disability (96%), hemiplegic migraines (36%), episodic ataxia type 2 (32%), epilepsy (55%), autism spectrum disorder (23%), and paroxysmal tonic upward gaze (36%). Severity score was significantly higher for predicted GoF variants, variants in the S5/S6 helices, and the recurrent p.Val1392Met variant. Seizures/status epilepticus were correlated with GoF and were more frequent in those with the p.Val1392Met variant. Our findings demonstrate a breadth of disease severity in CACNA1A-related disease and suggest that the clinical phenotypic heterogeneity likely reflects diverse molecular phenotypes. A better understanding of the natural history of CACNA1A-related disease and genotype/phenotype correlations will help inform prognosis and prepare for future clinical trials."
+    },
+    {
+      "pmid": "23934111",
+      "title": "De novo mutations in epileptic encephalopathies.",
+      "authors": [
+        "Epi4K Consortium",
+        "Epilepsy Phenome/Genome Project",
+        "Allen AS",
+        "Berkovic SF",
+        "Cossette P",
+        "Delanty N",
+        "et al."
+      ],
+      "year": "2013",
+      "journal": "Nature",
+      "doi": "10.1038/nature12439",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, American Recovery and Reinvestment Act",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Child Development Disorders, Pervasive",
+        "Cohort Studies",
+        "Exome",
+        "Female",
+        "Fragile X Messenger Ribonucleoprotein 1",
+        "Genetic Predisposition to Disease",
+        "Humans",
+        "Infant",
+        "Intellectual Disability",
+        "Lennox Gastaut Syndrome",
+        "Male",
+        "Mutation",
+        "Mutation Rate",
+        "N-Acetylglucosaminyltransferases",
+        "Probability",
+        "Receptors, GABA-A",
+        "Spasms, Infantile"
+      ],
+      "abstract": "Epileptic encephalopathies are a devastating group of severe childhood epilepsy disorders for which the cause is often unknown. Here we report a screen for de novo mutations in patients with two classical epileptic encephalopathies: infantile spasms (n = 149) and Lennox-Gastaut syndrome (n = 115). We sequenced the exomes of 264 probands, and their parents, and confirmed 329 de novo mutations. A likelihood analysis showed a significant excess of de novo mutations in the \u223c4,000 genes that are the most intolerant to functional genetic variation in the human population (P = 2.9\u2009\u00d7\u200910(-3)). Among these are GABRB3, with de novo mutations in four patients, and ALG13, with the same de novo mutation in two patients; both genes show clear statistical evidence of association with epileptic encephalopathy. Given the relevant site-specific mutation rates, the probabilities of these outcomes occurring by chance are P = 4.1\u2009\u00d7\u200910(-10) and P = 7.8\u2009\u00d7\u200910(-12), respectively. Other genes with de novo mutations in this cohort include CACNA1A, CHD2, FLNA, GABRA1, GRIN1, GRIN2B, HNRNPU, IQSEC2, MTOR and NEDD4L. Finally, we show that the de novo mutations observed are enriched in specific gene sets including genes regulated by the fragile X protein (P\u2009<\u200910(-8)), as has been reported previously for autism spectrum disorders."
+    },
+    {
+      "pmid": "32593896",
+      "title": "Genotype-phenotype correlates of infantile-onset developmental & epileptic encephalopathy syndromes in South India: A single centre experience.",
+      "authors": [
+        "Mitta N",
+        "Menon RN",
+        "McTague A",
+        "Radhakrishnan A",
+        "Sundaram S",
+        "Cherian A",
+        "et al."
+      ],
+      "year": "2020",
+      "journal": "Epilepsy research",
+      "doi": "10.1016/j.eplepsyres.2020.106398",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Brain Diseases",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Genetic Testing",
+        "Genotype",
+        "Humans",
+        "India",
+        "Infant",
+        "Male",
+        "Phenotype",
+        "Retrospective Studies",
+        "Spasms, Infantile",
+        "Syndrome"
+      ],
+      "abstract": "INTRODUCTION: A paucity of literature exists on genotype- phenotype correlates of 'unknown-etiology' infantile-onset developmental-epileptic encephalopathies (DEE) from India. The primary objective was to explore the yield of genetic testing in identifying potential disease causing variants in electro-clinical phenotypes of DEE METHODS: An observational hospital-based study was undertaken on children with unexplained refractory seizure-onset \u226412 months age and developmental delay, whose families consented and underwent genetic testing during a three year time period (2016-2018) by next-generation sequencing (NGS) or multiplex ligand protein amplification. Yield was considered based on demonstration of pathogenic/likely pathogenic variants only and variants of unknown significance (VUS) were documented.\nRESULTS: Pathogenic/likely pathogenic variants were identified in 26 (31.7 %) out of 82 children with DEE. These included those variants responsible for primarily DEE- 21(76.7 %); neuro-metabolic disorders- 3(18.6 %) and chromosomal deletions- 2(4.7 %). Of these patients, early-infantile epilepsy onset \u2264 6 months age was noted in 22(84.6 %). The DEE studied included Ohtahara syndrome associated with STXBP1 and SCN8A variants with yield of 50 % (2/4 tested); early myoclonic encephalopathy (no yield in 2); West syndrome with CDKL5, yield of 13.3 % (2/15 tested); epilepsy of infancy with migrating partial seizures due to CACNA1A and KCNT1 variants, yield of 67 % (2/3 tested); DEE-unclassified with KCNQ2, AP3B2, ZEB2, metabolic variants (SUOX, ALDH7A1, GLDC) and chromosome deletions (chr 1p36, chr2q24.3); yield of 32 % (8/25 tested). Patients with Dravet syndrome/Dravet-like phenotypes (N = 33) had variants in SCN1A (N = 10), SCN1B, CHD2; yield of 36.4 % (12/33 tested; 57.1 % from NGS). Eighteen patients with potential variants (SCN1A, SCN2A, SCN8A, KCNQ2, ALDH7A1 which also included VUS) could be offered targeted therapy.\nCONCLUSIONS: Our study confirms a good yield of genetic testing in neonatal and infantile-onset DEE provided robust phenotyping of infants is attempted with prognostic and therapeutic implications, particularly relevant to centres with resource constraints."
+    },
+    {
+      "pmid": "25877686",
+      "title": "Genomic analysis identifies candidate pathogenic variants in 9 of 18 patients with unexplained West syndrome.",
+      "authors": [
+        "Hino-Fukuyo N",
+        "Kikuchi A",
+        "Arai-Ichinoi N",
+        "Niihori T",
+        "Sato R",
+        "Suzuki T",
+        "et al."
+      ],
+      "year": "2015",
+      "journal": "Human genetics",
+      "doi": "10.1007/s00439-015-1553-6",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "COUP Transcription Factor I",
+        "Calcium Channels",
+        "Chromosomes, Human",
+        "Female",
+        "Genome-Wide Association Study",
+        "Hemizygote",
+        "Humans",
+        "Infant",
+        "Male",
+        "Mutation",
+        "N-Acetylglucosaminyltransferases",
+        "Spasms, Infantile",
+        "Transcription Factors",
+        "Bromodomain Containing Proteins"
+      ],
+      "abstract": "West syndrome, which is narrowly defined as infantile spasms that occur in clusters and hypsarrhythmia on EEG, is the most common early-onset epileptic encephalopathy (EOEE). Patients with West syndrome may have clear etiologies, including perinatal events, infections, gross chromosomal abnormalities, or cases followed by other EOEEs. However, the genetic etiology of most cases of West syndrome remains unexplained. DNA from 18 patients with unexplained West syndrome was subjected to microarray-based comparative genomic hybridization (array CGH), followed by trio-based whole-exome sequencing in 14 unsolved families. We identified candidate pathogenic variants in 50% of the patients (n = 9/18). The array CGH revealed candidate pathogenic copy number variations in four cases (22%, 4/18), including an Xq28 duplication, a 16p11.2 deletion, a 16p13.1 deletion and a 19p13.2 deletion disrupting CACNA1A. Whole-exome sequencing identified candidate mutations in known epilepsy genes in five cases (36%, 5/14). Three candidate de novo mutations were identified in three cases, with two mutations occurring in two new candidate genes (NR2F1 and CACNA2D1) (21%, 3/14). Hemizygous candidate mutations in ALG13 and BRWD3 were identified in the other two cases (14%, 2/14). Evaluating a panel of 67 known EOEE genes failed to identify significant mutations. Despite the heterogeneity of unexplained West syndrome, the combination of array CGH and whole-exome sequencing is an effective means of evaluating the genetic background in unexplained West syndrome. We provide additional evidence for NR2F1 as a causative gene and for CACNA2D1 and BRWD3 as candidate genes for West syndrome."
+    }
+  ]
+}

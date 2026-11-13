@@ -1,0 +1,129 @@
+{
+  "id": "r50",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "35977808",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "20 'cited_by' links for PMID 35977808; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42293750",
+      "title": "Functional analysis of genes enriched in male reproductive organs: validation via fertility assessment of 14 knockout mouse lines.",
+      "first_author": "Takemoto K",
+      "year": "2026",
+      "journal": "Front Cell Dev Biol",
+      "doi": "10.3389/fcell.2026.1851315",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42281945",
+      "title": "Towards precision medicine for systemic lupus erythematosus and neuropsychiatric manifestations.",
+      "first_author": "de Aquino BM",
+      "year": "2025",
+      "journal": "Expert Rev Precis Med Drug Dev",
+      "doi": "10.1080/23808993.2025.2560307",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41410901",
+      "title": "Juvenile-onset Systemic Lupus Erythematosus: Recent Advances in Pathogenesis and Treatment.",
+      "first_author": "Natoli V",
+      "year": "2025",
+      "journal": "Curr Rheumatol Rep",
+      "doi": "10.1007/s11926-025-01207-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41088181",
+      "title": "Three intronic variants altering RNA splicing were identified in the CLCN5 gene by minigene assay.",
+      "first_author": "Qiao D",
+      "year": "2025",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-025-02230-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40654372",
+      "title": "Advancements in CRISPR/Cas systems for disease treatment.",
+      "first_author": "Xu Y",
+      "year": "2025",
+      "journal": "Acta Pharm Sin B",
+      "doi": "10.1016/j.apsb.2025.05.007",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40535747",
+      "title": "Expression and clinical significance of the p53/SAT1/ALOX15 ferroptosis-associated proteins in sinonasal inverted papilloma.",
+      "first_author": "Li DY",
+      "year": "2025",
+      "journal": "World J Otorhinolaryngol Head Neck Surg",
+      "doi": "10.1002/wjo2.213",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40471835",
+      "title": "Recent insights into the role of innate immunity in lupus.",
+      "first_author": "Robinson LA",
+      "year": "2025",
+      "journal": "Hum Mol Genet",
+      "doi": "10.1093/hmg/ddaf066",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "40386946",
+      "title": "Trio Whole Exome Sequencing in Chinese Childhood-Onset Lupus Reveals Novel Candidate Genes.",
+      "first_author": "Ma J",
+      "year": "2025",
+      "journal": "Arthritis Rheumatol",
+      "doi": "10.1002/art.43243",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39660463",
+      "title": "Genetic and epigenetic factors shape phenotypes and outcomes in systemic lupus erythematosus - focus on juvenile-onset systemic lupus erythematosus.",
+      "first_author": "Charras A",
+      "year": "2025",
+      "journal": "Curr Opin Rheumatol",
+      "doi": "10.1097/BOR.0000000000001072",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39337408",
+      "title": "Effect of Spermidine on Endothelial Function in Systemic Lupus Erythematosus Mice.",
+      "first_author": "Kim H",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25189920",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

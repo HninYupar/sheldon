@@ -1,0 +1,130 @@
+{
+  "id": "r168",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (variant OR family OR pedigree OR homozygous OR compound heterozygous OR c. OR p.)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "29 PubMed hits for 'PSMF1[gene] AND (variant OR family OR pedigree OR homozygous OR compound heterozygous OR c. OR p.)'; showing 10 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields] OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"pedigree\"[MeSH Terms] OR \"pedigree\"[All Fields] OR \"pedigrees\"[All Fields] OR \"pedigree s\"[All Fields] OR \"pedigreed\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields])) OR \"c\"[All Fields] OR \"p\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "33009551",
+      "title": "Genome-Wide Association Analysis of Neonatal White Matter Microstructure.",
+      "first_author": "Zhang J",
+      "year": "2021",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhaa266",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33226164",
+      "title": "Characterisation of sperm piRNAs and their correlation with semen quality traits in swine.",
+      "first_author": "Ablondi M",
+      "year": "2021",
+      "journal": "Anim Genet",
+      "doi": "10.1111/age.13022",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33942992",
+      "title": "Genomic analysis of host gene responses to cerebral Plasmodium falciparum malaria.",
+      "first_author": "Li K",
+      "year": "2021",
+      "journal": "Immun Inflamm Dis",
+      "doi": "10.1002/iid3.436",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "26711386",
+      "title": "[Application of gene microarray to screen differential expression genes of Modic changes at vertebral endplates].",
+      "first_author": "Xu M",
+      "year": "2015",
+      "journal": "Zhonghua Yi Xue Za Zhi",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26678661",
+      "title": "MicroRNA-203 Modulates the Radiation Sensitivity of Human Malignant Glioma Cells.",
+      "first_author": "Chang JH",
+      "year": "2016",
+      "journal": "Int J Radiat Oncol Biol Phys",
+      "doi": "10.1016/j.ijrobp.2015.10.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22362029",
+      "title": "Fub1p, a novel protein isolated by boundary screening, binds the proteasome complex.",
+      "first_author": "Hatanaka A",
+      "year": "2011",
+      "journal": "Genes Genet Syst",
+      "doi": "10.1266/ggs.86.305",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

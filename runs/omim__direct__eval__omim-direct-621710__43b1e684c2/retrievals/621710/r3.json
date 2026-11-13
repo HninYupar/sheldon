@@ -1,0 +1,258 @@
+{
+  "id": "r3",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (patient OR patients OR family OR case report OR cohort)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "326 PubMed hits for 'ATG12[gene] AND (patient OR patients OR family OR case report OR cohort)'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"case reports\"[Publication Type] OR \"case report\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39087410",
+      "title": "ZDHHC7-mediated S-palmitoylation of ATG16L1 facilitates LC3 lipidation and autophagosome formation.",
+      "first_author": "Wei F",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2386915",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30335591",
+      "title": "Trehalose induces autophagy via lysosomal-mediated TFEB activation in models of motoneuron degeneration.",
+      "first_author": "Rusmini P",
+      "year": "2019",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2018.1535292",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32401642",
+      "title": "Autophagy in the physiological endometrium and cancer.",
+      "first_author": "Devis-Jauregui L",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1752548",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40509575",
+      "title": "Macrophage TRIM21 knockout inhibits septic acute lung injury by downregulating autophagy regulator protein ubiquitination.",
+      "first_author": "Xie F",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2025.2519063",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36541703",
+      "title": "PEX13 prevents pexophagy by regulating ubiquitinated PEX5 and peroxisomal ROS.",
+      "first_author": "Demers ND",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2160566",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36280710",
+      "title": "Intercellular transfer of activated STING triggered by RAB22A-mediated non-canonical autophagy promotes antitumor immunity.",
+      "first_author": "Gao Y",
+      "year": "2022",
+      "journal": "Cell Res",
+      "doi": "10.1038/s41422-022-00731-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38522078",
+      "title": "Impaired neuronal macroautophagy in the prelimbic cortex contributes to comorbid anxiety-like behaviors in rats with chronic neuropathic pain.",
+      "first_author": "Fu S",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2330038",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34822318",
+      "title": "Inhibition of USP14 influences alphaherpesvirus proliferation by degrading viral VP16 protein via ER stress-triggered selective autophagy.",
+      "first_author": "Ming SL",
+      "year": "2022",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.2002101",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39675054",
+      "title": "Endogenous interactomes of MFN1 and MFN2 provide novel insights into interorganelle communication and autophagy.",
+      "first_author": "Gordaliza-Alaguero I",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2440843",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38479594",
+      "title": "Membrane atg8ylation in Canonical and Noncanonical Autophagy.",
+      "first_author": "Deretic V",
+      "year": "2024",
+      "journal": "J Mol Biol",
+      "doi": "10.1016/j.jmb.2024.168532",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37238603",
+      "title": "The Ubiquitin-like Proteins of Saccharomyces cerevisiae.",
+      "first_author": "Sengupta S",
+      "year": "2023",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom13050734",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41484365",
+      "title": "The\u00a0ATG8 E3-like ligases sense lysosomal damage and initiate ESCRT-mediated membrane repair.",
+      "first_author": "Corkery DP",
+      "year": "2026",
+      "journal": "EMBO J",
+      "doi": "10.1038/s44318-025-00672-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37409525",
+      "title": "TECPR1 is activated by damage-induced sphingomyelin exposure to mediate noncanonical\u00a0autophagy.",
+      "first_author": "Kaur N",
+      "year": "2023",
+      "journal": "EMBO J",
+      "doi": "10.15252/embj.2022113105",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21068544",
+      "title": "ATG12-ATG3 and mitochondria.",
+      "first_author": "Radoshevich L",
+      "year": "2011",
+      "journal": "Autophagy",
+      "doi": "10.4161/auto.7.1.13998",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33853474",
+      "title": "WLS/wntless is essential in controlling dendritic cell homeostasis via a WNT signaling-independent mechanism.",
+      "first_author": "Wang LT",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1907516",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11100732",
+      "title": "A ubiquitin-like system mediates protein lipidation.",
+      "first_author": "Ichimura Y",
+      "year": "2000",
+      "journal": "Nature",
+      "doi": "10.1038/35044114",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25998418",
+      "title": "ATG12-ATG3 connects basal autophagy and late endosome function.",
+      "first_author": "Murrow L",
+      "year": "2015",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2015.1040976",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23337627",
+      "title": "Non-autophagic roles of autophagy-related proteins.",
+      "first_author": "Subramani S",
+      "year": "2013",
+      "journal": "EMBO Rep",
+      "doi": "10.1038/embor.2012.220",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42141163",
+      "title": "Atg7-Atg12 conjugation and autophagy are negatively regulated by the disordered region of Atg12.",
+      "first_author": "Popelka H",
+      "year": "2026",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-026-10269-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

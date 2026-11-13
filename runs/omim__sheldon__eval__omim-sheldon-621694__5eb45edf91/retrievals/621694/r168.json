@@ -1,0 +1,121 @@
+{
+  "id": "r168",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "42649079",
+      "41986367",
+      "39148840",
+      "41253044"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "authors": [
+        "Gabbert C",
+        "Much C",
+        "Wengh\u00f6fer A",
+        "Fienemann A",
+        "Schaake S",
+        "L\u00fcth T",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ],
+      "mesh": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "authors": [
+        "Magrinelli F",
+        "Tesson C",
+        "Angelova PR",
+        "Rodriguez JA",
+        "Scardamaglia A",
+        "O'Callaghan B",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Parkinsonian Disorders",
+        "Female",
+        "Mice",
+        "Male",
+        "Pedigree",
+        "Phenotype",
+        "Mitochondria",
+        "Disease Models, Animal",
+        "Parkinson Disease",
+        "Fibroblasts",
+        "Membrane Potential, Mitochondrial",
+        "Drosophila melanogaster"
+      ],
+      "abstract": "Dissecting biological pathways highlighted by Mendelian gene discovery has provided critical insights into the pathogenesis of Parkinson's disease (PD) and neurodegeneration. This approach ultimately catalyzes the identification of potential biomarkers and therapeutic targets. Here we identify PSMF1 as a gene implicated in parkinsonism and childhood neurodegeneration. We find that biallelic PSMF1 missense and loss-of-function variants co-segregate with phenotypes from early-onset PD to perinatal lethality with neurological manifestations across 18 pedigrees with 25 affected subjects, showing clear genotype-phenotype correlation. PSMF1 encodes the proteasome regulator PSMF1/hPI31, a highly conserved, ubiquitously expressed partner of the 20S proteasome and neurodegeneration-associated F-box-O 7 and valosin-containing proteins. We demonstrate that PSMF1 variants may affect proteasomal abundance and assembly, and are associated with alterations of mitochondrial membrane potential, respiration, dynamics and mitophagy in patient-derived fibroblasts. Furthermore, Drosophila and mouse models of PI31 loss of function exhibit age-dependent motor impairment, as well as brain-wide mitochondrial membrane depolarization and dopaminergic neurodegeneration in aged flies, and diffuse gliosis in mice. Collectively, our findings unequivocally link defective PSMF1/hPI31 to early-onset parkinsonism and neurodegeneration, and suggest proteasomal and mitochondrial dysfunction as pathogenic contributors."
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "authors": [
+        "Magrinelli F",
+        "Tesson C",
+        "Angelova PR",
+        "Rodriguez JA",
+        "Scardamaglia A",
+        "O'Callaghan B",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh": [],
+      "abstract": "Dissecting biological pathways highlighted by Mendelian gene discovery has provided critical insights into the pathogenesis of Parkinson's disease (PD) and neurodegeneration. This approach ultimately catalyzes the identification of potential biomarkers and therapeutic targets. Here, we identify PSMF1 as a novel gene implicated in parkinsonism and childhood neurodegeneration. We find that biallelic PSMF1 missense and loss-of-function variants co-segregate with phenotypes from early-onset PD to perinatal lethality with neurological manifestations across 17 pedigrees with 24 affected subjects, showing clear genotype-phenotype correlation. PSMF1 encodes the proteasome regulator PSMF1/PI31, a highly conserved, ubiquitously expressed partner of the 20S proteasome and neurodegeneration-associated F-box-O 7 and valosin-containing proteins. We demonstrate that PSMF1 variants impair mitochondrial membrane potential, dynamics and mitophagy, and may affect proteasomal abundance and assembly in patient-derived fibroblasts. Furthermore, Drosophila and mouse models of PSMF1 loss of function exhibit age-dependent motor impairment, as well as brain-wide mitochondrial membrane depolarization and dopaminergic neurodegeneration in aged flies, and diffuse gliosis in mice. Collectively, our findings unequivocally link defective PSMF1 to early-onset parkinsonism and neurodegeneration, and suggest proteasomal and mitochondrial dysfunction as mechanistic contributors."
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "authors": [
+        "Cogan G",
+        "Lesage S",
+        "Brice A"
+      ],
+      "year": "2025",
+      "journal": "Current opinion in neurobiology",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Humans",
+        "Parkinson Disease",
+        "Mutation",
+        "Age of Onset",
+        "Genes, Recessive",
+        "Ubiquitin-Protein Ligases"
+      ],
+      "abstract": "Early-onset Parkinson's disease (EOPD) is usually defined as Parkinson's disease (PD) occurring before the age of 40-50 years. Unlike late-onset PD, EOPD is often due to pathogenic mutations in autosomal recessive genes. Two phenotypes can be distinguished: typical EOPD, which progresses slowly (PRKN, PINK1 and DJ-1), and atypical PD, often associated with additional symptoms (ATP13A2, FBXO7, DNAJC6, VPS13C, SYNJ1, PLA2G6). In this review, we will highlight recent advances and remaining challenges. The frequency of causal genetic mutations and the genotype-phenotype landscape of PRKN-associated PD has been refined. Long-read sequencing has solved several undiagnosed cases with a single PRKN mutation. Five new genes have been reported to contribute to EOPD associated with various neurological signs (PTPA, DAGLB, PSMF1, EPG5, SGIP1). Small molecules targeting PRKN dysfunctions are expected to enter clinical trials in the coming years, paving the way for targeted therapies in EOPD."
+    }
+  ]
+}

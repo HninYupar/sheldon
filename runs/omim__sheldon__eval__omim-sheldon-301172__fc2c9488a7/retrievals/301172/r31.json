@@ -1,0 +1,252 @@
+{
+  "id": "r31",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "35977808",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "99 'similar' links for PMID 35977808; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "30008451",
+      "title": "Whole Exome Sequencing in Early-onset Systemic Lupus Erythematosus.",
+      "first_author": "Batu ED",
+      "year": "2018",
+      "journal": "J Rheumatol",
+      "doi": "10.3899/jrheum.171358",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38739464",
+      "title": "Detection of genetic mutations underlying early-onset systemic lupus erythematosus.",
+      "first_author": "Sener S",
+      "year": "2024",
+      "journal": "Lupus",
+      "doi": "10.1177/09612033241255011",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28544690",
+      "title": "Brief Report: Deficiency of Complement 1r Subcomponent in Early-Onset Systemic Lupus Erythematosus: The Role of Disease-Modifying Alleles in a Monogenic Disease.",
+      "first_author": "Demirkaya E",
+      "year": "2017",
+      "journal": "Arthritis Rheumatol",
+      "doi": "10.1002/art.40158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36379578",
+      "title": "Genome-Wide Sequencing Identified Rare Genetic Variants for Childhood-Onset Monogenic Lupus.",
+      "first_author": "Misztal MC",
+      "year": "2023",
+      "journal": "J Rheumatol",
+      "doi": "10.3899/jrheum.220513",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30707351",
+      "title": "Whole-genome sequencing identifies complex contributions to genetic risk by variants in genes causing monogenic systemic lupus erythematosus.",
+      "first_author": "Alml\u00f6f JC",
+      "year": "2019",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-018-01966-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31848144",
+      "title": "Germline genetic patterns underlying familial rheumatoid arthritis, systemic lupus erythematosus and primary Sj\u00f6gren's syndrome highlight T cell-initiated autoimmunity.",
+      "first_author": "Wang Y",
+      "year": "2020",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/annrheumdis-2019-215533",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39380326",
+      "title": "Whole exome sequencing in patients with childhood-onset systemic lupus erythematosus: Results from a Croatian national study.",
+      "first_author": "Sestan M",
+      "year": "2024",
+      "journal": "Scand J Immunol",
+      "doi": "10.1111/sji.13411",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34556485",
+      "title": "Human SLE variant NCF1-R90H promotes kidney damage and murine lupus through enhanced Tfh2 responses induced by defective efferocytosis of macrophages.",
+      "first_author": "Geng L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/annrheumdis-2021-220793",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39933823",
+      "title": "Rare and common single nucleotide variants in childhood-onset systemic lupus erythematosus.",
+      "first_author": "Sayadi A",
+      "year": "2025",
+      "journal": "Lupus Sci Med",
+      "doi": "10.1136/lupus-2024-001436",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38263665",
+      "title": "Contribution of rare and predicted pathogenic gene variants to childhood-onset lupus: a large, genetic panel analysis of British and French cohorts.",
+      "first_author": "Belot A",
+      "year": "2020",
+      "journal": "Lancet Rheumatol",
+      "doi": "10.1016/S2665-9913(19)30142-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25138095",
+      "title": "Identification of a pathogenic variant in TREX1 in early-onset cerebral systemic lupus erythematosus by Whole-exome sequencing.",
+      "first_author": "Ellyard JI",
+      "year": "2014",
+      "journal": "Arthritis Rheumatol",
+      "doi": "10.1002/art.38824",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37438615",
+      "title": "Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants.",
+      "first_author": "Vinuesa CG",
+      "year": "2023",
+      "journal": "Nat Rev Nephrol",
+      "doi": "10.1038/s41581-023-00732-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21497601",
+      "title": "HLA DRB1*1503 allelic haplotype predominance and associated immunodysregulation in systemic lupus erythematosus.",
+      "first_author": "Suggs MJ",
+      "year": "2011",
+      "journal": "Exp Mol Pathol",
+      "doi": "10.1016/j.yexmp.2011.03.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "27698118",
+      "title": "Activation of SAT1 engages polyamine metabolism with p53-mediated ferroptotic responses.",
+      "first_author": "Ou Y",
+      "year": "2016",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1607152113",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36444430",
+      "title": "[A monogenic lupus family caused by homozygous deletions of DNASE1L3 gene and literature review].",
+      "first_author": "Wang W",
+      "year": "2022",
+      "journal": "Zhonghua Er Ke Za Zhi",
+      "doi": "10.3760/cma.j.cn112140-20220926-00839",
+      "pubtype": [
+        "Review",
+        "Case Reports",
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35669728",
+      "title": "Systemic Lupus Erythematosus and Hereditary Coproporphyria: Two Different Entities Diagnosed by WES in the Same Patient.",
+      "first_author": "Liu A",
+      "year": "2022",
+      "journal": "Biomed Res Int",
+      "doi": "10.1155/2022/9096999",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23195908",
+      "title": "[Childhood-onset systemic lupus erythematosus: polygenic or monogenic disorder?].",
+      "first_author": "Bader-Meunier B",
+      "year": "2013",
+      "journal": "Rev Med Interne",
+      "doi": "10.1016/j.revmed.2012.10.370",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35086391",
+      "title": "Genetic screening of early-onset patients with systemic lupus erythematosus by a targeted next-generation sequencing gene panel.",
+      "first_author": "Dasdemir S",
+      "year": "2022",
+      "journal": "Lupus",
+      "doi": "10.1177/09612033221076733",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29050534",
+      "title": "Low copy numbers of complement C4 and homozygous deficiency of C4A may predispose to severe disease and earlier disease onset in patients with systemic lupus erythematosus.",
+      "first_author": "J\u00fcptner M",
+      "year": "2018",
+      "journal": "Lupus",
+      "doi": "10.1177/0961203317735187",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29715464",
+      "title": "Spermidine/spermine N1-acetyltransferase-mediated polyamine catabolism regulates beige adipocyte biogenesis.",
+      "first_author": "Yuan F",
+      "year": "2018",
+      "journal": "Metabolism",
+      "doi": "10.1016/j.metabol.2018.04.007",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

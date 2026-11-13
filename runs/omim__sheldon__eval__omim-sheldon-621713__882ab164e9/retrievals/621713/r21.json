@@ -1,0 +1,155 @@
+{
+  "id": "r21",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "38413710",
+      "36395215",
+      "31249032",
+      "33118031"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38413710",
+      "title": "Male meiotic spindle poles are stabilized by TACC3 and cKAP5/chTOG differently from female meiotic or somatic mitotic spindles in mice.",
+      "authors": [
+        "Simerly C",
+        "Robertson E",
+        "Harrison C",
+        "Ward S",
+        "George C",
+        "Deleon J",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-024-55376-z",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Female",
+        "Male",
+        "Mice",
+        "Aurora Kinase A",
+        "Cell Cycle Proteins",
+        "Glycols",
+        "Meiosis",
+        "Microtubule-Associated Proteins",
+        "Microtubules",
+        "Oocytes",
+        "Semen",
+        "Spindle Apparatus",
+        "Spindle Poles",
+        "Fetal Proteins"
+      ],
+      "abstract": "Transforming acidic acid coiled-coil protein 3 (TACC3) and cytoskeleton associated protein 5 (cKAP5; or colonic hepatic tumor overexpressed gene, chTOG) are vital for spindle assembly and stabilization initiated through TACC3 Aurora-A kinase interaction. Here, TACC3 and cKAP5/chTOG localization with monospecific antibodies is investigated in eGFP-centrin-2- expressing mouse meiotic spermatocytes. Both proteins bind spermatocyte spindle poles but neither kinetochore nor interpolar microtubules, unlike in mitotic mouse fibroblasts or female meiotic oocyte spindles. Spermatocytes do not display a liquid-like spindle domain (LISD), although fusing them into maturing oocytes generates LISD-like TACC3 condensates around sperm chromatin but sparse microtubule assembly. Microtubule inhibitors do not reduce TACC3 and cKAP5/chTOG spindle pole binding. MLN 8237 Aurora-A kinase inhibitor removes TACC3, not cKAP5/chTOG, disrupting spindle organization, chromosome alignment, and impacting spindle pole \u03b3-tubulin intensity. The LISD disruptor 1,6-hexanediol abolished TACC3 in spermatocytes, impacting spindle bipolarity and chromosome organization. Cold microtubule disassembly and rescue experiments in the presence of 1,6-hexanediol reinforce the concept that spermatocyte TACC3 spindle pole presence is not required for spindle pole microtubule assembly. Collectively, meiotic spermatocytes without a LISD localize TACC3 and cKAP5/chTOG exclusively at spindle poles to support meiotic spindle pole stabilization during male meiosis, different from either female meiosis or mitosis."
+    },
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "authors": [
+        "Wu T",
+        "Dong J",
+        "Fu J",
+        "Kuang Y",
+        "Chen B",
+        "Gu H",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Chromosome Segregation",
+        "Kinetochores",
+        "Microtubule-Associated Proteins",
+        "Microtubule-Organizing Center",
+        "Oocytes",
+        "Spindle Apparatus",
+        "Cells, Cultured",
+        "Phosphoproteins",
+        "Cell Cycle Proteins",
+        "Nerve Tissue Proteins"
+      ],
+      "abstract": "Meiotic spindle assembly ensures proper chromosome segregation in oocytes. However, the mechanisms behind spindle assembly in human oocytes remain largely unknown. We used three-dimensional high-resolution imaging of more than 2000 human oocytes to identify a structure that we named the human oocyte microtubule organizing center (huoMTOC). The proteins TACC3, CCP110, CKAP5, and DISC1 were found to be essential components of the huoMTOC. The huoMTOC arises beneath the oocyte cortex and migrates adjacent to the nuclear envelope before nuclear envelope breakdown (NEBD). After NEBD, the huoMTOC fragments and relocates on the kinetochores to initiate microtubule nucleation and spindle assembly. Disrupting the huoMTOC led to spindle assembly defects and oocyte maturation arrest. These results reveal a physiological mechanism of huoMTOC-regulated spindle assembly in human oocytes."
+    },
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "authors": [
+        "So C",
+        "Seres KB",
+        "Steyer AM",
+        "M\u00f6nnich E",
+        "Clift D",
+        "Pejkovska A",
+        "et al."
+      ],
+      "year": "2019",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Animals",
+        "Aurora Kinase A",
+        "Centrosome",
+        "Clathrin Heavy Chains",
+        "Female",
+        "Fetal Proteins",
+        "Meiosis",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Microtubule-Associated Proteins",
+        "Microtubules",
+        "NIH 3T3 Cells",
+        "Oocytes",
+        "Spindle Apparatus"
+      ],
+      "abstract": "Mammalian oocytes segregate chromosomes with a microtubule spindle that lacks centrosomes, but the mechanisms by which acentrosomal spindles are organized and function are largely unclear. In this study, we identify a conserved subcellular structure in mammalian oocytes that forms by phase separation. This structure, which we term the liquid-like meiotic spindle domain (LISD), permeates the spindle poles and forms dynamic protrusions that extend well beyond the spindle. The LISD selectively concentrates multiple microtubule regulatory factors and allows them to diffuse rapidly within the spindle volume. Disruption of the LISD via different means disperses these factors and leads to severe spindle assembly defects. Our data suggest a model whereby the LISD promotes meiotic spindle assembly by serving as a reservoir that sequesters and mobilizes microtubule regulatory factors in proximity to spindle microtubules."
+    },
+    {
+      "pmid": "33118031",
+      "title": "Molecular genetics of infertility: loss-of-function mutations in humans and corresponding knockout/mutated mice.",
+      "authors": [
+        "Jiao SY",
+        "Yang YH",
+        "Chen SR"
+      ],
+      "year": "2021",
+      "journal": "Human reproduction update",
+      "doi": "10.1093/humupd/dmaa034",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh": [
+        "Animals",
+        "Female",
+        "Humans",
+        "Infertility, Female",
+        "Infertility, Male",
+        "Loss of Function Mutation",
+        "Male",
+        "Mice",
+        "Mice, Knockout",
+        "Sperm Motility",
+        "Spermatozoa"
+      ],
+      "abstract": "BACKGROUND: Infertility is a major issue in human reproductive health, affecting an estimated 15% of couples worldwide. Infertility can result from disorders of sex development (DSD) or from reproductive endocrine disorders (REDs) with onset in infancy, early childhood or adolescence. Male infertility, accounting for roughly half of all infertility cases, generally manifests as decreased sperm count (azoospermia or oligozoospermia), attenuated sperm motility (asthenozoospermia) or a higher proportion of morphologically abnormal sperm (teratozoospermia). Female infertility can be divided into several classical types, including, but not limited to, oocyte maturation arrest, premature ovarian insufficiency (POI), fertilization failure and early embryonic arrest. An estimated one half of infertility cases have a genetic component; however, most genetic causes of human infertility are currently uncharacterized. The advent of high-throughput sequencing technologies has greatly facilitated the identification of infertility-associated gene mutations in patients over the past 20 years.\nOBJECTIVE AND RATIONALE: This review aims to conduct a narrative review of the genetic causes of human infertility. Loss-of-function mutation discoveries related to human infertility are summarized and further illustrated in tables. Corresponding knockout/mutated animal models of causative genes for infertility are also introduced.\nSEARCH METHODS: A search of the PubMed database was performed to identify relevant studies published in English. The term 'mutation' was combined with a range of search terms related to the core focus of the review: infertility, DSD, REDs, azoospermia or oligozoospermia, asthenozoospermia, multiple morphological abnormalities of the sperm flagella (MMAF), primary ciliary dyskinesia (PCD), acephalic spermatozoa syndrome (ASS), globozoospermia, teratozoospermia, acrosome, oocyte maturation arrest, POI, zona pellucida, fertilization defects and early embryonic arrest.\nOUTCOMES: Our search generated \u223c2000 records. Overall, 350 articles were included in the final review. For genetic investigation of human infertility, the traditional candidate gene approach is proceeding slowly, whereas high-throughput sequencing technologies in larger cohorts of individuals is identifying an increasing number of causative genes linked to human infertility. This review provides a wide panel of gene mutations in several typical forms of human infertility, including DSD, REDs, ma"
+    }
+  ]
+}

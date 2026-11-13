@@ -1,0 +1,257 @@
+{
+  "id": "r18",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(OZEMA27 OR \"oocyte zygote embryo maturation arrest 27\" OR \"maturation arrest 27\")",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "297 PubMed hits for '(OZEMA27 OR \"oocyte zygote embryo maturation arrest 27\" OR \"maturation arrest 27\")'; showing 20 (PubMed read it as: ((\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) AND (\"zygote\"[MeSH Terms] OR \"zygote\"[All Fields] OR \"zygotes\"[All Fields] OR \"zygote s\"[All Fields] OR \"zygotic\"[All Fields] OR \"zygotically\"[All Fields]) AND (\"embryo s\"[All Fields] OR \"embryoes\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryo\"[All Fields] OR \"embryos\"[All Fields]) AND (\"maturate\"[All Fields] OR \"maturated\"[All Fields] OR \"maturating\"[All Fields] OR \"maturation\"[All Fields] OR \"maturational\"[All Fields] OR \"maturations\"[All Fields] OR \"maturative\"[All Fields] OR \"mature\"[All Fields] OR \"matured\"[All Fields] OR \"maturer\"[All Fields] OR \"maturers\"[All Fields] OR \"matures\"[All Fields] OR \"maturing\"[All Fields] OR \"maturities\"[All Fields] OR \"maturity\"[All Fields]) AND (\"arrestant\"[All Fields] OR \"arrestants\"[All Fields] OR \"arresting\"[All Fields] OR \"arrestment\"[All Fields] OR \"arrests\"[All Fields] OR \"heart arrest\"[MeSH Terms] OR (\"heart\"[All Fields] AND \"arrest\"[All Fields]) OR \"heart arrest\"[All Fields] OR \"arrest\"[All Fields] OR \"arrested\"[All Fields]) AND \"27\"[All Fields]) OR ((\"maturate\"[All Fields] OR \"maturated\"[All Fields] OR \"maturating\"[All Fields] OR \"maturation\"[All Fields] OR \"maturational\"[All Fields] OR \"maturations\"[All Fields] OR \"maturative\"[All Fields] OR \"mature\"[All Fields] OR \"matured\"[All Fields] OR \"maturer\"[All Fields] OR \"maturers\"[All Fields] OR \"matures\"[All Fields] OR \"maturing\"[All Fields] OR \"maturities\"[All Fields] OR \"maturity\"[All Fields]) AND (\"arrestant\"[All Fields] OR \"arrestants\"[All Fields] OR \"arresting\"[All Fields] OR \"arrestment\"[All Fields] OR \"arrests\"[All Fields] OR \"heart arrest\"[MeSH Terms] OR (\"heart\"[All Fields] AND \"arrest\"[All Fields]) OR \"heart arrest\"[All Fields] OR \"arrest\"[All Fields] OR \"arrested\"[All Fields]) AND \"27\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38528201",
+      "title": "Pervasive environmental chemicals impair oligodendrocyte development.",
+      "first_author": "Cohn EF",
+      "year": "2024",
+      "journal": "Nat Neurosci",
+      "doi": "10.1038/s41593-024-01599-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33118031",
+      "title": "Molecular genetics of infertility: loss-of-function mutations in humans and corresponding knockout/mutated mice.",
+      "first_author": "Jiao SY",
+      "year": "2021",
+      "journal": "Hum Reprod Update",
+      "doi": "10.1093/humupd/dmaa034",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39277428",
+      "title": "Impact of Bisphenol A and its alternatives on oocyte health: a scoping review.",
+      "first_author": "Peters AE",
+      "year": "2024",
+      "journal": "Hum Reprod Update",
+      "doi": "10.1093/humupd/dmae025",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Scoping Review"
+      ]
+    },
+    {
+      "pmid": "11555463",
+      "title": "Fetal parvovirus B19 infection.",
+      "first_author": "von Kaisenberg CS",
+      "year": "2001",
+      "journal": "Ultrasound Obstet Gynecol",
+      "doi": "10.1046/j.1469-0705.2001.00471.x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30289173",
+      "title": "Beta-lactam-induced severe neutropaenia: a descriptive study.",
+      "first_author": "Vial T",
+      "year": "2019",
+      "journal": "Fundam Clin Pharmacol",
+      "doi": "10.1111/fcp.12419",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "6108912",
+      "title": "Histologic classification of undescended testes.",
+      "first_author": "Nistal M",
+      "year": "1980",
+      "journal": "Hum Pathol",
+      "doi": "10.1016/s0046-8177(80)80078-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39871066",
+      "title": "Oocyte/zygote/embryo maturation arrest: a clinical study expanding the phenotype of NOBOX variants.",
+      "first_author": "Van Der Kelen A",
+      "year": "2025",
+      "journal": "J Assist Reprod Genet",
+      "doi": "10.1007/s10815-025-03402-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34417763",
+      "title": "Gene Alterations and Expression Spectrum of NANOS3 in Nonobstructive Azoospermia.",
+      "first_author": "Karimi H",
+      "year": "2022",
+      "journal": "Reprod Sci",
+      "doi": "10.1007/s43032-021-00680-6",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39811171",
+      "title": "Trochleoplasty in Pediatric Patients - A Systematic Review.",
+      "first_author": "Chaclas N",
+      "year": "2024",
+      "journal": "Iowa Orthop J",
+      "doi": "",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "34627662",
+      "title": "Reproductive resilience: putting pollen grains in two baskets.",
+      "first_author": "Rutley N",
+      "year": "2022",
+      "journal": "Trends Plant Sci",
+      "doi": "10.1016/j.tplants.2021.09.002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33095425",
+      "title": "MicroRNA-449a Suppresses Mouse Spermatogonia Proliferation via Inhibition of CEP55.",
+      "first_author": "Hua R",
+      "year": "2021",
+      "journal": "Reprod Sci",
+      "doi": "10.1007/s43032-020-00354-9",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "10021988",
+      "title": "[The cervix uteri in pregnancy].",
+      "first_author": "Aubard Y",
+      "year": "1998",
+      "journal": "J Gynecol Obstet Biol Reprod (Paris)",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32276763",
+      "title": "Human oocytes harboring damaged DNA can complete meiosis I.",
+      "first_author": "R\u00e9millard-Labrosse G",
+      "year": "2020",
+      "journal": "Fertil Steril",
+      "doi": "10.1016/j.fertnstert.2019.12.029",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24054514",
+      "title": "Prognostication after cardiac arrest.",
+      "first_author": "Friberg H",
+      "year": "2013",
+      "journal": "Best Pract Res Clin Anaesthesiol",
+      "doi": "10.1016/j.bpa.2013.06.011",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42387502",
+      "title": "The autonomic nervous system-lung interface in experimental BPD: NPY modulates immune response, alveolar growth and vascular muscularizationin neonatal mice exposed to oxidative stress.",
+      "first_author": "Nies CO",
+      "year": "2026",
+      "journal": "Respir Res",
+      "doi": "10.1186/s12931-026-03773-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39953708",
+      "title": "Defects in mRNA splicing and implications for infertility: a comprehensive review and in silico analysis.",
+      "first_author": "Li K",
+      "year": "2025",
+      "journal": "Hum Reprod Update",
+      "doi": "10.1093/humupd/dmae037",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "7836529",
+      "title": "Cryopreservation of immature mouse oocytes.",
+      "first_author": "Candy CJ",
+      "year": "1994",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/oxfordjournals.humrep.a138785",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39112518",
+      "title": "CRISPR-based dissection of microRNA-23a\u2009~\u200927a\u2009~\u200924-2 cluster functionality in hepatocellular carcinoma.",
+      "first_author": "Cui M",
+      "year": "2024",
+      "journal": "Oncogene",
+      "doi": "10.1038/s41388-024-03115-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28540674",
+      "title": "MicroRNA Expression: Protein Participants in MicroRNA Regulation.",
+      "first_author": "King VM",
+      "year": "2017",
+      "journal": "Methods Mol Biol",
+      "doi": "10.1007/978-1-4939-7046-9_2",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39545913",
+      "title": "Transcriptomic Profiling of Human Myocardium at Sudden Death to Define\u00a0Vulnerable Substrate for Lethal\u00a0Arrhythmias.",
+      "first_author": "Caudal A",
+      "year": "2025",
+      "journal": "JACC Clin Electrophysiol",
+      "doi": "10.1016/j.jacep.2024.08.013",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

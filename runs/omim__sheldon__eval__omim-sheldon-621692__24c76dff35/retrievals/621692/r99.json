@@ -1,0 +1,180 @@
+{
+  "id": "r99",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41033701",
+      "39667411",
+      "41718461",
+      "35041321",
+      "39096015"
+    ]
+  },
+  "summary": "fetched 5 of 5 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41033701",
+      "title": "CACNA1A-associated epileptic encephalopathy triggered by minor trauma: importance of early diagnosis and appropriate treatment.",
+      "authors": [
+        "Wander A",
+        "A R",
+        "Peer S",
+        "Anuhya CB"
+      ],
+      "year": "2025",
+      "journal": "BMJ case reports",
+      "doi": "10.1136/bcr-2025-267245",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh": [
+        "Humans",
+        "Female",
+        "Anticonvulsants",
+        "Calcium Channels",
+        "Early Diagnosis",
+        "Status Epilepticus",
+        "Acetazolamide",
+        "Child, Preschool",
+        "Mutation",
+        "Infant",
+        "Flunarizine",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "This case describes a female toddler who presented with status epilepticus, altered sensorium and hemiparesis after a trivial trauma, initially raising suspicion for acute ischaemic stroke. However, genetic analysis identified a novel heterozygous CACNA1A mutation, confirming developmental and epileptic encephalopathy. The child was subsequently started on targeted therapy with flunarizine, acetazolamide and antiepileptic medications, which led to effective seizure control and neurological improvement. This case emphasises the need to consider CACNA1A-associated encephalopathy in children presenting with post-traumatic seizures and encephalopathy, as early diagnosis facilitates individualised treatment and may alter disease trajectory."
+    },
+    {
+      "pmid": "39667411",
+      "title": "Association between CACNA1A and ATP1A2 Variants are Responsible for Severe Neurodevelopmental Disorder.",
+      "authors": [
+        "Mouraux C",
+        "Alkan S",
+        "Caberg JH",
+        "Depierreux F"
+      ],
+      "year": "2025",
+      "journal": "Neuropediatrics",
+      "doi": "10.1055/a-2500-7729",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Sodium-Potassium-Exchanging ATPase",
+        "Male",
+        "Calcium Channels",
+        "Neurodevelopmental Disorders",
+        "Child",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "ATP1A2 and CACNA1A genes encode proteins forming transmembrane channels, Na+/K+/ATPase transporter, and voltage-gated calcium channels, respectively. Pathogenic variants in these genes are associated with hemiplegic migraines, movement disorders, and developmental and epileptic encephalopathy.We report a child presenting epileptic encephalopathy with cognitive and behavioral troubles. He carries a likely pathogenic variant in the ATP1A2 gene, inherited from his mother who presents hemiplegic migraines, and a variant of uncertain significance in the CACNA1A gene, inherited from his asymptomatic father and also found in his brother, who presents a milder neurodevelopmental disorder (NDD). No other significant copy number or single nucleotide variations were identified after an in-depth genetic study including whole exome sequencing, array comparative genomic hybridization, and screening for Fragile X and Prader-Willi/Angelman syndromes.We illustrate the synergetic impact of ATP1A2 and CACNA1A genes in NDDs."
+    },
+    {
+      "pmid": "41718461",
+      "title": "Expanding the phenotypic spectrum of CACNA1A-related developmental and epileptic encephalopathy in adults.",
+      "authors": [
+        "Palumbo O",
+        "Costantino U",
+        "Benvenuto M",
+        "Palumbo P",
+        "Di Claudio MT",
+        "Imbrici P",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Epileptic disorders : international epilepsy journal with videotape",
+      "doi": "10.1002/epd2.70207",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh": [
+        "Humans",
+        "Adult",
+        "Female",
+        "Phenotype",
+        "Male",
+        "Calcium Channels",
+        "Electroencephalography",
+        "Calcium Channels, N-Type",
+        "Epilepsy"
+      ],
+      "abstract": "Deleterious variants in the CACNA1A gene, encoding the CaV2.1 P/Q-type voltage-gated calcium channel, cause a broad spectrum of neurological disorders, including familial hemiplegic migraine, episodic ataxia, and developmental and epileptic encephalopathy (DEE). Information on genotype-phenotype correlations and on the factors influencing clinical variability is still limited, hindering potential applications in precision medicine. We present three adults (aged 26, 27, and 40\u2009years) from two families with heterozygous CACNA1A deleterious variants and DEE, highlighting striking interindividual and intrafamilial variability in adult-onset presentations. Genetic testing revealed two distinct pathogenic variants [p.(Val1392Met) and p.(Glu1263Lys)], including one instance of germinal/gonosomic mosaicism in unaffected parents. The electroclinical details demonstrated profound differences, notably: a pair of siblings with the same variant showing discordant clinical severity, and an unrelated patient whose complex phenotype, dominated by cerebellar ataxia, required prolonged video-EEG to accurately diagnose a high burden of subtle absence seizures. These cases significantly expand the phenotypic spectrum and highlight the critical role of comprehensive electroclinical characterization in adults with CACNA1A-related DEE for personalized management."
+    },
+    {
+      "pmid": "35041321",
+      "title": "[Diversity of CACNA1A-related disorders].",
+      "authors": [
+        "Rudenskaya GE",
+        "Sermyagina IG",
+        "Chukhrova AL",
+        "Dadali EL",
+        "Lozier ER",
+        "Shchagina OA"
+      ],
+      "year": "2021",
+      "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+      "doi": "10.17116/jnevro2021121121106",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh": [
+        "Adult",
+        "Calcium Channels",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Humans",
+        "Male",
+        "Migraine with Aura",
+        "Mutation",
+        "Pedigree",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Four cases of autosomal dominant CNS disorders related to CACNA1A mutations and detected by massive parallel sequencing are reported: a non-familial case of episodic ataxia type 2 (EA2) with the previously reported mutation c.269_270insA (p.Tyr90Ter) in a 35-year-old man; familial hemiplegic migraine type 1 (FHM1) in a girl aged 3 years 10 months and her mother aged 38 yrs with a novel mutation 1829C>T (p.Ser610Phe), members of a family with 4 patients and incomplete penetrance; developmental and epileptic encephalopathy 42 (DEE42) in a 9-year-old girl and a 5-year-old boy from different families with the identical de novo mutation c.2137G>A (p.Ala713Thr) reported earlier. Clinical and genetic characteristics are analyzed compared to literature."
+    },
+    {
+      "pmid": "39096015",
+      "title": "Solving the Etiology of Developmental and Epileptic Encephalopathy with Spike-Wave Activation in Sleep (D/EE-SWAS).",
+      "authors": [
+        "Viswanathan S",
+        "Oliver KL",
+        "Regan BM",
+        "Schneider AL",
+        "Myers CT",
+        "Mehaffey MG",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Annals of neurology",
+      "doi": "10.1002/ana.27041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Female",
+        "Male",
+        "Child, Preschool",
+        "Child",
+        "Infant",
+        "Spasms, Infantile",
+        "Adolescent",
+        "Electroencephalography",
+        "Sleep",
+        "Cohort Studies",
+        "Phenotype",
+        "Adult",
+        "Young Adult"
+      ],
+      "abstract": "OBJECTIVE: To understand the etiological landscape and phenotypic differences between 2 developmental and epileptic encephalopathy (DEE) syndromes: DEE with spike-wave activation in sleep (DEE-SWAS) and epileptic encephalopathy with spike-wave activation in sleep (EE-SWAS).\nMETHODS: All patients fulfilled International League Against Epilepsy (ILAE) DEE-SWAS or EE-SWAS criteria with a Core cohort (n\u2009=\u200991) drawn from our Epilepsy Genetics research program, together with 10 etiologically solved patients referred by collaborators in the Expanded cohort (n\u2009=\u2009101). Detailed phenotyping and analysis of molecular genetic results were performed. We compared the phenotypic features of individuals with DEE-SWAS and EE-SWAS. Brain-specific gene co-expression analysis was performed for D/EE-SWAS genes.\nRESULTS: We identified the etiology in 42/91 (46%) patients in our Core cohort, including 29/44 (66%) with DEE-SWAS and 13/47 (28%) with EE-SWAS. A genetic etiology was identified in 31/91 (34%). D/EE-SWAS genes were highly co-expressed in brain, highlighting the importance of channelopathies and transcriptional regulators. Structural etiologies were found in 12/91 (13%) individuals. We identified 10 novel D/EE-SWAS genes with a range of functions: ATP1A2, CACNA1A, FOXP1, GRIN1, KCNMA1, KCNQ3, PPFIA3, PUF60, SETD1B, and ZBTB18, and 2 novel copy number variants, 17p11.2 duplication and 5q22 deletion. Although developmental regression patterns were similar in both syndromes, DEE-SWAS was associated with a longer duration of epilepsy and poorer intellectual outcome than EE-SWAS.\nINTERPRETATION: DEE-SWAS and EE-SWAS have highly heterogeneous genetic and structural etiologies. Phenotypic analysis highlights valuable clinical differences between DEE-SWAS and EE-SWAS which inform clinical care and prognostic counseling. Our etiological findings pave the way for the development of precision therapies. ANN NEUROL 2024;96:932-943."
+    }
+  ]
+}

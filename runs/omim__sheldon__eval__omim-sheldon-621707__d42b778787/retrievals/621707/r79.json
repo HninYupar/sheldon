@@ -1,0 +1,118 @@
+{
+  "id": "r79",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "40926810",
+      "37905710",
+      "40215498",
+      "39352287"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "authors": [
+        "Lamborn IT",
+        "Jing H",
+        "Chattopadhyay E",
+        "Ham H",
+        "Zhang Y",
+        "Su HC"
+      ],
+      "year": "2025",
+      "journal": "Journal of human immunity",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Inborn errors of immunity (IEI) presenting with immunodeficiency and autoimmunity can illuminate pathways essential for immunocompetence and self-tolerance. We recently characterized a new IEI named MAGIS (\"Midline malformations of the brain, Anterior pituitary gland dysfunction, Growth retardation, Immunodysregulation/immunodeficiency, and Skeletal defects\") caused by heterozygous germline activating mutations in GNAI2 (encoding the heterotrimeric G-protein, G\u03b1i2). This disorder demonstrates the central role of G\u03b1i2 regulation of chemotaxis in humans and a novel pathway by which G-proteins regulate T-cell activation. Here, we review the clinical features, current genetic and biochemical understanding, and future therapeutic considerations for this new syndromic immune dysregulation disorder."
+    },
+    {
+      "pmid": "37905710",
+      "title": "It Is Time to Play: Acute Effects of Soccer and Sprint Exercise on Attentional Performance, Mood, and Enjoyment in Untrained Male Adolescents.",
+      "authors": [
+        "Hammami A",
+        "Kasmi S",
+        "Ben Saad H",
+        "Bouhlel E",
+        "Krustrup P",
+        "Chamari K"
+      ],
+      "year": "2023",
+      "journal": "American journal of men's health",
+      "doi": "10.1177/15579883231209202",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Male",
+        "Adolescent",
+        "Pleasure",
+        "Soccer",
+        "Running",
+        "Exercise",
+        "Happiness",
+        "Athletic Performance"
+      ],
+      "abstract": "This study aimed to compare the effects of an acute bout of small-sided soccer game (SSG) and sprint exercise on attention, mood, and enjoyment in untrained adolescent boys. Eighteen adolescent boys aged 13-15 years participated in a counterbalanced order intervention: 1-No-training control condition (CONTROL), 2-SSG (SOCCER), and 3-Repeated sprint (SPRINT) sessions. Before and after the sessions, all participants completed the revised d2-test of attention and a mood assessment (i.e., Brunel mood scale [BRUMS]). Rating of perceived exertion (RPE) and perceived enjoyment (i.e., physical activity enjoyment scale) were evaluated after each session. A 3 \u00d7 2 repeated measures analysis of variance with contrast-coded test was used to analyze the data. Attentional test performance increased from pre- to post-exercise intervention for both SOCCER and SPRINT (main effect of Phase, F = 40.81, p < .001, \u03b7p2 = 0.48), compared with the CONTROL. BRUMS scores did not change for any of the interventions. RPE was significantly lower after SOCCER compared with SPRINT (t = 3.05 [3.20-7.18], p < .001, \u03b7p2 = 0.46). SOCCER was perceived to be significantly more enjoyable compared with SPRINT (p = .03) and CONTROL (p < .001). To conclude, an acute bout of exercise based on SOCCER or SPRINT exercise was beneficial for adolescent boys' attention, with significantly better enjoyment reported after the SOCCER session, whereas we did not observe any mood effects."
+    },
+    {
+      "pmid": "40215498",
+      "title": "Universal and Nonuniversal Signatures in the Scaling Functions of Critical Variables.",
+      "authors": [
+        "Teza G",
+        "Stella AL"
+      ],
+      "year": "2025",
+      "journal": "Physical review letters",
+      "doi": "10.1103/PhysRevLett.134.127102",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "At criticality, the magnetization M of a d-dimensional Ising system with N spins is distributed such that the probability density function of m=M/N^{y_{H}/d}, with y_{H} universal exponent, converges to a limit f(m). The expectation that f should furnish a hallmark of universal behavior contrasts with its sensible dependence on nonuniversal features. We show that both nonuniversal amplitudes and universal exponents of leading power law singularities in all large deviation functions are determined by the fact that, due to extensivity, f(m)\u223c_{|m|\u226b1}exp(-c|m|^{\u03b4+1}), with \u03b4=y_{H}/(d-y_{H}) and c a nonuniversal coefficient. This unexplored scenario implies a universal form of central limit theorem at criticality and is confirmed by exact calculations for mean field Ising models in equilibrium and for anomalous diffusion models, with M replaced by displacement and N by time."
+    },
+    {
+      "pmid": "39352287",
+      "title": "Four-dimensional Flow MRI-based Computational Fluid Dynamics Simulation for Noninvasive Portosystemic Pressure Gradient Assessment in Patients with Cirrhosis and Transjugular Intrahepatic Portosystemic Shunt.",
+      "authors": [
+        "Riedel C",
+        "Hoffmann M",
+        "Ismahil M",
+        "Lenz A",
+        "Piecha F",
+        "Ristow I",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Radiology",
+      "doi": "10.1148/radiol.232989",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Humans",
+        "Portasystemic Shunt, Transjugular Intrahepatic",
+        "Liver Cirrhosis",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Magnetic Resonance Imaging",
+        "Hydrodynamics",
+        "Hypertension, Portal",
+        "Prospective Studies",
+        "Feasibility Studies",
+        "Aged",
+        "Computer Simulation"
+      ],
+      "abstract": "Background Transjugular intrahepatic portosystemic shunt (TIPS) dysfunction in patients with liver cirrhosis and recurrent symptoms of portal hypertension is primarily assessed with US and confirmed with invasive catheter venography, which can be used to measure the portosystemic pressure gradient (PSPG) to identify TIPS-refractory portal hypertension. To avoid the risks and costs of invasive catheter venography, noninvasive PSPG evaluation strategies are needed. Purpose To demonstrate the feasibility of the combination of four-dimensional (4D) flow MRI with computational fluid dynamics (CFD) for noninvasive PSPG assessment in participants with cirrhosis and TIPS. Materials and Methods Abdominal 4D flow MRI was performed prospectively in participants with cirrhosis and TIPS between January 2019 and September 2020. Flow rates were measured within the TIPS and inferior vena cava (IVC). The portal vein (PV), TIPS, right hepatic vein, and IVC were segmented on MRI scans to create a CFD mesh. The PV and infrahepatic IVC were defined as inflows for 4D flow MRI-derived flow rates. The suprahepatic IVC was defined as the outflow. CFD simulations were used to noninvasively estimate PSPG as the difference between the simulated pressures in the PV and suprahepatic IVC. Invasive venographic measurements of the PSPG served as the reference standard, and Pearson correlation analysis was conducted to evaluate the relationship between noninvasive estimates and invasive measurements. Results In all 20 participants with cirrhosis (mean age, 58 years \u00b1 9 [SD]; 11 men), 4D flow MRI-based CFD simulations enabled visualization of flow velocities and pressure distributions within the segmented vasculature and TIPS. Noninvasive estimates and invasive measures of PSPG were strongly correlated (r = 0.77; P < .001). The 4D flow MRI-based CFD simulations correctly classified the presence or absence of a post-TIPS PSPG greater than 12 mm Hg in 16 of 20 participants (80%). Conclusion The combination of 4D flow MRI and CFD was feasible for noninvasive PSPG assessment in participants with cirrhosis, portal hypertension, and TIPS. \u00a9 RSNA, 2024 See also the editorial by Motosugi and Watanabe in this issue."
+    }
+  ]
+}

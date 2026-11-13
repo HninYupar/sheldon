@@ -1,0 +1,70 @@
+{
+  "id": "r83",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "35914984",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "5 'cited_by' links for PMID 35914984; showing 5",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41561635",
+      "title": "Mandibular extracellular vesicles mediate morphogenesis and mineralization of tooth germs in miniature swine through the miR-206/HDAC4 signaling axis.",
+      "first_author": "Cao X",
+      "year": "2025",
+      "journal": "Front Cell Dev Biol",
+      "doi": "10.3389/fcell.2025.1707072",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40181941",
+      "title": "Association between dietary patterns and existing natural teeth in Chinese elderly: a national community-based study.",
+      "first_author": "Huang D",
+      "year": "2025",
+      "journal": "Front Nutr",
+      "doi": "10.3389/fnut.2025.1549181",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39998175",
+      "title": "Mechanisms of comorbidity between Alzheimer's disease and pain.",
+      "first_author": "Yao K",
+      "year": "2025",
+      "journal": "Alzheimers Dement",
+      "doi": "10.1002/alz.14605",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39338207",
+      "title": "Tooth Loss in Periodontitis Patients-A Risk Factor for Mild Cognitive Impairment: A Systematic Review and Meta-Analysis.",
+      "first_author": "Agarwal B",
+      "year": "2024",
+      "journal": "J Pers Med",
+      "doi": "10.3390/jpm14090953",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39035234",
+      "title": "Occlusion dysfunction and Alzheimer's disease: Mendelian randomization study.",
+      "first_author": "Wang Q",
+      "year": "2024",
+      "journal": "Front Aging Neurosci",
+      "doi": "10.3389/fnagi.2024.1423322",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

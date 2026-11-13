@@ -1,0 +1,244 @@
+{
+  "id": "r44",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND patients AND autophagy",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "171 PubMed hits for 'ATG12[gene] AND patients AND autophagy'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) AND (\"autophagies\"[All Fields] OR \"autophagy\"[MeSH Terms] OR \"autophagy\"[All Fields] OR \"autophagy s\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "32401642",
+      "title": "Autophagy in the physiological endometrium and cancer.",
+      "first_author": "Devis-Jauregui L",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1752548",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40509575",
+      "title": "Macrophage TRIM21 knockout inhibits septic acute lung injury by downregulating autophagy regulator protein ubiquitination.",
+      "first_author": "Xie F",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2025.2519063",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31940411",
+      "title": "Mitochondrial DNA variations and mitochondrial dysfunction in Fanconi anemia.",
+      "first_author": "Solanki A",
+      "year": "2020",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0227603",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40907904",
+      "title": "LINC01018 attenuates hepatic lipid accumulation by inducing autophagy via DHX9 pathway in alcohol-associated liver disease.",
+      "first_author": "Ni B",
+      "year": "2025",
+      "journal": "Int J Biol Macromol",
+      "doi": "10.1016/j.ijbiomac.2025.147298",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36280710",
+      "title": "Intercellular transfer of activated STING triggered by RAB22A-mediated non-canonical autophagy promotes antitumor immunity.",
+      "first_author": "Gao Y",
+      "year": "2022",
+      "journal": "Cell Res",
+      "doi": "10.1038/s41422-022-00731-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38522078",
+      "title": "Impaired neuronal macroautophagy in the prelimbic cortex contributes to comorbid anxiety-like behaviors in rats with chronic neuropathic pain.",
+      "first_author": "Fu S",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2330038",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40329484",
+      "title": "Inhibition of autophagy by Atg7 knockdown enhances chemosensitivity in gemcitabine/paclitaxel-resistant pancreatic cancer MIAPaCa2 cells.",
+      "first_author": "Kudo Y",
+      "year": "2025",
+      "journal": "J Biochem",
+      "doi": "10.1093/jb/mvaf022",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33414645",
+      "title": "Prognostic Value of Autophagy-related Proteins in Human Gastric Cancer.",
+      "first_author": "Wu M",
+      "year": "2020",
+      "journal": "Cancer Manag Res",
+      "doi": "10.2147/CMAR.S278354",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32855711",
+      "title": "Autophagy dysfunction may be involved in the pathogenesis of ankylosing spondylitis.",
+      "first_author": "Tan M",
+      "year": "2020",
+      "journal": "Exp Ther Med",
+      "doi": "10.3892/etm.2020.9116",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25259530",
+      "title": "Trehalose improves human fibroblast deficits in a new CHIP-mutation related ataxia.",
+      "first_author": "Casarejos MJ",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0106931",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28229934",
+      "title": "Novel and functional ATG12 gene variants in sporadic Parkinson's disease.",
+      "first_author": "Li Y",
+      "year": "2017",
+      "journal": "Neurosci Lett",
+      "doi": "10.1016/j.neulet.2017.02.028",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28669590",
+      "title": "Tranexamic acid inhibits melanogenesis by activating the autophagy system in cultured melanoma cells.",
+      "first_author": "Cho YH",
+      "year": "2017",
+      "journal": "J Dermatol Sci",
+      "doi": "10.1016/j.jdermsci.2017.05.019",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30737168",
+      "title": "Methylomic correlates of autophagy activity in cystic fibrosis.",
+      "first_author": "Caution K",
+      "year": "2019",
+      "journal": "J Cyst Fibros",
+      "doi": "10.1016/j.jcf.2019.01.011",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "28678319",
+      "title": "MiR-146a-5p level in serum exosomes predicts therapeutic effect of cisplatin in non-small cell lung cancer.",
+      "first_author": "Yuwen DL",
+      "year": "2017",
+      "journal": "Eur Rev Med Pharmacol Sci",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41461233",
+      "title": "Computational analysis identifies pathogenic nsSNPs in ATG10, an E2-like ubiquitin-conjugating enzyme of the autophagy pathway.",
+      "first_author": "Arpna",
+      "year": "2026",
+      "journal": "Int J Biol Macromol",
+      "doi": "10.1016/j.ijbiomac.2025.149933",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29845275",
+      "title": "miR\u201123a downregulation modulates the inflammatory response by targeting ATG12\u2011mediated autophagy.",
+      "first_author": "Si X",
+      "year": "2018",
+      "journal": "Mol Med Rep",
+      "doi": "10.3892/mmr.2018.9081",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30206206",
+      "title": "MicroRNA-128a represses chondrocyte autophagy and exacerbates knee osteoarthritis by disrupting Atg12.",
+      "first_author": "Lian WS",
+      "year": "2018",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-018-0994-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32144238",
+      "title": "Long non-coding RNA HOTAIR knockdown enhances radiosensitivity through regulating microRNA-93/ATG12 axis in colorectal cancer.",
+      "first_author": "Liu Y",
+      "year": "2020",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-020-2268-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32420171",
+      "title": "miR-30a-3p inhibits renal cancer cell invasion and metastasis through targeting ATG12.",
+      "first_author": "Chen Y",
+      "year": "2020",
+      "journal": "Transl Androl Urol",
+      "doi": "10.21037/tau.2019.12.10",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35186475",
+      "title": "Autophagy-related prognostic signature for survival prediction of triple negative breast cancer.",
+      "first_author": "Yang Q",
+      "year": "2022",
+      "journal": "PeerJ",
+      "doi": "10.7717/peerj.12878",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

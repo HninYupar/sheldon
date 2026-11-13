@@ -1,0 +1,12 @@
+{
+  "id": "r203",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"PMC\"[All Fields] PSMF1 arthrogryposis",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"PMC\"[All Fields] PSMF1 arthrogryposis'; showing 0 (PubMed read it as: \"PMC\"[All Fields] AND (\"PSMF1\"[All Fields] AND (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields])))",
+  "ok": true,
+  "evidence": []
+}

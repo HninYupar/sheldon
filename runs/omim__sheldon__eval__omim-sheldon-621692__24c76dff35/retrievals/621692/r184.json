@@ -1,0 +1,249 @@
+{
+  "id": "r184",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (developmental delay[tiab] OR epilepsy[tiab] OR encephalopathy[tiab] OR ataxia[tiab]) AND (Thr501Met[tiab] OR T501M[tiab] OR c.1502C>T[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "33 PubMed hits for 'CACNA1A[gene] AND (developmental delay[tiab] OR epilepsy[tiab] OR encephalopathy[tiab] OR ataxia[tiab]) AND (Thr501Met[tiab] OR T501M[tiab] OR c.1502C>T[tiab])'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"developmental delay\"[Title/Abstract] OR \"epilepsy\"[Title/Abstract] OR \"encephalopathy\"[Title/Abstract] OR \"ataxia\"[Title/Abstract]) AND (\"Thr501Met\"[Title/Abstract] OR (\"T\"[Title/Abstract])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "first_author": "El Ghaleb Y",
+      "year": "2021",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38743163",
+      "title": "CACNA1A variant associated with generalized dystonia.",
+      "first_author": "Rinaldi D",
+      "year": "2024",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-024-07592-8",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30301590",
+      "title": "Genetic analysis of undiagnosed ataxia-telangiectasia-like disorders.",
+      "first_author": "Kashimada A",
+      "year": "2019",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2018.09.007",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29713557",
+      "title": "A Novel CACNA1A Nonsense Variant [c.4054C>T (p.Arg1352(\u204e))] Causing Episodic Ataxia Type 2.",
+      "first_author": "Lance S",
+      "year": "2018",
+      "journal": "Case Rep Neurol Med",
+      "doi": "10.1155/2018/5802650",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40967904",
+      "title": "Transcriptomic study of muscle in response to heat in Triplophysa yarkandensis.",
+      "first_author": "Wang X",
+      "year": "2026",
+      "journal": "J Fish Biol",
+      "doi": "10.1111/jfb.70184",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29770609",
+      "title": "Whole-exome sequencing for variant discovery in blepharospasm.",
+      "first_author": "Tian J",
+      "year": "2018",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.411",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35041321",
+      "title": "[Diversity of CACNA1A-related disorders].",
+      "first_author": "Rudenskaya GE",
+      "year": "2021",
+      "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+      "doi": "10.17116/jnevro2021121121106",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34565721",
+      "title": "Effect of CAG repeats on the age at onset of patients with spinocerebellar ataxia type 2 in China.",
+      "first_author": "Li Y",
+      "year": "2021",
+      "journal": "Zhong Nan Da Xue Xue Bao Yi Xue Ban",
+      "doi": "10.11817/j.issn.1672-7347.2021.210230",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "9600739",
+      "title": "De novo mutation in CACNA1A caused acetazolamide-responsive episodic ataxia.",
+      "first_author": "Yue Q",
+      "year": "1998",
+      "journal": "Am J Med Genet",
+      "doi": "10.1002/(sici)1096-8628(19980526)77:4<298::aid-ajmg9>3.0.co;2-j",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "39637109",
+      "title": "High-Voltage-Activated Calcium Channels in Epilepsy: Lessons from Humans and Rodents.",
+      "first_author": "Noebels JL",
+      "year": "2024",
+      "journal": "",
+      "doi": "10.1093/med/9780197549469.003.0046",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33121221",
+      "title": "New Nonsense Variant c.2983G>T; p.Glu995* in the CACNA1A Gene Causes Progressive Autosomal Dominant Ataxia.",
+      "first_author": "Saathoff Y",
+      "year": "2021",
+      "journal": "J Mov Disord",
+      "doi": "10.14802/jmd.20082",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24498617",
+      "title": "Screening of CACNA1A and ATP1A2 genes in hemiplegic migraine: clinical, genetic, and functional studies.",
+      "first_author": "Carre\u00f1o O",
+      "year": "2013",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.24",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22787604",
+      "title": "The Voltage-Gated Calcium Channel and Absence Epilepsy.",
+      "first_author": "Noebels JL",
+      "year": "2012",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42377810",
+      "title": "Clinical and Radiological Variability in Episodic Ataxia Type 2: A Case Report and Review of the Literature.",
+      "first_author": "Ortiz JF",
+      "year": "2026",
+      "journal": "Cerebellum",
+      "doi": "10.1007/s12311-026-02044-9",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35600082",
+      "title": "CACNA1A Mutations Associated With Epilepsies and Their Molecular Sub-Regional Implications.",
+      "first_author": "Li XL",
+      "year": "2022",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2022.860662",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "10408533",
+      "title": "A novel nonsense mutation in CACNA1A causes episodic ataxia and hemiplegia.",
+      "first_author": "Jen J",
+      "year": "1999",
+      "journal": "Neurology",
+      "doi": "10.1212/wnl.53.1.34",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "26758833",
+      "title": "Isolated P/Q Calcium Channel Deletion in Layer VI Corticothalamic Neurons Generates Absence Epilepsy.",
+      "first_author": "Bomben VC",
+      "year": "2016",
+      "journal": "J Neurosci",
+      "doi": "10.1523/JNEUROSCI.2555-15.2016",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20091047",
+      "title": "Role of voltage-gated calcium channels in epilepsy.",
+      "first_author": "Zamponi GW",
+      "year": "2010",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-009-0772-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42536722",
+      "title": "Parvalbumin interneuron activation rescues both seizures and impaired social novelty in digenic absence epilepsy mice.",
+      "first_author": "Miao QL",
+      "year": "2026",
+      "journal": "Sci Adv",
+      "doi": "10.1126/sciadv.aec6065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34320921",
+      "title": "CACNA1A-p.Thr501Met mutation associated with familial hemiplegic migraine: a family report.",
+      "first_author": "Romozzi M",
+      "year": "2021",
+      "journal": "J Headache Pain",
+      "doi": "10.1186/s10194-021-01297-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

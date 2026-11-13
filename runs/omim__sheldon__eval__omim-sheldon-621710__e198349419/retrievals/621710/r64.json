@@ -1,0 +1,263 @@
+{
+  "id": "r64",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND humans[mh]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "680 PubMed hits for 'ATG12[gene] AND humans[mh]'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND \"humans\"[MeSH Terms])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31969156",
+      "title": "Autophagy and autophagy-related proteins in cancer.",
+      "first_author": "Li X",
+      "year": "2020",
+      "journal": "Mol Cancer",
+      "doi": "10.1186/s12943-020-1138-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21175768",
+      "title": "Autophagy basics.",
+      "first_author": "Tanida I",
+      "year": "2011",
+      "journal": "Microbiol Immunol",
+      "doi": "10.1111/j.1348-0421.2010.00271.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39087410",
+      "title": "ZDHHC7-mediated S-palmitoylation of ATG16L1 facilitates LC3 lipidation and autophagosome formation.",
+      "first_author": "Wei F",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2386915",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25747593",
+      "title": "Mechanisms of Autophagy.",
+      "first_author": "Noda NN",
+      "year": "2015",
+      "journal": "Annu Rev Biophys",
+      "doi": "10.1146/annurev-biophys-060414-034248",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37409525",
+      "title": "TECPR1 is activated by damage-induced sphingomyelin exposure to mediate noncanonical\u00a0autophagy.",
+      "first_author": "Kaur N",
+      "year": "2023",
+      "journal": "EMBO J",
+      "doi": "10.15252/embj.2022113105",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38479594",
+      "title": "Membrane atg8ylation in Canonical and Noncanonical Autophagy.",
+      "first_author": "Deretic V",
+      "year": "2024",
+      "journal": "J Mol Biol",
+      "doi": "10.1016/j.jmb.2024.168532",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35222638",
+      "title": "Deficient Autophagy in Microglia Aggravates Repeated Social Defeat Stress-Induced Social Avoidance.",
+      "first_author": "Sakai M",
+      "year": "2022",
+      "journal": "Neural Plast",
+      "doi": "10.1155/2022/7503553",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37039556",
+      "title": "NR3C1/Glucocorticoid receptor activation promotes pancreatic \u03b2-cell autophagy overload in response to glucolipotoxicity.",
+      "first_author": "Wu T",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2023.2200625",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25578879",
+      "title": "PI(5)P regulates autophagosome biogenesis.",
+      "first_author": "Vicinanza M",
+      "year": "2015",
+      "journal": "Mol Cell",
+      "doi": "10.1016/j.molcel.2014.12.007",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21068544",
+      "title": "ATG12-ATG3 and mitochondria.",
+      "first_author": "Radoshevich L",
+      "year": "2011",
+      "journal": "Autophagy",
+      "doi": "10.4161/auto.7.1.13998",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38226533",
+      "title": "TBC1D2B undergoes phase separation and mediates autophagy initiation.",
+      "first_author": "Hoffmann ME",
+      "year": "2024",
+      "journal": "J Cell Biochem",
+      "doi": "10.1002/jcb.30481",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37238603",
+      "title": "The Ubiquitin-like Proteins of Saccharomyces cerevisiae.",
+      "first_author": "Sengupta S",
+      "year": "2023",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom13050734",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31020708",
+      "title": "Pleotropic role of RNA binding protein CELF2 in autophagy induction.",
+      "first_author": "New J",
+      "year": "2019",
+      "journal": "Mol Carcinog",
+      "doi": "10.1002/mc.23023",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37970991",
+      "title": "Upregulation of ATG9b by propranolol promotes autophagic cell death of hepatic stellate cells to improve liver fibrosis.",
+      "first_author": "Wang S",
+      "year": "2024",
+      "journal": "J Cell Mol Med",
+      "doi": "10.1111/jcmm.18047",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40641404",
+      "title": "ATG16L1 membrane recruitment in autophagy.",
+      "first_author": "Wei F",
+      "year": "2025",
+      "journal": "Crit Rev Biochem Mol Biol",
+      "doi": "10.1080/10409238.2025.2521321",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33033362",
+      "title": "Macrophage scavenger receptor 1 controls Chikungunya virus infection through autophagy in mice.",
+      "first_author": "Yang L",
+      "year": "2020",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-020-01285-6",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31940411",
+      "title": "Mitochondrial DNA variations and mitochondrial dysfunction in Fanconi anemia.",
+      "first_author": "Solanki A",
+      "year": "2020",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0227603",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31901645",
+      "title": "The ATG conjugation systems in autophagy.",
+      "first_author": "Mizushima N",
+      "year": "2020",
+      "journal": "Curr Opin Cell Biol",
+      "doi": "10.1016/j.ceb.2019.12.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36280710",
+      "title": "Intercellular transfer of activated STING triggered by RAB22A-mediated non-canonical autophagy promotes antitumor immunity.",
+      "first_author": "Gao Y",
+      "year": "2022",
+      "journal": "Cell Res",
+      "doi": "10.1038/s41422-022-00731-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39018396",
+      "title": "Endogenous retroviruses mediate transcriptional rewiring in response to oncogenic signaling in colorectal cancer.",
+      "first_author": "Ivancevic A",
+      "year": "2024",
+      "journal": "Sci Adv",
+      "doi": "10.1126/sciadv.ado1218",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

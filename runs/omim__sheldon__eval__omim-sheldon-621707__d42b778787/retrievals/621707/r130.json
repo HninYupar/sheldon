@@ -1,0 +1,135 @@
+{
+  "id": "r130",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (patients[tiab] OR case report[tiab] OR cohort[tiab] OR natural history[tiab] OR follow-up[tiab] OR phenotype[tiab] OR syndrome[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "86 PubMed hits for 'GNAI2[gene] AND (patients[tiab] OR case report[tiab] OR cohort[tiab] OR natural history[tiab] OR follow-up[tiab] OR phenotype[tiab] OR syndrome[tiab])'; showing 10 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"patients\"[Title/Abstract] OR \"case report\"[Title/Abstract] OR \"cohort\"[Title/Abstract] OR \"natural history\"[Title/Abstract] OR \"follow-up\"[Title/Abstract] OR \"phenotype\"[Title/Abstract] OR \"syndrome\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34294713",
+      "title": "S-nitrosylation-mediated coupling of G-protein alpha-2 with CXCR5 induces Hippo/YAP-dependent diabetes-accelerated atherosclerosis.",
+      "first_author": "Chao ML",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-24736-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36868481",
+      "title": "Liquid biopsy-based protein biomarkers for risk prediction, early diagnosis, and prognostication of cholangiocarcinoma.",
+      "first_author": "Lapitz A",
+      "year": "2023",
+      "journal": "J Hepatol",
+      "doi": "10.1016/j.jhep.2023.02.027",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "24423449",
+      "title": "Suppression of GNAI2 message in ovarian cancer.",
+      "first_author": "Raymond JR Jr",
+      "year": "2014",
+      "journal": "J Ovarian Res",
+      "doi": "10.1186/1757-2215-7-6",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41226691",
+      "title": "G\u03b1(i2) Signaling Regulates Neonatal Respiratory Adaptation.",
+      "first_author": "Leiss V",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms262110655",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34322898",
+      "title": "Guanine Nucleotide-Binding Protein G(i) Subunit Alpha 2 Exacerbates NASH Progression by Regulating Peroxiredoxin 1-Related Inflammation and Lipophagy.",
+      "first_author": "Zhang Z",
+      "year": "2021",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32078",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39273699",
+      "title": "Key Disease-Related Genes and Immune Cell Infiltration Landscape in Inflammatory Bowel Disease: A Bioinformatics Investigation.",
+      "first_author": "Alghamdi KS",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25179751",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36671532",
+      "title": "Combination Analysis of Ferroptosis and Immune Status Predicts Patients Survival in Breast Invasive Ductal Carcinoma.",
+      "first_author": "Yang Y",
+      "year": "2023",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom13010147",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25016959",
+      "title": "Par3-mInsc and G\u03b1i3 cooperate to promote oriented epidermal cell divisions through LGN.",
+      "first_author": "Williams SE",
+      "year": "2014",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/ncb3001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41827672",
+      "title": "Tumor Mutational Burden as a Prognostic Biomarker in Follicular Lymphoma.",
+      "first_author": "Lafuente M",
+      "year": "2026",
+      "journal": "Cancers (Basel)",
+      "doi": "10.3390/cancers18050737",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "r13",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"IMD135\" OR \"Immundeficiency 135\" OR \"immunodeficiency 135\" OR \"621699\"[All Fields]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "2639 PubMed hits for '\"IMD135\" OR \"Immundeficiency 135\" OR \"immunodeficiency 135\" OR \"621699\"[All Fields]'; showing 10 (PubMed read it as: (\"immundeficiency\"[All Fields] AND \"135\"[All Fields]) OR ((\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields]) AND \"135\"[All Fields]) OR \"621699\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41882858",
+      "title": "[The history of HIV].",
+      "first_author": "Shioda T",
+      "year": "2025",
+      "journal": "Uirusu",
+      "doi": "10.2222/jsv.75.135",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Historical Article",
+        "English Abstract"
+      ]
+    },
+    {
+      "pmid": "33464134",
+      "title": "Primary Immunodeficiency and Thrombocytopenia.",
+      "first_author": "Mohtashami M",
+      "year": "2022",
+      "journal": "Int Rev Immunol",
+      "doi": "10.1080/08830185.2020.1868454",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "1164110",
+      "title": "Autoimmune hemolytic anemia.",
+      "first_author": "Dacie JV",
+      "year": "1975",
+      "journal": "Arch Intern Med",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33275684",
+      "title": "Preventing infections in children and adults with asplenia.",
+      "first_author": "Lee GM",
+      "year": "2020",
+      "journal": "Hematology Am Soc Hematol Educ Program",
+      "doi": "10.1182/hematology.2020000117",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "3022903",
+      "title": "Chronic viral diseases.",
+      "first_author": "Berris B",
+      "year": "1986",
+      "journal": "CMAJ",
+      "doi": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "12342840",
+      "title": "Caribbean.",
+      "first_author": "Narain J",
+      "year": "1990",
+      "journal": "AIDS Action",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "3522224",
+      "title": "Cryptosporidiosis.",
+      "first_author": "Rolston KV",
+      "year": "1986",
+      "journal": "Eur J Clin Microbiol",
+      "doi": "10.1007/BF02013967",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "4147380",
+      "title": "Immunologic reconstitution.",
+      "first_author": "Biggar WD",
+      "year": "1973",
+      "journal": "Annu Rev Med",
+      "doi": "10.1146/annurev.me.24.020173.001031",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20167540",
+      "title": "Immunoglobulin class switch recombination deficiencies.",
+      "first_author": "Kracker S",
+      "year": "2010",
+      "journal": "Clin Immunol",
+      "doi": "10.1016/j.clim.2010.01.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32128574",
+      "title": "Topoisomerase 2\u03b2 mutation impairs early B-cell development.",
+      "first_author": "Papapietro O",
+      "year": "2020",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2019003299",
+      "pubtype": [
+        "Letter",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

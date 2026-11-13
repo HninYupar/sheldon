@@ -1,0 +1,12 @@
+{
+  "id": "r194",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (\"congenital myopathy\" OR \"congenital neuropathy\" OR \"anterior horn cell\" OR \"lower motor neuron\" OR \"fetal akinesia\" OR \"arthrogryposis multiplex congenita\")",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (\"congenital myopathy\" OR \"congenital neuropathy\" OR \"anterior horn cell\" OR \"lower motor neuron\" OR \"fetal akinesia\" OR \"arthrogryposis multiplex congenita\")'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"congenital myopathy\"[All Fields] OR \"congenital neuropathy\"[All Fields] OR \"anterior horn cell\"[All Fields] OR \"lower motor neuron\"[All Fields] OR \"fetal akinesia\"[All Fields] OR \"arthrogryposis multiplex congenita\"[All Fields]))",
+  "ok": true,
+  "evidence": []
+}

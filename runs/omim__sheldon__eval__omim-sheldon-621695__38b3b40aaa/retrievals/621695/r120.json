@@ -1,0 +1,25 @@
+{
+  "id": "r120",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND variant*[tiab] AND syndrome[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'PSMF1[gene] AND variant*[tiab] AND syndrome[tiab]'; showing 1 (PubMed read it as: \"PSMF1\"[All Fields] AND \"variant*\"[Title/Abstract] AND \"syndrome\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    }
+  ]
+}

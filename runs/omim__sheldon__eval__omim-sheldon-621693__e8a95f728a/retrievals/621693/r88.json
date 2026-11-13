@@ -1,0 +1,25 @@
+{
+  "id": "r88",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND medRxiv[ta]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'PSMF1[tiab] AND medRxiv[ta]'; showing 1 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND \"medrxiv\"[Journal])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    }
+  ]
+}

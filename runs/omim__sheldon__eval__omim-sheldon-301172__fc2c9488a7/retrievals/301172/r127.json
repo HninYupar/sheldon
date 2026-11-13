@@ -1,0 +1,12 @@
+{
+  "id": "r127",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"loss-of-function variants in SAT1\"[tiab]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"loss-of-function variants in SAT1\"[tiab]'; showing 0 (PubMed read it as: \"loss-of-function variants in SAT1\"[tiab])",
+  "ok": true,
+  "evidence": []
+}

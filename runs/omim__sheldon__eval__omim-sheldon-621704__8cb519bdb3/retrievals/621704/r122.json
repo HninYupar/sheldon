@@ -1,0 +1,49 @@
+{
+  "id": "r122",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"infantile neuroaxonal dystrophy\" AND osteopetrosis) AND (gene OR exome OR family OR patient)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for '(\"infantile neuroaxonal dystrophy\" AND osteopetrosis) AND (gene OR exome OR family OR patient)'; showing 3 (PubMed read it as: \"infantile neuroaxonal dystrophy\"[All Fields] AND (\"osteopetrosis\"[MeSH Terms] OR \"osteopetrosis\"[All Fields] OR \"osteopetroses\"[All Fields]) AND (\"genes\"[MeSH Terms] OR \"genes\"[All Fields] OR \"gene\"[All Fields] OR (\"exome\"[MeSH Terms] OR \"exome\"[All Fields] OR \"exomes\"[All Fields] OR \"exomic\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "12662317",
+      "title": "Neurological aspects of osteopetrosis.",
+      "first_author": "Steward CG",
+      "year": "2003",
+      "journal": "Neuropathol Appl Neurobiol",
+      "doi": "10.1046/j.1365-2990.2003.00474.x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "7577667",
+      "title": "Association of infantile neuroaxonal dystrophy and osteopetrosis: a rare autosomal recessive disorder.",
+      "first_author": "Rees H",
+      "year": "1995",
+      "journal": "Pediatr Neurosurg",
+      "doi": "10.1159/000120923",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "27856007",
+      "title": "[Diagnosis, evolution and prognosis of prenatally diagnosed suprasellar cysts].",
+      "first_author": "Di Rocco F",
+      "year": "2016",
+      "journal": "Neurochirurgie",
+      "doi": "10.1016/j.neuchi.2016.09.001",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

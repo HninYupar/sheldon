@@ -1,0 +1,26 @@
+{
+  "id": "r146",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (immunodeficiency OR combined immunodeficiency OR SCID OR severe combined immunodeficiency) NOT 42128181[pmid]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'SIT1[gene] AND (immunodeficiency OR combined immunodeficiency OR SCID OR severe combined immunodeficiency) NOT 42128181[pmid]'; showing 1 (PubMed read it as: (\"SIT1\"[All Fields] AND (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields] OR ((\"combinable\"[All Fields] OR \"combinated\"[All Fields] OR \"combination\"[All Fields] OR \"combinational\"[All Fields] OR \"combinations\"[All Fields] OR \"combinative\"[All Fields] OR \"combine\"[All Fields] OR \"combined\"[All Fields] OR \"combines\"[All Fields] OR \"combining\"[All Fields]) AND (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields])) OR \"SCID\"[All Fields] OR (\"severe combined immunodeficiency\"[MeSH Terms] OR (\"severe\"[All Fields] AND \"combined\"[All Fields] AND \"immunodeficiency\"[All Fields]) OR \"severe combined immunodeficiency\"[All Fields]))) NOT 42128181[UID])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "11816709",
+      "title": "Role of protease-activated receptor 1 in tumor metastasis promoted by tissue factor.",
+      "first_author": "Bromberg ME",
+      "year": "2001",
+      "journal": "Thromb Haemost",
+      "doi": "",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    }
+  ]
+}

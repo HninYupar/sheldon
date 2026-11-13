@@ -1,0 +1,35 @@
+{
+  "id": "r104",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (cohort OR screen OR screening OR letter OR case OR family) AND (Parkinson OR parkinsonism)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'PSMF1[gene] AND (cohort OR screen OR screening OR letter OR case OR family) AND (Parkinson OR parkinsonism)'; showing 2 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields] OR (\"diagnosis\"[MeSH Subheading] OR \"diagnosis\"[All Fields] OR \"screening\"[All Fields] OR \"mass screening\"[MeSH Terms] OR (\"mass\"[All Fields] AND \"screening\"[All Fields]) OR \"mass screening\"[All Fields] OR \"early detection of cancer\"[MeSH Terms] OR (\"early\"[All Fields] AND \"detection\"[All Fields] AND \"cancer\"[All Fields]) OR \"early detection of cancer\"[All Fields] OR \"screen\"[All Fields] OR \"screenings\"[All Fields] OR \"screened\"[All Fields] OR \"screens\"[All Fields]) OR (\"diagnosis\"[MeSH Subheading] OR \"diagnosis\"[All Fields] OR \"screening\"[All Fields] OR \"mass screening\"[MeSH Terms] OR (\"mass\"[All Fields] AND \"screening\"[All Fields]) OR \"mass screening\"[All Fields] OR \"early detection of cancer\"[MeSH Terms] OR (\"early\"[All Fields] AND \"detection\"[All Fields] AND \"cancer\"[All Fields]) OR \"early detection of cancer\"[All Fields] OR \"screen\"[All Fields] OR \"screenings\"[All Fields] OR \"screened\"[All Fields] OR \"screens\"[All Fields]) OR (\"letter\"[Publication Type] OR \"correspondence as topic\"[MeSH Terms] OR \"letter\"[All Fields]) OR (\"ieee int conf automation sci eng case\"[Journal] OR \"case phila\"[Journal] OR \"case\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields])) AND (\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR \"parkinson s\"[All Fields] OR \"parkinsons\"[All Fields] OR \"parkinson\"[All Fields] OR \"parkinsonian disorders\"[MeSH Terms] OR (\"parkinsonian\"[All Fields] AND \"disorders\"[All Fields]) OR \"parkinsonian disorders\"[All Fields] OR \"parkinsonism\"[All Fields] OR \"parkinsonisms\"[All Fields] OR \"parkinsons s\"[All Fields] OR (\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR \"parkinson s\"[All Fields] OR \"parkinsons\"[All Fields] OR \"parkinson\"[All Fields] OR \"parkinsonian disorders\"[MeSH Terms] OR (\"parkinsonian\"[All Fields] AND \"disorders\"[All Fields]) OR \"parkinsonian disorders\"[All Fields] OR \"parkinsonism\"[All Fields] OR \"parkinsonisms\"[All Fields] OR \"parkinsons s\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    }
+  ]
+}

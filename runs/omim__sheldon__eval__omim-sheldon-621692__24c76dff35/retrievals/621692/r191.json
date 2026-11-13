@@ -1,0 +1,129 @@
+{
+  "id": "r191",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "34320921",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "10 'cited_by' links for PMID 34320921; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41618146",
+      "title": "Effectiveness and safety of anti-CGRP monoclonal antibodies in hemiplegic migraine: an individual patient quantitative analysis.",
+      "first_author": "Romozzi M",
+      "year": "2026",
+      "journal": "J Headache Pain",
+      "doi": "10.1186/s10194-026-02283-5",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "41315928",
+      "title": "Epigenome-wide DNA methylation profiling reveals risk genes for migraine and its subtypes.",
+      "first_author": "Liu M",
+      "year": "2025",
+      "journal": "J Headache Pain",
+      "doi": "10.1186/s10194-025-02217-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41087891",
+      "title": "EEG patterns in each phase of hemiplegic migraine: a systematic review and pooled prevalence meta-analysis.",
+      "first_author": "Kedgan P",
+      "year": "2025",
+      "journal": "J Headache Pain",
+      "doi": "10.1186/s10194-025-02150-9",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ]
+    },
+    {
+      "pmid": "40808385",
+      "title": "Voltage-gated sodium channels in the nervous system: Molecular physiology to therapeutic interventions.",
+      "first_author": "Li N",
+      "year": "2026",
+      "journal": "Neural Regen Res",
+      "doi": "10.4103/NRR.NRR-D-25-00260",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39931922",
+      "title": "Monogenic disorders associated with motor speech phenotypes in children and adolescents undergoing clinical exome sequencing.",
+      "first_author": "Mitchel MW",
+      "year": "2025",
+      "journal": "Genet Med",
+      "doi": "10.1016/j.gim.2025.101374",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39723107",
+      "title": "Clinical characterization of a novel ATP1A2 p.Gly615Glu mutation in nine family members with familial hemiplegic migraine.",
+      "first_author": "Romozzi M",
+      "year": "2025",
+      "journal": "Brain Commun",
+      "doi": "10.1093/braincomms/fcae447",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39555480",
+      "title": "\"Living with\" CACNA1A-related hemiplegic migraine, a disease concept model.",
+      "first_author": "Schaare D",
+      "year": "2024",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2024.1460187",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37576133",
+      "title": "Two pediatric patients with hemiplegic migraine presenting as acute encephalopathy: case reports and a literature review.",
+      "first_author": "Xiang Y",
+      "year": "2023",
+      "journal": "Front Pediatr",
+      "doi": "10.3389/fped.2023.1214837",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37297978",
+      "title": "Hemiplegic Migraine in Children and Adolescents.",
+      "first_author": "Bonemazzi I",
+      "year": "2023",
+      "journal": "J Clin Med",
+      "doi": "10.3390/jcm12113783",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36582062",
+      "title": "Antiseizure Medications for the Prophylaxis of Migraine during the Anti- CGRP Drugs Era.",
+      "first_author": "Rollo E",
+      "year": "2023",
+      "journal": "Curr Neuropharmacol",
+      "doi": "10.2174/1570159X21666221228095256",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

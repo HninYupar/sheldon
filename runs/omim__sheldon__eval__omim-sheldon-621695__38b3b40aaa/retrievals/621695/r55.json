@@ -1,0 +1,164 @@
+{
+  "id": "r55",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "33651148",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "13 'cited_by' links for PMID 33651148; showing 13",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42899476",
+      "title": "Prognostic Impact of ERAP1 Genetic Variants and Haplotypes in Cervical Cancer: Insights From TCGA-CESC and a Brazilian Patient Cohort.",
+      "first_author": "Dian AL",
+      "year": "2026",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.70170",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41972741",
+      "title": "Messing with Signal 1: How Perturbed MHC Class I Antigen Presentation Contributes to Cancer.",
+      "first_author": "Lawand M",
+      "year": "2026",
+      "journal": "Cells",
+      "doi": "10.3390/cells15070653",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39630602",
+      "title": "A two-phase epigenome-wide four-way gene-smoking interaction study of overall survival for early-stage non-small cell lung cancer.",
+      "first_author": "Chen L",
+      "year": "2025",
+      "journal": "Mol Oncol",
+      "doi": "10.1002/1878-0261.13766",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39489837",
+      "title": "Multimodal AI/ML for discovering novel biomarkers and predicting disease using multi-omics profiles of patients with cardiovascular diseases.",
+      "first_author": "DeGroat W",
+      "year": "2024",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-024-78553-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39409885",
+      "title": "Germline Polymorphisms Associated with Overall Survival in Lung Adenocarcinoma: Genome-Wide Analysis.",
+      "first_author": "Minnai F",
+      "year": "2024",
+      "journal": "Cancers (Basel)",
+      "doi": "10.3390/cancers16193264",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39021960",
+      "title": "Immunomodulatory gene polymorphisms in non-small cell lung carcinoma susceptibility and survival.",
+      "first_author": "Dewarajan V",
+      "year": "2024",
+      "journal": "Heliyon",
+      "doi": "10.1016/j.heliyon.2024.e33003",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39011823",
+      "title": "ERAP Inhibitors in Autoimmunity and Immuno-Oncology: Medicinal Chemistry Insights.",
+      "first_author": "Fougiaxis V",
+      "year": "2024",
+      "journal": "J Med Chem",
+      "doi": "10.1021/acs.jmedchem.4c00840",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38988911",
+      "title": "A signature of four ferroptosis-related genes in laryngeal squamous cell carcinoma.",
+      "first_author": "Zhao R",
+      "year": "2024",
+      "journal": "Transl Cancer Res",
+      "doi": "10.21037/tcr-23-2046",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38515668",
+      "title": "Novel biomarkers related to oxidative stress and immunity in chronic kidney disease.",
+      "first_author": "Bai F",
+      "year": "2024",
+      "journal": "Heliyon",
+      "doi": "10.1016/j.heliyon.2024.e27754",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37101107",
+      "title": "Down-regulation of ERAP1 mRNA expression in non-small cell lung cancer.",
+      "first_author": "Wagner M",
+      "year": "2023",
+      "journal": "BMC Cancer",
+      "doi": "10.1186/s12885-023-10785-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36680322",
+      "title": "Role of NCF2 as a potential prognostic factor and immune infiltration indicator in hepatocellular carcinoma.",
+      "first_author": "Huang N",
+      "year": "2023",
+      "journal": "Cancer Med",
+      "doi": "10.1002/cam4.5597",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36408734",
+      "title": "A trans-omics assessment of gene-gene interaction in early-stage NSCLC.",
+      "first_author": "Chen J",
+      "year": "2023",
+      "journal": "Mol Oncol",
+      "doi": "10.1002/1878-0261.13345",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35807355",
+      "title": "Prognostic Ability of Enhancer RNAs in Metastasis of Non-Small Cell Lung Cancer.",
+      "first_author": "Liu J",
+      "year": "2022",
+      "journal": "Molecules",
+      "doi": "10.3390/molecules27134108",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

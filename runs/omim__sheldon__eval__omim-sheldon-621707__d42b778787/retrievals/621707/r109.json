@@ -1,0 +1,134 @@
+{
+  "id": "r109",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (MAGIS OR syndrome OR patient OR case report OR natural history OR follow-up)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "73 PubMed hits for 'GNAI2[gene] AND (MAGIS OR syndrome OR patient OR case report OR natural history OR follow-up)'; showing 10 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"MAGIS\"[All Fields] OR (\"syndrom\"[All Fields] OR \"syndromal\"[All Fields] OR \"syndromally\"[All Fields] OR \"syndrome\"[MeSH Terms] OR \"syndrome\"[All Fields] OR \"syndromes\"[All Fields] OR \"syndrome s\"[All Fields] OR \"syndromic\"[All Fields] OR \"syndroms\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"case reports\"[Publication Type] OR \"case report\"[All Fields]) OR (\"natural history\"[MeSH Terms] OR (\"natural\"[All Fields] AND \"history\"[All Fields]) OR \"natural history\"[All Fields]) OR \"follow-up\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34294713",
+      "title": "S-nitrosylation-mediated coupling of G-protein alpha-2 with CXCR5 induces Hippo/YAP-dependent diabetes-accelerated atherosclerosis.",
+      "first_author": "Chao ML",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-24736-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36868481",
+      "title": "Liquid biopsy-based protein biomarkers for risk prediction, early diagnosis, and prognostication of cholangiocarcinoma.",
+      "first_author": "Lapitz A",
+      "year": "2023",
+      "journal": "J Hepatol",
+      "doi": "10.1016/j.jhep.2023.02.027",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36201743",
+      "title": "Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma.",
+      "first_author": "Thomas N",
+      "year": "2023",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2022016534",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "28921447",
+      "title": "Structure, Pharmacology and Roles in Physiology of the P2Y(12) Receptor.",
+      "first_author": "von K\u00fcgelgen I",
+      "year": "2017",
+      "journal": "Adv Exp Med Biol",
+      "doi": "10.1007/5584_2017_98",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39249692",
+      "title": "A new variant confirms GNAI2 as a rare cause of periventricular nodular heterotopia.",
+      "first_author": "Decio A",
+      "year": "2024",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-024-07764-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "10833069",
+      "title": "Absence of GNAI2 codon 179 oncogene mutations in inflammatory bowel disease.",
+      "first_author": "Zhang WJ",
+      "year": "2000",
+      "journal": "Inflamm Bowel Dis",
+      "doi": "10.1097/00054725-200005000-00006",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34322898",
+      "title": "Guanine Nucleotide-Binding Protein G(i) Subunit Alpha 2 Exacerbates NASH Progression by Regulating Peroxiredoxin 1-Related Inflammation and Lipophagy.",
+      "first_author": "Zhang Z",
+      "year": "2021",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32078",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "first_author": "Huang X",
+      "year": "2009",
+      "journal": "Med Hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

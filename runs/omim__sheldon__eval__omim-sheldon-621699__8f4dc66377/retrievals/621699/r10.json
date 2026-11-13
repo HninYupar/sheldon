@@ -1,0 +1,133 @@
+{
+  "id": "r10",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (immunodeficiency OR \"immune deficiency\" OR \"combined immunodeficiency\" OR phenotype OR 621699)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "12 PubMed hits for 'SIT1[gene] AND (immunodeficiency OR \"immune deficiency\" OR \"combined immunodeficiency\" OR phenotype OR 621699)'; showing 10 (PubMed read it as: \"SIT1\"[All Fields] AND (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields] OR \"immune deficiency\"[All Fields] OR \"combined immunodeficiency\"[All Fields] OR (\"phenotype\"[MeSH Terms] OR \"phenotype\"[All Fields] OR \"phenotypes\"[All Fields] OR \"phenotyped\"[All Fields] OR \"phenotypic\"[All Fields] OR \"phenotypical\"[All Fields] OR \"phenotypically\"[All Fields] OR \"phenotyping\"[All Fields] OR \"phenotypings\"[All Fields]) OR 621699[UID]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "19184091",
+      "title": "Kidney amino acid transport.",
+      "first_author": "Verrey F",
+      "year": "2009",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-009-0638-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39108991",
+      "title": "Discordance Between Phenotypic and WGS-Based Drug Susceptibility Testing Results for Some Anti-Tuberculosis Drugs: A Snapshot Study of Paired Mycobacterium tuberculosis Isolates with Small Genetic Distance.",
+      "first_author": "Sadovska D",
+      "year": "2024",
+      "journal": "Infect Drug Resist",
+      "doi": "10.2147/IDR.S468997",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42459881",
+      "title": "A hospital-based genomic analysis reveals predominance of ST215 Mycobacterium tuberculosis with low drug resistance.",
+      "first_author": "Yang M",
+      "year": "2026",
+      "journal": "Front Microbiol",
+      "doi": "10.3389/fmicb.2026.1871161",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24912522",
+      "title": "Drug resistance and molecular epidemiology of Mycobacterium tuberculosis in Mexico: a systematic review.",
+      "first_author": "Flores-Trevi\u00f1o S",
+      "year": "2014",
+      "journal": "Salud Publica Mex",
+      "doi": "10.21149/spm.v56i1.7324",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "32330146",
+      "title": "Genetic profiling of Mycobacterium tuberculosis revealed \"modern\" Beijing strains linked to MDR-TB from Southwestern Colombia.",
+      "first_author": "Nieto Ramirez LM",
+      "year": "2020",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0224908",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "14534538",
+      "title": "The phosphotyrosine phosphatase SHP2 is a critical mediator of transformation induced by the oncogenic fibroblast growth factor receptor 3.",
+      "first_author": "Agazie YM",
+      "year": "2003",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1206798",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "14555476",
+      "title": "Regulation of ENA1 Na(+)-ATPase gene expression by the Ppz1 protein phosphatase is mediated by the calcineurin pathway.",
+      "first_author": "Ruiz A",
+      "year": "2003",
+      "journal": "Eukaryot Cell",
+      "doi": "10.1128/EC.2.5.937-948.2003",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22888912",
+      "title": "Transcript profiling reveals rewiring of iron assimilation gene expression in Candida albicans and C. dubliniensis.",
+      "first_author": "Moran GP",
+      "year": "2012",
+      "journal": "FEMS Yeast Res",
+      "doi": "10.1111/j.1567-1364.2012.00841.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37350781",
+      "title": "Phenotypic and genetic features of a novel clinically isolated rough morphotype Candida auris.",
+      "first_author": "Tian S",
+      "year": "2023",
+      "journal": "Front Microbiol",
+      "doi": "10.3389/fmicb.2023.1174878",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "r104",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (review[pt] OR review OR overview OR mechanism OR background)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "53 PubMed hits for 'SIT1[gene] AND (review[pt] OR review OR overview OR mechanism OR background)'; showing 20 (PubMed read it as: \"SIT1\"[All Fields] AND (\"review\"[Publication Type] OR (\"review\"[Publication Type] OR \"review literature as topic\"[MeSH Terms] OR \"review\"[All Fields]) OR (\"overview\"[All Fields] OR \"overviewed\"[All Fields] OR \"overviewing\"[All Fields] OR \"overviews\"[All Fields]) OR (\"mechanism\"[All Fields] OR \"mechanisms\"[All Fields]) OR (\"background\"[All Fields] OR \"backgrounds\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "11158346",
+      "title": "Siderophore uptake and use by the yeast Saccharomyces cerevisiae.",
+      "first_author": "Lesuisse E",
+      "year": "2001",
+      "journal": "Microbiology (Reading)",
+      "doi": "10.1099/00221287-147-2-289",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15814599",
+      "title": "Genome-wide expression profiling of the response to ciclopirox olamine in Candida albicans.",
+      "first_author": "Lee RE",
+      "year": "2005",
+      "journal": "J Antimicrob Chemother",
+      "doi": "10.1093/jac/dki105",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "9867099",
+      "title": "Active Crohn's disease and ulcerative colitis evaluated by low-field magnetic resonance imaging.",
+      "first_author": "Madsen SM",
+      "year": "1998",
+      "journal": "Scand J Gastroenterol",
+      "doi": "10.1080/00365529850172566",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33320938",
+      "title": "Drug-resistant Mycobacterium tuberculosis and its genotypes isolated from an outbreak in western Thailand.",
+      "first_author": "Rudeeaneksin J",
+      "year": "2021",
+      "journal": "Trans R Soc Trop Med Hyg",
+      "doi": "10.1093/trstmh/traa148",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42838996",
+      "title": "Integrated spatial and single-cell transcriptomics uncover IFI6\u207a regulatory T-cells and SPP1\u207a macrophages immunosuppressive niches in colorectal cancer.",
+      "first_author": "Miroszewska D",
+      "year": "2026",
+      "journal": "Br J Cancer",
+      "doi": "10.1038/s41416-026-03637-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32046769",
+      "title": "Choroid plexus LAT2 and SNAT3 as partners in CSF amino acid homeostasis maintenance.",
+      "first_author": "Dolgodilina E",
+      "year": "2020",
+      "journal": "Fluids Barriers CNS",
+      "doi": "10.1186/s12987-020-0178-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34409029",
+      "title": "Identification of CDK2-Related Immune Forecast Model and ceRNA in Lung Adenocarcinoma, a Pan-Cancer Analysis.",
+      "first_author": "Liu TT",
+      "year": "2021",
+      "journal": "Front Cell Dev Biol",
+      "doi": "10.3389/fcell.2021.682002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31405853",
+      "title": "ASP2397 Is a Novel Natural Compound That Exhibits Rapid and Potent Fungicidal Activity against Aspergillus Species through a Specific Transporter.",
+      "first_author": "Nakamura I",
+      "year": "2019",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.02689-18",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19184091",
+      "title": "Kidney amino acid transport.",
+      "first_author": "Verrey F",
+      "year": "2009",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-009-0638-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32580724",
+      "title": "The clinical relevance of early identification and treatment of sleep disorders in mental health care: protocol of a randomized control trial.",
+      "first_author": "Ter Heege FM",
+      "year": "2020",
+      "journal": "BMC Psychiatry",
+      "doi": "10.1186/s12888-020-02737-3",
+      "pubtype": [
+        "Clinical Trial Protocol",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31405865",
+      "title": "The Siderophore Transporter Sit1 Determines Susceptibility to the Antifungal VL-2397.",
+      "first_author": "Dietl AM",
+      "year": "2019",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.00807-19",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11870856",
+      "title": "Siderophore uptake by Candida albicans: effect of serum treatment and comparison with Saccharomyces cerevisiae.",
+      "first_author": "Lesuisse E",
+      "year": "2002",
+      "journal": "Yeast",
+      "doi": "10.1002/yea.840",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26028423",
+      "title": "Na+-dependent and Na+-independent betaine transport across the apical membrane of rat renal epithelium.",
+      "first_author": "Cano M",
+      "year": "2015",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbamem.2015.05.020",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11850263",
+      "title": "Relationship between chloroquine toxicity and iron acquisition in Saccharomyces cerevisiae.",
+      "first_author": "Emerson LR",
+      "year": "2002",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.46.3.787-796.2002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "33140827",
+      "title": "ACE2 and gut amino acid transport.",
+      "first_author": "Camargo SMR",
+      "year": "2020",
+      "journal": "Clin Sci (Lond)",
+      "doi": "10.1042/CS20200477",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "10227885",
+      "title": "Evaluation of treatment response in active Crohn's disease by low-field magnetic resonance imaging.",
+      "first_author": "Madsen SM",
+      "year": "1999",
+      "journal": "Abdom Imaging",
+      "doi": "10.1007/s002619900487",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41609499",
+      "title": "The siderophore transporter Sit1 is involved in the uptake of caspofungin by Candida albicans.",
+      "first_author": "Pedras A",
+      "year": "2026",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/aac.01236-25",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17185532",
+      "title": "The iron- and cAMP-regulated gene SIT1 influences ferrioxamine B utilization, melanization and cell wall structure in Cryptococcus neoformans.",
+      "first_author": "Tangen KL",
+      "year": "2007",
+      "journal": "Microbiology (Reading)",
+      "doi": "10.1099/mic.0.2006/000927-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41142409",
+      "title": "Mechanisms involved in aminoacidurias: impacts of genetic and environmental factors.",
+      "first_author": "Ajayi JA",
+      "year": "2025",
+      "journal": "Curr Res Physiol",
+      "doi": "10.1016/j.crphys.2025.100168",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40873928",
+      "title": "Role of the putative sit1 gene in normal germination of spores and virulence of the Mucor lusitanicus.",
+      "first_author": "V\u00e1g\u00f3 B",
+      "year": "2025",
+      "journal": "Microb Cell",
+      "doi": "10.15698/mic2025.08.856",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

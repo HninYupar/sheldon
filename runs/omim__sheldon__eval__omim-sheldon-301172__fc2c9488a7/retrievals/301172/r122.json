@@ -1,0 +1,12 @@
+{
+  "id": "r122",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus\"[tiab]'; showing 0 (PubMed read it as: \"Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus\"[tiab])",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,122 @@
+{
+  "id": "r132",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "39460936",
+      "36938367",
+      "34102571",
+      "35722745"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "authors": [
+        "Hommersom MP",
+        "Doorn N",
+        "Puvogel S",
+        "Lewerissa EI",
+        "Mordelt A",
+        "Ciptasari U",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Brain : a journal of neurology",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Haploinsufficiency",
+        "Neurons",
+        "Induced Pluripotent Stem Cells",
+        "Synapses",
+        "Receptors, AMPA",
+        "Calcium Channels",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Haploinsufficiency of CACNA1A, encoding the pore-forming \u03b11 subunit of P/Q-type voltage-gated calcium channels, is associated with a clinically variable phenotype ranging from cerebellar ataxia to neurodevelopmental syndromes with epilepsy and intellectual disability. To understand the pathological mechanisms of CACNA1A loss-of-function variants, we characterized a human neuronal model for CACNA1A haploinsufficiency by differentiating isogenic induced pluripotent stem cell lines into glutamatergic neurons and investigated the effect of CACNA1A haploinsufficiency on mature neuronal networks through a combination of electrophysiology, gene expression analysis and in silico modelling. We observed an altered network synchronization in CACNA1A+/- networks alongside synaptic deficits, notably marked by an augmented contribution of GluA2 subunit-lacking \u03b1-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptors. Intriguingly, these synaptic perturbations coexisted with increased non-synaptically driven activity, as characterized by inhibition of N-methyl-D-aspartate and AMPA receptors on micro-electrode arrays. Single-cell electrophysiology and gene expression analysis corroborated this increased intrinsic excitability through reduced potassium channel function and expression. Moreover, we observed partial mitigation of the CACNA1A+/- network phenotype by 4-aminopyridine, a therapeutic intervention for episodic ataxia type 2. Positive modulation of small conductance calcium-activated potassium channels could reverse the CACNA1A+/- network electrophysiological phenotype. In summary, our study pioneers the characterization of a human induced pluripotent stem cell-derived neuronal model for CACNA1A haploinsufficiency and has unveiled new mechanistic insights. Beyond showcasing synaptic deficits, this neuronal model exhibited increased intrinsic excitability mediated by diminished potassium channel function, underscoring its potential as a therapeutic discovery platform with predictive validity."
+    },
+    {
+      "pmid": "36938367",
+      "title": "A neurodevelopmental disorder caused by a dysfunctional CACNA1A allele.",
+      "authors": [
+        "Kramer AA",
+        "Bennett DF",
+        "Bara\u00f1ano KW",
+        "Bannister RA"
+      ],
+      "year": "2023",
+      "journal": "eNeurologicalSci",
+      "doi": "10.1016/j.ensci.2023.100456",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "P/Q-type Ca2+ flux into nerve terminals via CaV2.1 channels is essential for neurotransmitter release at neuromuscular junctions and nearly all central synapses. Mutations in CACNA1A, the gene encoding CaV2.1, cause a spectrum of pediatric neurological disorders. We have identified a patient harboring an autosomal-dominant de novo frameshift-causing nucleotide duplication in CACNA1A (c.5018dupG). The duplicated guanine precipitated 43 residues of altered amino acid sequence beginning with a glutamine to serine substitution in CaV2.1 at position 1674 ending with a premature stop codon (CaV2.1 p.Gln1674Serfs*43). The patient presented with episodic downbeat vertical nystagmus, hypotonia, ataxia, developmental delay and febrile seizures. In patch-clamp experiments, no Ba2+ current was observed in tsA-201 cells expressing CaV2.1 p.Gln1674Serfs*43 with \u03b24 and \u03b12\u03b4-1 auxiliary subunits. The ablation of divalent flux in response to depolarization was likely attributable to the inability of CaV2.1 p.Gln1674Serfs*43 to form a complete channel pore. Our results suggest that the pathology resulting from this frameshift-inducing nucleotide duplication is a consequence of an effective haploinsufficiency."
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "authors": [
+        "Le Roux M",
+        "Barth M",
+        "Gueden S",
+        "Desbordes de Cepoy P",
+        "Aeby A",
+        "Vilain C",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Calcium Channels",
+        "Child, Preschool",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Male",
+        "Seizures",
+        "Spinocerebellar Ataxias",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "CACNA1A pathogenic mutations are involved in various neurological phenotypes including episodic ataxia (EA2), spinocerebellar ataxia (SCA6), and familial hemiplegic migraine (FHM1). Epilepsy is poorly documented. We studied 18 patients (10 males) carrying de novo or inherited CACNA1A mutations, with median age of 2,5 years at epilepsy onset. Eight mutations were novel. Two variants known leading to gain of function (GOF) were found in 5 patients. Five other patients had non-sense variants leading to loss of function (LOF). Seizures were most often revealed by either status epilepticus (SE) (n\u00a0=\u00a08), eventually triggered by fever (n\u00a0=\u00a05), or absences/behavioural arrests (n\u00a0=\u00a07). Non-epileptic paroxysmal events were frequent and consisted in recurrent hemiplegic accesses (n\u00a0=\u00a09), jitteriness in the neonatal period (n\u00a0=\u00a06), and ocular paroxysmal events (n\u00a0=\u00a09). Most of the patients had early permanent cerebellar dysfunction (n\u00a0=\u00a016) and early moderate to severe global developmental delay (GDD)/intellectual deficiency (ID) (n\u00a0=\u00a017). MRI was often abnormal, with cerebellar (n\u00a0=\u00a08) and/or cerebral (n\u00a0=\u00a06) atrophy. Stroke-like occurred in 2 cases. Some antiepileptic drugs including topiramate, levetiracetam, lamotrigine and valproate were effective on seizures. Acetazolamide and calcium channel blockers were often effective when used. More than half of the patients had refractory epilepsy. CACNA1A mutation should be evoked in front of 2 main electro-clinical phenotypes that are associated with permanent cerebellar dysfunction and moderate to severe GDD/ID. The first one, found in all 5 patients with GOF variants, is characterized by intractable seizures, early and recurrent SE and hemiplegic accesses. The second, less severe, found in 5 patients with LOF variants, is characterized by refractory early onset absence seizures."
+    },
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "authors": [
+        "Lipman AR",
+        "Fan X",
+        "Shen Y",
+        "Chung WK"
+      ],
+      "year": "2022",
+      "journal": "Clinical genetics",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Autism Spectrum Disorder",
+        "Calcium Channels",
+        "Humans",
+        "Nystagmus, Pathologic",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Pathogenic variants in the CACNA1A gene have been associated with episodic ataxia type 2, familial hemiplegic migraine, and spinocerebellar ataxia 6. With increasing use of clinical genetic testing, associations have expanded to include developmental delay, epilepsy, paroxysmal dystonia, and neuropsychiatric disorders. We report 47 individuals with 33 unique likely pathogenic or pathogenic CACNA1A variants. A machine learning method, funNCion, was used to predict loss-of-function (LoF)/gain-of-function (GoF) impact of genetic variants, and a heuristic severity score was designed to analyze genotype/phenotype correlations. Commonly reported phenotypes include developmental delay/intellectual disability (96%), hemiplegic migraines (36%), episodic ataxia type 2 (32%), epilepsy (55%), autism spectrum disorder (23%), and paroxysmal tonic upward gaze (36%). Severity score was significantly higher for predicted GoF variants, variants in the S5/S6 helices, and the recurrent p.Val1392Met variant. Seizures/status epilepticus were correlated with GoF and were more frequent in those with the p.Val1392Met variant. Our findings demonstrate a breadth of disease severity in CACNA1A-related disease and suggest that the clinical phenotypic heterogeneity likely reflects diverse molecular phenotypes. A better understanding of the natural history of CACNA1A-related disease and genotype/phenotype correlations will help inform prognosis and prepare for future clinical trials."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "r28",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "36592223",
+      "40111503",
+      "39096015",
+      "39460936"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36592223",
+      "title": "CACNA1A-Related Channelopathies: Clinical Manifestations and Treatment Options.",
+      "authors": [
+        "Indelicato E",
+        "Boesch S"
+      ],
+      "year": "2023",
+      "journal": "Handbook of experimental pharmacology",
+      "doi": "10.1007/164_2022_625",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Ataxia",
+        "Calcium Channels",
+        "Cerebellar Ataxia",
+        "Channelopathies",
+        "Migraine Disorders",
+        "Mutation",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "In the last decade, variants in the Ca2+ channel gene CACNA1A emerged as a frequent aetiology of rare neurological phenotypes sharing a common denominator of variable paroxysmal manifestations and chronic cerebellar dysfunction. The spectrum of paroxysmal manifestations encompasses migraine with hemiplegic aura, episodic ataxia, epilepsy and paroxysmal non-epileptic movement disorders. Additional chronic neurological symptoms range from severe developmental phenotypes in early-onset cases to neurobehavioural disorders and chronic cerebellar ataxia in older children and adults.In the present review we systematically approach the clinical manifestations of CACNA1A variants, delineate genotype-phenotype correlations and elaborate on the emerging concept of an age-dependent phenotypic spectrum in CACNA1A disease. We furthermore reflect on different therapy options available for paroxysmal symptoms in CACNA1A and address open issues to prioritize in the future clinical research."
+    },
+    {
+      "pmid": "40111503",
+      "title": "Phenotypic variability in cases with CACNA1A mutation.",
+      "authors": [
+        "Bozkaya-Yilmaz S",
+        "Olgac-Dundar N",
+        "Aliyeva N",
+        "Ersen A",
+        "Gencpinar P",
+        "Gungor M",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "European journal of pediatrics",
+      "doi": "10.1007/s00431-025-06062-3",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh": [
+        "Humans",
+        "Male",
+        "Phenotype",
+        "Female",
+        "Child",
+        "Child, Preschool",
+        "Mutation",
+        "Adolescent",
+        "Turkey",
+        "Infant",
+        "Calcium Channels",
+        "Epilepsy",
+        "Adult",
+        "Young Adult",
+        "Neurodevelopmental Disorders",
+        "Migraine Disorders",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "UNLABELLED: The purpose of this study was to enhance understanding of CACNA1A gene variants by elucidating the clinical profiles of patients with different variants. The overlapping features and varying phenotypic characteristics of these neurological disorders pose challenges for clinicians. A data collection form was utilized to gather clinical features, examination details, and treatment information associated with CACNA1A variants. Thirty-one patients were included in the study from 11 different clinics in Turkey. Cases were assessed by comparing their information with existing literature. The study initially included 32 patients from 29 families, with 31 patients meeting the inclusion criteria. Clinical manifestations ranged from congenital onset hypotonia to motor seizures. Within the group of patients, 87% were diagnosed with epilepsy, 61% had neurodevelopmental defects, 32% experienced ataxia, 22% had eye movement problems, 16% suffered from migraines, and 13% had recurrent encephalopathy. Thirty percent of individuals exhibited cerebellar atrophy. A subset of individuals exhibited various forms of cognitive impairment and different kinds of ataxia.\nCONCLUSION: CACNA1A variants can lead to structural and functional abnormalities in the Cav2.1 channels, resulting in paroxysmal and/or chronic clinical presentations. The overlapping phenotypes and variable features among family members suggest the influence of environmental factors and modifier genes. A thorough understanding of the range of phenotypic variants and the difficulties encountered by medical professionals is essential for precise diagnosis and efficient treatment approaches in various neurological conditions. Additional research is necessary to clarify the underlying mechanisms that contribute to the various presentations of these variants.\nWHAT IS KNOWN: \u2022 Variants in the CACNA1A gene disrupt calcium signaling, thereby impacting fundamental developmental processes such as neuronal differentiation, migration, and synapse formation. \u2022 Variants in the CACNA1A can lead to neurodevelopmental disorders characterized by intellectual disability, learning difficulties, memory challenges, and problems in social interaction.\nWHAT IS NEW: \u2022 Instances of intrafamilial variability in CACNA1A variants have been identified, with differing clinical manifestations exhibited by affected family members. \u2022 Incomplete penetrance is a phenomenon that may occur, as neurodevelopmental or neuropsychiatric finding"
+    },
+    {
+      "pmid": "39096015",
+      "title": "Solving the Etiology of Developmental and Epileptic Encephalopathy with Spike-Wave Activation in Sleep (D/EE-SWAS).",
+      "authors": [
+        "Viswanathan S",
+        "Oliver KL",
+        "Regan BM",
+        "Schneider AL",
+        "Myers CT",
+        "Mehaffey MG",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Annals of neurology",
+      "doi": "10.1002/ana.27041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Female",
+        "Male",
+        "Child, Preschool",
+        "Child",
+        "Infant",
+        "Spasms, Infantile",
+        "Adolescent",
+        "Electroencephalography",
+        "Sleep",
+        "Cohort Studies",
+        "Phenotype",
+        "Adult",
+        "Young Adult"
+      ],
+      "abstract": "OBJECTIVE: To understand the etiological landscape and phenotypic differences between 2 developmental and epileptic encephalopathy (DEE) syndromes: DEE with spike-wave activation in sleep (DEE-SWAS) and epileptic encephalopathy with spike-wave activation in sleep (EE-SWAS).\nMETHODS: All patients fulfilled International League Against Epilepsy (ILAE) DEE-SWAS or EE-SWAS criteria with a Core cohort (n\u2009=\u200991) drawn from our Epilepsy Genetics research program, together with 10 etiologically solved patients referred by collaborators in the Expanded cohort (n\u2009=\u2009101). Detailed phenotyping and analysis of molecular genetic results were performed. We compared the phenotypic features of individuals with DEE-SWAS and EE-SWAS. Brain-specific gene co-expression analysis was performed for D/EE-SWAS genes.\nRESULTS: We identified the etiology in 42/91 (46%) patients in our Core cohort, including 29/44 (66%) with DEE-SWAS and 13/47 (28%) with EE-SWAS. A genetic etiology was identified in 31/91 (34%). D/EE-SWAS genes were highly co-expressed in brain, highlighting the importance of channelopathies and transcriptional regulators. Structural etiologies were found in 12/91 (13%) individuals. We identified 10 novel D/EE-SWAS genes with a range of functions: ATP1A2, CACNA1A, FOXP1, GRIN1, KCNMA1, KCNQ3, PPFIA3, PUF60, SETD1B, and ZBTB18, and 2 novel copy number variants, 17p11.2 duplication and 5q22 deletion. Although developmental regression patterns were similar in both syndromes, DEE-SWAS was associated with a longer duration of epilepsy and poorer intellectual outcome than EE-SWAS.\nINTERPRETATION: DEE-SWAS and EE-SWAS have highly heterogeneous genetic and structural etiologies. Phenotypic analysis highlights valuable clinical differences between DEE-SWAS and EE-SWAS which inform clinical care and prognostic counseling. Our etiological findings pave the way for the development of precision therapies. ANN NEUROL 2024;96:932-943."
+    },
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "authors": [
+        "Hommersom MP",
+        "Doorn N",
+        "Puvogel S",
+        "Lewerissa EI",
+        "Mordelt A",
+        "Ciptasari U",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Brain : a journal of neurology",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Haploinsufficiency",
+        "Neurons",
+        "Induced Pluripotent Stem Cells",
+        "Synapses",
+        "Receptors, AMPA",
+        "Calcium Channels",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Haploinsufficiency of CACNA1A, encoding the pore-forming \u03b11 subunit of P/Q-type voltage-gated calcium channels, is associated with a clinically variable phenotype ranging from cerebellar ataxia to neurodevelopmental syndromes with epilepsy and intellectual disability. To understand the pathological mechanisms of CACNA1A loss-of-function variants, we characterized a human neuronal model for CACNA1A haploinsufficiency by differentiating isogenic induced pluripotent stem cell lines into glutamatergic neurons and investigated the effect of CACNA1A haploinsufficiency on mature neuronal networks through a combination of electrophysiology, gene expression analysis and in silico modelling. We observed an altered network synchronization in CACNA1A+/- networks alongside synaptic deficits, notably marked by an augmented contribution of GluA2 subunit-lacking \u03b1-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptors. Intriguingly, these synaptic perturbations coexisted with increased non-synaptically driven activity, as characterized by inhibition of N-methyl-D-aspartate and AMPA receptors on micro-electrode arrays. Single-cell electrophysiology and gene expression analysis corroborated this increased intrinsic excitability through reduced potassium channel function and expression. Moreover, we observed partial mitigation of the CACNA1A+/- network phenotype by 4-aminopyridine, a therapeutic intervention for episodic ataxia type 2. Positive modulation of small conductance calcium-activated potassium channels could reverse the CACNA1A+/- network electrophysiological phenotype. In summary, our study pioneers the characterization of a human induced pluripotent stem cell-derived neuronal model for CACNA1A haploinsufficiency and has unveiled new mechanistic insights. Beyond showcasing synaptic deficits, this neuronal model exhibited increased intrinsic excitability mediated by diminished potassium channel function, underscoring its potential as a therapeutic discovery platform with predictive validity."
+    }
+  ]
+}

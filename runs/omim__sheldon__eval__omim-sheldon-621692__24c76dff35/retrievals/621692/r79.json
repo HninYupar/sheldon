@@ -1,0 +1,133 @@
+{
+  "id": "r79",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (loss of function OR haploinsufficiency OR truncating OR nonsense OR frameshift) AND (epilepsy OR encephalopathy OR developmental delay)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "131 PubMed hits for 'CACNA1A[gene] AND (loss of function OR haploinsufficiency OR truncating OR nonsense OR frameshift) AND (epilepsy OR encephalopathy OR developmental delay)'; showing 10 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND ((\"loss\"[All Fields] AND (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms])) OR (\"haploinsufficiency\"[MeSH Terms] OR \"haploinsufficiency\"[All Fields] OR \"haploinsufficiencies\"[All Fields] OR \"haploinsufficient\"[All Fields]) OR (\"truncate\"[All Fields] OR \"truncated\"[All Fields] OR \"truncates\"[All Fields] OR \"truncating\"[All Fields] OR \"truncation\"[All Fields] OR \"truncations\"[All Fields]) OR (\"codon nonsense\"[Supplementary Concept] OR \"codon nonsense\"[All Fields] OR \"nonsense\"[All Fields] OR \"codon, nonsense\"[MeSH Terms] OR (\"codon\"[All Fields] AND \"nonsense\"[All Fields]) OR \"nonsense codon\"[All Fields] OR \"nonsenses\"[All Fields]) OR (\"frameshift mutation\"[MeSH Terms] OR (\"frameshift\"[All Fields] AND \"mutation\"[All Fields]) OR \"frameshift mutation\"[All Fields] OR \"frameshift\"[All Fields] OR \"frameshifted\"[All Fields] OR \"frameshifter\"[All Fields] OR \"frameshifting\"[All Fields] OR \"frameshifts\"[All Fields])) AND (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields] OR (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields]) OR ((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"delay\"[All Fields] OR \"delayed\"[All Fields] OR \"delaying\"[All Fields] OR \"delays\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39174245",
+      "title": "Familial hemiplegic migraine.",
+      "first_author": "Villar-Martinez MD",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-323-90820-7.00007-0",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "first_author": "Hommersom MP",
+      "year": "2025",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17395138",
+      "title": "Familial hemiplegic migraine.",
+      "first_author": "Pietrobon D",
+      "year": "2007",
+      "journal": "Neurotherapeutics",
+      "doi": "10.1016/j.nurt.2007.01.008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41775907",
+      "title": "Genotype and Age at Onset Drive Vermis Atrophy in CACNA1A- and GAA-FGF14-related Ataxias.",
+      "first_author": "Indelicato E",
+      "year": "2026",
+      "journal": "Cerebellum",
+      "doi": "10.1007/s12311-026-01966-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33983550",
+      "title": "Epilepsy and episodic ataxia type 2: family study and review of the literature.",
+      "first_author": "Verriello L",
+      "year": "2021",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-021-10555-0",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "12736095",
+      "title": "A novel insertion mutation of acetazolamide-responsive episodic ataxia in a Japanese family.",
+      "first_author": "Matsuyama Z",
+      "year": "2003",
+      "journal": "J Neurol Sci",
+      "doi": "10.1016/s0022-510x(03)00008-x",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39781574",
+      "title": "Exploring the association between familial hemiplegic migraine genes (CACNA1A, ATP1A2 and SCN1A) with migraine and epilepsy: A UK Biobank exome-wide association study.",
+      "first_author": "Staehr C",
+      "year": "2025",
+      "journal": "Cephalalgia",
+      "doi": "10.1177/03331024241306103",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33985586",
+      "title": "Calcium channelopathies and intellectual disability: a systematic review.",
+      "first_author": "Kessi M",
+      "year": "2021",
+      "journal": "Orphanet J Rare Dis",
+      "doi": "10.1186/s13023-021-01850-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    }
+  ]
+}

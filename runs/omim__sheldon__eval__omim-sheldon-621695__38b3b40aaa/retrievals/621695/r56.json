@@ -1,0 +1,59 @@
+{
+  "id": "r56",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (\"proteasome inhibitor subunit 1\"[tiab] OR PI31[tiab] OR \"proteasome inhibitor 31\"[tiab]) AND (patient OR patients OR family OR familial)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "4 PubMed hits for 'PSMF1[gene] AND (\"proteasome inhibitor subunit 1\"[tiab] OR PI31[tiab] OR \"proteasome inhibitor 31\"[tiab]) AND (patient OR patients OR family OR familial)'; showing 4 (PubMed read it as: \"PSMF1\"[All Fields] AND \"PI31\"[Title/Abstract] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31114588",
+      "title": "NOD2 and TLR2 Signal via TBK1 and PI31 to Direct Cross-Presentation and CD8 T Cell Responses.",
+      "first_author": "Corridoni D",
+      "year": "2019",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2019.00958",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

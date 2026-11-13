@@ -1,0 +1,85 @@
+{
+  "id": "r40",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (family OR pedigree OR kindred OR homozygous OR compound heterozygous)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "6 PubMed hits for 'PSMF1[gene] AND (family OR pedigree OR kindred OR homozygous OR compound heterozygous)'; showing 6 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields] OR (\"pedigree\"[MeSH Terms] OR \"pedigree\"[All Fields] OR \"pedigrees\"[All Fields] OR \"pedigree s\"[All Fields] OR \"pedigreed\"[All Fields]) OR (\"kindred\"[All Fields] OR \"kindred s\"[All Fields] OR \"kindreds\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17302559",
+      "title": "Exploring the specificity of the PI3K family inhibitor LY294002.",
+      "first_author": "Gharbi SI",
+      "year": "2007",
+      "journal": "Biochem J",
+      "doi": "10.1042/BJ20061489",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "26678661",
+      "title": "MicroRNA-203 Modulates the Radiation Sensitivity of Human Malignant Glioma Cells.",
+      "first_author": "Chang JH",
+      "year": "2016",
+      "journal": "Int J Radiat Oncol Biol Phys",
+      "doi": "10.1016/j.ijrobp.2015.10.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31585107",
+      "title": "A Rare Variant Nonparametric Linkage Method for Nuclear and Extended Pedigrees with Application to Late-Onset Alzheimer Disease via WGS Data.",
+      "first_author": "Zhao L",
+      "year": "2019",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2019.09.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

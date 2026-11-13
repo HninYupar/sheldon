@@ -1,0 +1,133 @@
+{
+  "id": "r73",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "41895291",
+    "relation": "references",
+    "max_results": 10
+  },
+  "summary": "55 'references' links for PMID 41895291; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40245862",
+      "title": "Bi-allelic pathogenic variants in TRMT1 disrupt tRNA modification and induce a neurodevelopmental disorder.",
+      "first_author": "Efthymiou S",
+      "year": "2025",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2025.03.015",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40103232",
+      "title": "Optimizing gRNA selection for high-penetrance F0 CRISPR screening for interrogating disease gene function.",
+      "first_author": "Lin SJ",
+      "year": "2025",
+      "journal": "Nucleic Acids Res",
+      "doi": "10.1093/nar/gkaf180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39864255",
+      "title": "Autophagic flux measurement: Cargo degradation versus generation of degradation products.",
+      "first_author": "Mizushima N",
+      "year": "2025",
+      "journal": "Curr Opin Cell Biol",
+      "doi": "10.1016/j.ceb.2025.102463",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39367235",
+      "title": "Longitudinal autophagy profiling of the mammalian brain reveals sustained mitophagy throughout healthy aging.",
+      "first_author": "Rappe A",
+      "year": "2024",
+      "journal": "EMBO J",
+      "doi": "10.1038/s44318-024-00241-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37951597",
+      "title": "Bi-allelic ACBD6 variants lead to a neurodevelopmental syndrome with progressive and complex movement disorders.",
+      "first_author": "Kaiyrzhanov R",
+      "year": "2024",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad380",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37364041",
+      "title": "Comprehensive analysis of autophagic functions of WIPI family proteins and their implications for the pathogenesis of \u03b2-propeller associated neurodegeneration.",
+      "first_author": "Shimizu T",
+      "year": "2023",
+      "journal": "Hum Mol Genet",
+      "doi": "10.1093/hmg/ddad096",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35938926",
+      "title": "A pulse-chasable reporter processing assay for mammalian autophagic flux with HaloTag.",
+      "first_author": "Yim WW",
+      "year": "2022",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.78923",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34996966",
+      "title": "Robust LC3B lipidation analysis by precisely adjusting autophagic flux.",
+      "first_author": "Liebl MP",
+      "year": "2022",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-021-03875-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34725936",
+      "title": "Emerging roles of ATG7 in human health and disease.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "EMBO Mol Med",
+      "doi": "10.15252/emmm.202114824",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "34161705",
+      "title": "Developmental Consequences of Defective ATG7-Mediated Autophagy in Humans.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "N Engl J Med",
+      "doi": "10.1056/NEJMoa1915722",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

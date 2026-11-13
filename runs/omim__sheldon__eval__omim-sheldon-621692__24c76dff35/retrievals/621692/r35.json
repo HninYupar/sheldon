@@ -1,0 +1,252 @@
+{
+  "id": "r35",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (developmental delay OR intellectual disability OR autism) AND epilepsy AND variant",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "42 PubMed hits for 'CACNA1A[gene] AND (developmental delay OR intellectual disability OR autism) AND epilepsy AND variant'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"delay\"[All Fields] OR \"delayed\"[All Fields] OR \"delaying\"[All Fields] OR \"delays\"[All Fields])) OR (\"intellectual disability\"[MeSH Terms] OR (\"intellectual\"[All Fields] AND \"disability\"[All Fields]) OR \"intellectual disability\"[All Fields]) OR (\"autism s\"[All Fields] OR \"autisms\"[All Fields] OR \"autistic disorder\"[MeSH Terms] OR (\"autistic\"[All Fields] AND \"disorder\"[All Fields]) OR \"autistic disorder\"[All Fields] OR \"autism\"[All Fields])) AND (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields]) AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36592223",
+      "title": "CACNA1A-Related Channelopathies: Clinical Manifestations and Treatment Options.",
+      "first_author": "Indelicato E",
+      "year": "2023",
+      "journal": "Handb Exp Pharmacol",
+      "doi": "10.1007/164_2022_625",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40111503",
+      "title": "Phenotypic variability in cases with CACNA1A mutation.",
+      "first_author": "Bozkaya-Yilmaz S",
+      "year": "2025",
+      "journal": "Eur J Pediatr",
+      "doi": "10.1007/s00431-025-06062-3",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "21492892",
+      "title": "[Hereditary episodic ataxia].",
+      "first_author": "Riant F",
+      "year": "2011",
+      "journal": "Rev Neurol (Paris)",
+      "doi": "10.1016/j.neurol.2010.10.016",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "first_author": "Hommersom MP",
+      "year": "2025",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31171384",
+      "title": "Genomic backgrounds of Japanese patients with undiagnosed neurodevelopmental disorders.",
+      "first_author": "Yamamoto T",
+      "year": "2019",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2019.05.007",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "first_author": "El Ghaleb Y",
+      "year": "2021",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41370402",
+      "title": "Characterization of the functional and clinical impacts of CACNA1A missense variants found in neurodevelopmental disorders.",
+      "first_author": "Kurganov E",
+      "year": "2025",
+      "journal": "Sci Transl Med",
+      "doi": "10.1126/scitranslmed.adr0024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33985586",
+      "title": "Calcium channelopathies and intellectual disability: a systematic review.",
+      "first_author": "Kessi M",
+      "year": "2021",
+      "journal": "Orphanet J Rare Dis",
+      "doi": "10.1186/s13023-021-01850-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "34995834",
+      "title": "Leu226Trp CACNA1A variant associated with juvenile myoclonic epilepsy with and without intellectual disability.",
+      "first_author": "Alehabib E",
+      "year": "2022",
+      "journal": "Clin Neurol Neurosurg",
+      "doi": "10.1016/j.clineuro.2021.107108",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30142438",
+      "title": "Major intra-familial phenotypic heterogeneity and incomplete penetrance due to a CACNA1A pathogenic variant.",
+      "first_author": "Angelini C",
+      "year": "2019",
+      "journal": "Eur J Med Genet",
+      "doi": "10.1016/j.ejmg.2018.08.011",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40725423",
+      "title": "Polymorphisms in CACNA1A, CACNA1C, and CACNA1H Genes in Korean Pediatric Patients with Developmental Delay and Intellectual Disability: A Focus on Epilepsy Comorbidity.",
+      "first_author": "Han JY",
+      "year": "2025",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes16070767",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41131961",
+      "title": "Adjunctive acetazolamide for drug-resistant seizures in SLC6A1-related neurodevelopmental disorder: An\u00a0exploratory case series.",
+      "first_author": "Melikishvili G",
+      "year": "2025",
+      "journal": "Epilepsia Open",
+      "doi": "10.1002/epi4.70155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39513870",
+      "title": "Voltage-Gated Ion Channel Compensatory Effect in DEE: Implications for Future Therapies.",
+      "first_author": "Shabani K",
+      "year": "2024",
+      "journal": "Cells",
+      "doi": "10.3390/cells13211763",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39637109",
+      "title": "High-Voltage-Activated Calcium Channels in Epilepsy: Lessons from Humans and Rodents.",
+      "first_author": "Noebels JL",
+      "year": "2024",
+      "journal": "",
+      "doi": "10.1093/med/9780197549469.003.0046",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40906262",
+      "title": "Altered Gating of Two Ca(V)2.1 Variants Linked to Neurodevelopmental Disorders With Epilepsy and Migraine.",
+      "first_author": "Meza U",
+      "year": "2025",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.202501708R",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41366559",
+      "title": "Clinical and genetics spectrum of 392 Chinese patients with genetic epilepsy with febrile seizures plus.",
+      "first_author": "Chen S",
+      "year": "2025",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-025-13544-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34263451",
+      "title": "Genotype-phenotype correlation of CACNA1A variants in children with epilepsy.",
+      "first_author": "Niu X",
+      "year": "2022",
+      "journal": "Dev Med Child Neurol",
+      "doi": "10.1111/dmcn.14985",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36063114",
+      "title": "Biallelic CACNA1A variants: Review of literature and report of a child with drug-resistant epilepsy and developmental delay.",
+      "first_author": "Wong-Spracklen VMY",
+      "year": "2022",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.62960",
+      "pubtype": [
+        "Case Reports",
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article"
+      ]
+    }
+  ]
+}

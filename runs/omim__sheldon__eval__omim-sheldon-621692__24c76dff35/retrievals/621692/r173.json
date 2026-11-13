@@ -1,0 +1,48 @@
+{
+  "id": "r173",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (\"developmental and epileptic encephalopathy 42B\" OR DEE42B OR \"epileptic encephalopathy 42\")",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for 'CACNA1A[gene] AND (\"developmental and epileptic encephalopathy 42B\" OR DEE42B OR \"epileptic encephalopathy 42\")'; showing 3 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epileptic\"[All Fields] OR \"epileptics\"[All Fields] OR \"epileptic s\"[All Fields] OR \"epileptical\"[All Fields] OR \"epileptization\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields]) AND \"42b\"[All Fields]) OR \"epileptic encephalopathy 42\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35041321",
+      "title": "[Diversity of CACNA1A-related disorders].",
+      "first_author": "Rudenskaya GE",
+      "year": "2021",
+      "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+      "doi": "10.17116/jnevro2021121121106",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33565063",
+      "title": "[Clinical manifestation and genetic analysis of a child with early infantile epileptic encephalopathy 42].",
+      "first_author": "Ran Y",
+      "year": "2021",
+      "journal": "Zhonghua Yi Xue Yi Chuan Xue Za Zhi",
+      "doi": "10.3760/cma.j.cn511374-20201022-00743",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35497372",
+      "title": "Two Children with Early-Onset Strokes and Intractable Epilepsy, Both with CACNA1A Mutations.",
+      "first_author": "Bolte KN",
+      "year": "2022",
+      "journal": "Child Neurol Open",
+      "doi": "10.1177/2329048X221094977",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    }
+  ]
+}

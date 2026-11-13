@@ -1,0 +1,34 @@
+{
+  "id": "r116",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "42649079"
+    ]
+  },
+  "summary": "fetched 1 of 1 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "authors": [
+        "Gabbert C",
+        "Much C",
+        "Wengh\u00f6fer A",
+        "Fienemann A",
+        "Schaake S",
+        "L\u00fcth T",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ],
+      "mesh": [],
+      "abstract": ""
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "r16",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"Germline mutations in a G protein identify signaling cross-talk in T cells\"[tiab] OR GNAI2[tiab] OR Science[jour])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "189569 PubMed hits for '(\"Germline mutations in a G protein identify signaling cross-talk in T cells\"[tiab] OR GNAI2[tiab] OR Science[jour])'; showing 20 (PubMed read it as: \"GNAI2\"[Title/Abstract] OR \"science\"[Journal] OR \"science 1979\"[Journal])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42752131",
+      "title": "An expert-level generalist AI for abdominal CT diagnosis.",
+      "first_author": "Zhang Q",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aec6129",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42784697",
+      "title": "Alternative immunity.",
+      "first_author": "Leslie M",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aem6505",
+      "pubtype": [
+        "News"
+      ]
+    },
+    {
+      "pmid": "42658951",
+      "title": "Beyond wrinkles.",
+      "first_author": "Jalili S",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aeh4348",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "42784699",
+      "title": "King sulfur.",
+      "first_author": "Possemato R",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.ael0139",
+      "pubtype": [
+        "Journal Article",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "42821694",
+      "title": "Sex-specific mechanisms of chronic pain.",
+      "first_author": "Venkataraman A",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aeh4468",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "42561074",
+      "title": "Generative design of bacteriophages with genome language models.",
+      "first_author": "King SH",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aec2657",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42752122",
+      "title": "Disorder-promoted stability.",
+      "first_author": "Montanari AN",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aeg3946",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42721256",
+      "title": "Decondensing cancer immunotherapy.",
+      "first_author": "Chakraborty AK",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.ael3828",
+      "pubtype": [
+        "Journal Article",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "42721243",
+      "title": "New Products.",
+      "first_author": "",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aem1478",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42721242",
+      "title": "High culture.",
+      "first_author": "Lawler A",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aem2423",
+      "pubtype": [
+        "News"
+      ]
+    },
+    {
+      "pmid": "42956140",
+      "title": "Gone forever.",
+      "first_author": "Peplow M",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aen6334",
+      "pubtype": [
+        "News"
+      ]
+    },
+    {
+      "pmid": "42848897",
+      "title": "Returning home.",
+      "first_author": "Khazaei H",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aem9878",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42600115",
+      "title": "New Products.",
+      "first_author": "",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.ael5175",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42752150",
+      "title": "Future forests.",
+      "first_author": "Langin K",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aem4444",
+      "pubtype": [
+        "News"
+      ]
+    },
+    {
+      "pmid": "42821663",
+      "title": "Hypertension fuels osteoarthritis through neuroendocrine signaling.",
+      "first_author": "Kim SJ",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aed8207",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42658927",
+      "title": "A necroptotic-to-apoptotic signaling axis underlies inflammatory bowel disease.",
+      "first_author": "Pang J",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aeh7112",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42848895",
+      "title": "In Other Journals.",
+      "first_author": "Kelly PN",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aem9877",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42784667",
+      "title": "In Other Journals.",
+      "first_author": "Hessler A",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aem6086",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42879541",
+      "title": "In Other Journals.",
+      "first_author": "Simonti C",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.aen1237",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

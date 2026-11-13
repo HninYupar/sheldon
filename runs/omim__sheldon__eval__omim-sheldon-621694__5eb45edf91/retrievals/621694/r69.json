@@ -1,0 +1,12 @@
+{
+  "id": "r69",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND Magrinelli[tiab]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[tiab] AND Magrinelli[tiab]'; showing 0 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND \"Magrinelli\"[Title/Abstract])",
+  "ok": true,
+  "evidence": []
+}

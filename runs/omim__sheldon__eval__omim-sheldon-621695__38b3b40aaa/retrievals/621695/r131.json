@@ -1,0 +1,12 @@
+{
+  "id": "r131",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"arthrogryposis multiplex congenita 8\"[tiab] OR AMC8[tiab] OR \"neuromuscular disorder\"[tiab] AND PSMF1[gene]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"arthrogryposis multiplex congenita 8\"[tiab] OR AMC8[tiab] OR \"neuromuscular disorder\"[tiab] AND PSMF1[gene]'; showing 0 (PubMed read it as: (\"AMC8\"[Title/Abstract] OR \"neuromuscular disorder\"[Title/Abstract]) AND \"PSMF1\"[All Fields])",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "r141",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"signaling threshold-regulating transmembrane adaptor 1\"[tiab] AND immunodeficiency[tiab]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '\"signaling threshold-regulating transmembrane adaptor 1\"[tiab] AND immunodeficiency[tiab]'; showing 1 (PubMed read it as: \"signaling threshold-regulating transmembrane adaptor 1\"[Title/Abstract] AND \"immunodeficiency\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

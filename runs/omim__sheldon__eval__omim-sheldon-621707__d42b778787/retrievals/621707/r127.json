@@ -1,0 +1,188 @@
+{
+  "id": "r127",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (patient OR patients OR family OR case report) AND 2023:2024[pdat]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "15 PubMed hits for 'GNAI2[gene] AND (patient OR patients OR family OR case report) AND 2023:2024[pdat]'; showing 15 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"case reports\"[Publication Type] OR \"case report\"[All Fields])) AND 2023/01/01:2024/12/31[Date - Publication])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36868481",
+      "title": "Liquid biopsy-based protein biomarkers for risk prediction, early diagnosis, and prognostication of cholangiocarcinoma.",
+      "first_author": "Lapitz A",
+      "year": "2023",
+      "journal": "J Hepatol",
+      "doi": "10.1016/j.jhep.2023.02.027",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36201743",
+      "title": "Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma.",
+      "first_author": "Thomas N",
+      "year": "2023",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2022016534",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39273699",
+      "title": "Key Disease-Related Genes and Immune Cell Infiltration Landscape in Inflammatory Bowel Disease: A Bioinformatics Investigation.",
+      "first_author": "Alghamdi KS",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25179751",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36671532",
+      "title": "Combination Analysis of Ferroptosis and Immune Status Predicts Patients Survival in Breast Invasive Ductal Carcinoma.",
+      "first_author": "Yang Y",
+      "year": "2023",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom13010147",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39249692",
+      "title": "A new variant confirms GNAI2 as a rare cause of periventricular nodular heterotopia.",
+      "first_author": "Decio A",
+      "year": "2024",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-024-07764-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39670989",
+      "title": "Single-cell transcriptomics of vomeronasal neuroepithelium reveals a differential endoplasmic reticulum environment amongst neuronal subtypes.",
+      "first_author": "Devakinandan GVS",
+      "year": "2024",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.98250",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38811421",
+      "title": "Targeting G\u03b1(i2) in neutrophils protects from myocardial ischemia reperfusion injury.",
+      "first_author": "K\u00f6hler D",
+      "year": "2024",
+      "journal": "Basic Res Cardiol",
+      "doi": "10.1007/s00395-024-01057-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37713293",
+      "title": "Extracellular Vesicles and Endocannabinoid Signaling in Patients with COVID-19.",
+      "first_author": "Brandes F",
+      "year": "2024",
+      "journal": "Cannabis Cannabinoid Res",
+      "doi": "10.1089/can.2023.0040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38169377",
+      "title": "Identification and validation of iron metabolism genes in osteoporosis.",
+      "first_author": "Li Z",
+      "year": "2024",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-023-01779-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38274323",
+      "title": "Single-cell data revealed CD14-type and FCGR3A-type macrophages and relevant prognostic factors for predicting immunotherapy and prognosis in stomach adenocarcinoma.",
+      "first_author": "Li M",
+      "year": "2024",
+      "journal": "PeerJ",
+      "doi": "10.7717/peerj.16776",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39532806",
+      "title": "Early-Life Stress Influences the Transcriptional Activation of Alpha-2A Adrenergic Receptor and Associated Protein Kinase A Signaling Molecules in the Frontal Cortex of Rats.",
+      "first_author": "Ali S",
+      "year": "2025",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-024-04578-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37537613",
+      "title": "Integration of single-cell sequencing and bulk expression data reveals chemokine signaling pathway in proliferating cells is associated with the survival outcome of osteosarcoma.",
+      "first_author": "Yu L",
+      "year": "2023",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-023-01617-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37241967",
+      "title": "Proteomic Signature of Extracellular Vesicles Associated with Colorectal Cancer.",
+      "first_author": "Soloveva N",
+      "year": "2023",
+      "journal": "Molecules",
+      "doi": "10.3390/molecules28104227",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38203204",
+      "title": "Establishment of the Myeloid TBX-Code Reveals Aberrant Expression of T-Box Gene TBX1 in Chronic Myeloid Leukemia.",
+      "first_author": "Nagel S",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25010032",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

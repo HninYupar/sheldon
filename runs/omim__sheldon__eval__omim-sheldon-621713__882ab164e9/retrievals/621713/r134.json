@@ -1,0 +1,228 @@
+{
+  "id": "r134",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[tiab] AND (meiotic spindle OR acentrosomal spindle OR spindle assembly) AND oocyte",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "18 PubMed hits for 'TACC3[tiab] AND (meiotic spindle OR acentrosomal spindle OR spindle assembly) AND oocyte'; showing 18 (PubMed read it as: \"TACC3\"[Title/Abstract] AND (\"spindle apparatus\"[MeSH Terms] OR (\"spindle\"[All Fields] AND \"apparatus\"[All Fields]) OR \"spindle apparatus\"[All Fields] OR (\"meiotic\"[All Fields] AND \"spindle\"[All Fields]) OR \"meiotic spindle\"[All Fields] OR (\"acentrosomal\"[All Fields] AND (\"spindle\"[All Fields] OR \"spindle s\"[All Fields] OR \"spindled\"[All Fields] OR \"spindles\"[All Fields] OR \"spindling\"[All Fields])) OR ((\"spindle\"[All Fields] OR \"spindle s\"[All Fields] OR \"spindled\"[All Fields] OR \"spindles\"[All Fields] OR \"spindling\"[All Fields]) AND (\"assemblies\"[All Fields] OR \"assembly\"[All Fields]))) AND (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35930054",
+      "title": "Effects of Ran-GTP/importin \u03b2 inhibition on the meiotic division of porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Histochem Cell Biol",
+      "doi": "10.1007/s00418-022-02134-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36739938",
+      "title": "Cobalt chloride exposure disturbs spindle assembly and decreases mouse oocyte development potential.",
+      "first_author": "Zhao SC",
+      "year": "2023",
+      "journal": "Toxicology",
+      "doi": "10.1016/j.tox.2023.153450",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35576634",
+      "title": "TPX2 deficiency leads to spindle abnormity and meiotic impairment in porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Theriogenology",
+      "doi": "10.1016/j.theriogenology.2022.04.031",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40903356",
+      "title": "The mechanisms of MTOCs maturation in human and mouse oocytes.",
+      "first_author": "Gu H",
+      "year": "2025",
+      "journal": "Sci Bull (Beijing)",
+      "doi": "10.1016/j.scib.2025.08.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33901174",
+      "title": "Aurora kinase A is essential for meiosis in mouse oocytes.",
+      "first_author": "Blengini CS",
+      "year": "2021",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1009327",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27991556",
+      "title": "KIF2A regulates the spindle assembly and the metaphase I-anaphase I transition in mouse oocyte.",
+      "first_author": "Chen MH",
+      "year": "2016",
+      "journal": "Sci Rep",
+      "doi": "10.1038/srep39337",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38413710",
+      "title": "Male meiotic spindle poles are stabilized by TACC3 and cKAP5/chTOG differently from female meiotic or somatic mitotic spindles in mice.",
+      "first_author": "Simerly C",
+      "year": "2024",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-024-55376-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26168150",
+      "title": "TACC3 Is Important for Correct Progression of Meiosis in Bovine Oocytes.",
+      "first_author": "Mahdipour M",
+      "year": "2015",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0132591",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36674642",
+      "title": "PAK1 Is Involved in the Spindle Assembly during the First Meiotic Division in Porcine Oocytes.",
+      "first_author": "Peng L",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms24021123",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12389629",
+      "title": "AINT/ERIC/TACC: an expanding family of proteins with C-terminal coiled coil domains.",
+      "first_author": "Lappin TR",
+      "year": "2002",
+      "journal": "Leuk Lymphoma",
+      "doi": "10.1080/1042819022386644",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38397472",
+      "title": "PAK1-Dependent Regulation of Microtubule Organization and Spindle Migration Is Essential for the Metaphase I-Metaphase II Transition in Porcine Oocytes.",
+      "first_author": "Peng L",
+      "year": "2024",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom14020237",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16172205",
+      "title": "Aurora A phosphorylation of TACC3/maskin is required for centrosome-dependent microtubule assembly in mitosis.",
+      "first_author": "Kinoshita K",
+      "year": "2005",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.200503023",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18833336",
+      "title": "Meiotic regulation of TPX2 protein levels governs cell cycle progression in mouse oocytes.",
+      "first_author": "Brunet S",
+      "year": "2008",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0003338",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34152366",
+      "title": "Loss of acentriolar MTOCs disrupts spindle pole Aurora A and assembly of the liquid-like meiotic spindle domain in oocytes.",
+      "first_author": "Wang X",
+      "year": "2021",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.256297",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ]
+}

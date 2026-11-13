@@ -1,0 +1,80 @@
+{
+  "id": "r49",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "26168150",
+      "18508920"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "26168150",
+      "title": "TACC3 Is Important for Correct Progression of Meiosis in Bovine Oocytes.",
+      "authors": [
+        "Mahdipour M",
+        "Leitoguinho AR",
+        "Zacarias Silva RA",
+        "van Tol HT",
+        "Stout TA",
+        "Rodrigues G",
+        "et al."
+      ],
+      "year": "2015",
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0132591",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Aurora Kinase A",
+        "Benzazepines",
+        "Blastocyst",
+        "Cattle",
+        "Meiosis",
+        "Microtubule-Associated Proteins",
+        "Oocytes",
+        "Spindle Apparatus"
+      ],
+      "abstract": "Transforming acidic coiled-coil (TACC) proteins are key players during mitosis via stabilization of the spindle. The roles of TACCs during meiosis are however less clear. We used bovine oocytes to study the expression and function of TACC3 during meiosis. TACC3 mRNA was detected in bovine oocytes during meiosis using qRT-PCR, and while it was also expressed in cleavage stage embryos, its expression was down-regulated at the morula and blastocyst stages. Immunofluorescence was used to demonstrate that TACC3 co-localized with tubulin in the metaphase I and II spindles. However, TACC3 was not detected at anaphase or telophase of the first meiotic division. Aurora A, which is known to phosphorylate and activate TACC3 in mitotic cells, showed a similar pattern of gene expression to that of TACC3 in meiotic oocytes and preimplantation embryos. Aurora A protein was however only very transiently associated to the meiotic spindle. Pharmaceutical inhibition of Aurora A activity inhibited TACC3 phosphorylation but did not prevent TACC3 appearance in the spindle. Inhibiting Aurora A activity did however lead to abnormal meiotic spindle formation and impaired maturation of bovine oocytes. Similar results were obtained by knock-down of TACC3 expression using siRNA injection. These results suggest that TACC3 is important for stabilizing the meiotic spindle, but phosphorylation of TACC3 by Aurora A is not required for its recruitment to the meiotic spindle although phosphorylation of TACC3 by other kinases cannot be excluded."
+    },
+    {
+      "pmid": "18508920",
+      "title": "Xenopus TACC3/maskin is not required for microtubule stability but is required for anchoring microtubules at the centrosome.",
+      "authors": [
+        "Albee AJ",
+        "Wiese C"
+      ],
+      "year": "2008",
+      "journal": "Molecular biology of the cell",
+      "doi": "10.1091/mbc.e07-11-1204",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "mesh": [
+        "Animals",
+        "Centrosome",
+        "Female",
+        "Male",
+        "Microscopy, Video",
+        "Microtubules",
+        "Models, Biological",
+        "Protein Structure, Tertiary",
+        "Recombinant Proteins",
+        "Spermatozoa",
+        "Spindle Apparatus",
+        "Transcription Factors",
+        "Tubulin",
+        "Xenopus Proteins",
+        "Xenopus laevis"
+      ],
+      "abstract": "Members of the transforming acidic coiled coil (TACC) protein family are emerging as important mitotic spindle assembly proteins in a variety of organisms. The molecular details of how TACC proteins function are unknown, but TACC proteins have been proposed to recruit microtubule-stabilizing proteins of the tumor overexpressed gene (TOG) family to the centrosome and to facilitate their loading onto newly emerging microtubules. Using Xenopus egg extracts and in vitro assays, we show that the Xenopus TACC protein maskin is required for centrosome function beyond recruiting the Xenopus TOG protein XMAP215. The conserved C-terminal TACC domain of maskin is both necessary and sufficient to restore centrosome function in maskin-depleted extracts, and we provide evidence that the N terminus of maskin inhibits the function of the TACC domain. Time-lapse video microscopy reveals that microtubule dynamics in Xenopus egg extracts are unaffected by maskin depletion. Our results provide direct experimental evidence of a role for maskin in centrosome function and suggest that maskin is required for microtubule anchoring at the centrosome."
+    }
+  ]
+}

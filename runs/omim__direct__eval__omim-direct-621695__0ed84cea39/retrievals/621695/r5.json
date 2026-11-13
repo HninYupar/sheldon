@@ -1,0 +1,253 @@
+{
+  "id": "r5",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(PSMF1 OR \"proteasome inhibitor subunit alpha type-1\") AND human",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "65 PubMed hits for '(PSMF1 OR \"proteasome inhibitor subunit alpha type-1\") AND human'; showing 20 (PubMed read it as: (\"PSMF1\"[All Fields] OR ((\"proteasome inhibitors\"[Pharmacological Action] OR \"proteasome inhibitors\"[Supplementary Concept] OR \"proteasome inhibitors\"[All Fields] OR \"proteasome inhibitor\"[All Fields] OR \"proteasome inhibitors\"[MeSH Terms] OR (\"proteasome\"[All Fields] AND \"inhibitors\"[All Fields]) OR (\"proteasome\"[All Fields] AND \"inhibitor\"[All Fields])) AND (\"protein subunits\"[Supplementary Concept] OR \"protein subunits\"[All Fields] OR \"subunit\"[All Fields] OR \"protein subunits\"[MeSH Terms] OR (\"protein\"[All Fields] AND \"subunits\"[All Fields]) OR \"subunit s\"[All Fields] OR \"subunits\"[All Fields]) AND (\"alpha\"[All Fields] OR \"alpha s\"[All Fields] OR \"alphas\"[All Fields]) AND \"type 1\"[All Fields])) AND (\"human s\"[All Fields] OR \"humans\"[MeSH Terms] OR \"humans\"[All Fields] OR \"human\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "first_author": "Clemen CS",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37581620",
+      "title": "IFN\u0263 but not IFN\u03b1 increases recognition of insulin defective ribosomal product-derived antigen to amplify islet autoimmunity.",
+      "first_author": "Thomaidou S",
+      "year": "2023",
+      "journal": "Diabetologia",
+      "doi": "10.1007/s00125-023-05991-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "first_author": "Li X",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21135093",
+      "title": "Plasminogen activator inhibitor type 1 interacts with alpha3 subunit of proteasome and modulates its activity.",
+      "first_author": "Boncela J",
+      "year": "2011",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M110.173781",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33651148",
+      "title": "Potentially functional variants of ERAP1, PSMF1 and NCF2 in the MHC-I-related pathway predict non-small cell lung cancer survival.",
+      "first_author": "Yang S",
+      "year": "2021",
+      "journal": "Cancer Immunol Immunother",
+      "doi": "10.1007/s00262-021-02877-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30886358",
+      "title": "Immunoproteasome activation enables human TRIM5\u03b1 restriction of HIV-1.",
+      "first_author": "Jimenez-Guarde\u00f1o JM",
+      "year": "2019",
+      "journal": "Nat Microbiol",
+      "doi": "10.1038/s41564-019-0402-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15571818",
+      "title": "The proteasome and MHC class I antigen processing.",
+      "first_author": "Kloetzel PM",
+      "year": "2004",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbamcr.2004.10.004",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25785312",
+      "title": "Proteomics analysis of EV71-infected cells reveals the involvement of host protein NEDD4L in EV71 replication.",
+      "first_author": "Kuo RL",
+      "year": "2015",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/pr501199h",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25323821",
+      "title": "Triptolide inhibits human immunodeficiency virus type 1 replication by promoting proteasomal degradation of Tat protein.",
+      "first_author": "Wan Z",
+      "year": "2014",
+      "journal": "Retrovirology",
+      "doi": "10.1186/s12977-014-0088-6",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22362029",
+      "title": "Fub1p, a novel protein isolated by boundary screening, binds the proteasome complex.",
+      "first_author": "Hatanaka A",
+      "year": "2011",
+      "journal": "Genes Genet Syst",
+      "doi": "10.1266/ggs.86.305",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24107298",
+      "title": "Beyond ubiquitination: the atypical functions of Fbxo7 and other F-box proteins.",
+      "first_author": "Nelson DE",
+      "year": "2013",
+      "journal": "Open Biol",
+      "doi": "10.1098/rsob.130131",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35807355",
+      "title": "Prognostic Ability of Enhancer RNAs in Metastasis of Non-Small Cell Lung Cancer.",
+      "first_author": "Liu J",
+      "year": "2022",
+      "journal": "Molecules",
+      "doi": "10.3390/molecules27134108",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38604344",
+      "title": "Cadmium contributes to cardiac metabolic disruption by activating endothelial HIF1A-GLUT1 axis.",
+      "first_author": "Zhang X",
+      "year": "2024",
+      "journal": "Cell Signal",
+      "doi": "10.1016/j.cellsig.2024.111170",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26678661",
+      "title": "MicroRNA-203 Modulates the Radiation Sensitivity of Human Malignant Glioma Cells.",
+      "first_author": "Chang JH",
+      "year": "2016",
+      "journal": "Int J Radiat Oncol Biol Phys",
+      "doi": "10.1016/j.ijrobp.2015.10.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

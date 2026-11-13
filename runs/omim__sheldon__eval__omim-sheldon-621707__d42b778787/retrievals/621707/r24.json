@@ -1,0 +1,53 @@
+{
+  "id": "r24",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "39298586"
+    ]
+  },
+  "summary": "fetched 1 of 1 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "authors": [
+        "Ham H",
+        "Jing H",
+        "Lamborn IT",
+        "Kober MM",
+        "Koval A",
+        "Berchiche YA",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Humans",
+        "Cell Movement",
+        "Cell Proliferation",
+        "Germ-Line Mutation",
+        "GTP-Binding Protein alpha Subunit, Gi2",
+        "Immunity",
+        "MAP Kinase Signaling System",
+        "Phosphatidylinositol 3-Kinases",
+        "Proto-Oncogene Proteins c-akt",
+        "ras GTPase-Activating Proteins",
+        "ras Proteins",
+        "Receptors, Antigen, T-Cell",
+        "Signal Transduction",
+        "T-Lymphocytes",
+        "Pedigree"
+      ],
+      "abstract": "Humans with monogenic inborn errors responsible for extreme disease phenotypes can reveal essential physiological pathways. We investigated germline mutations in GNAI2, which encodes G\u03b1i2, a key component in heterotrimeric G protein signal transduction usually thought to regulate adenylyl cyclase-mediated cyclic adenosine monophosphate (cAMP) production. Patients with activating G\u03b1i2 mutations had clinical presentations that included impaired immunity. Mutant G\u03b1i2 impaired cell migration and augmented responses to T cell receptor (TCR) stimulation. We found that mutant G\u03b1i2 influenced TCR signaling by sequestering the guanosine triphosphatase (GTPase)-activating protein RASA2, thereby promoting RAS activation and increasing downstream extracellular signal-regulated kinase (ERK)/mitogen-activated protein kinase (MAPK) and phosphatidylinositol 3-kinase (PI3K)-AKT S6 signaling to drive cellular growth and proliferation."
+    }
+  ]
+}

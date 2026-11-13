@@ -1,0 +1,257 @@
+{
+  "id": "r114",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "40100000",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "99 'similar' links for PMID 40100000; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "25382581",
+      "title": "Does the thermal plasticity of metabolic enzymes underlie thermal compensation of locomotor performance in the eastern newt (Notophthalmus viridescens)?",
+      "first_author": "Mineo PM",
+      "year": "2015",
+      "journal": "J Exp Zool A Ecol Genet Physiol",
+      "doi": "10.1002/jez.1895",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30673816",
+      "title": "Differential plasticity of membrane fatty acids in northern and southern populations of the eastern newt (Notophthalmus viridescens).",
+      "first_author": "Mineo PM",
+      "year": "2019",
+      "journal": "J Comp Physiol B",
+      "doi": "10.1007/s00360-019-01203-1",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "16716618",
+      "title": "Correlation of seasonal acclimatization in metabolic enzyme activity with preferred body temperature in the Eastern red spotted newt (Notophthalmus viridescens viridescens).",
+      "first_author": "Berner NJ",
+      "year": "2006",
+      "journal": "Comp Biochem Physiol A Mol Integr Physiol",
+      "doi": "10.1016/j.cbpa.2006.03.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "25388211",
+      "title": "The thermal plasticity of locomotor performance has diverged between northern and southern populations of the eastern newt (Notophthalmus viridescens).",
+      "first_author": "Mineo PM",
+      "year": "2015",
+      "journal": "J Comp Physiol B",
+      "doi": "10.1007/s00360-014-0869-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20187089",
+      "title": "Phenotypic flexibility and thermoregulatory behavior in the eastern red-spotted newt (Notophthalmus viridescens viridescens).",
+      "first_author": "Berner NJ",
+      "year": "2010",
+      "journal": "J Exp Zool A Ecol Genet Physiol",
+      "doi": "10.1002/jez.596",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20680297",
+      "title": "Thermal acclimation, mitochondrial capacities and organ metabolic profiles in a reptile (Alligator mississippiensis).",
+      "first_author": "Guderley H",
+      "year": "2011",
+      "journal": "J Comp Physiol B",
+      "doi": "10.1007/s00360-010-0499-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28212894",
+      "title": "Exogenous thyroid hormones regulate the activity of citrate synthase and cytochrome c oxidase in warm- but not cold-acclimated lake whitefish (Coregonus clupeaformis).",
+      "first_author": "Zak MA",
+      "year": "2017",
+      "journal": "Gen Comp Endocrinol",
+      "doi": "10.1016/j.ygcen.2017.02.005",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23827663",
+      "title": "Elevated temperature and PCO2 shift metabolic pathways in differentially oxidative tissues of Notothenia rossii.",
+      "first_author": "Strobel A",
+      "year": "2013",
+      "journal": "Comp Biochem Physiol B Biochem Mol Biol",
+      "doi": "10.1016/j.cbpb.2013.06.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17170158",
+      "title": "Changes in mitochondrial oxidative capacities during thermal acclimation of rainbow trout Oncorhynchus mykiss: roles of membrane proteins, phospholipids and their fatty acid compositions.",
+      "first_author": "Kraffe E",
+      "year": "2007",
+      "journal": "J Exp Biol",
+      "doi": "10.1242/jeb.02628",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23099458",
+      "title": "Thermal physiology of warm-spring colonists: variation among lake chub (Cyprinidae: Couesius plumbeus) populations.",
+      "first_author": "Darveau CA",
+      "year": "2012",
+      "journal": "Physiol Biochem Zool",
+      "doi": "10.1086/665539",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39642981",
+      "title": "High temperature induces the upward shift of the thermal neutral zone and decreases metabolic capacity in zebra finches.",
+      "first_author": "Wang J",
+      "year": "2025",
+      "journal": "Comp Biochem Physiol A Mol Integr Physiol",
+      "doi": "10.1016/j.cbpa.2024.111788",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15123181",
+      "title": "Biochemical acclimation of metabolic enzymes in response to lowered temperature in tadpoles of Limnodynastes peronii.",
+      "first_author": "Rogers KD",
+      "year": "2004",
+      "journal": "Comp Biochem Physiol A Mol Integr Physiol",
+      "doi": "10.1016/j.cbpb.2004.02.008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22539209",
+      "title": "Temperature preference during forelimb regeneration in the red-spotted newt Notophthalmus viridescens.",
+      "first_author": "Tattersall GJ",
+      "year": "2012",
+      "journal": "J Exp Zool A Ecol Genet Physiol",
+      "doi": "10.1002/jez.1719",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19181899",
+      "title": "Do mitochondrial properties explain intraspecific variation in thermal tolerance?",
+      "first_author": "Fangue NA",
+      "year": "2009",
+      "journal": "J Exp Biol",
+      "doi": "10.1242/jeb.024034",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21460527",
+      "title": "Seasonal acclimation of preferred body temperatures improves the opportunity for thermoregulation in newts.",
+      "first_author": "Hadamov\u00e1 M",
+      "year": "2011",
+      "journal": "Physiol Biochem Zool",
+      "doi": "10.1086/658202",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "14722721",
+      "title": "Turtles (Chelodina longicollis) regulate muscle metabolic enzyme activity in response to seasonal variation in body temperature.",
+      "first_author": "Seebacher F",
+      "year": "2004",
+      "journal": "J Comp Physiol B",
+      "doi": "10.1007/s00360-003-0331-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11226015",
+      "title": "Thermal acclimation, growth, and burst swimming of threespine stickleback: enzymatic correlates and influence of photoperiod.",
+      "first_author": "Guderley H",
+      "year": "2001",
+      "journal": "Physiol Biochem Zool",
+      "doi": "10.1086/319313",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12604579",
+      "title": "Seasonal acclimatisation of muscle metabolic enzymes in a reptile (Alligator mississippiensis).",
+      "first_author": "Seebacher F",
+      "year": "2003",
+      "journal": "J Exp Biol",
+      "doi": "10.1242/jeb.00223",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17142675",
+      "title": "Compensation for environmental change by complementary shifts of thermal sensitivity and thermoregulatory behaviour in an ectotherm.",
+      "first_author": "Glanville EJ",
+      "year": "2006",
+      "journal": "J Exp Biol",
+      "doi": "10.1242/jeb.02585",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "6260175",
+      "title": "Temperature adaptation of biological membranes. Compensation of the molar activity of cytochrome c oxidase in the mitochondrial energy-transducing membrane during thermal acclimation of the carp (Cyprinus carpio L.).",
+      "first_author": "Wodtke E",
+      "year": "1981",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/0005-2736(81)90101-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

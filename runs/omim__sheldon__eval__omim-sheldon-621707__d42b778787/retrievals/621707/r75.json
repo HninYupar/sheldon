@@ -1,0 +1,239 @@
+{
+  "id": "r75",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (MAGIS OR syndrome OR immunodeficiency OR lymphoproliferative OR autoimmunity)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "19 PubMed hits for 'GNAI2[gene] AND (MAGIS OR syndrome OR immunodeficiency OR lymphoproliferative OR autoimmunity)'; showing 19 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"MAGIS\"[All Fields] OR (\"syndrom\"[All Fields] OR \"syndromal\"[All Fields] OR \"syndromally\"[All Fields] OR \"syndrome\"[MeSH Terms] OR \"syndrome\"[All Fields] OR \"syndromes\"[All Fields] OR \"syndrome s\"[All Fields] OR \"syndromic\"[All Fields] OR \"syndroms\"[All Fields]) OR (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields]) OR \"lymphoproliferative\"[All Fields] OR (\"autoimmune\"[All Fields] OR \"autoimmunity\"[MeSH Terms] OR \"autoimmunity\"[All Fields] OR \"autoimmunities\"[All Fields] OR \"autoimmunization\"[All Fields] OR \"autoimmunizing\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "41226691",
+      "title": "G\u03b1(i2) Signaling Regulates Neonatal Respiratory Adaptation.",
+      "first_author": "Leiss V",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms262110655",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40145347",
+      "title": "Functional Genomics Using High-Throughput Methods for Salivary Analysis in Sj\u00f6gren's Disease.",
+      "first_author": "Florezi GP",
+      "year": "2025",
+      "journal": "Oral Dis",
+      "doi": "10.1111/odi.15328",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37713293",
+      "title": "Extracellular Vesicles and Endocannabinoid Signaling in Patients with COVID-19.",
+      "first_author": "Brandes F",
+      "year": "2024",
+      "journal": "Cannabis Cannabinoid Res",
+      "doi": "10.1089/can.2023.0040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "first_author": "Huang X",
+      "year": "2009",
+      "journal": "Med Hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40141310",
+      "title": "Plasma Exosomal-Derived SERPINA1 and GNAI2 Downregulation as Potential Diagnostic Biomarkers of Kawasaki Disease with Coronary Artery Aneurysms.",
+      "first_author": "Zheng Y",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms26062668",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30233409",
+      "title": "RXFP1 Receptor Activation by Relaxin-2 Induces Vascular Relaxation in Mice via a G\u03b1(i2)-Protein/PI3K\u00df/\u03b3/Nitric Oxide-Coupled Pathway.",
+      "first_author": "Lian X",
+      "year": "2018",
+      "journal": "Front Physiol",
+      "doi": "10.3389/fphys.2018.01234",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23977324",
+      "title": "The loss of Gnai2 and Gnai3 in B cells eliminates B lymphocyte compartments and leads to a hyper-IgM like syndrome.",
+      "first_author": "Hwang IY",
+      "year": "2013",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0072596",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "40792212",
+      "title": "Exploring the biological basis for the identification of different syndromes in ischemic heart failure based on joint multi-omics analysis.",
+      "first_author": "Zhang Y",
+      "year": "2025",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2025.1641422",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33914258",
+      "title": "Genetic etiologies associated with infantile hydrocephalus in a Chinese infantile cohort.",
+      "first_author": "Mei HF",
+      "year": "2021",
+      "journal": "World J Pediatr",
+      "doi": "10.1007/s12519-021-00429-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28921447",
+      "title": "Structure, Pharmacology and Roles in Physiology of the P2Y(12) Receptor.",
+      "first_author": "von K\u00fcgelgen I",
+      "year": "2017",
+      "journal": "Adv Exp Med Biol",
+      "doi": "10.1007/5584_2017_98",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42420675",
+      "title": "The NeuroWES project: lessons learned from comprehensive phenotyping and genetic analysis of neurodevelopmental disorders over a decade.",
+      "first_author": "Cardaropoli S",
+      "year": "2026",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-026-02843-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "11947921",
+      "title": "Identification of candidate genes for Sj\u00f6gren's syndrome using MRL/lpr mouse model of Sj\u00f6gren's syndrome and cDNA microarray analysis.",
+      "first_author": "Azuma T",
+      "year": "2002",
+      "journal": "Immunol Lett",
+      "doi": "10.1016/s0165-2478(01)00344-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "11158006",
+      "title": "Study of the multiple endocrine neoplasia type 1, growth hormone-releasing hormone receptor, Gs alpha, and Gi2 alpha genes in isolated familial acromegaly.",
+      "first_author": "Jorge BH",
+      "year": "2001",
+      "journal": "J Clin Endocrinol Metab",
+      "doi": "10.1210/jcem.86.2.7218",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "26232433",
+      "title": "B Lymphocyte-Specific Loss of Ric-8A Results in a G\u03b1 Protein Deficit and Severe Humoral Immunodeficiency.",
+      "first_author": "Boularan C",
+      "year": "2015",
+      "journal": "J Immunol",
+      "doi": "10.4049/jimmunol.1500523",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "31036916",
+      "title": "Variant\u00a0recurrence in neurodevelopmental disorders: the use of publicly available genomic data identifies clinically relevant pathogenic missense variants.",
+      "first_author": "Lecoquierre F",
+      "year": "2019",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-019-0518-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "14565934",
+      "title": "TCR-mediated hyper-responsiveness of autoimmune Galphai2(-/-) mice is an intrinsic na\u00efve CD4(+) T cell disorder selective for the Galphai2 subunit.",
+      "first_author": "Huang TT",
+      "year": "2003",
+      "journal": "Int Immunol",
+      "doi": "10.1093/intimm/dxg135",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    }
+  ]
+}

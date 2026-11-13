@@ -1,0 +1,139 @@
+{
+  "id": "r156",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41986367",
+      "39148840",
+      "31327739",
+      "16250896"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "authors": [
+        "Magrinelli F",
+        "Tesson C",
+        "Angelova PR",
+        "Rodriguez JA",
+        "Scardamaglia A",
+        "O'Callaghan B",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Parkinsonian Disorders",
+        "Female",
+        "Mice",
+        "Male",
+        "Pedigree",
+        "Phenotype",
+        "Mitochondria",
+        "Disease Models, Animal",
+        "Parkinson Disease",
+        "Fibroblasts",
+        "Membrane Potential, Mitochondrial",
+        "Drosophila melanogaster"
+      ],
+      "abstract": "Dissecting biological pathways highlighted by Mendelian gene discovery has provided critical insights into the pathogenesis of Parkinson's disease (PD) and neurodegeneration. This approach ultimately catalyzes the identification of potential biomarkers and therapeutic targets. Here we identify PSMF1 as a gene implicated in parkinsonism and childhood neurodegeneration. We find that biallelic PSMF1 missense and loss-of-function variants co-segregate with phenotypes from early-onset PD to perinatal lethality with neurological manifestations across 18 pedigrees with 25 affected subjects, showing clear genotype-phenotype correlation. PSMF1 encodes the proteasome regulator PSMF1/hPI31, a highly conserved, ubiquitously expressed partner of the 20S proteasome and neurodegeneration-associated F-box-O 7 and valosin-containing proteins. We demonstrate that PSMF1 variants may affect proteasomal abundance and assembly, and are associated with alterations of mitochondrial membrane potential, respiration, dynamics and mitophagy in patient-derived fibroblasts. Furthermore, Drosophila and mouse models of PI31 loss of function exhibit age-dependent motor impairment, as well as brain-wide mitochondrial membrane depolarization and dopaminergic neurodegeneration in aged flies, and diffuse gliosis in mice. Collectively, our findings unequivocally link defective PSMF1/hPI31 to early-onset parkinsonism and neurodegeneration, and suggest proteasomal and mitochondrial dysfunction as pathogenic contributors."
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "authors": [
+        "Magrinelli F",
+        "Tesson C",
+        "Angelova PR",
+        "Rodriguez JA",
+        "Scardamaglia A",
+        "O'Callaghan B",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh": [],
+      "abstract": "Dissecting biological pathways highlighted by Mendelian gene discovery has provided critical insights into the pathogenesis of Parkinson's disease (PD) and neurodegeneration. This approach ultimately catalyzes the identification of potential biomarkers and therapeutic targets. Here, we identify PSMF1 as a novel gene implicated in parkinsonism and childhood neurodegeneration. We find that biallelic PSMF1 missense and loss-of-function variants co-segregate with phenotypes from early-onset PD to perinatal lethality with neurological manifestations across 17 pedigrees with 24 affected subjects, showing clear genotype-phenotype correlation. PSMF1 encodes the proteasome regulator PSMF1/PI31, a highly conserved, ubiquitously expressed partner of the 20S proteasome and neurodegeneration-associated F-box-O 7 and valosin-containing proteins. We demonstrate that PSMF1 variants impair mitochondrial membrane potential, dynamics and mitophagy, and may affect proteasomal abundance and assembly in patient-derived fibroblasts. Furthermore, Drosophila and mouse models of PSMF1 loss of function exhibit age-dependent motor impairment, as well as brain-wide mitochondrial membrane depolarization and dopaminergic neurodegeneration in aged flies, and diffuse gliosis in mice. Collectively, our findings unequivocally link defective PSMF1 to early-onset parkinsonism and neurodegeneration, and suggest proteasomal and mitochondrial dysfunction as mechanistic contributors."
+    },
+    {
+      "pmid": "31327739",
+      "title": "PI31 Is an Adaptor Protein for Proteasome Transport in Axons and Required for Synaptic Development.",
+      "authors": [
+        "Liu K",
+        "Jones S",
+        "Minis A",
+        "Rodriguez J",
+        "Molina H",
+        "Steller H"
+      ],
+      "year": "2019",
+      "journal": "Developmental cell",
+      "doi": "10.1016/j.devcel.2019.06.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Adaptor Proteins, Signal Transducing",
+        "Animals",
+        "Axonal Transport",
+        "Axons",
+        "Cytoplasm",
+        "Cytoplasmic Dyneins",
+        "Humans",
+        "Mice",
+        "Microtubules",
+        "Neurons",
+        "Proteasome Endopeptidase Complex",
+        "Proteins",
+        "Proteolysis",
+        "Proteostasis",
+        "Synapses",
+        "p38 Mitogen-Activated Protein Kinases"
+      ],
+      "abstract": "Protein degradation by the ubiquitin-proteasome system is critical for neuronal function. Neurons utilize microtubule-dependent molecular motors to allocate proteasomes to synapses, but how proteasomes are coupled to motors and how this is regulated to meet changing demand for protein breakdown remain largely unknown. We show that the conserved proteasome-binding protein PI31 serves as an adaptor to couple proteasomes with dynein light chain proteins (DYNLL1/2). The inactivation of PI31 inhibited proteasome motility in axons and disrupted synaptic proteostasis, structure, and function. Moreover, phosphorylation of PI31 by p38 MAPK enhanced binding to DYNLL1/2 and promoted the directional movement of proteasomes in axons, suggesting a mechanism to regulate loading of proteasomes onto motors. Inactivation of PI31 in mouse neurons attenuated proteasome movement in axons, indicating this process is conserved. Because mutations affecting PI31 activity are associated with human neurodegenerative diseases, impairment of PI31-mediated axonal transport of proteasomes may contribute to these disorders."
+    },
+    {
+      "pmid": "16250896",
+      "title": "Proteasomes.",
+      "authors": [
+        "Dahlmann B"
+      ],
+      "year": "2005",
+      "journal": "Essays in biochemistry",
+      "doi": "10.1042/EB0410031",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh": [
+        "Animals",
+        "Humans",
+        "Models, Molecular",
+        "Polyubiquitin",
+        "Proteasome Endopeptidase Complex",
+        "Protein Folding",
+        "Protein Transport"
+      ],
+      "abstract": "The major enzyme system catalysing the degradation of intracellular proteins is the proteasome system. A central inner chamber of the cylinder-shaped 20 S proteasome contains the active site, formed by N-terminal threonine residues. The 20 S proteasomes are extremely inefficient in degrading folded protein substrates and therefore one or two multisubunit 19 S regulatory particles bind to one or both ends of the 20 S proteasome cylinder, forming 26 S and 30 S proteasomes respectively. These regulatory complexes are able to bind proteins marked as proteasome substrates by prior conjugation with polyubiquitin chains, and initiate their unfolding and translocation into the proteolytic chamber of the 20 S proteasome, where they are broken down into peptides of 3-25 amino acids. The polyubiquitin tag is removed from the substrate protein by the deubiquitinating activity of the 19 S regulator complex. Under conditions of an intensified immune response, many eukaryotic cells adapt by replacing standard 20 S proteasomes with immuno-proteasomes and/or generating the proteasome activator complex, PA28. Both of these adaptations change the protein-breakdown process for optimized generation of antigenic peptide epitopes that are presented by the class I MHCs. Hybrid proteasomes (19 S regulator-20 S proteasome-PA28) may have a special function during the immune response. The functions of other proteasome accessory complexes, such as PA200 and PI31 are still under investigation."
+    }
+  ]
+}

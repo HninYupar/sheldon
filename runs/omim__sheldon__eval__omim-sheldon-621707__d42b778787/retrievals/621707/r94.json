@@ -1,0 +1,108 @@
+{
+  "id": "r94",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (MAGIS[tiab] OR \"heterozygous germline activating\"[tiab] OR de novo[tiab] OR missense[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "8 PubMed hits for 'GNAI2[gene] AND (MAGIS[tiab] OR \"heterozygous germline activating\"[tiab] OR de novo[tiab] OR missense[tiab])'; showing 8 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"MAGIS\"[Title/Abstract] OR \"de novo\"[Title/Abstract] OR \"missense\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41632920",
+      "title": "Hepatic GPR75 exacerbates MASH through GNAI2-dependent signaling.",
+      "first_author": "Yang X",
+      "year": "2026",
+      "journal": "Hepatology",
+      "doi": "10.1097/HEP.0000000000001706",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "27787898",
+      "title": "Role of a heterotrimeric G-protein, Gi2, in the corticogenesis: possible involvement in periventricular nodular heterotopia and intellectual disability.",
+      "first_author": "Hamada N",
+      "year": "2017",
+      "journal": "J Neurochem",
+      "doi": "10.1111/jnc.13878",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26275051",
+      "title": "Microarray and Proteomic Analyses of Myeloproliferative Neoplasms with a Highlight on the mTOR Signaling Pathway.",
+      "first_author": "\u010coki\u0107 VP",
+      "year": "2015",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0135463",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23699601",
+      "title": "Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing.",
+      "first_author": "Morin RD",
+      "year": "2013",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2013-02-483727",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42420675",
+      "title": "The NeuroWES project: lessons learned from comprehensive phenotyping and genetic analysis of neurodevelopmental disorders over a decade.",
+      "first_author": "Cardaropoli S",
+      "year": "2026",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-026-02843-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31036916",
+      "title": "Variant\u00a0recurrence in neurodevelopmental disorders: the use of publicly available genomic data identifies clinically relevant pathogenic missense variants.",
+      "first_author": "Lecoquierre F",
+      "year": "2019",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-019-0518-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

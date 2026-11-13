@@ -1,0 +1,12 @@
+{
+  "id": "r88",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Neurodevelopmental disorder with seizures and cerebellar hypoplasia\"[tiab] OR NEDSCH[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"Neurodevelopmental disorder with seizures and cerebellar hypoplasia\"[tiab] OR NEDSCH[tiab]'; showing 0 (PubMed read it as: \"Neurodevelopmental disorder with seizures and cerebellar hypoplasia\"[tiab] OR NEDSCH[tiab])",
+  "ok": true,
+  "evidence": []
+}

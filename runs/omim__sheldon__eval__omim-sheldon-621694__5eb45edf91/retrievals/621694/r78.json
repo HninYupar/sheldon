@@ -1,0 +1,25 @@
+{
+  "id": "r78",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"autosomal recessive\"[tiab] AND (EOPD[tiab] OR \"early-onset Parkinson*\"[tiab] OR parkinsonism[tiab]) AND PSMF1",
+    "max_results": 20,
+    "sort": "pub_date"
+  },
+  "summary": "1 PubMed hits for '\"autosomal recessive\"[tiab] AND (EOPD[tiab] OR \"early-onset Parkinson*\"[tiab] OR parkinsonism[tiab]) AND PSMF1'; showing 1 (PubMed read it as: \"autosomal recessive\"[Title/Abstract] AND (\"EOPD\"[Title/Abstract] OR \"early onset parkinson*\"[Title/Abstract] OR \"parkinsonism\"[Title/Abstract]) AND \"PSMF1\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

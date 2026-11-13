@@ -1,0 +1,131 @@
+{
+  "id": "r16",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (patient OR patients OR family OR cohort OR case report OR kindred)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "74 PubMed hits for 'SIT1[gene] AND (patient OR patients OR family OR cohort OR case report OR kindred)'; showing 10 (PubMed read it as: \"SIT1\"[All Fields] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"case reports\"[Publication Type] OR \"case report\"[All Fields]) OR (\"kindred\"[All Fields] OR \"kindred s\"[All Fields] OR \"kindreds\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42459881",
+      "title": "A hospital-based genomic analysis reveals predominance of ST215 Mycobacterium tuberculosis with low drug resistance.",
+      "first_author": "Yang M",
+      "year": "2026",
+      "journal": "Front Microbiol",
+      "doi": "10.3389/fmicb.2026.1871161",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38951531",
+      "title": "Structure and function of the SIT1 proline transporter in complex with the COVID-19 receptor ACE2.",
+      "first_author": "Li HZ",
+      "year": "2024",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-024-48921-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39159813",
+      "title": "Cryo-EM structure of ACE2-SIT1 in complex with tiagabine.",
+      "first_author": "Br\u00f6er A",
+      "year": "2024",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2024.107687",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19184091",
+      "title": "Kidney amino acid transport.",
+      "first_author": "Verrey F",
+      "year": "2009",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-009-0638-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40873928",
+      "title": "Role of the putative sit1 gene in normal germination of spores and virulence of the Mucor lusitanicus.",
+      "first_author": "V\u00e1g\u00f3 B",
+      "year": "2025",
+      "journal": "Microb Cell",
+      "doi": "10.15698/mic2025.08.856",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36675674",
+      "title": "Discovery and Validation of a SIT1-Related Prognostic Signature Associated with Immune Infiltration in Cutaneous Melanoma.",
+      "first_author": "Jia M",
+      "year": "2022",
+      "journal": "J Pers Med",
+      "doi": "10.3390/jpm13010013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33140827",
+      "title": "ACE2 and gut amino acid transport.",
+      "first_author": "Camargo SMR",
+      "year": "2020",
+      "journal": "Clin Sci (Lond)",
+      "doi": "10.1042/CS20200477",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

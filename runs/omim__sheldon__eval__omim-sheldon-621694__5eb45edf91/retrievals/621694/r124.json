@@ -1,0 +1,134 @@
+{
+  "id": "r124",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"neurodegeneration, childhood-onset, with movement disorders, cognitive decline, and brain abnormalities\" OR CONDMCB OR PSMF1",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "56 PubMed hits for '\"neurodegeneration, childhood-onset, with movement disorders, cognitive decline, and brain abnormalities\" OR CONDMCB OR PSMF1'; showing 10 (PubMed read it as: ((\"nerve degeneration\"[MeSH Terms] OR (\"nerve\"[All Fields] AND \"degeneration\"[All Fields]) OR \"nerve degeneration\"[All Fields] OR \"neurodegeneration\"[All Fields] OR \"neurodegenerating\"[All Fields] OR \"neurodegenerations\"[All Fields]) AND \"childhood onset\"[All Fields] AND (\"movement disorders\"[MeSH Terms] OR (\"movement\"[All Fields] AND \"disorders\"[All Fields]) OR \"movement disorders\"[All Fields]) AND (\"cognitive dysfunction\"[MeSH Terms] OR (\"cognitive\"[All Fields] AND \"dysfunction\"[All Fields]) OR \"cognitive dysfunction\"[All Fields] OR (\"cognitive\"[All Fields] AND \"decline\"[All Fields]) OR \"cognitive decline\"[All Fields]) AND (\"brain\"[MeSH Terms] OR \"brain\"[All Fields] OR \"brains\"[All Fields] OR \"brain s\"[All Fields]) AND (\"abnormal\"[All Fields] OR \"abnormalities\"[MeSH Subheading] OR \"abnormalities\"[All Fields] OR \"congenital abnormalities\"[MeSH Terms] OR (\"congenital\"[All Fields] AND \"abnormalities\"[All Fields]) OR \"congenital abnormalities\"[All Fields] OR \"abnormality\"[All Fields] OR \"abnormally\"[All Fields] OR \"abnormals\"[All Fields] OR \"abnormities\"[All Fields] OR \"abnormity\"[All Fields])) OR \"PSMF1\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31327739",
+      "title": "PI31 Is an Adaptor Protein for Proteasome Transport in Axons and Required for Synaptic Development.",
+      "first_author": "Liu K",
+      "year": "2019",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2019.06.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "25785312",
+      "title": "Proteomics analysis of EV71-infected cells reveals the involvement of host protein NEDD4L in EV71 replication.",
+      "first_author": "Kuo RL",
+      "year": "2015",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/pr501199h",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "35807355",
+      "title": "Prognostic Ability of Enhancer RNAs in Metastasis of Non-Small Cell Lung Cancer.",
+      "first_author": "Liu J",
+      "year": "2022",
+      "journal": "Molecules",
+      "doi": "10.3390/molecules27134108",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31114588",
+      "title": "NOD2 and TLR2 Signal via TBK1 and PI31 to Direct Cross-Presentation and CD8 T Cell Responses.",
+      "first_author": "Corridoni D",
+      "year": "2019",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2019.00958",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22362029",
+      "title": "Fub1p, a novel protein isolated by boundary screening, binds the proteasome complex.",
+      "first_author": "Hatanaka A",
+      "year": "2011",
+      "journal": "Genes Genet Syst",
+      "doi": "10.1266/ggs.86.305",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

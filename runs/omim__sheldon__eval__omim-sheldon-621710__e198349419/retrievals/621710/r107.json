@@ -1,0 +1,127 @@
+{
+  "id": "r107",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "39494576",
+    "relation": "similar",
+    "max_results": 10
+  },
+  "summary": "99 'similar' links for PMID 39494576; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40756368",
+      "title": "Phase-specific and laser-modulated polydopamine-chlorella-curdlan hydrogels: pioneering a melanoma integrative therapy.",
+      "first_author": "Yan Z",
+      "year": "2025",
+      "journal": "Theranostics",
+      "doi": "10.7150/thno.113417",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24527279",
+      "title": "Glycerin-Based Hydrogel for Infection Control.",
+      "first_author": "Stout EI",
+      "year": "2012",
+      "journal": "Adv Wound Care (New Rochelle)",
+      "doi": "10.1089/wound.2011.0288",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40279845",
+      "title": "Shark skin and mussel-inspired polyurethane hydrogel sponge for wounds with infection and exudate.",
+      "first_author": "Zhang M",
+      "year": "2025",
+      "journal": "J Colloid Interface Sci",
+      "doi": "10.1016/j.jcis.2025.137658",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39122663",
+      "title": "Promoting the healing of infected diabetic wound by nanozyme-containing hydrogel with anti-bacterial inflammation suppressing, ROS-scavenging and oxygen-generating properties.",
+      "first_author": "Chen LP",
+      "year": "2024",
+      "journal": "J Biomed Mater Res B Appl Biomater",
+      "doi": "10.1002/jbm.b.35458",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41568423",
+      "title": "ROS-responsive multifunctional DCS-based micelle hydrogel for simultaneously inhibiting post-resection melanoma recurrence and promoting wound healing.",
+      "first_author": "Liu S",
+      "year": "2026",
+      "journal": "Nanoscale",
+      "doi": "10.1039/d5nr03938j",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40584783",
+      "title": "ROS/pH Dual-Responsive Hydrogel Dressings Loaded with Amphiphilic Structured Nano Micelles for the Repair of Infected Wounds.",
+      "first_author": "Wang J",
+      "year": "2025",
+      "journal": "Int J Nanomedicine",
+      "doi": "10.2147/IJN.S522589",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36402298",
+      "title": "Multifunctional hydrogel with reactive oxygen species scavenging and photothermal antibacterial activity accelerates infected diabetic wound healing.",
+      "first_author": "He Y",
+      "year": "2023",
+      "journal": "Acta Biomater",
+      "doi": "10.1016/j.actbio.2022.11.023",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33556605",
+      "title": "Sprayable hydrogel dressing accelerates wound healing with combined reactive oxygen species-scavenging and antibacterial abilities.",
+      "first_author": "Cheng H",
+      "year": "2021",
+      "journal": "Acta Biomater",
+      "doi": "10.1016/j.actbio.2021.02.002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41163952",
+      "title": "ROS/Glucose-Dissociable EGCG-Coated Oxygen-Supplying Nanocomposite Hydrogel for Diabetic Wound Therapy.",
+      "first_author": "Sun S",
+      "year": "2025",
+      "journal": "Int J Nanomedicine",
+      "doi": "10.2147/IJN.S556446",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39710222",
+      "title": "A bacteria-responsive nanoplatform with biofilm dispersion and ROS scavenging for the healing of infected diabetic wounds.",
+      "first_author": "Zheng Y",
+      "year": "2025",
+      "journal": "Acta Biomater",
+      "doi": "10.1016/j.actbio.2024.12.042",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

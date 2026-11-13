@@ -1,0 +1,60 @@
+{
+  "id": "r63",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "37280839",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "4 'cited_by' links for PMID 37280839; showing 4",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "37237542",
+      "title": "Gonad Ontogeny and Sex Differentiation in a Poeciliid, Gambusia holbrooki: Transition from a Bi- to a Mono-Lobed Organ.",
+      "first_author": "Razmi K",
+      "year": "2023",
+      "journal": "Biology (Basel)",
+      "doi": "10.3390/biology12050731",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29609551",
+      "title": "A high-resolution genetic linkage map and QTL fine mapping for growth-related traits and sex in the Yangtze River common carp (Cyprinus carpio haematopterus).",
+      "first_author": "Feng X",
+      "year": "2018",
+      "journal": "BMC Genomics",
+      "doi": "10.1186/s12864-018-4613-1",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29101375",
+      "title": "Sex differentiation in grayling (Salmonidae) goes through an all-male stage and is delayed in genetic males who instead grow faster.",
+      "first_author": "Maitre D",
+      "year": "2017",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-017-14905-9",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25501353",
+      "title": "High temperature increases the masculinization rate of the all-female (XX) rainbow trout \"Mal\" population.",
+      "first_author": "Valdivia K",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0113355",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

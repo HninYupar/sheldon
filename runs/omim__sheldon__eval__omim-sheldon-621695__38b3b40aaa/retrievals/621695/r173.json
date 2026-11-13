@@ -1,0 +1,132 @@
+{
+  "id": "r173",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"arthrogryposis multiplex congenita 8\" OR AMC8 OR \"neurogenic type arthrogryposis\"",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "516 PubMed hits for '\"arthrogryposis multiplex congenita 8\" OR AMC8 OR \"neurogenic type arthrogryposis\"'; showing 10 (PubMed read it as: ((\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR (\"arthrogryposis\"[All Fields] AND \"multiplex\"[All Fields] AND \"congenita\"[All Fields]) OR \"arthrogryposis multiplex congenita\"[All Fields]) AND \"8\"[All Fields]) OR \"AMC8\"[All Fields] OR ((\"neurogenic\"[All Fields] OR \"neurogenically\"[All Fields] OR \"neurogenics\"[All Fields]) AND \"type\"[All Fields] AND (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "24459070",
+      "title": "Amyoplasia revisited.",
+      "first_author": "Hall JG",
+      "year": "2014",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.36395",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20301516",
+      "title": "Cockayne Syndrome.",
+      "first_author": "Adam MP",
+      "year": "1993",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41300731",
+      "title": "PMP22-Related Neuropathies: A Systematic Review.",
+      "first_author": "Cesaroni CA",
+      "year": "2025",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes16111279",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "3366895",
+      "title": "Arthrogryposis.",
+      "first_author": "Herring JA",
+      "year": "1988",
+      "journal": "J Pediatr Orthop",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35696452",
+      "title": "The gain of function SCN1A disorder spectrum: novel epilepsy phenotypes and therapeutic implications.",
+      "first_author": "Brunklaus A",
+      "year": "2022",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awac210",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40048676",
+      "title": "Genotype-Phenotype Landscape of NALCN and UNC80-Related Disorders.",
+      "first_author": "Parra-D\u00edaz P",
+      "year": "2025",
+      "journal": "Neurology",
+      "doi": "10.1212/WNL.0000000000213429",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37431644",
+      "title": "DST variants are responsible for neurogenic arthrogryposis multiplex congenita enlarging the spectrum of type VI hereditary sensory autonomic neuropathy.",
+      "first_author": "Capri Y",
+      "year": "2023",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14397",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37147532",
+      "title": "[Thyroid Eye Disease-Compressive Optic Neuropathy].",
+      "first_author": "Garip Kuebler A",
+      "year": "2023",
+      "journal": "Ophthalmologie",
+      "doi": "10.1007/s00347-023-01865-x",
+      "pubtype": [
+        "Observational Study",
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36757831",
+      "title": "The clinical and genetic spectrum of autosomal-recessive TOR1A-related disorders.",
+      "first_author": "Saffari A",
+      "year": "2023",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad039",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32040062",
+      "title": "Patient-reported Outcomes in Arthrogryposis.",
+      "first_author": "Wall LB",
+      "year": "2020",
+      "journal": "J Pediatr Orthop",
+      "doi": "10.1097/BPO.0000000000001527",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

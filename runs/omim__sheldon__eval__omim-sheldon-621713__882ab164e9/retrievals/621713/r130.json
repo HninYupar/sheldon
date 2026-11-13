@@ -1,0 +1,258 @@
+{
+  "id": "r130",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND human AND (patient OR patients OR case OR cohort OR family)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "220 PubMed hits for 'TACC3[gene] AND human AND (patient OR patients OR case OR cohort OR family)'; showing 20 (PubMed read it as: \"TACC3\"[All Fields] AND (\"human s\"[All Fields] OR \"humans\"[MeSH Terms] OR \"humans\"[All Fields] OR \"human\"[All Fields]) AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"ieee int conf automation sci eng case\"[Journal] OR \"case phila\"[Journal] OR \"case\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38319231",
+      "title": "Targeting TACC3 Induces Immunogenic Cell Death and Enhances T-DM1 Response in HER2-Positive Breast Cancer.",
+      "first_author": "Gedik ME",
+      "year": "2024",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-23-2812",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40759029",
+      "title": "Spatial Multiomics Defines a Shared Tumor Infiltrative Signature at the Resection Margin in High-Grade Gliomas.",
+      "first_author": "Pai B",
+      "year": "2025",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-24-4708",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40223054",
+      "title": "Integrative eQTL and Mendelian randomization analysis reveals key genetic markers in mesothelioma.",
+      "first_author": "Li J",
+      "year": "2025",
+      "journal": "Respir Res",
+      "doi": "10.1186/s12931-025-03219-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40866361",
+      "title": "Transforming acidic coiled-coil-containing protein 3-mediated lipid metabolism reprogramming impairs CD8(+) T-cell cytotoxicity in hepatocellular carcinoma.",
+      "first_author": "Li Y",
+      "year": "2025",
+      "journal": "Signal Transduct Target Ther",
+      "doi": "10.1038/s41392-025-02367-9",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38012214",
+      "title": "Knockdown of TACC3 inhibits tumor cell proliferation and increases chemosensitivity in pancreatic cancer.",
+      "first_author": "Shi S",
+      "year": "2023",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-023-06313-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31987043",
+      "title": "FGFR3 signaling and function in triple negative breast cancer.",
+      "first_author": "Chew NJ",
+      "year": "2020",
+      "journal": "Cell Commun Signal",
+      "doi": "10.1186/s12964-019-0486-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36864125",
+      "title": "Targeting TACC3 represents a novel vulnerability in highly aggressive breast cancers with centrosome amplification.",
+      "first_author": "Saatci O",
+      "year": "2023",
+      "journal": "Cell Death Differ",
+      "doi": "10.1038/s41418-023-01140-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38197196",
+      "title": "TACC3: a multi-functional protein promoting cancer cell survival and aggressiveness.",
+      "first_author": "Saatci O",
+      "year": "2023",
+      "journal": "Cell Cycle",
+      "doi": "10.1080/15384101.2024.2302243",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "34766555",
+      "title": "Targeting gene fusions in glioma.",
+      "first_author": "Kim PL",
+      "year": "2021",
+      "journal": "Curr Opin Neurol",
+      "doi": "10.1097/WCO.0000000000000991",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35066105",
+      "title": "Single-cell DNA-seq depicts clonal evolution of multiple driver alterations in osimertinib-resistant patients.",
+      "first_author": "Chen J",
+      "year": "2022",
+      "journal": "Ann Oncol",
+      "doi": "10.1016/j.annonc.2022.01.004",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37210288",
+      "title": "Genome-wide Association Study of Bladder Cancer Reveals New Biological and Translational Insights.",
+      "first_author": "Koutros S",
+      "year": "2023",
+      "journal": "Eur Urol",
+      "doi": "10.1016/j.eururo.2023.04.020",
+      "pubtype": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15207008",
+      "title": "Structure-function evolution of the transforming acidic coiled coil genes revealed by analysis of phylogenetically diverse organisms.",
+      "first_author": "Still IH",
+      "year": "2004",
+      "journal": "BMC Evol Biol",
+      "doi": "10.1186/1471-2148-4-16",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "32217742",
+      "title": "A Highly Potent TACC3 Inhibitor as a Novel Anticancer Drug Candidate.",
+      "first_author": "Akbulut O",
+      "year": "2020",
+      "journal": "Mol Cancer Ther",
+      "doi": "10.1158/1535-7163.MCT-19-0957",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12569123",
+      "title": "The ch-TOG/XMAP215 protein is essential for spindle pole organization in human somatic cells.",
+      "first_author": "Gergely F",
+      "year": "2003",
+      "journal": "Genes Dev",
+      "doi": "10.1101/gad.245603",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38067258",
+      "title": "Diffuse Gliomas with FGFR3-TACC3 Fusions: Oncogenic Mechanisms, Hallmarks, and Therapeutic Perspectives.",
+      "first_author": "Picca A",
+      "year": "2023",
+      "journal": "Cancers (Basel)",
+      "doi": "10.3390/cancers15235555",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41185057",
+      "title": "Diffusely metastatic glioblastoma with FGFR3::TACC3 fusion: cell-free DNA fragmentation analyses and molecular characterization of matched primary and metastatic tumor sites.",
+      "first_author": "Hernandez-Rovira MA",
+      "year": "2025",
+      "journal": "Acta Neuropathol Commun",
+      "doi": "10.1186/s40478-025-02142-5",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42174600",
+      "title": "Comprehensive characterization of MET exon 14 skipping mutations in non-small cell lung cancer.",
+      "first_author": "Lin J",
+      "year": "2026",
+      "journal": "Respir Res",
+      "doi": "10.1186/s12931-026-03626-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31078809",
+      "title": "Recurrent Papillary Glioneuronal Tumor.",
+      "first_author": "Goethe EA",
+      "year": "2019",
+      "journal": "World Neurosurg",
+      "doi": "10.1016/j.wneu.2019.04.266",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39470303",
+      "title": "LncRNA evf-2 Exacerbates Podocyte Injury in Diabetic Nephropathy by Inducing Cell Cycle Re-entry and Inflammation Through Distinct Mechanisms Triggered by hnRNPU.",
+      "first_author": "Zhang C",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202406532",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

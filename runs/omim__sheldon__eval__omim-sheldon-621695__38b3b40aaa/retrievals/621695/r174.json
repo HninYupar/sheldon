@@ -1,0 +1,49 @@
+{
+  "id": "r174",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND 2024[dp]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for 'PSMF1[gene] AND 2024[dp]'; showing 3 (PubMed read it as: \"PSMF1\"[All Fields] AND 2024/01/01:2024/12/31[Date - Publication])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39427606",
+      "title": "Exploring a novel four-gene system as a diagnostic and prognostic biomarker for triple-negative breast cancer, using clinical variables.",
+      "first_author": "Ali F",
+      "year": "2024",
+      "journal": "Comput Biol Chem",
+      "doi": "10.1016/j.compbiolchem.2024.108247",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

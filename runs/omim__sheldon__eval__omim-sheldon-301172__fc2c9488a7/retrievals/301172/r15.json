@@ -1,0 +1,37 @@
+{
+  "id": "r15",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SLEB19 OR \"systemic lupus erythematosus 19\" OR \"X-linked childhood-onset systemic lupus erythematosus\"",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'SLEB19 OR \"systemic lupus erythematosus 19\" OR \"X-linked childhood-onset systemic lupus erythematosus\"'; showing 2 (PubMed read it as: ((\"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields] OR (\"systemic\"[All Fields] AND \"lupus\"[All Fields] AND \"erythematosus\"[All Fields])) AND \"19 lond\"[Journal]) OR ((\"genes, x linked\"[MeSH Terms] OR (\"genes\"[All Fields] AND \"x linked\"[All Fields]) OR \"x-linked genes\"[All Fields] OR \"x linked\"[All Fields]) AND \"childhood onset\"[All Fields] AND (\"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields] OR (\"systemic\"[All Fields] AND \"lupus\"[All Fields] AND \"erythematosus\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "20525845",
+      "title": "Association of TLR7 copy number variation with susceptibility to childhood-onset systemic lupus erythematosus in Mexican population.",
+      "first_author": "Garc\u00eda-Ortiz H",
+      "year": "2010",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard.2009.124313",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

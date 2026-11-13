@@ -1,0 +1,126 @@
+{
+  "id": "r133",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "36395215",
+      "31249032",
+      "16107707"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "authors": [
+        "Wu T",
+        "Dong J",
+        "Fu J",
+        "Kuang Y",
+        "Chen B",
+        "Gu H",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Chromosome Segregation",
+        "Kinetochores",
+        "Microtubule-Associated Proteins",
+        "Microtubule-Organizing Center",
+        "Oocytes",
+        "Spindle Apparatus",
+        "Cells, Cultured",
+        "Phosphoproteins",
+        "Cell Cycle Proteins",
+        "Nerve Tissue Proteins"
+      ],
+      "abstract": "Meiotic spindle assembly ensures proper chromosome segregation in oocytes. However, the mechanisms behind spindle assembly in human oocytes remain largely unknown. We used three-dimensional high-resolution imaging of more than 2000 human oocytes to identify a structure that we named the human oocyte microtubule organizing center (huoMTOC). The proteins TACC3, CCP110, CKAP5, and DISC1 were found to be essential components of the huoMTOC. The huoMTOC arises beneath the oocyte cortex and migrates adjacent to the nuclear envelope before nuclear envelope breakdown (NEBD). After NEBD, the huoMTOC fragments and relocates on the kinetochores to initiate microtubule nucleation and spindle assembly. Disrupting the huoMTOC led to spindle assembly defects and oocyte maturation arrest. These results reveal a physiological mechanism of huoMTOC-regulated spindle assembly in human oocytes."
+    },
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "authors": [
+        "So C",
+        "Seres KB",
+        "Steyer AM",
+        "M\u00f6nnich E",
+        "Clift D",
+        "Pejkovska A",
+        "et al."
+      ],
+      "year": "2019",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Animals",
+        "Aurora Kinase A",
+        "Centrosome",
+        "Clathrin Heavy Chains",
+        "Female",
+        "Fetal Proteins",
+        "Meiosis",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Microtubule-Associated Proteins",
+        "Microtubules",
+        "NIH 3T3 Cells",
+        "Oocytes",
+        "Spindle Apparatus"
+      ],
+      "abstract": "Mammalian oocytes segregate chromosomes with a microtubule spindle that lacks centrosomes, but the mechanisms by which acentrosomal spindles are organized and function are largely unclear. In this study, we identify a conserved subcellular structure in mammalian oocytes that forms by phase separation. This structure, which we term the liquid-like meiotic spindle domain (LISD), permeates the spindle poles and forms dynamic protrusions that extend well beyond the spindle. The LISD selectively concentrates multiple microtubule regulatory factors and allows them to diffuse rapidly within the spindle volume. Disruption of the LISD via different means disperses these factors and leads to severe spindle assembly defects. Our data suggest a model whereby the LISD promotes meiotic spindle assembly by serving as a reservoir that sequesters and mobilizes microtubule regulatory factors in proximity to spindle microtubules."
+    },
+    {
+      "pmid": "16107707",
+      "title": "Differential phosphorylation controls Maskin association with eukaryotic translation initiation factor 4E and localization on the mitotic apparatus.",
+      "authors": [
+        "Barnard DC",
+        "Cao Q",
+        "Richter JD"
+      ],
+      "year": "2005",
+      "journal": "Molecular and cellular biology",
+      "doi": "10.1128/MCB.25.17.7605-7615.2005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh": [
+        "Amino Acid Sequence",
+        "Animals",
+        "Cell Differentiation",
+        "Eukaryotic Initiation Factor-4E",
+        "Humans",
+        "Molecular Sequence Data",
+        "Oocytes",
+        "Phosphoamino Acids",
+        "Phosphorylation",
+        "Phosphoserine",
+        "Polyadenylation",
+        "Protein Binding",
+        "Protein Biosynthesis",
+        "RNA, Messenger",
+        "Sequence Alignment",
+        "Spindle Apparatus",
+        "Staphylococcal Protein A",
+        "Transcription Factors",
+        "Xenopus Proteins",
+        "Xenopus laevis"
+      ],
+      "abstract": "Several cytoplasmic polyadenylation element (CPE)-containing mRNAs that are repressed in Xenopus oocytes become active during meiotic maturation. A group of factors that are anchored to the CPE are responsible for this repression and activation. Two of the most important are CPEB, which binds directly to the CPE, and Maskin, which associates with CPEB. In oocytes, Maskin also binds eukaryotic translation initiation factor 4E (eIF4E), an interaction that excludes eIF4G and prevents formation of the eIF4F initiation complex. When the oocytes are stimulated to reenter the meiotic divisions (maturation), CPEB promotes cytoplasmic polyadenylation. The newly elongated poly(A) tail becomes bound by poly(A) binding protein (PABP), which in turn binds eIF4G and helps it displace Maskin from eIF4E, thereby inducing translation. Here we show that Maskin undergoes several phosphorylation events during oocyte maturation, some of which are important for its dissociation from eIF4E and translational activation of CPE-containing mRNA. These sites are T58, S152, S311, S343, S453, and S638 and are phosphorylated by cdk1. Mutation of these sites to alanine alleviates the cdk1-induced dissociation of Maskin from eIF4E. Prior to maturation, Maskin is phosphorylated on S626 by protein kinase A. While this modification has no detectable effect on translation during oocyte maturation, it is critical for this protein to localize on the mitotic apparatus in somatic cells. These results show that Maskin activity and localization is controlled by differential phosphorylation."
+    }
+  ]
+}

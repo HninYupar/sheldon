@@ -1,0 +1,38 @@
+{
+  "id": "r34",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "39298586[pmid] OR 40926810[pmid]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for '39298586[pmid] OR 40926810[pmid]'; showing 2 (PubMed read it as: 39298586[UID] OR 40926810[UID])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

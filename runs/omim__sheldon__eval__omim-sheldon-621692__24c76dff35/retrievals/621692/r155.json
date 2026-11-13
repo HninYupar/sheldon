@@ -1,0 +1,257 @@
+{
+  "id": "r155",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (gain of function OR gain-of-function OR GOF OR electrophysiology OR patch clamp OR functional study) AND (developmental epileptic encephalopathy OR epileptic encephalopathy OR epilepsy)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "136 PubMed hits for 'CACNA1A[gene] AND (gain of function OR gain-of-function OR GOF OR electrophysiology OR patch clamp OR functional study) AND (developmental epileptic encephalopathy OR epileptic encephalopathy OR epilepsy)'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND ((\"gain\"[All Fields] AND (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms])) OR \"gain-of-function\"[All Fields] OR \"GOF\"[All Fields] OR (\"electrophysiology\"[MeSH Terms] OR \"electrophysiology\"[All Fields]) OR ((\"patch\"[All Fields] OR \"patch s\"[All Fields] OR \"patche\"[All Fields] OR \"patches\"[All Fields] OR \"patching\"[All Fields] OR \"patchs\"[All Fields]) AND (\"clamp\"[All Fields] OR \"clamped\"[All Fields] OR \"clamps\"[All Fields] OR \"constriction\"[MeSH Terms] OR \"constriction\"[All Fields] OR \"clamping\"[All Fields] OR \"clampings\"[All Fields])) OR ((\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms]) AND (\"studies\"[All Fields] OR \"study\"[All Fields] OR \"study s\"[All Fields] OR \"studying\"[All Fields] OR \"studys\"[All Fields]))) AND (((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epileptic\"[All Fields] OR \"epileptics\"[All Fields] OR \"epileptic s\"[All Fields] OR \"epileptical\"[All Fields] OR \"epileptization\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields])) OR ((\"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epileptic\"[All Fields] OR \"epileptics\"[All Fields] OR \"epileptic s\"[All Fields] OR \"epileptical\"[All Fields] OR \"epileptization\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields])) OR (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38307656",
+      "title": "Hemiplegic migraine.",
+      "first_author": "de Boer I",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-12-823357-3.00015-X",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39096015",
+      "title": "Solving the Etiology of Developmental and Epileptic Encephalopathy with Spike-Wave Activation in Sleep (D/EE-SWAS).",
+      "first_author": "Viswanathan S",
+      "year": "2024",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.27041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23934111",
+      "title": "De novo mutations in epileptic encephalopathies.",
+      "first_author": "Epi4K Consortium",
+      "year": "2013",
+      "journal": "Nature",
+      "doi": "10.1038/nature12439",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, American Recovery and Reinvestment Act",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30838925",
+      "title": "Double agent mTOR.",
+      "first_author": "Danzer SC",
+      "year": "2019",
+      "journal": "Epilepsy Curr",
+      "doi": "10.1177/1535759718822033",
+      "pubtype": [
+        "Journal Article",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "39174244",
+      "title": "The episodic ataxias.",
+      "first_author": "Graves TD",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-323-90820-7.00012-4",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40111503",
+      "title": "Phenotypic variability in cases with CACNA1A mutation.",
+      "first_author": "Bozkaya-Yilmaz S",
+      "year": "2025",
+      "journal": "Eur J Pediatr",
+      "doi": "10.1007/s00431-025-06062-3",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "30185235",
+      "title": "Novel and de novo mutations in pediatric refractory epilepsy.",
+      "first_author": "Liu J",
+      "year": "2018",
+      "journal": "Mol Brain",
+      "doi": "10.1186/s13041-018-0392-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "first_author": "Hommersom MP",
+      "year": "2025",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31171384",
+      "title": "Genomic backgrounds of Japanese patients with undiagnosed neurodevelopmental disorders.",
+      "first_author": "Yamamoto T",
+      "year": "2019",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2019.05.007",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "first_author": "El Ghaleb Y",
+      "year": "2021",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38043972",
+      "title": "Pathophysiology of migraine aura.",
+      "first_author": "Sanchez Del Rio M",
+      "year": "2023",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-12-823356-6.00016-0",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26002462",
+      "title": "Absence-like seizures and their pharmacological profile in tottering-6j mice.",
+      "first_author": "Kim TY",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.05.050",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31800012",
+      "title": "Adult loss of Cacna1a in mice recapitulates childhood absence epilepsy by distinct thalamic bursting mechanisms.",
+      "first_author": "Miao QL",
+      "year": "2020",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awz365",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Video-Audio Media"
+      ]
+    },
+    {
+      "pmid": "33985586",
+      "title": "Calcium channelopathies and intellectual disability: a systematic review.",
+      "first_author": "Kessi M",
+      "year": "2021",
+      "journal": "Orphanet J Rare Dis",
+      "doi": "10.1186/s13023-021-01850-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "15549578",
+      "title": "The physiopathology of migraine: the contribution of genetics.",
+      "first_author": "Montagna P",
+      "year": "2004",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-004-0261-0",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "12045730",
+      "title": "Calcium channel mutations and migraine.",
+      "first_author": "Kors EE",
+      "year": "2002",
+      "journal": "Curr Opin Neurol",
+      "doi": "10.1097/00019052-200206000-00014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29997391",
+      "title": "Exome sequencing in congenital ataxia identifies two new candidate genes and highlights a pathophysiological link between some congenital ataxias and early infantile epileptic encephalopathies.",
+      "first_author": "Valence S",
+      "year": "2019",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-018-0089-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16054936",
+      "title": "Mutation in the neuronal voltage-gated sodium channel SCN1A in familial hemiplegic migraine.",
+      "first_author": "Dichgans M",
+      "year": "2005",
+      "journal": "Lancet",
+      "doi": "10.1016/S0140-6736(05)66786-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

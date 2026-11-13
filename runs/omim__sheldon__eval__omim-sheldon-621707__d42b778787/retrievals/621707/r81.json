@@ -1,0 +1,125 @@
+{
+  "id": "r81",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "39298586",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "23 'cited_by' links for PMID 39298586; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42636080",
+      "title": "Circular RNA circLAMC1 Promotes Liver Regeneration by Regulating the miR-138-5p/Gnai2 Axis.",
+      "first_author": "Yang G",
+      "year": "2026",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.202504443R",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42420675",
+      "title": "The NeuroWES project: lessons learned from comprehensive phenotyping and genetic analysis of neurodevelopmental disorders over a decade.",
+      "first_author": "Cardaropoli S",
+      "year": "2026",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-026-02843-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42310673",
+      "title": "Microglial IRF7-induced lipophagy impairment aggravates lipid droplet overload and impedes neurological recovery after ischemic stroke.",
+      "first_author": "Yin J",
+      "year": "2026",
+      "journal": "J Neuroinflammation",
+      "doi": "10.1186/s12974-026-03902-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42146425",
+      "title": "Monocyte Migration Emerges from a Divergent Chemokine Signaling Network.",
+      "first_author": "So SS",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.04.29.721539",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42096402",
+      "title": "Structured water molecules drive activation and G protein selectivity in the GPR174 receptor.",
+      "first_author": "Dong YJ",
+      "year": "2026",
+      "journal": "PLoS Biol",
+      "doi": "10.1371/journal.pbio.3003447",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42096094",
+      "title": "Multivariable genome-wide analysis elucidates the shared genetic architecture, immunosenescence features, and gut-origin therapeutic targets of ulcerative colitis-associated multisystem inflammation.",
+      "first_author": "Tang S",
+      "year": "2026",
+      "journal": "Inflamm Res",
+      "doi": "10.1007/s00011-026-02257-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42062517",
+      "title": "Determinants of drug efficacy and the dynamics of G protein activation.",
+      "first_author": "Dohlman HG",
+      "year": "2026",
+      "journal": "Nat Struct Mol Biol",
+      "doi": "10.1038/s41594-026-01798-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41964950",
+      "title": "A Rasa3-G\u03b1i signaling axis orchestrates B lymphocyte trafficking into and through lymphoid organs.",
+      "first_author": "Park C",
+      "year": "2026",
+      "journal": "Cell Rep",
+      "doi": "10.1016/j.celrep.2026.117243",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41773808",
+      "title": "Mapping malignant T-cell states and immune circuits in S\u00e9zary syndrome by single-cell analysis.",
+      "first_author": "Childs BA",
+      "year": "2026",
+      "journal": "J Eur Acad Dermatol Venereol",
+      "doi": "10.1111/jdv.70368",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

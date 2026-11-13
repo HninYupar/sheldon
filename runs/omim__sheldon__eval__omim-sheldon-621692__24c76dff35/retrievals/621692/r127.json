@@ -1,0 +1,136 @@
+{
+  "id": "r127",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (gain of function OR gain-of-function OR increased current OR functional study OR electrophysiology OR patch clamp)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "670 PubMed hits for 'CACNA1A[gene] AND (gain of function OR gain-of-function OR increased current OR functional study OR electrophysiology OR patch clamp)'; showing 10 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND ((\"gain\"[All Fields] AND (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms])) OR \"gain-of-function\"[All Fields] OR ((\"increase\"[All Fields] OR \"increased\"[All Fields] OR \"increases\"[All Fields] OR \"increasing\"[All Fields] OR \"increasings\"[All Fields]) AND (\"current\"[All Fields] OR \"current s\"[All Fields] OR \"currently\"[All Fields] OR \"currents\"[All Fields])) OR ((\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms]) AND (\"studies\"[All Fields] OR \"study\"[All Fields] OR \"study s\"[All Fields] OR \"studying\"[All Fields] OR \"studys\"[All Fields])) OR (\"electrophysiology\"[MeSH Terms] OR \"electrophysiology\"[All Fields]) OR ((\"patch\"[All Fields] OR \"patch s\"[All Fields] OR \"patche\"[All Fields] OR \"patches\"[All Fields] OR \"patching\"[All Fields] OR \"patchs\"[All Fields]) AND (\"clamp\"[All Fields] OR \"clamped\"[All Fields] OR \"clamps\"[All Fields] OR \"constriction\"[MeSH Terms] OR \"constriction\"[All Fields] OR \"clamping\"[All Fields] OR \"clampings\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38307656",
+      "title": "Hemiplegic migraine.",
+      "first_author": "de Boer I",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-12-823357-3.00015-X",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32430436",
+      "title": "Diagnostic and therapeutic aspects of hemiplegic migraine.",
+      "first_author": "Di Stefano V",
+      "year": "2020",
+      "journal": "J Neurol Neurosurg Psychiatry",
+      "doi": "10.1136/jnnp-2020-322850",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30838925",
+      "title": "Double agent mTOR.",
+      "first_author": "Danzer SC",
+      "year": "2019",
+      "journal": "Epilepsy Curr",
+      "doi": "10.1177/1535759718822033",
+      "pubtype": [
+        "Journal Article",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "28505344",
+      "title": "Genetics of glaucoma.",
+      "first_author": "Wiggs JL",
+      "year": "2017",
+      "journal": "Hum Mol Genet",
+      "doi": "10.1093/hmg/ddx184",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39174244",
+      "title": "The episodic ataxias.",
+      "first_author": "Graves TD",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-323-90820-7.00012-4",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29965897",
+      "title": "Genetics of Exfoliation Syndrome.",
+      "first_author": "Aung T",
+      "year": "2018",
+      "journal": "J Glaucoma",
+      "doi": "10.1097/IJG.0000000000000928",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "17395138",
+      "title": "Familial hemiplegic migraine.",
+      "first_author": "Pietrobon D",
+      "year": "2007",
+      "journal": "Neurotherapeutics",
+      "doi": "10.1016/j.nurt.2007.01.008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29419649",
+      "title": "Molecular Biology of Exfoliation Syndrome.",
+      "first_author": "Schl\u00f6tzer-Schrehardt U",
+      "year": "2018",
+      "journal": "J Glaucoma",
+      "doi": "10.1097/IJG.0000000000000903",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

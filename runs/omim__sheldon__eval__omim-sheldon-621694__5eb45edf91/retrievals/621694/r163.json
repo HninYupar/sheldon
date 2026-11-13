@@ -1,0 +1,135 @@
+{
+  "id": "r163",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (fibroblast OR mouse OR fly OR neuron OR mitochondria OR proteasome)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "42 PubMed hits for 'PSMF1[gene] AND (fibroblast OR mouse OR fly OR neuron OR mitochondria OR proteasome)'; showing 10 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields] OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields]) OR (\"fly austin\"[Journal] OR \"fly\"[All Fields]) OR (\"neuron s\"[All Fields] OR \"neuronal\"[All Fields] OR \"neuronally\"[All Fields] OR \"neuronals\"[All Fields] OR \"neurone s\"[All Fields] OR \"neurones\"[All Fields] OR \"neuronic\"[All Fields] OR \"neurons\"[MeSH Terms] OR \"neurons\"[All Fields] OR \"neuron\"[All Fields] OR \"neurone\"[All Fields]) OR (\"mitochondria\"[MeSH Terms] OR \"mitochondria\"[All Fields] OR \"mitochondria s\"[All Fields] OR \"mitochondriae\"[All Fields] OR \"mitochondrias\"[All Fields]) OR (\"proteasomal\"[All Fields] OR \"proteasomally\"[All Fields] OR \"proteasome endopeptidase complex\"[Supplementary Concept] OR \"proteasome endopeptidase complex\"[All Fields] OR \"proteasome\"[All Fields] OR \"proteasome endopeptidase complex\"[MeSH Terms] OR (\"proteasome\"[All Fields] AND \"endopeptidase\"[All Fields] AND \"complex\"[All Fields]) OR \"proteasomes\"[All Fields] OR \"proteasome s\"[All Fields] OR \"proteasomic\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "25266262",
+      "title": "The FP domains of PI31 and Fbxo7 have the same protein fold but very different modes of protein-protein interaction.",
+      "first_author": "Shang J",
+      "year": "2015",
+      "journal": "J Biomol Struct Dyn",
+      "doi": "10.1080/07391102.2014.963675",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "first_author": "Clemen CS",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "10471803",
+      "title": "The proteasome inhibitor PI31 competes with PA28 for binding to 20S proteasomes.",
+      "first_author": "Zaiss DM",
+      "year": "1999",
+      "journal": "FEBS Lett",
+      "doi": "10.1016/s0014-5793(99)01072-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33009551",
+      "title": "Genome-Wide Association Analysis of Neonatal White Matter Microstructure.",
+      "first_author": "Zhang J",
+      "year": "2021",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhaa266",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "18495667",
+      "title": "Structure of a conserved dimerization domain within the F-box protein Fbxo7 and the PI31 proteasome inhibitor.",
+      "first_author": "Kirk R",
+      "year": "2008",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M709900200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25785312",
+      "title": "Proteomics analysis of EV71-infected cells reveals the involvement of host protein NEDD4L in EV71 replication.",
+      "first_author": "Kuo RL",
+      "year": "2015",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/pr501199h",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31114588",
+      "title": "NOD2 and TLR2 Signal via TBK1 and PI31 to Direct Cross-Presentation and CD8 T Cell Responses.",
+      "first_author": "Corridoni D",
+      "year": "2019",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2019.00958",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

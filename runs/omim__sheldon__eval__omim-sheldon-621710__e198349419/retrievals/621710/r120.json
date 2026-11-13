@@ -1,0 +1,251 @@
+{
+  "id": "r120",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (family OR pedigree OR siblings OR patient OR patients OR proband)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "323 PubMed hits for 'ATG12[gene] AND (family OR pedigree OR siblings OR patient OR patients OR proband)'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields] OR (\"pedigree\"[MeSH Terms] OR \"pedigree\"[All Fields] OR \"pedigrees\"[All Fields] OR \"pedigree s\"[All Fields] OR \"pedigreed\"[All Fields]) OR (\"sibling s\"[All Fields] OR \"siblings\"[MeSH Terms] OR \"siblings\"[All Fields] OR \"sibling\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"proband\"[All Fields] OR \"proband s\"[All Fields] OR \"probands\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "32401642",
+      "title": "Autophagy in the physiological endometrium and cancer.",
+      "first_author": "Devis-Jauregui L",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1752548",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39087410",
+      "title": "ZDHHC7-mediated S-palmitoylation of ATG16L1 facilitates LC3 lipidation and autophagosome formation.",
+      "first_author": "Wei F",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2386915",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30335591",
+      "title": "Trehalose induces autophagy via lysosomal-mediated TFEB activation in models of motoneuron degeneration.",
+      "first_author": "Rusmini P",
+      "year": "2019",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2018.1535292",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40509575",
+      "title": "Macrophage TRIM21 knockout inhibits septic acute lung injury by downregulating autophagy regulator protein ubiquitination.",
+      "first_author": "Xie F",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2025.2519063",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33853474",
+      "title": "WLS/wntless is essential in controlling dendritic cell homeostasis via a WNT signaling-independent mechanism.",
+      "first_author": "Wang LT",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1907516",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35222638",
+      "title": "Deficient Autophagy in Microglia Aggravates Repeated Social Defeat Stress-Induced Social Avoidance.",
+      "first_author": "Sakai M",
+      "year": "2022",
+      "journal": "Neural Plast",
+      "doi": "10.1155/2022/7503553",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36541703",
+      "title": "PEX13 prevents pexophagy by regulating ubiquitinated PEX5 and peroxisomal ROS.",
+      "first_author": "Demers ND",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2160566",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36280710",
+      "title": "Intercellular transfer of activated STING triggered by RAB22A-mediated non-canonical autophagy promotes antitumor immunity.",
+      "first_author": "Gao Y",
+      "year": "2022",
+      "journal": "Cell Res",
+      "doi": "10.1038/s41422-022-00731-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28160545",
+      "title": "Impact of resistance training on the autophagy-inflammation-apoptosis crosstalk in elderly subjects.",
+      "first_author": "Mej\u00edas-Pe\u00f1a Y",
+      "year": "2017",
+      "journal": "Aging (Albany NY)",
+      "doi": "10.18632/aging.101167",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37673390",
+      "title": "Phenothiazines reduced autophagy in ischemic stroke through endoplasmic reticulum (ER) stress-associated PERK-eIF2\u03b1 pathway.",
+      "first_author": "Lv S",
+      "year": "2023",
+      "journal": "Exp Neurol",
+      "doi": "10.1016/j.expneurol.2023.114524",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29965781",
+      "title": "RAB26-dependent autophagy protects adherens junctional integrity in acute lung injury.",
+      "first_author": "Dong W",
+      "year": "2018",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2018.1476811",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38522078",
+      "title": "Impaired neuronal macroautophagy in the prelimbic cortex contributes to comorbid anxiety-like behaviors in rats with chronic neuropathic pain.",
+      "first_author": "Fu S",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2330038",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30765325",
+      "title": "miR-221/222-Mediated Inhibition of Autophagy Promotes Dexamethasone Resistance in Multiple Myeloma.",
+      "first_author": "Xu J",
+      "year": "2019",
+      "journal": "Mol Ther",
+      "doi": "10.1016/j.ymthe.2019.01.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33146789",
+      "title": "In vitro study of the role of FOXO transcription factors in regulating cigarette smoke extract-induced autophagy.",
+      "first_author": "Bagam P",
+      "year": "2021",
+      "journal": "Cell Biol Toxicol",
+      "doi": "10.1007/s10565-020-09556-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32873769",
+      "title": "A Novel Risk Model Based on Autophagy Pathway Related Genes for Survival Prediction in Lung Adenocarcinoma.",
+      "first_author": "Zhang F",
+      "year": "2020",
+      "journal": "Med Sci Monit",
+      "doi": "10.12659/MSM.924710",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38035098",
+      "title": "Palmatine treats urticaria by reducing inflammation and increasing autophagy.",
+      "first_author": "Xiao T",
+      "year": "2023",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2023.1268467",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41234656",
+      "title": "Helicobacter pylori dysregulates the expression of autophagy-related genes in human gastric adenocarcinoma cell line in vitro.",
+      "first_author": "Esmaeilzadeh M",
+      "year": "2025",
+      "journal": "Iran J Microbiol",
+      "doi": "10.18502/ijm.v17i5.19879",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34822318",
+      "title": "Inhibition of USP14 influences alphaherpesvirus proliferation by degrading viral VP16 protein via ER stress-triggered selective autophagy.",
+      "first_author": "Ming SL",
+      "year": "2022",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.2002101",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33389611",
+      "title": "MicroRNA-520d-3p alleviates hypoxia/reoxygenation-induced damage in human cardiomyocytes by targeting ATG-12.",
+      "first_author": "Wu K",
+      "year": "2021",
+      "journal": "J Thromb Thrombolysis",
+      "doi": "10.1007/s11239-020-02352-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39851549",
+      "title": "Discovery of Evolutionary Loss of the Ubiquitin-like Autophagy-Related ATG12 System in a Lineage of Apicomplexa.",
+      "first_author": "Lin XX",
+      "year": "2025",
+      "journal": "Cells",
+      "doi": "10.3390/cells14020121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

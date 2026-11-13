@@ -1,0 +1,253 @@
+{
+  "id": "r24",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[tiab] AND (patient OR patients OR variant OR mutation OR mutations OR biallelic OR homozygous OR compound heterozygous)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "256 PubMed hits for 'TACC3[tiab] AND (patient OR patients OR variant OR mutation OR mutations OR biallelic OR homozygous OR compound heterozygous)'; showing 20 (PubMed read it as: \"TACC3\"[Title/Abstract] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"bialleleic\"[All Fields] OR \"biallelic\"[All Fields] OR \"biallelically\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "24476821",
+      "title": "Comprehensive molecular characterization of urothelial bladder carcinoma.",
+      "first_author": "Cancer Genome Atlas Research Network",
+      "year": "2014",
+      "journal": "Nature",
+      "doi": "10.1038/nature12965",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38319231",
+      "title": "Targeting TACC3 Induces Immunogenic Cell Death and Enhances T-DM1 Response in HER2-Positive Breast Cancer.",
+      "first_author": "Gedik ME",
+      "year": "2024",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-23-2812",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40759029",
+      "title": "Spatial Multiomics Defines a Shared Tumor Infiltrative Signature at the Resection Margin in High-Grade Gliomas.",
+      "first_author": "Pai B",
+      "year": "2025",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-24-4708",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40866361",
+      "title": "Transforming acidic coiled-coil-containing protein 3-mediated lipid metabolism reprogramming impairs CD8(+) T-cell cytotoxicity in hepatocellular carcinoma.",
+      "first_author": "Li Y",
+      "year": "2025",
+      "journal": "Signal Transduct Target Ther",
+      "doi": "10.1038/s41392-025-02367-9",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40223054",
+      "title": "Integrative eQTL and Mendelian randomization analysis reveals key genetic markers in mesothelioma.",
+      "first_author": "Li J",
+      "year": "2025",
+      "journal": "Respir Res",
+      "doi": "10.1186/s12931-025-03219-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35066105",
+      "title": "Single-cell DNA-seq depicts clonal evolution of multiple driver alterations in osimertinib-resistant patients.",
+      "first_author": "Chen J",
+      "year": "2022",
+      "journal": "Ann Oncol",
+      "doi": "10.1016/j.annonc.2022.01.004",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34766555",
+      "title": "Targeting gene fusions in glioma.",
+      "first_author": "Kim PL",
+      "year": "2021",
+      "journal": "Curr Opin Neurol",
+      "doi": "10.1097/WCO.0000000000000991",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37210288",
+      "title": "Genome-wide Association Study of Bladder Cancer Reveals New Biological and Translational Insights.",
+      "first_author": "Koutros S",
+      "year": "2023",
+      "journal": "Eur Urol",
+      "doi": "10.1016/j.eururo.2023.04.020",
+      "pubtype": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38067258",
+      "title": "Diffuse Gliomas with FGFR3-TACC3 Fusions: Oncogenic Mechanisms, Hallmarks, and Therapeutic Perspectives.",
+      "first_author": "Picca A",
+      "year": "2023",
+      "journal": "Cancers (Basel)",
+      "doi": "10.3390/cancers15235555",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39470303",
+      "title": "LncRNA evf-2 Exacerbates Podocyte Injury in Diabetic Nephropathy by Inducing Cell Cycle Re-entry and Inflammation Through Distinct Mechanisms Triggered by hnRNPU.",
+      "first_author": "Zhang C",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202406532",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40412795",
+      "title": "Radiotherapy-induced TACC3 confers resistance of HCC to radiotherapy and enhances IL4-dependent immunosuppression to exacerbate hepatocarcinogenesis.",
+      "first_author": "Zhong CR",
+      "year": "2025",
+      "journal": "Cancer Lett",
+      "doi": "10.1016/j.canlet.2025.217819",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31290679",
+      "title": "Comparative proteogenomic characterization of glioblastoma.",
+      "first_author": "Asif S",
+      "year": "2019",
+      "journal": "CNS Oncol",
+      "doi": "10.2217/cns-2019-0003",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23696246",
+      "title": "FGF receptors: cancer biology and therapeutics.",
+      "first_author": "Katoh M",
+      "year": "2014",
+      "journal": "Med Res Rev",
+      "doi": "10.1002/med.21288",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31078809",
+      "title": "Recurrent Papillary Glioneuronal Tumor.",
+      "first_author": "Goethe EA",
+      "year": "2019",
+      "journal": "World Neurosurg",
+      "doi": "10.1016/j.wneu.2019.04.266",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36042187",
+      "title": "Abnormal TACC3 Expression is an Independent Prognostic Biomarker in Lung Carcinoma.",
+      "first_author": "Zhang X",
+      "year": "2022",
+      "journal": "Front Biosci (Landmark Ed)",
+      "doi": "10.31083/j.fbl2708252",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36455273",
+      "title": "Varied histomorphology and clinical outcomes of FGFR3-TACC3 fusion gliomas.",
+      "first_author": "McDonald MF",
+      "year": "2022",
+      "journal": "Neurosurg Focus",
+      "doi": "10.3171/2022.9.FOCUS22420",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41165398",
+      "title": "Diffuse glioma with FGFR3-TACC3 fusion in adults is not a homogenous clinicopathological and molecular entity.",
+      "first_author": "Su X",
+      "year": "2025",
+      "journal": "J Pathol Clin Res",
+      "doi": "10.1002/2056-4538.70057",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41592600",
+      "title": "FOXM1 influences DNA methylation to augment TACC3 alternative splicing directed by KAT2A in hepatocellular carcinoma.",
+      "first_author": "Zhao LN",
+      "year": "2026",
+      "journal": "Clin Mol Hepatol",
+      "doi": "10.3350/cmh.2025.1370",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36647073",
+      "title": "Clinico-pathological and epigenetic heterogeneity of diffuse gliomas with FGFR3::TACC3 fusion.",
+      "first_author": "M\u00e9tais A",
+      "year": "2023",
+      "journal": "Acta Neuropathol Commun",
+      "doi": "10.1186/s40478-023-01506-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41005586",
+      "title": "FGFR3 alteration sites and response rate to FGFR inhibitors in urothelial carcinoma.",
+      "first_author": "Song Y",
+      "year": "2025",
+      "journal": "Pharmacol Res",
+      "doi": "10.1016/j.phrs.2025.107968",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

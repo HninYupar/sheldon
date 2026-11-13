@@ -1,0 +1,132 @@
+{
+  "id": "r112",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (\"T-cell receptor\" OR \"signaling threshold-regulating transmembrane adaptor 1\" OR adaptor) AND (human OR patients OR disease)",
+    "max_results": 20,
+    "sort": "pub_date"
+  },
+  "summary": "10 PubMed hits for 'SIT1[gene] AND (\"T-cell receptor\" OR \"signaling threshold-regulating transmembrane adaptor 1\" OR adaptor) AND (human OR patients OR disease)'; showing 10 (PubMed read it as: \"SIT1\"[All Fields] AND (\"T-cell receptor\"[All Fields] OR \"signaling threshold-regulating transmembrane adaptor 1\"[All Fields] OR (\"adaptor\"[All Fields] OR \"adaptors\"[All Fields])) AND (\"human s\"[All Fields] OR \"humans\"[MeSH Terms] OR \"humans\"[All Fields] OR \"human\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"disease\"[MeSH Terms] OR \"disease\"[All Fields] OR \"diseases\"[All Fields] OR \"disease s\"[All Fields] OR \"diseased\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36675674",
+      "title": "Discovery and Validation of a SIT1-Related Prognostic Signature Associated with Immune Infiltration in Cutaneous Melanoma.",
+      "first_author": "Jia M",
+      "year": "2022",
+      "journal": "J Pers Med",
+      "doi": "10.3390/jpm13010013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32608016",
+      "title": "Is susceptibility to severe COVID-19 disease an inborn error of metabolism?",
+      "first_author": "Clayton PT",
+      "year": "2020",
+      "journal": "J Inherit Metab Dis",
+      "doi": "10.1002/jimd.12280",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "23011956",
+      "title": "Cell volume regulation in mammalian oocytes and preimplantation embryos.",
+      "first_author": "Baltz JM",
+      "year": "2012",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.22117",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21957439",
+      "title": "The transmembrane adaptor protein SIT inhibits TCR-mediated signaling.",
+      "first_author": "Arndt B",
+      "year": "2011",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0023761",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "14534538",
+      "title": "The phosphotyrosine phosphatase SHP2 is a critical mediator of transformation induced by the oncogenic fibroblast growth factor receptor 3.",
+      "first_author": "Agazie YM",
+      "year": "2003",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1206798",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "11491537",
+      "title": "Complete sequence, genomic organization, and chromosomal localization of the human gene encoding the SHP2-interacting transmembrane adaptor protein (SIT).",
+      "first_author": "H\u00fcbener C",
+      "year": "2001",
+      "journal": "Immunogenetics",
+      "doi": "10.1007/s002510100328",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "10209036",
+      "title": "SHP2-interacting transmembrane adaptor protein (SIT), a novel disulfide-linked dimer regulating human T cell activation.",
+      "first_author": "Marie-Cardine A",
+      "year": "1999",
+      "journal": "J Exp Med",
+      "doi": "10.1084/jem.189.8.1181",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "r7",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"621713\"[tiab] OR \"OOCYTE/ZYGOTE/EMBRYO MATURATION ARREST 27\"[tiab] OR OZEMA27[tiab]) AND TACC3[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '(\"621713\"[tiab] OR \"OOCYTE/ZYGOTE/EMBRYO MATURATION ARREST 27\"[tiab] OR OZEMA27[tiab]) AND TACC3[tiab]'; showing 0 (PubMed read it as: \"621713\"[Title/Abstract] AND \"TACC3\"[Title/Abstract])",
+  "ok": true,
+  "evidence": []
+}

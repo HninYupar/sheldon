@@ -1,0 +1,12 @@
+{
+  "id": "r147",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (phenotype MIM OR MIM OR 621699 OR IMD135)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'SIT1[gene] AND (phenotype MIM OR MIM OR 621699 OR IMD135)'; showing 0 (PubMed read it as: \"SIT1\"[All Fields] AND (((\"phenotype\"[MeSH Terms] OR \"phenotype\"[All Fields] OR \"phenotypes\"[All Fields] OR \"phenotyped\"[All Fields] OR \"phenotypic\"[All Fields] OR \"phenotypical\"[All Fields] OR \"phenotypically\"[All Fields] OR \"phenotyping\"[All Fields] OR \"phenotypings\"[All Fields]) AND \"MIM\"[All Fields]) OR \"MIM\"[All Fields] OR 621699[UID]))",
+  "ok": true,
+  "evidence": []
+}

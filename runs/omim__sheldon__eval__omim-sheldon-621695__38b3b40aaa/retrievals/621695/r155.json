@@ -1,0 +1,253 @@
+{
+  "id": "r155",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (c. OR p. OR exon OR \"NM_\")",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "24 PubMed hits for 'PSMF1[gene] AND (c. OR p. OR exon OR \"NM_\")'; showing 20 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"c\"[All Fields] OR \"p\"[All Fields] OR (\"exons\"[MeSH Terms] OR \"exons\"[All Fields] OR \"exon\"[All Fields]) OR \"nm\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33009551",
+      "title": "Genome-Wide Association Analysis of Neonatal White Matter Microstructure.",
+      "first_author": "Zhang J",
+      "year": "2021",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhaa266",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33226164",
+      "title": "Characterisation of sperm piRNAs and their correlation with semen quality traits in swine.",
+      "first_author": "Ablondi M",
+      "year": "2021",
+      "journal": "Anim Genet",
+      "doi": "10.1111/age.13022",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33942992",
+      "title": "Genomic analysis of host gene responses to cerebral Plasmodium falciparum malaria.",
+      "first_author": "Li K",
+      "year": "2021",
+      "journal": "Immun Inflamm Dis",
+      "doi": "10.1002/iid3.436",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26711386",
+      "title": "[Application of gene microarray to screen differential expression genes of Modic changes at vertebral endplates].",
+      "first_author": "Xu M",
+      "year": "2015",
+      "journal": "Zhonghua Yi Xue Za Zhi",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22362029",
+      "title": "Fub1p, a novel protein isolated by boundary screening, binds the proteasome complex.",
+      "first_author": "Hatanaka A",
+      "year": "2011",
+      "journal": "Genes Genet Syst",
+      "doi": "10.1266/ggs.86.305",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21944250",
+      "title": "A replication study of genome-wide CNV association for hepatic biomarkers identifies nine genes associated with liver function.",
+      "first_author": "Kim HY",
+      "year": "2011",
+      "journal": "BMB Rep",
+      "doi": "10.5483/bmbrep.2011.44.9.578",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "first_author": "Li X",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25266262",
+      "title": "The FP domains of PI31 and Fbxo7 have the same protein fold but very different modes of protein-protein interaction.",
+      "first_author": "Shang J",
+      "year": "2015",
+      "journal": "J Biomol Struct Dyn",
+      "doi": "10.1080/07391102.2014.963675",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "33651148",
+      "title": "Potentially functional variants of ERAP1, PSMF1 and NCF2 in the MHC-I-related pathway predict non-small cell lung cancer survival.",
+      "first_author": "Yang S",
+      "year": "2021",
+      "journal": "Cancer Immunol Immunother",
+      "doi": "10.1007/s00262-021-02877-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "10764772",
+      "title": "cDNA cloning, expression, and functional characterization of PI31, a proline-rich inhibitor of the proteasome.",
+      "first_author": "McCutchen-Maloney SL",
+      "year": "2000",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M001697200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "22145659",
+      "title": "Knockdown of secreted protein acidic and rich in cysteine (SPARC) expression diminishes radiosensitivity of glioma cells.",
+      "first_author": "Liu H",
+      "year": "2011",
+      "journal": "Cancer Biother Radiopharm",
+      "doi": "10.1089/cbr.2011.0987",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21105124",
+      "title": "Advanced or metastatic pancreatic cancer: molecular targeted therapies.",
+      "first_author": "Bayraktar S",
+      "year": "2010",
+      "journal": "Mt Sinai J Med",
+      "doi": "10.1002/msj.20217",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "14566967",
+      "title": "Role of nitric oxide, reactive oxygen species, and p38 MAP kinase in the regulation of human chondrocyte apoptosis.",
+      "first_author": "K\u00fchn K",
+      "year": "2003",
+      "journal": "J Cell Physiol",
+      "doi": "10.1002/jcp.10372",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "26678661",
+      "title": "MicroRNA-203 Modulates the Radiation Sensitivity of Human Malignant Glioma Cells.",
+      "first_author": "Chang JH",
+      "year": "2016",
+      "journal": "Int J Radiat Oncol Biol Phys",
+      "doi": "10.1016/j.ijrobp.2015.10.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34867951",
+      "title": "Circulating Exosome Involves in the Pathogenesis of Autoimmune Thyroid Diseases Through Immunomodulatory Proteins.",
+      "first_author": "Jia X",
+      "year": "2021",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2021.730089",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21866628",
+      "title": "[The antagonistic effect of PI3K-gamma inhibitor AS605240 on cardiac hypertrophy and cardiac fibrosis induced by isoproterenol in rats].",
+      "first_author": "Song LF",
+      "year": "2011",
+      "journal": "Sichuan Da Xue Xue Bao Yi Xue Ban",
+      "doi": "",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32856318",
+      "title": "PIK3R2/Pik3r2 Activating Mutations Result in Brain Overgrowth and EEG Changes.",
+      "first_author": "Shi X",
+      "year": "2020",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.25890",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

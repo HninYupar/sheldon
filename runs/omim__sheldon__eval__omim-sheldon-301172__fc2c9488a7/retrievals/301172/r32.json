@@ -1,0 +1,25 @@
+{
+  "id": "r32",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1 AND (SLE OR systemic lupus erythematosus) AND 2022[dp]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'SAT1 AND (SLE OR systemic lupus erythematosus) AND 2022[dp]'; showing 1 (PubMed read it as: \"SAT1\"[All Fields] AND (\"SLE\"[All Fields] OR (\"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields] OR (\"systemic\"[All Fields] AND \"lupus\"[All Fields] AND \"erythematosus\"[All Fields]))) AND 2022/01/01:2022/12/31[Date - Publication])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

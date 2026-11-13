@@ -1,0 +1,36 @@
+{
+  "id": "r181",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality\"[tiab] OR PSMF1 perinatal lethality[tiab]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for '\"variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson\\'s disease to perinatal lethality\"[tiab] OR PSMF1 perinatal lethality[tiab]'; showing 2 (PubMed read it as: \"PSMF1\"[All Fields] AND \"perinatal lethality\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

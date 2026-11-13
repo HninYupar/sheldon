@@ -1,0 +1,132 @@
+{
+  "id": "r27",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(SIT1[gene] OR \"signaling threshold-regulating transmembrane adaptor 1\"[tiab]) AND (functional OR signaling OR T-cell receptor OR TCR OR mouse OR mice OR knockout OR deficient)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "148 PubMed hits for '(SIT1[gene] OR \"signaling threshold-regulating transmembrane adaptor 1\"[tiab]) AND (functional OR signaling OR T-cell receptor OR TCR OR mouse OR mice OR knockout OR deficient)'; showing 10 (PubMed read it as: (\"SIT1\"[All Fields] OR \"signaling threshold-regulating transmembrane adaptor 1\"[Title/Abstract]) AND (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms] OR (\"signal transduction\"[MeSH Terms] OR (\"signal\"[All Fields] AND \"transduction\"[All Fields]) OR \"signal transduction\"[All Fields] OR \"signaling\"[All Fields] OR \"signal\"[All Fields] OR \"signal s\"[All Fields] OR \"signaled\"[All Fields] OR \"signaler\"[All Fields] OR \"signaler s\"[All Fields] OR \"signalers\"[All Fields] OR \"signalings\"[All Fields] OR \"signalization\"[All Fields] OR \"signalled\"[All Fields] OR \"signaller\"[All Fields] OR \"signaller s\"[All Fields] OR \"signallers\"[All Fields] OR \"signalling\"[All Fields] OR \"signallings\"[All Fields] OR \"signals\"[All Fields]) OR (\"receptors antigen t cell\"[Supplementary Concept] OR \"receptors antigen t cell\"[All Fields] OR \"t cell receptor\"[All Fields] OR \"receptors, antigen, t cell\"[MeSH Terms] OR (\"receptors\"[All Fields] AND \"antigen\"[All Fields] AND \"t cell\"[All Fields]) OR \"t-cell antigen receptors\"[All Fields]) OR (\"transl cancer res\"[Journal] OR \"tcr\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields]) OR (\"knockout\"[All Fields] OR \"knockouts\"[All Fields]) OR (\"deficiences\"[All Fields] OR \"deficiencies\"[All Fields] OR \"deficiency\"[MeSH Subheading] OR \"deficiency\"[All Fields] OR \"deficient\"[All Fields] OR \"deficients\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37515120",
+      "title": "Applications of the Microscale Thermophoresis Binding Assay in COVID-19 Research.",
+      "first_author": "Nydegger DT",
+      "year": "2023",
+      "journal": "Viruses",
+      "doi": "10.3390/v15071432",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37199664",
+      "title": "The Siderophore Ferricrocin Mediates Iron Acquisition in Aspergillus fumigatus.",
+      "first_author": "Happacher I",
+      "year": "2023",
+      "journal": "Microbiol Spectr",
+      "doi": "10.1128/spectrum.00496-23",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39298472",
+      "title": "Molecular forecasting of domoic acid during a pervasive toxic diatom bloom.",
+      "first_author": "Brunson JK",
+      "year": "2024",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2319177121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39159813",
+      "title": "Cryo-EM structure of ACE2-SIT1 in complex with tiagabine.",
+      "first_author": "Br\u00f6er A",
+      "year": "2024",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2024.107687",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31405865",
+      "title": "The Siderophore Transporter Sit1 Determines Susceptibility to the Antifungal VL-2397.",
+      "first_author": "Dietl AM",
+      "year": "2019",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.00807-19",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37961417",
+      "title": "Molecular Forecasting of Domoic Acid during a Pervasive Toxic Diatom Bloom.",
+      "first_author": "Brunson JK",
+      "year": "2023",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2023.11.02.565333",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37612620",
+      "title": "Genome-wide analysis of circRNA regulation during spleen development of Chinese indigenous breed Meishan pigs.",
+      "first_author": "Wang Y",
+      "year": "2023",
+      "journal": "BMC Genomics",
+      "doi": "10.1186/s12864-023-09612-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33320938",
+      "title": "Drug-resistant Mycobacterium tuberculosis and its genotypes isolated from an outbreak in western Thailand.",
+      "first_author": "Rudeeaneksin J",
+      "year": "2021",
+      "journal": "Trans R Soc Trop Med Hyg",
+      "doi": "10.1093/trstmh/traa148",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11158346",
+      "title": "Siderophore uptake and use by the yeast Saccharomyces cerevisiae.",
+      "first_author": "Lesuisse E",
+      "year": "2001",
+      "journal": "Microbiology (Reading)",
+      "doi": "10.1099/00221287-147-2-289",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

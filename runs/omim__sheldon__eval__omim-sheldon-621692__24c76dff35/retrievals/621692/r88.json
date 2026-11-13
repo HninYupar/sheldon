@@ -1,0 +1,256 @@
+{
+  "id": "r88",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (functional OR electrophysiology OR patch clamp OR gating OR excitability) AND (DEE OR epilepsy OR encephalopathy) AND (R1352Q OR Phe1396Leu OR G311D OR E1537K OR T666M OR S218L OR D715N OR C-terminal)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "54 PubMed hits for 'CACNA1A[gene] AND (functional OR electrophysiology OR patch clamp OR gating OR excitability) AND (DEE OR epilepsy OR encephalopathy) AND (R1352Q OR Phe1396Leu OR G311D OR E1537K OR T666M OR S218L OR D715N OR C-terminal)'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms] OR (\"electrophysiology\"[MeSH Terms] OR \"electrophysiology\"[All Fields]) OR ((\"patch\"[All Fields] OR \"patch s\"[All Fields] OR \"patche\"[All Fields] OR \"patches\"[All Fields] OR \"patching\"[All Fields] OR \"patchs\"[All Fields]) AND (\"clamp\"[All Fields] OR \"clamped\"[All Fields] OR \"clamps\"[All Fields] OR \"constriction\"[MeSH Terms] OR \"constriction\"[All Fields] OR \"clamping\"[All Fields] OR \"clampings\"[All Fields])) OR (\"gate s\"[All Fields] OR \"gated\"[All Fields] OR \"gates\"[All Fields] OR \"gating\"[All Fields] OR \"gatings\"[All Fields]) OR (\"excit\"[All Fields] OR \"excitabilities\"[All Fields] OR \"excitability\"[All Fields] OR \"excitable\"[All Fields] OR \"excitated\"[All Fields] OR \"excitation\"[All Fields] OR \"excitations\"[All Fields] OR \"excite\"[All Fields] OR \"excited\"[All Fields] OR \"exciter\"[All Fields] OR \"exciters\"[All Fields] OR \"excites\"[All Fields] OR \"excition\"[All Fields] OR \"excitions\"[All Fields])) AND (\"DEE\"[All Fields] OR (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields]) OR (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields])) AND (\"R1352Q\"[All Fields] OR \"G311D\"[All Fields] OR \"T666M\"[All Fields] OR \"S218L\"[All Fields] OR \"C-terminal\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "11814735",
+      "title": "Wide clinical variability in a family with a CACNA1A T666m mutation: hemiplegic migraine, coma, and progressive ataxia.",
+      "first_author": "Wada T",
+      "year": "2002",
+      "journal": "Pediatr Neurol",
+      "doi": "10.1016/s0887-8994(01)00371-x",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27806289",
+      "title": "Vulnerability of Purkinje Cells Generated from Spinocerebellar Ataxia Type 6 Patient-Derived iPSCs.",
+      "first_author": "Ishida Y",
+      "year": "2016",
+      "journal": "Cell Rep",
+      "doi": "10.1016/j.celrep.2016.10.026",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18670797",
+      "title": "Downbeat positioning nystagmus is a common clinical feature despite variable phenotypes in an FHM1 family.",
+      "first_author": "Yabe I",
+      "year": "2008",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-008-0970-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17952365",
+      "title": "Recurrent ATP1A2 mutations in Portuguese families with familial hemiplegic migraine.",
+      "first_author": "Castro MJ",
+      "year": "2007",
+      "journal": "J Hum Genet",
+      "doi": "10.1007/s10038-007-0205-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12705332",
+      "title": "Absence of known familial hemiplegic migraine (FHM) mutations in the CACNA1A gene in patients with common migraine: implications for genetic testing.",
+      "first_author": "Wieser T",
+      "year": "2003",
+      "journal": "Clin Chem Lab Med",
+      "doi": "10.1515/CCLM.2003.042",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33856647",
+      "title": "Epilepsy and Migraine Shared Genetic and Molecular Mechanisms: Focus on Therapeutic Strategies.",
+      "first_author": "Gotra P",
+      "year": "2021",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-021-02386-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25954029",
+      "title": "DnaJ-1 and karyopherin \u03b13 suppress degeneration in a new Drosophila model of Spinocerebellar Ataxia Type 6.",
+      "first_author": "Tsou WL",
+      "year": "2015",
+      "journal": "Hum Mol Genet",
+      "doi": "10.1093/hmg/ddv174",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "11564488",
+      "title": "Human epilepsy associated with dysfunction of the brain P/Q-type calcium channel.",
+      "first_author": "Jouvenceau A",
+      "year": "2001",
+      "journal": "Lancet",
+      "doi": "10.1016/S0140-6736(01)05971-2",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20071244",
+      "title": "Sporadic hemiplegic migraine and epilepsy associated with CACNA1A gene mutation.",
+      "first_author": "Zangaladze A",
+      "year": "2010",
+      "journal": "Epilepsy Behav",
+      "doi": "10.1016/j.yebeh.2009.12.017",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24270521",
+      "title": "Rare clinical findings in a patient with sporadic hemiplegic migraine: FDG-PET provides diminished brain metabolism at 10-year follow-up.",
+      "first_author": "Topakian R",
+      "year": "2014",
+      "journal": "Cephalalgia",
+      "doi": "10.1177/0333102413513182",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "14530926",
+      "title": "Novel splice site CACNA1A mutation causing episodic ataxia type 2.",
+      "first_author": "Kaunisto MA",
+      "year": "2004",
+      "journal": "Neurogenetics",
+      "doi": "10.1007/s10048-003-0161-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "17142831",
+      "title": "The genetic spectrum of a population-based sample of familial hemiplegic migraine.",
+      "first_author": "Thomsen LL",
+      "year": "2007",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awl334",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19438926",
+      "title": "The FHM1 mutation S218L: a severe clinical phenotype? A case report and review of the literature.",
+      "first_author": "Debiais S",
+      "year": "2009",
+      "journal": "Cephalalgia",
+      "doi": "10.1111/j.1468-2982.2009.01884.x",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "23115190",
+      "title": "Cerebellar ataxia by enhanced Ca(V)2.1 currents is alleviated by Ca2+-dependent K+-channel activators in Cacna1a(S218L) mutant mice.",
+      "first_author": "Gao Z",
+      "year": "2012",
+      "journal": "J Neurosci",
+      "doi": "10.1523/JNEUROSCI.2454-12.2012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23165010",
+      "title": "Calcium channels and migraine.",
+      "first_author": "Pietrobon D",
+      "year": "2013",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbamem.2012.11.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "12056940",
+      "title": "Mutation analysis of the CACNA1A calcium channel subunit gene in 27 patients with sporadic hemiplegic migraine.",
+      "first_author": "Terwindt G",
+      "year": "2002",
+      "journal": "Arch Neurol",
+      "doi": "10.1001/archneur.59.6.1016",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "11409427",
+      "title": "Delayed cerebral edema and fatal coma after minor head trauma: role of the CACNA1A calcium channel subunit gene and relationship with familial hemiplegic migraine.",
+      "first_author": "Kors EE",
+      "year": "2001",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.1031",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39568055",
+      "title": "A structural analysis of the splice-specific functional impact of the pathogenic familial hemiplegic migraine type 1 S218L mutation on Ca(v)2.1 P/Q-type channel gating.",
+      "first_author": "Sack AS",
+      "year": "2024",
+      "journal": "Mol Brain",
+      "doi": "10.1186/s13041-024-01152-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30649209",
+      "title": "Brainstem spreading depolarization and cortical dynamics during fatal seizures in Cacna1a S218L mice.",
+      "first_author": "Loonen ICM",
+      "year": "2019",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awy325",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35474853",
+      "title": "Hyperexcitable superior colliculus and fatal brainstem spreading depolarization in a model of Sudden Unexpected Death in Epilepsy.",
+      "first_author": "Cain SM",
+      "year": "2022",
+      "journal": "Brain Commun",
+      "doi": "10.1093/braincomms/fcac006",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

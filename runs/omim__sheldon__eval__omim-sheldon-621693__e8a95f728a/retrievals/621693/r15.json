@@ -1,0 +1,260 @@
+{
+  "id": "r15",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND cohort OR panel OR exome OR sequencing OR letter",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "4275324 PubMed hits for 'PSMF1[gene] AND cohort OR panel OR exome OR sequencing OR letter'; showing 20 (PubMed read it as: (\"PSMF1\"[All Fields] AND (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields])) OR (\"panel\"[All Fields] OR \"panel s\"[All Fields] OR \"panels\"[All Fields]) OR (\"exome\"[MeSH Terms] OR \"exome\"[All Fields] OR \"exomes\"[All Fields] OR \"exomic\"[All Fields]) OR (\"base sequence\"[MeSH Terms] OR (\"base\"[All Fields] AND \"sequence\"[All Fields]) OR \"base sequence\"[All Fields] OR \"sequence\"[All Fields] OR \"sequences\"[All Fields] OR \"sequence analysis\"[MeSH Terms] OR (\"sequence\"[All Fields] AND \"analysis\"[All Fields]) OR \"sequence analysis\"[All Fields] OR \"sequencing\"[All Fields] OR \"sequence s\"[All Fields] OR \"sequenceable\"[All Fields] OR \"sequenced\"[All Fields] OR \"sequenceing\"[All Fields] OR \"sequencer\"[All Fields] OR \"sequencers\"[All Fields] OR \"sequencies\"[All Fields] OR \"sequencings\"[All Fields]) OR (\"letter\"[Publication Type] OR \"correspondence as topic\"[MeSH Terms] OR \"letter\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "28152038",
+      "title": "Exome sequencing covers >98% of mutations identified on targeted next generation sequencing panels.",
+      "first_author": "LaDuca H",
+      "year": "2017",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0170843",
+      "pubtype": [
+        "Journal Article",
+        "Validation Study"
+      ]
+    },
+    {
+      "pmid": "28041643",
+      "title": "Comprehensive Rare Variant Analysis via Whole-Genome Sequencing to Determine the Molecular Pathology of Inherited Retinal Disease.",
+      "first_author": "Carss KJ",
+      "year": "2017",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2016.12.003",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25087612",
+      "title": "Pathogenic variants for Mendelian and complex traits in exomes of 6,517 European and African Americans: implications for the return of incidental results.",
+      "first_author": "Tabor HK",
+      "year": "2014",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2014.07.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "33875846",
+      "title": "Combining exome/genome sequencing with data repository analysis reveals novel gene-disease associations for a wide range of genetic disorders.",
+      "first_author": "Bertoli-Avella AM",
+      "year": "2021",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-021-01159-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22286061",
+      "title": "Driver mutations in histone H3.3 and chromatin remodelling genes in paediatric glioblastoma.",
+      "first_author": "Schwartzentruber J",
+      "year": "2012",
+      "journal": "Nature",
+      "doi": "10.1038/nature10833",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26235985",
+      "title": "Mutations in DDX3X Are a Common Cause of Unexplained Intellectual Disability with Gender-Specific Effects on Wnt Signaling.",
+      "first_author": "Snijders Blok L",
+      "year": "2015",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2015.07.004",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26431160",
+      "title": "NTHL1 defines novel cancer syndrome.",
+      "first_author": "Kuiper RP",
+      "year": "2015",
+      "journal": "Oncotarget",
+      "doi": "10.18632/oncotarget.5864",
+      "pubtype": [
+        "Editorial"
+      ]
+    },
+    {
+      "pmid": "21946919",
+      "title": "Exome sequencing as a tool for Mendelian disease gene discovery.",
+      "first_author": "Bamshad MJ",
+      "year": "2011",
+      "journal": "Nat Rev Genet",
+      "doi": "10.1038/nrg3031",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36525251",
+      "title": "RNA Sequencing as a Diagnostic Tool.",
+      "first_author": "Ketkar S",
+      "year": "2023",
+      "journal": "JAMA",
+      "doi": "10.1001/jama.2022.22843",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "31494120",
+      "title": "Genetic intolerance analysis as a tool for protein science.",
+      "first_author": "Li GC",
+      "year": "2020",
+      "journal": "Biochim Biophys Acta Biomembr",
+      "doi": "10.1016/j.bbamem.2019.183058",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29648622",
+      "title": "Deep learning of genomic variation and regulatory network data.",
+      "first_author": "Telenti A",
+      "year": "2018",
+      "journal": "Hum Mol Genet",
+      "doi": "10.1093/hmg/ddy115",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25169955",
+      "title": "Exome sequence read depth methods for identifying copy number changes.",
+      "first_author": "Kadalayil L",
+      "year": "2015",
+      "journal": "Brief Bioinform",
+      "doi": "10.1093/bib/bbu027",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35970915",
+      "title": "Whole exome and genome sequencing in mendelian disorders: a diagnostic and health economic analysis.",
+      "first_author": "Ewans LJ",
+      "year": "2022",
+      "journal": "Eur J Hum Genet",
+      "doi": "10.1038/s41431-022-01162-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22468815",
+      "title": "Exome versus transcriptome sequencing in identifying coding region variants.",
+      "first_author": "Ku CS",
+      "year": "2012",
+      "journal": "Expert Rev Mol Diagn",
+      "doi": "10.1586/erm.12.10",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "22243791",
+      "title": "Molecular genetic studies of complex phenotypes.",
+      "first_author": "Marian AJ",
+      "year": "2012",
+      "journal": "Transl Res",
+      "doi": "10.1016/j.trsl.2011.08.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37138343",
+      "title": "Twist exome capture allows for lower average sequence coverage in clinical exome sequencing.",
+      "first_author": "Yaldiz B",
+      "year": "2023",
+      "journal": "Hum Genomics",
+      "doi": "10.1186/s40246-023-00485-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27209085",
+      "title": "Definition of mutations in polyautoimmunity.",
+      "first_author": "Johar A",
+      "year": "2016",
+      "journal": "J Autoimmun",
+      "doi": "10.1016/j.jaut.2016.05.003",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23896220",
+      "title": "Next generation diagnostics of heritable connective tissue disorders.",
+      "first_author": "Salam A",
+      "year": "2014",
+      "journal": "Matrix Biol",
+      "doi": "10.1016/j.matbio.2013.06.004",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33059815",
+      "title": "[Application of RNA sequencing in clinical diagnosis of Mendelian disease].",
+      "first_author": "Xiao H",
+      "year": "2020",
+      "journal": "Zhongguo Dang Dai Er Ke Za Zhi",
+      "doi": "10.7499/j.issn.1008-8830.2005004",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "27324307",
+      "title": "The canine era: the rise of a biomedical model.",
+      "first_author": "van Steenbeek FG",
+      "year": "2016",
+      "journal": "Anim Genet",
+      "doi": "10.1111/age.12460",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

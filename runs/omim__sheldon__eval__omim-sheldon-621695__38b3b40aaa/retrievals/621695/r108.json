@@ -1,0 +1,251 @@
+{
+  "id": "r108",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "32416884",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "256 'similar' links for PMID 32416884; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "20003781",
+      "title": "[Cesarean scar pregnancy analysis of 42 cases].",
+      "first_author": "Yin L",
+      "year": "2009",
+      "journal": "Zhonghua Fu Chan Ke Za Zhi",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26581398",
+      "title": "Uterine artery embolization combined with curettage vs. methotrexate plus curettage for cesarean scar pregnancy.",
+      "first_author": "Liu W",
+      "year": "2016",
+      "journal": "Arch Gynecol Obstet",
+      "doi": "10.1007/s00404-015-3952-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23177105",
+      "title": "Uterine artery embolization combined with methotrexate in the treatment of cesarean scar pregnancy: results of a case series and review of the literature.",
+      "first_author": "Zhang B",
+      "year": "2012",
+      "journal": "J Vasc Interv Radiol",
+      "doi": "10.1016/j.jvir.2012.08.013",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32609376",
+      "title": "Interventions for non-tubal ectopic pregnancy.",
+      "first_author": "Long Y",
+      "year": "2020",
+      "journal": "Cochrane Database Syst Rev",
+      "doi": "10.1002/14651858.CD011174.pub2",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "27553186",
+      "title": "Uterine Artery Embolization Versus Methotrexate for Cesarean Scar Pregnancy in a Chinese Population: A Meta-analysis.",
+      "first_author": "Qiao B",
+      "year": "2016",
+      "journal": "J Minim Invasive Gynecol",
+      "doi": "10.1016/j.jmig.2016.08.819",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "25248928",
+      "title": "Combined laparoscopy and hysteroscopy vs. uterine curettage in the uterine artery embolization-based management of cesarean scar pregnancy: a retrospective cohort study.",
+      "first_author": "He Y",
+      "year": "2014",
+      "journal": "BMC Womens Health",
+      "doi": "10.1186/1472-6874-14-116",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26522097",
+      "title": "Management of type II unruptured cesarean scar pregnancy: Comparison of gestational mass excision and uterine artery embolization combined with methotrexate.",
+      "first_author": "Sun YY",
+      "year": "2015",
+      "journal": "Taiwan J Obstet Gynecol",
+      "doi": "10.1016/j.tjog.2015.08.002",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31005344",
+      "title": "Uterine Artery Embolization and Methotrexate Infusion as Sole Management for Caesarean Scar and Cervical Ectopic Pregnancies: A Single-Center Experience and Literature Review.",
+      "first_author": "Elmokadem AH",
+      "year": "2019",
+      "journal": "Can Assoc Radiol J",
+      "doi": "10.1016/j.carj.2018.12.002",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29497822",
+      "title": "A retrospective comparative study evaluating the efficacy of adding intra-arterial methotrexate infusion to uterine artery embolisation followed by curettage for cesarean scar pregnancy.",
+      "first_author": "Gao L",
+      "year": "2018",
+      "journal": "Arch Gynecol Obstet",
+      "doi": "10.1007/s00404-018-4686-8",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26384053",
+      "title": "Uterine artery embolization with and without local methotrexate infusion for the treatment of cesarean scar pregnancy.",
+      "first_author": "Qi F",
+      "year": "2015",
+      "journal": "Taiwan J Obstet Gynecol",
+      "doi": "10.1016/j.tjog.2015.01.003",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22153905",
+      "title": "Caesarean scar pregnancy: comparative efficacy and safety of treatment by uterine artery chemoembolization and systemic methotrexate injection.",
+      "first_author": "Wu X",
+      "year": "2012",
+      "journal": "Eur J Obstet Gynecol Reprod Biol",
+      "doi": "10.1016/j.ejogrb.2011.11.026",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28797151",
+      "title": "[Comparison of the safety of two treatment methods of cesarean scar pregnancy of type\u2161 and \u2162 in menopause within 7 weeks].",
+      "first_author": "Wei XY",
+      "year": "2017",
+      "journal": "Zhonghua Fu Chan Ke Za Zhi",
+      "doi": "10.3760/cma.j.issn.0529-567X.2017.07.004",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28395415",
+      "title": "[Clinical features and outcome of cesarean scar pregnancy].",
+      "first_author": "Wang YJ",
+      "year": "2017",
+      "journal": "Zhonghua Yi Xue Za Zhi",
+      "doi": "10.3760/cma.j.issn.0376-2491.2017.13.005",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26386965",
+      "title": "Therapeutic effects of uterine artery embolisation (UAE) and methotrexate (MTX) conservative therapy used in treatment of cesarean scar pregnancy.",
+      "first_author": "Yang H",
+      "year": "2016",
+      "journal": "Arch Gynecol Obstet",
+      "doi": "10.1007/s00404-015-3881-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38541213",
+      "title": "Dilatation and Curettage after Uterine Artery Embolization versus Methotrexate Injection for the Treatment of Cesarean Scar Pregnancy: A Single-Center Experience.",
+      "first_author": "Pecorino B",
+      "year": "2024",
+      "journal": "Medicina (Kaunas)",
+      "doi": "10.3390/medicina60030487",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27126907",
+      "title": "Incorporating uterine artery embolization in the treatment of cesarean scar pregnancy following diagnostic ultrasonography.",
+      "first_author": "Li Y",
+      "year": "2016",
+      "journal": "Int J Gynaecol Obstet",
+      "doi": "10.1016/j.ijgo.2015.12.006",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33966727",
+      "title": "hCG values and gestational sac size as indicators of successful systemic methotrexate treatment in cesarean scar pregnancy.",
+      "first_author": "Mitsui T",
+      "year": "2021",
+      "journal": "Taiwan J Obstet Gynecol",
+      "doi": "10.1016/j.tjog.2021.03.011",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "21271248",
+      "title": "Uterine artery embolization combined with local methotrexate and systemic methotrexate for treatment of cesarean scar pregnancy with different ultrasonographic pattern.",
+      "first_author": "Lian F",
+      "year": "2012",
+      "journal": "Cardiovasc Intervent Radiol",
+      "doi": "10.1007/s00270-011-0097-y",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30303911",
+      "title": "Cesarean Scar Pregnancy, Incidence, and Recurrence: Five-Year Experience at a Single Tertiary Care Referral Center.",
+      "first_author": "Grechukhina O",
+      "year": "2018",
+      "journal": "Obstet Gynecol",
+      "doi": "10.1097/AOG.0000000000002940",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22169517",
+      "title": "[Management of cesarean scar pregnancy by hysteroscopy combined with uterine artery embolism].",
+      "first_author": "Chen ZY",
+      "year": "2011",
+      "journal": "Zhonghua Fu Chan Ke Za Zhi",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

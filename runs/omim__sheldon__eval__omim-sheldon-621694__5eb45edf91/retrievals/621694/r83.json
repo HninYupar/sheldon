@@ -1,0 +1,253 @@
+{
+  "id": "r83",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (fibroblast OR mitochondria OR mouse OR mice OR Drosophila OR proteasome)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "41 PubMed hits for 'PSMF1[gene] AND (fibroblast OR mitochondria OR mouse OR mice OR Drosophila OR proteasome)'; showing 20 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields] OR (\"mitochondria\"[MeSH Terms] OR \"mitochondria\"[All Fields] OR \"mitochondria s\"[All Fields] OR \"mitochondriae\"[All Fields] OR \"mitochondrias\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields]) OR (\"drosophila\"[MeSH Terms] OR \"drosophila\"[All Fields] OR \"drosophilas\"[All Fields] OR \"drosophila s\"[All Fields]) OR (\"proteasomal\"[All Fields] OR \"proteasomally\"[All Fields] OR \"proteasome endopeptidase complex\"[Supplementary Concept] OR \"proteasome endopeptidase complex\"[All Fields] OR \"proteasome\"[All Fields] OR \"proteasome endopeptidase complex\"[MeSH Terms] OR (\"proteasome\"[All Fields] AND \"endopeptidase\"[All Fields] AND \"complex\"[All Fields]) OR \"proteasomes\"[All Fields] OR \"proteasome s\"[All Fields] OR \"proteasomic\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31327739",
+      "title": "PI31 Is an Adaptor Protein for Proteasome Transport in Axons and Required for Synaptic Development.",
+      "first_author": "Liu K",
+      "year": "2019",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2019.06.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "25785312",
+      "title": "Proteomics analysis of EV71-infected cells reveals the involvement of host protein NEDD4L in EV71 replication.",
+      "first_author": "Kuo RL",
+      "year": "2015",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/pr501199h",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31114588",
+      "title": "NOD2 and TLR2 Signal via TBK1 and PI31 to Direct Cross-Presentation and CD8 T Cell Responses.",
+      "first_author": "Corridoni D",
+      "year": "2019",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2019.00958",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26678661",
+      "title": "MicroRNA-203 Modulates the Radiation Sensitivity of Human Malignant Glioma Cells.",
+      "first_author": "Chang JH",
+      "year": "2016",
+      "journal": "Int J Radiat Oncol Biol Phys",
+      "doi": "10.1016/j.ijrobp.2015.10.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "10764772",
+      "title": "cDNA cloning, expression, and functional characterization of PI31, a proline-rich inhibitor of the proteasome.",
+      "first_author": "McCutchen-Maloney SL",
+      "year": "2000",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M001697200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "33651148",
+      "title": "Potentially functional variants of ERAP1, PSMF1 and NCF2 in the MHC-I-related pathway predict non-small cell lung cancer survival.",
+      "first_author": "Yang S",
+      "year": "2021",
+      "journal": "Cancer Immunol Immunother",
+      "doi": "10.1007/s00262-021-02877-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "18495667",
+      "title": "Structure of a conserved dimerization domain within the F-box protein Fbxo7 and the PI31 proteasome inhibitor.",
+      "first_author": "Kirk R",
+      "year": "2008",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M709900200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "first_author": "Li X",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "first_author": "Clemen CS",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "15952303",
+      "title": "[Genetic analysis and individualized therapy for diffuse glioma].",
+      "first_author": "Watanabe T",
+      "year": "2005",
+      "journal": "No Shinkei Geka",
+      "doi": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "24107298",
+      "title": "Beyond ubiquitination: the atypical functions of Fbxo7 and other F-box proteins.",
+      "first_author": "Nelson DE",
+      "year": "2013",
+      "journal": "Open Biol",
+      "doi": "10.1098/rsob.130131",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "15571818",
+      "title": "The proteasome and MHC class I antigen processing.",
+      "first_author": "Kloetzel PM",
+      "year": "2004",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbamcr.2004.10.004",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "17302559",
+      "title": "Exploring the specificity of the PI3K family inhibitor LY294002.",
+      "first_author": "Gharbi SI",
+      "year": "2007",
+      "journal": "Biochem J",
+      "doi": "10.1042/BJ20061489",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21940337",
+      "title": "Impaired activation of phosphatidylinositol 3-kinase by leptin is a novel mechanism of hepatic leptin resistance in NAFLD.",
+      "first_author": "Xu D",
+      "year": "2011",
+      "journal": "Hepatogastroenterology",
+      "doi": "10.5754/hge11005",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39427606",
+      "title": "Exploring a novel four-gene system as a diagnostic and prognostic biomarker for triple-negative breast cancer, using clinical variables.",
+      "first_author": "Ali F",
+      "year": "2024",
+      "journal": "Comput Biol Chem",
+      "doi": "10.1016/j.compbiolchem.2024.108247",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

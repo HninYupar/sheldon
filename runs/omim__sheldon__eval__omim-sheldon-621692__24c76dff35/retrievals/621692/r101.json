@@ -1,0 +1,61 @@
+{
+  "id": "r101",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "36938367",
+      "33565063"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36938367",
+      "title": "A neurodevelopmental disorder caused by a dysfunctional CACNA1A allele.",
+      "authors": [
+        "Kramer AA",
+        "Bennett DF",
+        "Bara\u00f1ano KW",
+        "Bannister RA"
+      ],
+      "year": "2023",
+      "journal": "eNeurologicalSci",
+      "doi": "10.1016/j.ensci.2023.100456",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "P/Q-type Ca2+ flux into nerve terminals via CaV2.1 channels is essential for neurotransmitter release at neuromuscular junctions and nearly all central synapses. Mutations in CACNA1A, the gene encoding CaV2.1, cause a spectrum of pediatric neurological disorders. We have identified a patient harboring an autosomal-dominant de novo frameshift-causing nucleotide duplication in CACNA1A (c.5018dupG). The duplicated guanine precipitated 43 residues of altered amino acid sequence beginning with a glutamine to serine substitution in CaV2.1 at position 1674 ending with a premature stop codon (CaV2.1 p.Gln1674Serfs*43). The patient presented with episodic downbeat vertical nystagmus, hypotonia, ataxia, developmental delay and febrile seizures. In patch-clamp experiments, no Ba2+ current was observed in tsA-201 cells expressing CaV2.1 p.Gln1674Serfs*43 with \u03b24 and \u03b12\u03b4-1 auxiliary subunits. The ablation of divalent flux in response to depolarization was likely attributable to the inability of CaV2.1 p.Gln1674Serfs*43 to form a complete channel pore. Our results suggest that the pathology resulting from this frameshift-inducing nucleotide duplication is a consequence of an effective haploinsufficiency."
+    },
+    {
+      "pmid": "33565063",
+      "title": "[Clinical manifestation and genetic analysis of a child with early infantile epileptic encephalopathy 42].",
+      "authors": [
+        "Ran Y",
+        "Lyu Y",
+        "Bai H",
+        "Li C",
+        "Li-Ling J"
+      ],
+      "year": "2021",
+      "journal": "Zhonghua yi xue yi chuan xue za zhi = Zhonghua yixue yichuanxue zazhi = Chinese journal of medical genetics",
+      "doi": "10.3760/cma.j.cn511374-20201022-00743",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Calcium Channels",
+        "Genetic Testing",
+        "Heterozygote",
+        "Humans",
+        "Infant",
+        "Mutation",
+        "Spasms, Infantile",
+        "Exome Sequencing",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "OBJECTIVE: To analyze the clinical phenotype and genetic characterization of a child with early infantile epileptic encephalopathy.\nMETHODS: The proband was subjected to history taking and was diagnosed based on his clinical manifestation, magnetic resonance imaging (MRI) and whole exome sequencing (WES). Sanger sequencing was carried out to determine the origin of pathogenic variant.\nRESULTS: The proband unconsciously tilts his head to one side with squint, which revealed an abnormal discharge. MRI indicated suspicious abnormal signal shadow in the left posterior frontal cortex in addition with inflammation signs in the right maxillary sinus and ethmoid sinus. WES revealed that the proband has carried a heterozygous c.5789G>A variant in the CACNAIA gene. The result of Sanger sequencing was in keeping with that of WES. Neither of his parents has carried the same variant.\nCONCLUSION: The heterozygous c.5789G>A variant of the CACNAIA gene probably underlay the early infantile epileptic encephalopathy 42 in the proband, which has a de novo origin."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "r105",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1[gene] AND lupus[tiab]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'SAT1[gene] AND lupus[tiab]'; showing 2 (PubMed read it as: \"SAT1\"[All Fields] AND \"lupus\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37438615",
+      "title": "Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants.",
+      "first_author": "Vinuesa CG",
+      "year": "2023",
+      "journal": "Nat Rev Nephrol",
+      "doi": "10.1038/s41581-023-00732-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

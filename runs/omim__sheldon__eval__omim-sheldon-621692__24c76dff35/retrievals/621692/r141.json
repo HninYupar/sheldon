@@ -1,0 +1,74 @@
+{
+  "id": "r141",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (R1349Q OR \"p.Arg1349Gln\" OR \"Arg1349Gln\")",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "5 PubMed hits for 'CACNA1A[gene] AND (R1349Q OR \"p.Arg1349Gln\" OR \"Arg1349Gln\")'; showing 5 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"R1349Q\"[All Fields] OR \"Arg1349Gln\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38946946",
+      "title": "A Longitudinal Exploration of CACNA1A -related Hemiplegic Migraine in Children.",
+      "first_author": "Schaare D",
+      "year": "2024",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.14.24308953",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "39763636",
+      "title": "A Longitudinal Exploration of CACNA1A-Related Hemiplegic Migraine in Children Using Electronic Medical Records.",
+      "first_author": "Schaare D",
+      "year": "2025",
+      "journal": "Neurol Genet",
+      "doi": "10.1212/NXG.0000000000200228",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "23831250",
+      "title": "Possible effect of corticoids on hemiplegic attacks in severe hemiplegic migraine.",
+      "first_author": "S\u00e1nchez-Albisua I",
+      "year": "2013",
+      "journal": "Pediatr Neurol",
+      "doi": "10.1016/j.pediatrneurol.2013.04.011",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33854663",
+      "title": "Longitudinal MRI brain findings in the R1349Q pathogenic variant of CACNA1A.",
+      "first_author": "Ho CY",
+      "year": "2021",
+      "journal": "Radiol Case Rep",
+      "doi": "10.1016/j.radcr.2021.02.052",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21183743",
+      "title": "Recurrent stroke due to a novel voltage sensor mutation in Cav2.1 responds to verapamil.",
+      "first_author": "Knierim E",
+      "year": "2011",
+      "journal": "Stroke",
+      "doi": "10.1161/STROKEAHA.110.600023",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

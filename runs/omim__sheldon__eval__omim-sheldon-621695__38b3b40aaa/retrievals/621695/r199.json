@@ -1,0 +1,41 @@
+{
+  "id": "r199",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "4837288"
+    ]
+  },
+  "summary": "fetched 1 of 1 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "4837288",
+      "title": "Arthrogryposis multiplex congenita: neurogenic type with autosomal recessive inheritance.",
+      "authors": [
+        "Rosenmann A",
+        "Arad I"
+      ],
+      "year": "1974",
+      "journal": "Journal of medical genetics",
+      "doi": "10.1136/jmg.11.1.91",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Arthrogryposis",
+        "Biopsy",
+        "Consanguinity",
+        "Female",
+        "Funnel Chest",
+        "Genes, Recessive",
+        "Humans",
+        "Infant, Newborn",
+        "Muscles",
+        "Muscular Atrophy",
+        "Pedigree"
+      ],
+      "abstract": "An infant affected by severe arthrogryposis multiplex congenita leading to death in infancy due to neurogenic atrophy is described. Six other sibs were similarly affected. An autosomal recessive mode of inheritance is suggested."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "r33",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[tiab] AND (\"MAGIS\"[tiab] OR \"Midline malformations of the brain\"[tiab] OR \"Anterior pituitary\"[tiab])",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for 'GNAI2[tiab] AND (\"MAGIS\"[tiab] OR \"Midline malformations of the brain\"[tiab] OR \"Anterior pituitary\"[tiab])'; showing 3 (PubMed read it as: \"GNAI2\"[Title/Abstract] AND (\"MAGIS\"[Title/Abstract] OR \"Anterior pituitary\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25291362",
+      "title": "Mutation analysis of inhibitory guanine nucleotide binding protein alpha (GNAI) loci in young and familial pituitary adenomas.",
+      "first_author": "Demir H",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0109897",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

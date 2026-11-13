@@ -1,0 +1,47 @@
+{
+  "id": "r112",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"MAGIS syndrome\"[tiab] OR \"GNAI2 activating variants\"[tiab] OR \"GNAI2 activating variant\"[tiab]",
+    "max_results": 20,
+    "sort": "pub_date"
+  },
+  "summary": "3 PubMed hits for '\"MAGIS syndrome\"[tiab] OR \"GNAI2 activating variants\"[tiab] OR \"GNAI2 activating variant\"[tiab]'; showing 3 (PubMed read it as: \"MAGIS syndrome\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "5986781",
+      "title": "[Dubois-Poulsen and Magis syndrome].",
+      "first_author": "Nano H",
+      "year": "1966",
+      "journal": "Arch Oftalmol B Aires",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "r5",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] OR \"proteasome regulator\"[tiab] OR \"proteasome inhibitor subunit 1\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "112 PubMed hits for 'PSMF1[gene] OR \"proteasome regulator\"[tiab] OR \"proteasome inhibitor subunit 1\"[tiab]'; showing 20 (PubMed read it as: \"PSMF1\"[All Fields] OR \"proteasome regulator\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37217651",
+      "title": "The proteasome regulator PSME4 modulates proteasome activity and antigen diversity to abrogate antitumor immunity in NSCLC.",
+      "first_author": "Javitt A",
+      "year": "2023",
+      "journal": "Nat Cancer",
+      "doi": "10.1038/s43018-023-00557-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27246455",
+      "title": "26S Proteasome: Hunter and Prey in Auxin Signaling.",
+      "first_author": "Kong X",
+      "year": "2016",
+      "journal": "Trends Plant Sci",
+      "doi": "10.1016/j.tplants.2016.05.007",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36009043",
+      "title": "The Proteasome Activator PA200/PSME4: An Emerging New Player in Health and Disease.",
+      "first_author": "Yazgili AS",
+      "year": "2022",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom12081150",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "first_author": "Clemen CS",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23622245",
+      "title": "Proteasome regulation by ADP-ribosylation.",
+      "first_author": "Cho-Park PF",
+      "year": "2013",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2013.03.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "first_author": "Rodriguez JA",
+      "year": "2025",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39103492",
+      "title": "PQBP3 prevents senescence by suppressing PSME3-mediated proteasomal Lamin B1 degradation.",
+      "first_author": "Yoshioka Y",
+      "year": "2024",
+      "journal": "EMBO J",
+      "doi": "10.1038/s44318-024-00192-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28867616",
+      "title": "The Mammalian Proteasome Activator PA28 Forms an Asymmetric \u03b1(4)\u03b2(3) Complex.",
+      "first_author": "Huber EM",
+      "year": "2017",
+      "journal": "Structure",
+      "doi": "10.1016/j.str.2017.07.013",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25785312",
+      "title": "Proteomics analysis of EV71-infected cells reveals the involvement of host protein NEDD4L in EV71 replication.",
+      "first_author": "Kuo RL",
+      "year": "2015",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/pr501199h",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39351099",
+      "title": "Oleuropein enhances proteasomal activity and reduces mutant huntingtin-induced cytotoxicity.",
+      "first_author": "Huang ZN",
+      "year": "2024",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2024.1459909",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24970232",
+      "title": "Modelling proteasome and proteasome regulator activities.",
+      "first_author": "Liepe J",
+      "year": "2014",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom4020585",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39519262",
+      "title": "Functional 20S Proteasomes in Retroviruses: Evidence in Favor.",
+      "first_author": "Morozov V",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms252111710",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40337847",
+      "title": "PI31 is a positive regulator of 20S immunoproteasome assembly.",
+      "first_author": "Wang J",
+      "year": "2025",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.263887",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33009551",
+      "title": "Genome-Wide Association Analysis of Neonatal White Matter Microstructure.",
+      "first_author": "Zhang J",
+      "year": "2021",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhaa266",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39091029",
+      "title": "Selective recognition of PTRE1 transcripts mediated by protein-protein interaction between the m(6)A reader ECT2 and PTRE1.",
+      "first_author": "Yang L",
+      "year": "2024",
+      "journal": "Plant Commun",
+      "doi": "10.1016/j.xplc.2024.101043",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

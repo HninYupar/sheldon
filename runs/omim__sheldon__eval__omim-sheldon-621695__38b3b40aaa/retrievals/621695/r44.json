@@ -1,0 +1,250 @@
+{
+  "id": "r44",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"arthrogryposis multiplex congenita\"[tiab] OR \"neurogenic arthrogryposis\"[tiab]) AND (\"Nature Communications\"[jour] OR 2026[dp])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "57 PubMed hits for '(\"arthrogryposis multiplex congenita\"[tiab] OR \"neurogenic arthrogryposis\"[tiab]) AND (\"Nature Communications\"[jour] OR 2026[dp])'; showing 20 (PubMed read it as: (\"arthrogryposis multiplex congenita\"[Title/Abstract] OR \"neurogenic arthrogryposis\"[Title/Abstract]) AND (\"Nature Communications\"[Journal] OR 2026/01/01:2026/12/31[Date - Publication]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41729706",
+      "title": "Genetic Bases of Arthrogryposis Multiplex Congenita.",
+      "first_author": "Melki J",
+      "year": "2026",
+      "journal": "Annu Rev Genomics Hum Genet",
+      "doi": "10.1146/annurev-genom-120324-031410",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42353834",
+      "title": "Arthrogryposis Multiplex Congenita: Comprehensive Review from a Neuromuscular Standpoint.",
+      "first_author": "Seneor DD",
+      "year": "2026",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes17060675",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42590986",
+      "title": "Lethal Congenital Contracture Syndrome Type 3 in an Isolated Canadian Population.",
+      "first_author": "MacPherson MJ",
+      "year": "2026",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.70267",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42316484",
+      "title": "Apical Ectodermal Ridge Disruption and Hypoplastic Digits in Amyoplasia.",
+      "first_author": "Stutman A",
+      "year": "2026",
+      "journal": "Am J Med Genet C Semin Med Genet",
+      "doi": "10.1002/ajmg.c.70016",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41494870",
+      "title": "Arthrogryposis as a neuromuscular phenotype: lessons from PIEZO2 loss-of-function.",
+      "first_author": "Seneor DD",
+      "year": "2026",
+      "journal": "Pract Neurol",
+      "doi": "10.1136/pn-2025-004946",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41313396",
+      "title": "Pierre Robin Sequence Associated with Arthrogryposis Multiplex Congenita.",
+      "first_author": "Gaur BK",
+      "year": "2026",
+      "journal": "Indian J Pediatr",
+      "doi": "10.1007/s12098-025-05863-6",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "42458772",
+      "title": "Two Novel ACTC1 Variants Cause Arthrogryposis Multiplex Congenita.",
+      "first_author": "Kerr L",
+      "year": "2026",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.70218",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42313045",
+      "title": "Upper Limb Reconstruction in Arthrogryposis Multiplex Congenita: A Systematic Review.",
+      "first_author": "Jose Jerome JT",
+      "year": "2026",
+      "journal": "J Hand Surg Am",
+      "doi": "10.1016/j.jhsa.2026.05.010",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42781784",
+      "title": "Variants in TREX complex subunits (THOC2, ALYREF, THOC6, THOC7) define a neurodevelopmental disability spectrum.",
+      "first_author": "Kumar R",
+      "year": "2026",
+      "journal": "Genet Med",
+      "doi": "10.1016/j.gim.2026.102734",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41610203",
+      "title": "Tibialis Anterior Tendon Transfer in an Arthrogrypotic Clubfoot: A Case Report.",
+      "first_author": "Hyer LC",
+      "year": "2026",
+      "journal": "JBJS Case Connect",
+      "doi": "10.2106/JBJS.CC.25.00642",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42476582",
+      "title": "Disagreement About Withholding Treatment on the Basis of Disability.",
+      "first_author": "Shearer E",
+      "year": "2026",
+      "journal": "Pediatrics",
+      "doi": "10.1542/peds.2025-071427",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "41834695",
+      "title": "Milestone Attainment in Young Children With Arthrogryposis Multiplex Congenita: Developmental Profile\u00a0and Associated Factors.",
+      "first_author": "Zidan A",
+      "year": "2026",
+      "journal": "Am J Med Genet C Semin Med Genet",
+      "doi": "10.1002/ajmg.c.70006",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42140882",
+      "title": "A Novel Splice Variant in ERGIC1 Causes Arthrogryposis Multiplex Congenita-Characterization Using Urine-Derived Cells.",
+      "first_author": "Kerr L",
+      "year": "2026",
+      "journal": "Am J Med Genet C Semin Med Genet",
+      "doi": "10.1002/ajmg.c.70012",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41186962",
+      "title": "CRISPR Activation Reveals the Spliceogenicity of an Intronic NEB Variant in Fetuses With Arthrogryposis Multiplex Congenita 6.",
+      "first_author": "Misceo D",
+      "year": "2026",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.70097",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42497374",
+      "title": "Child Neurology: Arthrogryposis and Antenatal-Onset Hyperkinetic Movements in a Newborn.",
+      "first_author": "Y\u0131ld\u0131z Y",
+      "year": "2026",
+      "journal": "Neurology",
+      "doi": "10.1212/WNL.0000000000218361",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42830557",
+      "title": "Management of Upper Limb Deformities in Arthrogryposis Multiplex Congenita: A Narrative Review.",
+      "first_author": "Shang Y",
+      "year": "2026",
+      "journal": "Med Sci Monit",
+      "doi": "10.12659/MSM.954073",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42843910",
+      "title": "Complex presentation of neonatal arthrogryposis multiplex congenita: insights into a multifactorial disorder.",
+      "first_author": "Botsa S",
+      "year": "2026",
+      "journal": "BMJ Case Rep",
+      "doi": "10.1136/bcr-2025-266256",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42548697",
+      "title": "Characteristics of intellectual development in children diagnosed with arthrogryposis multiplex congenita.",
+      "first_author": "Koriakina M",
+      "year": "2026",
+      "journal": "Front Psychol",
+      "doi": "10.3389/fpsyg.2026.1704823",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42801110",
+      "title": "Breaking the Taboo: Four Cases of Thoracic Segmental Spinal Anesthesia in Modern Surgical Practice.",
+      "first_author": "Scimia P",
+      "year": "2026",
+      "journal": "Cureus",
+      "doi": "10.7759/cureus.115280",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41936055",
+      "title": "Prenatal Diagnosis of Arthrogryposis Multiplex Congenita (AMC): Ultrasound and Genetic Findings in 69 Fetuses From 67 Unrelated Families.",
+      "first_author": "Yao T",
+      "year": "2026",
+      "journal": "Prenat Diagn",
+      "doi": "10.1002/pd.70122",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

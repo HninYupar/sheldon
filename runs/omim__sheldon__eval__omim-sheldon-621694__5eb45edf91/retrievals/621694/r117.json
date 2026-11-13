@@ -1,0 +1,60 @@
+{
+  "id": "r117",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND (\"case report\"[pt] OR \"letter\"[pt] OR cohort[tiab] OR pedigree[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "4 PubMed hits for 'PSMF1[tiab] AND (\"case report\"[pt] OR \"letter\"[pt] OR cohort[tiab] OR pedigree[tiab])'; showing 4 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"letter\"[Publication Type] OR \"cohort\"[Title/Abstract] OR \"pedigree\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "42945227",
+      "title": "Transcriptomic Profiling of PBMCs via Bulk RNA-Sequencing in Posner-Schlossman Syndrome Reveals Immune Dysregulation and Altered Viral Response.",
+      "first_author": "Peng SM",
+      "year": "2026",
+      "journal": "Ocul Immunol Inflamm",
+      "doi": "10.1080/09273948.2026.2746986",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

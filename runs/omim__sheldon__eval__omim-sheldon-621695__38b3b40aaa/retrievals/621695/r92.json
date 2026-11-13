@@ -1,0 +1,261 @@
+{
+  "id": "r92",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "41986367",
+    "relation": "references",
+    "max_results": 20
+  },
+  "summary": "104 'references' links for PMID 41986367; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41296548",
+      "title": "Ensembl 2026.",
+      "first_author": "Yates AD",
+      "year": "2026",
+      "journal": "Nucleic Acids Res",
+      "doi": "10.1093/nar/gkaf1239",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "first_author": "Rodriguez JA",
+      "year": "2025",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40812158",
+      "title": "\u03b1-synuclein fibrils per se but not \u03b1-synuclein seeded aggregation causes mitochondrial dysfunction and cell death in human neurons.",
+      "first_author": "Angelova PR",
+      "year": "2025",
+      "journal": "Redox Biol",
+      "doi": "10.1016/j.redox.2025.103817",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38718835",
+      "title": "Accurate structure prediction of biomolecular interactions with AlphaFold 3.",
+      "first_author": "Abramson J",
+      "year": "2024",
+      "journal": "Nature",
+      "doi": "10.1038/s41586-024-07487-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38466799",
+      "title": "Study of an FBXO7 patient mutation reveals Fbxo7 and PI31 co-regulate proteasomes and mitochondria.",
+      "first_author": "Al Rawi S",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17114",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38282031",
+      "title": "Genetics in Parkinson's disease, state-of-the-art and future perspectives.",
+      "first_author": "Trevisan L",
+      "year": "2024",
+      "journal": "Br Med Bull",
+      "doi": "10.1093/bmb/ldad035",
+      "pubtype": [
+        "Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38245249",
+      "title": "The pathogenesis of Parkinson's disease.",
+      "first_author": "Morris HR",
+      "year": "2024",
+      "journal": "Lancet",
+      "doi": "10.1016/S0140-6736(23)01478-2",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38006880",
+      "title": "Improved detection of aberrant splicing with FRASER 2.0 and the intron Jaccard index.",
+      "first_author": "Scheller IF",
+      "year": "2023",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2023.10.014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37774136",
+      "title": "UCSF ChimeraX: Tools for structure building and analysis.",
+      "first_author": "Meng EC",
+      "year": "2023",
+      "journal": "Protein Sci",
+      "doi": "10.1002/pro.4792",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37535686",
+      "title": "FBXO7/ntc and USP30 antagonistically set the ubiquitination threshold for basal mitophagy and provide a target for Pink1 phosphorylation in vivo.",
+      "first_author": "Sanchez-Martinez A",
+      "year": "2023",
+      "journal": "PLoS Biol",
+      "doi": "10.1371/journal.pbio.3002244",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37523899",
+      "title": "Clinical and molecular characterization of novel FARS2 variants causing neonatal mitochondrial disease.",
+      "first_author": "Chen W",
+      "year": "2023",
+      "journal": "Mol Genet Metab",
+      "doi": "10.1016/j.ymgme.2023.107657",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37393318",
+      "title": "Perspective on the current state of the LRRK2 field.",
+      "first_author": "Taymans JM",
+      "year": "2023",
+      "journal": "NPJ Parkinsons Dis",
+      "doi": "10.1038/s41531-023-00544-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37348876",
+      "title": "Large-scale rare variant burden testing in Parkinson's disease.",
+      "first_author": "Makarious MB",
+      "year": "2023",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad214",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37334901",
+      "title": "PARK15/FBXO7 is dispensable for PINK1/Parkin mitophagy in iNeurons and HeLa cell systems.",
+      "first_author": "Kraus F",
+      "year": "2023",
+      "journal": "EMBO Rep",
+      "doi": "10.15252/embr.202256399",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37236357",
+      "title": "\u0397igh-resolution structure of mammalian PI31-20S proteasome complex reveals mechanism of proteasome inhibition.",
+      "first_author": "Hsu HC",
+      "year": "2023",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2023.104862",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37155866",
+      "title": "Golgi-IP, a tool for multimodal analysis of Golgi molecular content.",
+      "first_author": "Fasimoye R",
+      "year": "2023",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2219953120",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37037874",
+      "title": "Revisiting the critical roles of reactive astrocytes in neurodegeneration.",
+      "first_author": "Qian K",
+      "year": "2023",
+      "journal": "Mol Psychiatry",
+      "doi": "10.1038/s41380-023-02061-8",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36931726",
+      "title": "Misfolded \u03b1-Synuclein Assessment in the Skin and CSF by RT-QuIC in Isolated REM Sleep Behavior Disorder.",
+      "first_author": "Iranzo A",
+      "year": "2023",
+      "journal": "Neurology",
+      "doi": "10.1212/WNL.0000000000207147",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36073231",
+      "title": "PTPA variants and impaired PP2A activity in early-onset parkinsonism with intellectual disability.",
+      "first_author": "Fevga C",
+      "year": "2023",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awac326",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35273561",
+      "title": "The Role of VCP Mutations in the Spectrum of Amyotrophic Lateral Sclerosis-Frontotemporal Dementia.",
+      "first_author": "Scarian E",
+      "year": "2022",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2022.841394",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

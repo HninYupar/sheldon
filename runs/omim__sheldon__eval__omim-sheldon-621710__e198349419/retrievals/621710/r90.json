@@ -1,0 +1,255 @@
+{
+  "id": "r90",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (patient OR patients OR family OR case OR cohort OR individual)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "384 PubMed hits for 'ATG12[gene] AND (patient OR patients OR family OR case OR cohort OR individual)'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"ieee int conf automation sci eng case\"[Journal] OR \"case phila\"[Journal] OR \"case\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"individual s\"[All Fields] OR \"individualisation\"[All Fields] OR \"individualise\"[All Fields] OR \"individualised\"[All Fields] OR \"individualising\"[All Fields] OR \"individualism\"[All Fields] OR \"individualisms\"[All Fields] OR \"individualities\"[All Fields] OR \"individuality\"[MeSH Terms] OR \"individuality\"[All Fields] OR \"individualization\"[All Fields] OR \"individualize\"[All Fields] OR \"individualized\"[All Fields] OR \"individualizes\"[All Fields] OR \"individualizing\"[All Fields] OR \"individually\"[All Fields] OR \"individuals\"[All Fields] OR \"individuate\"[All Fields] OR \"individuated\"[All Fields] OR \"individuates\"[All Fields] OR \"individuating\"[All Fields] OR \"individuation\"[MeSH Terms] OR \"individuation\"[All Fields] OR \"individuations\"[All Fields] OR \"persons\"[MeSH Terms] OR \"persons\"[All Fields] OR \"individual\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39087410",
+      "title": "ZDHHC7-mediated S-palmitoylation of ATG16L1 facilitates LC3 lipidation and autophagosome formation.",
+      "first_author": "Wei F",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2386915",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30335591",
+      "title": "Trehalose induces autophagy via lysosomal-mediated TFEB activation in models of motoneuron degeneration.",
+      "first_author": "Rusmini P",
+      "year": "2019",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2018.1535292",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32401642",
+      "title": "Autophagy in the physiological endometrium and cancer.",
+      "first_author": "Devis-Jauregui L",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1752548",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40509575",
+      "title": "Macrophage TRIM21 knockout inhibits septic acute lung injury by downregulating autophagy regulator protein ubiquitination.",
+      "first_author": "Xie F",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2025.2519063",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33853474",
+      "title": "WLS/wntless is essential in controlling dendritic cell homeostasis via a WNT signaling-independent mechanism.",
+      "first_author": "Wang LT",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1907516",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35222638",
+      "title": "Deficient Autophagy in Microglia Aggravates Repeated Social Defeat Stress-Induced Social Avoidance.",
+      "first_author": "Sakai M",
+      "year": "2022",
+      "journal": "Neural Plast",
+      "doi": "10.1155/2022/7503553",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36541703",
+      "title": "PEX13 prevents pexophagy by regulating ubiquitinated PEX5 and peroxisomal ROS.",
+      "first_author": "Demers ND",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2160566",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31020708",
+      "title": "Pleotropic role of RNA binding protein CELF2 in autophagy induction.",
+      "first_author": "New J",
+      "year": "2019",
+      "journal": "Mol Carcinog",
+      "doi": "10.1002/mc.23023",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25585051",
+      "title": "Loss of Atg12, but not Atg5, in pro-opiomelanocortin neurons exacerbates diet-induced obesity.",
+      "first_author": "Malhotra R",
+      "year": "2015",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2014.998917",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26286850",
+      "title": "Proteasome inhibitors induce FLT3-ITD degradation through autophagy in AML cells.",
+      "first_author": "Larrue C",
+      "year": "2016",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2015-05-646497",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36280710",
+      "title": "Intercellular transfer of activated STING triggered by RAB22A-mediated non-canonical autophagy promotes antitumor immunity.",
+      "first_author": "Gao Y",
+      "year": "2022",
+      "journal": "Cell Res",
+      "doi": "10.1038/s41422-022-00731-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28160545",
+      "title": "Impact of resistance training on the autophagy-inflammation-apoptosis crosstalk in elderly subjects.",
+      "first_author": "Mej\u00edas-Pe\u00f1a Y",
+      "year": "2017",
+      "journal": "Aging (Albany NY)",
+      "doi": "10.18632/aging.101167",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37673390",
+      "title": "Phenothiazines reduced autophagy in ischemic stroke through endoplasmic reticulum (ER) stress-associated PERK-eIF2\u03b1 pathway.",
+      "first_author": "Lv S",
+      "year": "2023",
+      "journal": "Exp Neurol",
+      "doi": "10.1016/j.expneurol.2023.114524",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29965781",
+      "title": "RAB26-dependent autophagy protects adherens junctional integrity in acute lung injury.",
+      "first_author": "Dong W",
+      "year": "2018",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2018.1476811",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30765325",
+      "title": "miR-221/222-Mediated Inhibition of Autophagy Promotes Dexamethasone Resistance in Multiple Myeloma.",
+      "first_author": "Xu J",
+      "year": "2019",
+      "journal": "Mol Ther",
+      "doi": "10.1016/j.ymthe.2019.01.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33146789",
+      "title": "In vitro study of the role of FOXO transcription factors in regulating cigarette smoke extract-induced autophagy.",
+      "first_author": "Bagam P",
+      "year": "2021",
+      "journal": "Cell Biol Toxicol",
+      "doi": "10.1007/s10565-020-09556-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30953511",
+      "title": "Long non-coding RNA GBCDRlnc1 induces chemoresistance of gallbladder cancer cells by activating autophagy.",
+      "first_author": "Cai Q",
+      "year": "2019",
+      "journal": "Mol Cancer",
+      "doi": "10.1186/s12943-019-1016-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38522078",
+      "title": "Impaired neuronal macroautophagy in the prelimbic cortex contributes to comorbid anxiety-like behaviors in rats with chronic neuropathic pain.",
+      "first_author": "Fu S",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2330038",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30106666",
+      "title": "Expression of Autophagy Signaling Molecules in the Outer Membranes of Chronic Subdural Hematomas.",
+      "first_author": "Osuka K",
+      "year": "2019",
+      "journal": "J Neurotrauma",
+      "doi": "10.1089/neu.2018.5626",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32873769",
+      "title": "A Novel Risk Model Based on Autophagy Pathway Related Genes for Survival Prediction in Lung Adenocarcinoma.",
+      "first_author": "Zhang F",
+      "year": "2020",
+      "journal": "Med Sci Monit",
+      "doi": "10.12659/MSM.924710",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

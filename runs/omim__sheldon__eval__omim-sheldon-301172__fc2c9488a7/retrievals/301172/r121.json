@@ -1,0 +1,37 @@
+{
+  "id": "r121",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1[gene] AND (mouse OR mice OR murine OR knockout OR CRISPR OR functional OR mechanism) AND lupus",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'SAT1[gene] AND (mouse OR mice OR murine OR knockout OR CRISPR OR functional OR mechanism) AND lupus'; showing 2 (PubMed read it as: \"SAT1\"[All Fields] AND (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields] OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"murine\"[All Fields] OR \"muridae\"[MeSH Terms] OR \"muridae\"[All Fields] OR \"murines\"[All Fields] OR \"murin\"[All Fields]) OR (\"knockout\"[All Fields] OR \"knockouts\"[All Fields]) OR (\"clustered regularly interspaced short palindromic repeats\"[MeSH Terms] OR (\"clustered\"[All Fields] AND \"regularly\"[All Fields] AND \"interspaced\"[All Fields] AND \"short\"[All Fields] AND \"palindromic\"[All Fields] AND \"repeats\"[All Fields]) OR \"clustered regularly interspaced short palindromic repeats\"[All Fields] OR \"crispr\"[All Fields] OR \"crisprs\"[All Fields]) OR (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms]) OR (\"mechanism\"[All Fields] OR \"mechanisms\"[All Fields])) AND (\"lupus vulgaris\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"vulgaris\"[All Fields]) OR \"lupus vulgaris\"[All Fields] OR \"lupus\"[All Fields] OR \"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37438615",
+      "title": "Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants.",
+      "first_author": "Vinuesa CG",
+      "year": "2023",
+      "journal": "Nat Rev Nephrol",
+      "doi": "10.1038/s41581-023-00732-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "r7",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (variant OR mutation OR biallelic OR homozygous) AND (neurodevelopmental disorder OR syndrome OR epilepsy OR cerebellar hypoplasia)",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "9 PubMed hits for 'ATG12[gene] AND (variant OR mutation OR biallelic OR homozygous) AND (neurodevelopmental disorder OR syndrome OR epilepsy OR cerebellar hypoplasia)'; showing 9 (PubMed read it as: \"ATG12\"[All Fields] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields] OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"bialleleic\"[All Fields] OR \"biallelic\"[All Fields] OR \"biallelically\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields])) AND (\"neurodevelopmental disorders\"[MeSH Terms] OR (\"neurodevelopmental\"[All Fields] AND \"disorders\"[All Fields]) OR \"neurodevelopmental disorders\"[All Fields] OR (\"neurodevelopmental\"[All Fields] AND \"disorder\"[All Fields]) OR \"neurodevelopmental disorder\"[All Fields] OR (\"syndrom\"[All Fields] OR \"syndromal\"[All Fields] OR \"syndromally\"[All Fields] OR \"syndrome\"[MeSH Terms] OR \"syndrome\"[All Fields] OR \"syndromes\"[All Fields] OR \"syndrome s\"[All Fields] OR \"syndromic\"[All Fields] OR \"syndroms\"[All Fields]) OR (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields]) OR (\"cerebellar hypoplasia\"[Supplementary Concept] OR \"cerebellar hypoplasia\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39472694",
+      "title": "Gene-based burden tests of rare germline variants identify six cancer susceptibility genes.",
+      "first_author": "Ivarsdottir EV",
+      "year": "2024",
+      "journal": "Nat Genet",
+      "doi": "10.1038/s41588-024-01966-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26812546",
+      "title": "Mutation in ATG5 reduces autophagy and leads to ataxia with developmental delay.",
+      "first_author": "Kim M",
+      "year": "2016",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.12245",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37686237",
+      "title": "MAGED2 Depletion Promotes Stress-Induced Autophagy by Impairing the cAMP/PKA Pathway.",
+      "first_author": "Nasrah S",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms241713433",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29965781",
+      "title": "RAB26-dependent autophagy protects adherens junctional integrity in acute lung injury.",
+      "first_author": "Dong W",
+      "year": "2018",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2018.1476811",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25946189",
+      "title": "Uvrag targeting by Mir125a and Mir351 modulates autophagy associated with Ewsr1 deficiency.",
+      "first_author": "Kim Y",
+      "year": "2015",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2015.1035503",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21679777",
+      "title": "Decreased heat shock protein 27 expression and altered autophagy in human cells harboring A8344G mitochondrial DNA mutation.",
+      "first_author": "Chen CY",
+      "year": "2011",
+      "journal": "Mitochondrion",
+      "doi": "10.1016/j.mito.2011.05.014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41977248",
+      "title": "Autophagy-Mitophagy Pathway-Linked Genetic Variants Associate with Systemic Inflammation and Interact with Dietary Factors in Asian and European Cohorts.",
+      "first_author": "Choi Y",
+      "year": "2026",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms27073062",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

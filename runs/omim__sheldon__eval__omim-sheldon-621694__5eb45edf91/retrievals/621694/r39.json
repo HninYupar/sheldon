@@ -1,0 +1,248 @@
+{
+  "id": "r39",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] OR PI31[tiab] OR \"proteasome inhibitor 31\"[tiab] AND (patient[tiab] OR variant[tiab] OR mutation[tiab] OR disease[tiab] OR parkinson*[tiab] OR neurodegener*[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "35 PubMed hits for 'PSMF1[gene] OR PI31[tiab] OR \"proteasome inhibitor 31\"[tiab] AND (patient[tiab] OR variant[tiab] OR mutation[tiab] OR disease[tiab] OR parkinson*[tiab] OR neurodegener*[tiab])'; showing 20 (PubMed read it as: (\"PSMF1\"[All Fields] OR \"PI31\"[Title/Abstract]) AND (\"patient\"[Title/Abstract] OR \"variant\"[Title/Abstract] OR \"mutation\"[Title/Abstract] OR \"disease\"[Title/Abstract] OR \"parkinson*\"[Title/Abstract] OR \"neurodegener*\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "first_author": "Rodriguez JA",
+      "year": "2025",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37236357",
+      "title": "\u0397igh-resolution structure of mammalian PI31-20S proteasome complex reveals mechanism of proteasome inhibition.",
+      "first_author": "Hsu HC",
+      "year": "2023",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2023.104862",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "first_author": "Clemen CS",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "38466799",
+      "title": "Study of an FBXO7 patient mutation reveals Fbxo7 and PI31 co-regulate proteasomes and mitochondria.",
+      "first_author": "Al Rawi S",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17114",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25785312",
+      "title": "Proteomics analysis of EV71-infected cells reveals the involvement of host protein NEDD4L in EV71 replication.",
+      "first_author": "Kuo RL",
+      "year": "2015",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/pr501199h",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31114588",
+      "title": "NOD2 and TLR2 Signal via TBK1 and PI31 to Direct Cross-Presentation and CD8 T Cell Responses.",
+      "first_author": "Corridoni D",
+      "year": "2019",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2019.00958",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23622245",
+      "title": "Proteasome regulation by ADP-ribosylation.",
+      "first_author": "Cho-Park PF",
+      "year": "2013",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2013.03.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42363684",
+      "title": "FMRP-Mediated Proteasome Regulation: A Novel Mechanism in ALS Pathology.",
+      "first_author": "Majumder P",
+      "year": "2026",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.202600563R",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39621430",
+      "title": "Dynll1-PI31 Interaction Enhances Proteolysis Through the Proteasome, Representing a Novel Therapeutic Target for INF2-Related FSGS.",
+      "first_author": "Williquett J",
+      "year": "2025",
+      "journal": "Kidney360",
+      "doi": "10.34067/KID.0000000659",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27936908",
+      "title": "The FBXO7 homologue nutcracker and binding partner PI31 in Drosophila melanogaster models of Parkinson's disease.",
+      "first_author": "Merzetti EM",
+      "year": "2017",
+      "journal": "Genome",
+      "doi": "10.1139/gen-2016-0087",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36295489",
+      "title": "Integrating Radiosensitivity Gene Signature Improves Glioma Outcome and Radiotherapy Response Prediction.",
+      "first_author": "Wu S",
+      "year": "2022",
+      "journal": "Medicina (Kaunas)",
+      "doi": "10.3390/medicina58101327",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33651148",
+      "title": "Potentially functional variants of ERAP1, PSMF1 and NCF2 in the MHC-I-related pathway predict non-small cell lung cancer survival.",
+      "first_author": "Yang S",
+      "year": "2021",
+      "journal": "Cancer Immunol Immunother",
+      "doi": "10.1007/s00262-021-02877-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

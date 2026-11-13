@@ -1,0 +1,12 @@
+{
+  "id": "r117",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "42649079",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "0 'cited_by' links for PMID 42649079; showing 0",
+  "ok": true,
+  "evidence": []
+}

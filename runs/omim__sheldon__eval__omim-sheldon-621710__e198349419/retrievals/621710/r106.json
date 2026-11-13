@@ -1,0 +1,134 @@
+{
+  "id": "r106",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (p.?Val? OR c. OR variant OR mutation)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "387 PubMed hits for 'ATG12[gene] AND (p.?Val? OR c. OR variant OR mutation)'; showing 10 (PubMed read it as: \"ATG12\"[All Fields] AND (\"p val\"[All Fields] OR \"c\"[All Fields] OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "32401642",
+      "title": "Autophagy in the physiological endometrium and cancer.",
+      "first_author": "Devis-Jauregui L",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1752548",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36588386",
+      "title": "The nucleoprotein of influenza A virus inhibits the innate immune response by inducing mitophagy.",
+      "first_author": "Zhang B",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2162798",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40509575",
+      "title": "Macrophage TRIM21 knockout inhibits septic acute lung injury by downregulating autophagy regulator protein ubiquitination.",
+      "first_author": "Xie F",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2025.2519063",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41376268",
+      "title": "ESRRA-ATG5-Mediated mitophagy enhances arginine metabolism to alleviate diabetic kidney disease.",
+      "first_author": "Hu H",
+      "year": "2026",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2025.2601874",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37039556",
+      "title": "NR3C1/Glucocorticoid receptor activation promotes pancreatic \u03b2-cell autophagy overload in response to glucolipotoxicity.",
+      "first_author": "Wu T",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2023.2200625",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25585051",
+      "title": "Loss of Atg12, but not Atg5, in pro-opiomelanocortin neurons exacerbates diet-induced obesity.",
+      "first_author": "Malhotra R",
+      "year": "2015",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2014.998917",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26286850",
+      "title": "Proteasome inhibitors induce FLT3-ITD degradation through autophagy in AML cells.",
+      "first_author": "Larrue C",
+      "year": "2016",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2015-05-646497",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11100732",
+      "title": "A ubiquitin-like system mediates protein lipidation.",
+      "first_author": "Ichimura Y",
+      "year": "2000",
+      "journal": "Nature",
+      "doi": "10.1038/35044114",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29317426",
+      "title": "The WD40 domain of ATG16L1 is required for its\u00a0non-canonical role in lipidation of LC3 at single\u00a0membranes.",
+      "first_author": "Fletcher K",
+      "year": "2018",
+      "journal": "EMBO J",
+      "doi": "10.15252/embj.201797840",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31238788",
+      "title": "PLA2G4A/cPLA2-mediated lysosomal membrane damage leads to inhibition of autophagy and neurodegeneration after brain trauma.",
+      "first_author": "Sarkar C",
+      "year": "2020",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2019.1628538",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

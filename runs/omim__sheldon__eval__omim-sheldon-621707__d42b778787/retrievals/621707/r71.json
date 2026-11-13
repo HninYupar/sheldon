@@ -1,0 +1,254 @@
+{
+  "id": "r71",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "MAGIS syndrome[tiab] OR MAGIS[tiab] OR GNAI2[gene] AND (phenotype[tiab] OR syndrome[tiab] OR patient[tiab] OR case report[pt] OR cohort[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "59 PubMed hits for 'MAGIS syndrome[tiab] OR MAGIS[tiab] OR GNAI2[gene] AND (phenotype[tiab] OR syndrome[tiab] OR patient[tiab] OR case report[pt] OR cohort[tiab])'; showing 20 (PubMed read it as: (\"magis syndrome\"[Title/Abstract] OR \"MAGIS\"[Title/Abstract] OR (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields])) AND (\"phenotype\"[Title/Abstract] OR \"syndrome\"[Title/Abstract] OR \"patient\"[Title/Abstract] OR \"cohort\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35192169",
+      "title": "Memory-Assisted Global Impression of Change (MAGIC).",
+      "first_author": "Deal LS",
+      "year": "2022",
+      "journal": "Ther Innov Regul Sci",
+      "doi": "10.1007/s43441-022-00377-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36201743",
+      "title": "Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma.",
+      "first_author": "Thomas N",
+      "year": "2023",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2022016534",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "41226691",
+      "title": "G\u03b1(i2) Signaling Regulates Neonatal Respiratory Adaptation.",
+      "first_author": "Leiss V",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms262110655",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41866035",
+      "title": "Mesothelin promotes acute myeloid leukemia progression through LYN-dependent signaling.",
+      "first_author": "Faust JR",
+      "year": "2026",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2026.111390",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26854024",
+      "title": "JAK-STAT and G-protein-coupled receptor signaling pathways are frequently altered in epitheliotropic intestinal T-cell lymphoma.",
+      "first_author": "Nairism\u00e4gi ML",
+      "year": "2016",
+      "journal": "Leukemia",
+      "doi": "10.1038/leu.2016.13",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36671532",
+      "title": "Combination Analysis of Ferroptosis and Immune Status Predicts Patients Survival in Breast Invasive Ductal Carcinoma.",
+      "first_author": "Yang Y",
+      "year": "2023",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom13010147",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25016959",
+      "title": "Par3-mInsc and G\u03b1i3 cooperate to promote oriented epidermal cell divisions through LGN.",
+      "first_author": "Williams SE",
+      "year": "2014",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/ncb3001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41827672",
+      "title": "Tumor Mutational Burden as a Prognostic Biomarker in Follicular Lymphoma.",
+      "first_author": "Lafuente M",
+      "year": "2026",
+      "journal": "Cancers (Basel)",
+      "doi": "10.3390/cancers18050737",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37713293",
+      "title": "Extracellular Vesicles and Endocannabinoid Signaling in Patients with COVID-19.",
+      "first_author": "Brandes F",
+      "year": "2024",
+      "journal": "Cannabis Cannabinoid Res",
+      "doi": "10.1089/can.2023.0040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "first_author": "Huang X",
+      "year": "2009",
+      "journal": "Med Hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32856736",
+      "title": "miR-34a is upregulated in AIP-mutated somatotropinomas and promotes octreotide resistance.",
+      "first_author": "Bogner EM",
+      "year": "2020",
+      "journal": "Int J Cancer",
+      "doi": "10.1002/ijc.33268",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26588071",
+      "title": "Genome-Wide Association Study of Golden Retrievers Identifies Germ-Line Risk Factors Predisposing to Mast Cell Tumours.",
+      "first_author": "Arendt ML",
+      "year": "2015",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1005647",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "18832081",
+      "title": "The role of inhibitory heterotrimeric G proteins in the control of in vivo heart rate dynamics.",
+      "first_author": "Zuberi Z",
+      "year": "2008",
+      "journal": "Am J Physiol Regul Integr Comp Physiol",
+      "doi": "10.1152/ajpregu.90625.2008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18316484",
+      "title": "Targeted inhibition of cardiomyocyte Gi signaling enhances susceptibility to apoptotic cell death in response to ischemic stress.",
+      "first_author": "DeGeorge BR Jr",
+      "year": "2008",
+      "journal": "Circulation",
+      "doi": "10.1161/CIRCULATIONAHA.107.752618",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28323866",
+      "title": "Elevated fecal peptidase D at onset of colitis in Galphai2-/- mice, a mouse model of IBD.",
+      "first_author": "Bergemalm D",
+      "year": "2017",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0174275",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27787898",
+      "title": "Role of a heterotrimeric G-protein, Gi2, in the corticogenesis: possible involvement in periventricular nodular heterotopia and intellectual disability.",
+      "first_author": "Hamada N",
+      "year": "2017",
+      "journal": "J Neurochem",
+      "doi": "10.1111/jnc.13878",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12867032",
+      "title": "Vomeronasal phenotype and behavioral alterations in G alpha i2 mutant mice.",
+      "first_author": "Norlin EM",
+      "year": "2003",
+      "journal": "Curr Biol",
+      "doi": "10.1016/s0960-9822(03)00452-4",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21349876",
+      "title": "G\u03b1(i2)-mediated protection from ischaemic injury is modulated by endogenous RGS proteins in the mouse heart.",
+      "first_author": "Waterson RE",
+      "year": "2011",
+      "journal": "Cardiovasc Res",
+      "doi": "10.1093/cvr/cvr054",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

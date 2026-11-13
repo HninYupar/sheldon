@@ -1,0 +1,61 @@
+{
+  "id": "r113",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"oocyte maturation arrest\"[tiab] OR \"early embryonic arrest\"[tiab] OR \"female infertility\"[tiab] OR \"zygote arrest\"[tiab] OR \"embryo arrest\"[tiab]) AND (TACC3[tiab] OR TACC3[gene])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "4 PubMed hits for '(\"oocyte maturation arrest\"[tiab] OR \"early embryonic arrest\"[tiab] OR \"female infertility\"[tiab] OR \"zygote arrest\"[tiab] OR \"embryo arrest\"[tiab]) AND (TACC3[tiab] OR TACC3[gene])'; showing 4 (PubMed read it as: (\"oocyte maturation arrest\"[Title/Abstract] OR \"early embryonic arrest\"[Title/Abstract] OR \"female infertility\"[Title/Abstract] OR \"zygote arrest\"[Title/Abstract] OR \"embryo arrest\"[Title/Abstract]) AND (\"TACC3\"[Title/Abstract] OR \"TACC3\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

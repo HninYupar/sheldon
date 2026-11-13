@@ -1,0 +1,157 @@
+{
+  "id": "r102",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (\"developmental and epileptic encephalopathy\"[tiab] OR DEE42B[tiab] OR \"epileptic encephalopathy 42\"[tiab] OR \"phenotype 621692\"[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "12 PubMed hits for 'CACNA1A[gene] AND (\"developmental and epileptic encephalopathy\"[tiab] OR DEE42B[tiab] OR \"epileptic encephalopathy 42\"[tiab] OR \"phenotype 621692\"[tiab])'; showing 12 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"developmental and epileptic encephalopathy\"[Title/Abstract] OR \"epileptic encephalopathy 42\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39096015",
+      "title": "Solving the Etiology of Developmental and Epileptic Encephalopathy with Spike-Wave Activation in Sleep (D/EE-SWAS).",
+      "first_author": "Viswanathan S",
+      "year": "2024",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.27041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33565063",
+      "title": "[Clinical manifestation and genetic analysis of a child with early infantile epileptic encephalopathy 42].",
+      "first_author": "Ran Y",
+      "year": "2021",
+      "journal": "Zhonghua Yi Xue Yi Chuan Xue Za Zhi",
+      "doi": "10.3760/cma.j.cn511374-20201022-00743",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41718461",
+      "title": "Expanding the phenotypic spectrum of CACNA1A-related developmental and epileptic encephalopathy in adults.",
+      "first_author": "Palumbo O",
+      "year": "2026",
+      "journal": "Epileptic Disord",
+      "doi": "10.1002/epd2.70207",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "41033701",
+      "title": "CACNA1A-associated epileptic encephalopathy triggered by minor trauma: importance of early diagnosis and appropriate treatment.",
+      "first_author": "Wander A",
+      "year": "2025",
+      "journal": "BMJ Case Rep",
+      "doi": "10.1136/bcr-2025-267245",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "35041321",
+      "title": "[Diversity of CACNA1A-related disorders].",
+      "first_author": "Rudenskaya GE",
+      "year": "2021",
+      "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+      "doi": "10.17116/jnevro2021121121106",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38681799",
+      "title": "Developing a pathway to clinical trials for CACNA1A-related epilepsies: A patient organization perspective.",
+      "first_author": "Fox PM",
+      "year": "2024",
+      "journal": "Ther Adv Rare Dis",
+      "doi": "10.1177/26330040241245725",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39513870",
+      "title": "Voltage-Gated Ion Channel Compensatory Effect in DEE: Implications for Future Therapies.",
+      "first_author": "Shabani K",
+      "year": "2024",
+      "journal": "Cells",
+      "doi": "10.3390/cells13211763",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35497372",
+      "title": "Two Children with Early-Onset Strokes and Intractable Epilepsy, Both with CACNA1A Mutations.",
+      "first_author": "Bolte KN",
+      "year": "2022",
+      "journal": "Child Neurol Open",
+      "doi": "10.1177/2329048X221094977",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40310132",
+      "title": "Precision Therapeutics in Lennox-Gastaut Syndrome: Targeting Molecular Pathophysiology in a Developmental and Epileptic Encephalopathy.",
+      "first_author": "Samanta D",
+      "year": "2025",
+      "journal": "Children (Basel)",
+      "doi": "10.3390/children12040481",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41751517",
+      "title": "Molecular Profiling of Polish Pediatric Patients with Epilepsy: A Single-Center Diagnostic Experience Using Next-Generation Sequencing.",
+      "first_author": "Cha\u0142upczy\u0144ska B",
+      "year": "2026",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes17020133",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39667411",
+      "title": "Association between CACNA1A and ATP1A2 Variants are Responsible for Severe Neurodevelopmental Disorder.",
+      "first_author": "Mouraux C",
+      "year": "2025",
+      "journal": "Neuropediatrics",
+      "doi": "10.1055/a-2500-7729",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33425808",
+      "title": "CACNA1A Gene Variants in Eight Chinese Patients With a Wide Range of Phenotypes.",
+      "first_author": "Zhang L",
+      "year": "2020",
+      "journal": "Front Pediatr",
+      "doi": "10.3389/fped.2020.577544",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

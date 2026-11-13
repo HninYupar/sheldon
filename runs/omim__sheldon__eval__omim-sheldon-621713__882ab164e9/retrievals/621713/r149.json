@@ -1,0 +1,12 @@
+{
+  "id": "r149",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "36395215",
+    "relation": "references",
+    "max_results": 20
+  },
+  "summary": "0 'references' links for PMID 36395215; showing 0",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "r145",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"childhood-onset\"[tiab] AND PSMF1[gene]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"childhood-onset\"[tiab] AND PSMF1[gene]'; showing 0 (PubMed read it as: \"childhood-onset\"[Title/Abstract] AND \"PSMF1\"[All Fields])",
+  "ok": true,
+  "evidence": []
+}

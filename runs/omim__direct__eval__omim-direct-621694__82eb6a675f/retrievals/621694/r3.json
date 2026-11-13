@@ -1,0 +1,165 @@
+{
+  "id": "r3",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND (patient OR patients OR case OR cohort OR family OR homozygous OR compound heterozygous)",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "13 PubMed hits for 'PSMF1[tiab] AND (patient OR patients OR case OR cohort OR family OR homozygous OR compound heterozygous)'; showing 13 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"ieee int conf automation sci eng case\"[Journal] OR \"case phila\"[Journal] OR \"case\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33651148",
+      "title": "Potentially functional variants of ERAP1, PSMF1 and NCF2 in the MHC-I-related pathway predict non-small cell lung cancer survival.",
+      "first_author": "Yang S",
+      "year": "2021",
+      "journal": "Cancer Immunol Immunother",
+      "doi": "10.1007/s00262-021-02877-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "39427606",
+      "title": "Exploring a novel four-gene system as a diagnostic and prognostic biomarker for triple-negative breast cancer, using clinical variables.",
+      "first_author": "Ali F",
+      "year": "2024",
+      "journal": "Comput Biol Chem",
+      "doi": "10.1016/j.compbiolchem.2024.108247",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34867951",
+      "title": "Circulating Exosome Involves in the Pathogenesis of Autoimmune Thyroid Diseases Through Immunomodulatory Proteins.",
+      "first_author": "Jia X",
+      "year": "2021",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2021.730089",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29125853",
+      "title": "Whole-genome DNA methylation characteristics in pediatric precursor B cell acute lymphoblastic leukemia (BCP ALL).",
+      "first_author": "Chaber R",
+      "year": "2017",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0187422",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31585107",
+      "title": "A Rare Variant Nonparametric Linkage Method for Nuclear and Extended Pedigrees with Application to Late-Onset Alzheimer Disease via WGS Data.",
+      "first_author": "Zhao L",
+      "year": "2019",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2019.09.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42945227",
+      "title": "Transcriptomic Profiling of PBMCs via Bulk RNA-Sequencing in Posner-Schlossman Syndrome Reveals Immune Dysregulation and Altered Viral Response.",
+      "first_author": "Peng SM",
+      "year": "2026",
+      "journal": "Ocul Immunol Inflamm",
+      "doi": "10.1080/09273948.2026.2746986",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

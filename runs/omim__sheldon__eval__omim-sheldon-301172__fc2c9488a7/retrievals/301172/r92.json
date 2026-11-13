@@ -1,0 +1,250 @@
+{
+  "id": "r92",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1[gene] AND (CRISPR OR knockout OR knock-out OR transgenic OR mouse OR mice)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "148 PubMed hits for 'SAT1[gene] AND (CRISPR OR knockout OR knock-out OR transgenic OR mouse OR mice)'; showing 20 (PubMed read it as: \"SAT1\"[All Fields] AND (\"clustered regularly interspaced short palindromic repeats\"[MeSH Terms] OR (\"clustered\"[All Fields] AND \"regularly\"[All Fields] AND \"interspaced\"[All Fields] AND \"short\"[All Fields] AND \"palindromic\"[All Fields] AND \"repeats\"[All Fields]) OR \"clustered regularly interspaced short palindromic repeats\"[All Fields] OR \"crispr\"[All Fields] OR \"crisprs\"[All Fields] OR (\"knockout\"[All Fields] OR \"knockouts\"[All Fields]) OR \"knock-out\"[All Fields] OR (\"transgene s\"[All Fields] OR \"transgeneic\"[All Fields] OR \"transgenes\"[MeSH Terms] OR \"transgenes\"[All Fields] OR \"transgene\"[All Fields] OR \"transgenic\"[All Fields] OR \"transgenically\"[All Fields] OR \"transgenics\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40460833",
+      "title": "Efflux of N1-acetylspermidine from hepatoma fosters macrophage-mediated immune suppression to dampen immunotherapeutic efficacy.",
+      "first_author": "Liu ZY",
+      "year": "2025",
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2025.05.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27698118",
+      "title": "Activation of SAT1 engages polyamine metabolism with p53-mediated ferroptotic responses.",
+      "first_author": "Ou Y",
+      "year": "2016",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1607152113",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "24717514",
+      "title": "Nicotinamide N-methyltransferase knockdown protects against diet-induced obesity.",
+      "first_author": "Kraus D",
+      "year": "2014",
+      "journal": "Nature",
+      "doi": "10.1038/nature13198",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38429478",
+      "title": "Cancer-associated fibroblast-derived acetate promotes pancreatic cancer development by altering polyamine metabolism via the ACSS2-SP1-SAT1 axis.",
+      "first_author": "Murthy D",
+      "year": "2024",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/s41556-024-01372-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36963394",
+      "title": "Urea cycle activation triggered by host-microbiota maladaptation driving colorectal tumorigenesis.",
+      "first_author": "Chen H",
+      "year": "2023",
+      "journal": "Cell Metab",
+      "doi": "10.1016/j.cmet.2023.03.003",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36719378",
+      "title": "SLC26A1 is a major determinant of sulfate homeostasis in humans.",
+      "first_author": "Pfau A",
+      "year": "2023",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI161849",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39073262",
+      "title": "Autophagy Deficiency Induced by SAT1 Potentiates Tumor Progression in Triple-Negative Breast Cancer.",
+      "first_author": "Tian W",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202309903",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38547055",
+      "title": "The MUC1-HIF-1\u03b1 signaling axis regulates pancreatic cancer pathogenesis through polyamine metabolism remodeling.",
+      "first_author": "Murthy D",
+      "year": "2024",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2315509121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40180916",
+      "title": "A noncanonical role of SAT1 enables anchorage independence and peritoneal metastasis in ovarian cancer.",
+      "first_author": "Zheng C",
+      "year": "2025",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-025-58525-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40536697",
+      "title": "Ezetimibe Engineered L14-8 Suppresses Advanced Prostate Cancer by Activating PLK1/TP53-SAT1-Induced Ferroptosis.",
+      "first_author": "Zhang Y",
+      "year": "2025",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202504192",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40023161",
+      "title": "The polyamine-regulating enzyme SSAT1 impairs tissue regulatory T\u00a0cell function in chronic cutaneous inflammation.",
+      "first_author": "Neuwirth T",
+      "year": "2025",
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2025.02.011",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40485050",
+      "title": "Dauricine Overcomes Osimertinib Resistance in Lung Cancer by Inducing Ferroptosis via Stabilizing SAT1.",
+      "first_author": "Men B",
+      "year": "2025",
+      "journal": "Cancer Sci",
+      "doi": "10.1111/cas.70113",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42206375",
+      "title": "Microplastic Exposure Aggravates Cardiomyopathy Under Hemodynamic Stress Through the Gut-Heart Axis.",
+      "first_author": "Wang J",
+      "year": "2026",
+      "journal": "Circulation",
+      "doi": "10.1161/CIRCULATIONAHA.126.079820",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41370380",
+      "title": "HERVH-derived eRNA activates a super-enhancer-driven ALDH1A3/SAT1 axis to promote ferroptosis escape and pancreatic cancer development.",
+      "first_author": "Yuan L",
+      "year": "2025",
+      "journal": "Sci Adv",
+      "doi": "10.1126/sciadv.aea9074",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41219185",
+      "title": "Targeting polyamine metabolism and ferroptosis enhances the efficacy of KRAS-targeted therapy depending on KEAP1 status.",
+      "first_author": "Bian Y",
+      "year": "2025",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-025-65441-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41340461",
+      "title": "Ferroptosis-Related Gene SAT1 Contributes to Immune Responses in Acute Pancreatitis.",
+      "first_author": "Zhou K",
+      "year": "2025",
+      "journal": "J Gene Med",
+      "doi": "10.1002/jgm.70063",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41419885",
+      "title": "ZDHHC9 and spermine metabolism: a palmitoylation-driven pathway to prostate carcinogenesis.",
+      "first_author": "Chen C",
+      "year": "2025",
+      "journal": "J Transl Med",
+      "doi": "10.1186/s12967-025-07589-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42801599",
+      "title": "SAT1-Induced Spermidine Depletion Potentiates Food Allergy.",
+      "first_author": "Liu M",
+      "year": "2026",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.77798",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17002596",
+      "title": "Specificity and regulation of renal sulfate transporters.",
+      "first_author": "Markovich D",
+      "year": "2007",
+      "journal": "Annu Rev Physiol",
+      "doi": "10.1146/annurev.physiol.69.040705.141319",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    }
+  ]
+}

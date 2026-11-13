@@ -1,0 +1,262 @@
+{
+  "id": "r5",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "39298586",
+    "relation": "references",
+    "max_results": 20
+  },
+  "summary": "98 'references' links for PMID 39298586; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "37953324",
+      "title": "The Human Phenotype Ontology in 2024: phenotypes around the world.",
+      "first_author": "Gargano MA",
+      "year": "2024",
+      "journal": "Nucleic Acids Res",
+      "doi": "10.1093/nar/gkad1005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36428239",
+      "title": "Clinical overview on RASopathies.",
+      "first_author": "Zenker M",
+      "year": "2022",
+      "journal": "Am J Med Genet C Semin Med Genet",
+      "doi": "10.1002/ajmg.c.32015",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36002574",
+      "title": "RASA2 ablation in T cells boosts antigen sensitivity and long-term function.",
+      "first_author": "Carnevale J",
+      "year": "2022",
+      "journal": "Nature",
+      "doi": "10.1038/s41586-022-05126-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34723319",
+      "title": "The PRIDE database resources in 2022: a hub for mass spectrometry-based proteomics evidences.",
+      "first_author": "Perez-Riverol Y",
+      "year": "2022",
+      "journal": "Nucleic Acids Res",
+      "doi": "10.1093/nar/gkab1038",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34685729",
+      "title": "Pediatric Encephalopathy: Clinical, Biochemical and Cellular Insights into the Role of Gln52 of GNAO1 and GNAI1 for the Dominant Disease.",
+      "first_author": "Solis GP",
+      "year": "2021",
+      "journal": "Cells",
+      "doi": "10.3390/cells10102749",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34175492",
+      "title": "RASopathies: From germline mutations to somatic and multigenic diseases.",
+      "first_author": "Riller Q",
+      "year": "2021",
+      "journal": "Biomed J",
+      "doi": "10.1016/j.bj.2021.06.004",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33636126",
+      "title": "A universal allosteric mechanism for G protein activation.",
+      "first_author": "Knight KM",
+      "year": "2021",
+      "journal": "Mol Cell",
+      "doi": "10.1016/j.molcel.2021.02.002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "33535037",
+      "title": "G\u03b1o is a major determinant of cAMP signaling in the pathophysiology of movement disorders.",
+      "first_author": "Muntean BS",
+      "year": "2021",
+      "journal": "Cell Rep",
+      "doi": "10.1016/j.celrep.2021.108718",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32647003",
+      "title": "HEM1 deficiency disrupts mTORC2 and F-actin control in inherited immunodysregulatory disease.",
+      "first_author": "Cook SA",
+      "year": "2020",
+      "journal": "Science",
+      "doi": "10.1126/science.aay5663",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32461654",
+      "title": "The mutational constraint spectrum quantified from variation in 141,456 humans.",
+      "first_author": "Karczewski KJ",
+      "year": "2020",
+      "journal": "Nature",
+      "doi": "10.1038/s41586-020-2308-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31402496",
+      "title": "mTOR and other effector kinase signals that impact T cell function and activity.",
+      "first_author": "Myers DR",
+      "year": "2019",
+      "journal": "Immunol Rev",
+      "doi": "10.1111/imr.12796",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31337866",
+      "title": "Rare, functional, somatic variants in gene families linked to cancer genes: GPCR signaling as a paradigm.",
+      "first_author": "Raimondi F",
+      "year": "2019",
+      "journal": "Oncogene",
+      "doi": "10.1038/s41388-019-0895-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31110702",
+      "title": "Selecting costimulatory domains for chimeric antigen receptors: functional and clinical considerations.",
+      "first_author": "Weinkove R",
+      "year": "2019",
+      "journal": "Clin Transl Immunology",
+      "doi": "10.1002/cti2.1049",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31036916",
+      "title": "Variant\u00a0recurrence in neurodevelopmental disorders: the use of publicly available genomic data identifies clinically relevant pathogenic missense variants.",
+      "first_author": "Lecoquierre F",
+      "year": "2019",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-019-0518-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30476447",
+      "title": "Mechanisms of Neural Crest Migration.",
+      "first_author": "Szab\u00f3 A",
+      "year": "2018",
+      "journal": "Annu Rev Genet",
+      "doi": "10.1146/annurev-genet-120417-031559",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30449619",
+      "title": "Genome-wide CRISPR Screens in Primary Human T Cells Reveal Key Regulators of Immune Function.",
+      "first_author": "Shifrut E",
+      "year": "2018",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2018.10.024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29950405",
+      "title": "A Novel CRISPR/Cas9-Based Cellular Model to Explore Adenylyl Cyclase and cAMP Signaling.",
+      "first_author": "Soto-Velasquez M",
+      "year": "2018",
+      "journal": "Mol Pharmacol",
+      "doi": "10.1124/mol.118.111849",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29436394",
+      "title": "Optimized RNP transfection for highly efficient CRISPR/Cas9-mediated gene knockout in primary T cells.",
+      "first_author": "Seki A",
+      "year": "2018",
+      "journal": "J Exp Med",
+      "doi": "10.1084/jem.20171626",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28952075",
+      "title": "Persistent changes in circulating white blood cell populations after splenectomy.",
+      "first_author": "Rab MAE",
+      "year": "2018",
+      "journal": "Int J Hematol",
+      "doi": "10.1007/s12185-017-2335-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28747448",
+      "title": "Movement disorder in GNAO1 encephalopathy associated with gain-of-function mutations.",
+      "first_author": "Feng H",
+      "year": "2017",
+      "journal": "Neurology",
+      "doi": "10.1212/WNL.0000000000004262",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

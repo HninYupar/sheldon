@@ -1,0 +1,240 @@
+{
+  "id": "r30",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (\"neurodevelopmental disorder\"[tiab] OR syndrome[tiab] OR phenotype[tiab]) AND (2021:2026[dp])",
+    "max_results": 20,
+    "sort": "pub_date"
+  },
+  "summary": "30 PubMed hits for 'ATG12[gene] AND (\"neurodevelopmental disorder\"[tiab] OR syndrome[tiab] OR phenotype[tiab]) AND (2021:2026[dp])'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"neurodevelopmental disorder\"[Title/Abstract] OR \"syndrome\"[Title/Abstract] OR \"phenotype\"[Title/Abstract]) AND 2021/01/01:2026/12/31[Date - Publication])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "43001585",
+      "title": "CASM regulates lysosomal expansion and cell fate during senescence.",
+      "first_author": "Cheng YW",
+      "year": "2026",
+      "journal": "JCI Insight",
+      "doi": "10.1172/jci.insight.207890",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42208159",
+      "title": "Effects of low-magnitude high-frequency vibration on proliferation and cartilage phenotype of chondrocytes in the rat mandibular condyle.",
+      "first_author": "Hou W",
+      "year": "2026",
+      "journal": "Arch Oral Biol",
+      "doi": "10.1016/j.archoralbio.2026.106627",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41977248",
+      "title": "Autophagy-Mitophagy Pathway-Linked Genetic Variants Associate with Systemic Inflammation and Interact with Dietary Factors in Asian and European Cohorts.",
+      "first_author": "Choi Y",
+      "year": "2026",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms27073062",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40925341",
+      "title": "Evaluation of the effect of autophagy on pseudoexfoliation syndrome.",
+      "first_author": "Can N",
+      "year": "2025",
+      "journal": "J Int Med Res",
+      "doi": "10.1177/03000605241306612",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39723606",
+      "title": "Regulation of N-degron recognin-mediated autophagy by the SARS-CoV-2 PLpro ubiquitin deconjugase.",
+      "first_author": "Ayala-Torres C",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2442849",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39159908",
+      "title": "Early treatment with 2-deoxy-d-glucose reduces proliferative proteins in the kidney and slows cyst growth in a hypomorphic Pkd1 mouse model of autosomal dominant polycystic kidney disease (PKD).",
+      "first_author": "Atwood D",
+      "year": "2024",
+      "journal": "Cell Signal",
+      "doi": "10.1016/j.cellsig.2024.111351",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "39195830",
+      "title": "Transcriptomic Analysis of Metformin's Effect on Bovine Viral Diarrhea Virus Infection.",
+      "first_author": "Li Z",
+      "year": "2024",
+      "journal": "Vet Sci",
+      "doi": "10.3390/vetsci11080376",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38224943",
+      "title": "MicroRNAs correlate with bacillary index and genes associated to cell death processes in leprosy.",
+      "first_author": "de Lima Santana N",
+      "year": "2024",
+      "journal": "Microbes Infect",
+      "doi": "10.1016/j.micinf.2024.105300",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37876292",
+      "title": "The role of ATG5 beyond Atg8ylation and autophagy.",
+      "first_author": "Wang F",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2023.2273703",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37728670",
+      "title": "The role of HIF-1\u03b1-mediated autophagy in ionizing radiation-induced testicular injury.",
+      "first_author": "Xu R",
+      "year": "2023",
+      "journal": "J Mol Histol",
+      "doi": "10.1007/s10735-023-10153-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37686237",
+      "title": "MAGED2 Depletion Promotes Stress-Induced Autophagy by Impairing the cAMP/PKA Pathway.",
+      "first_author": "Nasrah S",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms241713433",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37075562",
+      "title": "The effect of sitagliptin combined with rosiglitazone on autophagy and inflammation in polycystic ovary syndrome by regulating PI3K/AKT/mTOR and TLR4/NF-\u03baB pathway.",
+      "first_author": "Ren Y",
+      "year": "2023",
+      "journal": "Reprod Biol",
+      "doi": "10.1016/j.repbio.2023.100763",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37054706",
+      "title": "ATG5 provides host protection acting as a switch in the atg8ylation cascade between autophagy and secretion.",
+      "first_author": "Wang F",
+      "year": "2023",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2023.03.014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35708514",
+      "title": "Biological characteristics of adipose-derived stem cells from patients with progressive hemifacial atrophy: An in vivo study.",
+      "first_author": "Gao Q",
+      "year": "2022",
+      "journal": "J Cosmet Dermatol",
+      "doi": "10.1111/jocd.15162",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36198274",
+      "title": "Destabilization of TP53 by USP10 is essential for neonatal autophagy and survival.",
+      "first_author": "Li H",
+      "year": "2022",
+      "journal": "Cell Rep",
+      "doi": "10.1016/j.celrep.2022.111435",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35552479",
+      "title": "In Vitro Study on the Biological Characteristics of Adipose-Derived Stem Cells from Liposuction Area in Patients with Progressive Hemifacial Atrophy.",
+      "first_author": "Gao Q",
+      "year": "2022",
+      "journal": "Aesthetic Plast Surg",
+      "doi": "10.1007/s00266-022-02902-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35657166",
+      "title": "Ginsenoside Rg1 suppresses paraquat-induced epithelial cell senescence by enhancing autophagy in an ATG12-dependent manner.",
+      "first_author": "Huang C",
+      "year": "2022",
+      "journal": "Environ Toxicol",
+      "doi": "10.1002/tox.23597",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35429577",
+      "title": "DJ-1 activates the Atg5-Atg12-Atg16L1 complex via Sirt1 to influence microglial polarization and alleviate cerebral ischemia/reperfusion-induced inflammatory injury.",
+      "first_author": "Zhao N",
+      "year": "2022",
+      "journal": "Neurochem Int",
+      "doi": "10.1016/j.neuint.2022.105341",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35195181",
+      "title": "Gynura segetum induces hepatic sinusoidal obstruction syndrome in mice by impairing autophagy.",
+      "first_author": "Zhang H",
+      "year": "2022",
+      "journal": "Acta Cir Bras",
+      "doi": "10.1590/ACB361104",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

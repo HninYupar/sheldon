@@ -1,0 +1,253 @@
+{
+  "id": "r59",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"systemic lupus erythematosus 19\" OR SLEB19 OR SAT1) AND (case report OR cohort OR patient OR patients OR family OR families OR functional)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "588 PubMed hits for '(\"systemic lupus erythematosus 19\" OR SLEB19 OR SAT1) AND (case report OR cohort OR patient OR patients OR family OR families OR functional)'; showing 20 (PubMed read it as: (((\"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields] OR (\"systemic\"[All Fields] AND \"lupus\"[All Fields] AND \"erythematosus\"[All Fields])) AND \"19 lond\"[Journal]) OR \"SAT1\"[All Fields]) AND (\"case reports\"[Publication Type] OR \"case report\"[All Fields] OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39689813",
+      "title": "Foot-and-mouth disease in Asia.",
+      "first_author": "Rahman MA",
+      "year": "2025",
+      "journal": "Virus Res",
+      "doi": "10.1016/j.virusres.2024.199514",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40460833",
+      "title": "Efflux of N1-acetylspermidine from hepatoma fosters macrophage-mediated immune suppression to dampen immunotherapeutic efficacy.",
+      "first_author": "Liu ZY",
+      "year": "2025",
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2025.05.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33482370",
+      "title": "A genome-wide association study for shoulder impingement and rotator cuff disease.",
+      "first_author": "Kim SK",
+      "year": "2021",
+      "journal": "J Shoulder Elbow Surg",
+      "doi": "10.1016/j.jse.2020.11.025",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ]
+    },
+    {
+      "pmid": "27698118",
+      "title": "Activation of SAT1 engages polyamine metabolism with p53-mediated ferroptotic responses.",
+      "first_author": "Ou Y",
+      "year": "2016",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1607152113",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38429478",
+      "title": "Cancer-associated fibroblast-derived acetate promotes pancreatic cancer development by altering polyamine metabolism via the ACSS2-SP1-SAT1 axis.",
+      "first_author": "Murthy D",
+      "year": "2024",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/s41556-024-01372-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36719378",
+      "title": "SLC26A1 is a major determinant of sulfate homeostasis in humans.",
+      "first_author": "Pfau A",
+      "year": "2023",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI161849",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39521235",
+      "title": "Identification of a lactylation-related gene signature as the novel biomarkers for early diagnosis of acute myocardial infarction.",
+      "first_author": "Zhu D",
+      "year": "2024",
+      "journal": "Int J Biol Macromol",
+      "doi": "10.1016/j.ijbiomac.2024.137431",
+      "pubtype": [
+        "Journal Article",
+        "Retracted Publication"
+      ]
+    },
+    {
+      "pmid": "36963394",
+      "title": "Urea cycle activation triggered by host-microbiota maladaptation driving colorectal tumorigenesis.",
+      "first_author": "Chen H",
+      "year": "2023",
+      "journal": "Cell Metab",
+      "doi": "10.1016/j.cmet.2023.03.003",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37848037",
+      "title": "Polyamine metabolism controls B-to-Z DNA transition to orchestrate DNA sensor cGAS activity.",
+      "first_author": "Zhao C",
+      "year": "2023",
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2023.09.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39073262",
+      "title": "Autophagy Deficiency Induced by SAT1 Potentiates Tumor Progression in Triple-Negative Breast Cancer.",
+      "first_author": "Tian W",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202309903",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36671463",
+      "title": "Integration of scRNA-Seq and Bulk RNA-Seq Reveals Molecular Characterization of the Immune Microenvironment in Acute Pancreatitis.",
+      "first_author": "Fang Z",
+      "year": "2022",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom13010078",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38547055",
+      "title": "The MUC1-HIF-1\u03b1 signaling axis regulates pancreatic cancer pathogenesis through polyamine metabolism remodeling.",
+      "first_author": "Murthy D",
+      "year": "2024",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2315509121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39614665",
+      "title": "The central role of creatine and polyamines in fetal growth restriction.",
+      "first_author": "Di Giorgio E",
+      "year": "2024",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.202401946R",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36772904",
+      "title": "Genetic Variants Associated with Suicide Risk in the Mexican Population: A Systematic Literature Review.",
+      "first_author": "Garcia-Qui\u00f1ones JA",
+      "year": "2024",
+      "journal": "Arch Suicide Res",
+      "doi": "10.1080/13811118.2023.2176269",
+      "pubtype": [
+        "Systematic Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40180916",
+      "title": "A noncanonical role of SAT1 enables anchorage independence and peritoneal metastasis in ovarian cancer.",
+      "first_author": "Zheng C",
+      "year": "2025",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-025-58525-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36276091",
+      "title": "Ferroptosis-related gene signature predicts prognosis in kidney renal papillary cell carcinoma.",
+      "first_author": "Yin H",
+      "year": "2022",
+      "journal": "Front Oncol",
+      "doi": "10.3389/fonc.2022.988867",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40536697",
+      "title": "Ezetimibe Engineered L14-8 Suppresses Advanced Prostate Cancer by Activating PLK1/TP53-SAT1-Induced Ferroptosis.",
+      "first_author": "Zhang Y",
+      "year": "2025",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202504192",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29800655",
+      "title": "The tumor suppressor protein p53 and the ferroptosis network.",
+      "first_author": "Kang R",
+      "year": "2019",
+      "journal": "Free Radic Biol Med",
+      "doi": "10.1016/j.freeradbiomed.2018.05.074",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30807778",
+      "title": "Inherent biophysical stability of foot-and-mouth disease SAT1, SAT2 and SAT3 viruses.",
+      "first_author": "Scott KA",
+      "year": "2019",
+      "journal": "Virus Res",
+      "doi": "10.1016/j.virusres.2019.02.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40485050",
+      "title": "Dauricine Overcomes Osimertinib Resistance in Lung Cancer by Inducing Ferroptosis via Stabilizing SAT1.",
+      "first_author": "Men B",
+      "year": "2025",
+      "journal": "Cancer Sci",
+      "doi": "10.1111/cas.70113",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

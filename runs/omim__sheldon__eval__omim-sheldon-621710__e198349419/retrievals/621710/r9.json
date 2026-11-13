@@ -1,0 +1,131 @@
+{
+  "id": "r9",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "NEDSCH OR \"neurodevelopmental disorder with seizures and cerebellar hypoplasia\" OR \"ATG12\"[gene] AND (seizures OR \"cerebellar hypoplasia\" OR neurodevelopmental OR developmental delay)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "76 PubMed hits for 'NEDSCH OR \"neurodevelopmental disorder with seizures and cerebellar hypoplasia\" OR \"ATG12\"[gene] AND (seizures OR \"cerebellar hypoplasia\" OR neurodevelopmental OR developmental delay)'; showing 10 (PubMed read it as: (((\"neurodevelopmental disorders\"[MeSH Terms] OR (\"neurodevelopmental\"[All Fields] AND \"disorders\"[All Fields]) OR \"neurodevelopmental disorders\"[All Fields] OR (\"neurodevelopmental\"[All Fields] AND \"disorder\"[All Fields]) OR \"neurodevelopmental disorder\"[All Fields]) AND (\"seizural\"[All Fields] OR \"seizure s\"[All Fields] OR \"seizured\"[All Fields] OR \"seizures\"[MeSH Terms] OR \"seizures\"[All Fields] OR \"seizure\"[All Fields] OR \"seizuring\"[All Fields]) AND (\"cerebellar hypoplasia\"[Supplementary Concept] OR \"cerebellar hypoplasia\"[All Fields])) OR \"ATG12\"[All Fields]) AND (\"seizural\"[All Fields] OR \"seizure s\"[All Fields] OR \"seizured\"[All Fields] OR \"seizures\"[MeSH Terms] OR \"seizures\"[All Fields] OR \"seizure\"[All Fields] OR \"seizuring\"[All Fields] OR \"cerebellar hypoplasia\"[All Fields] OR (\"neurodevelopment\"[MeSH Terms] OR \"neurodevelopment\"[All Fields] OR \"neurodevelopmental\"[All Fields] OR \"neurodevelopmentally\"[All Fields]) OR ((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"delay\"[All Fields] OR \"delayed\"[All Fields] OR \"delaying\"[All Fields] OR \"delays\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39707840",
+      "title": "RORA-neurodevelopmental disorder: A unique triad of developmental disabilities, cerebellar anomalies, and myoclonic seizures.",
+      "first_author": "Talarico M",
+      "year": "2025",
+      "journal": "Genet Med",
+      "doi": "10.1016/j.gim.2024.101347",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38044197",
+      "title": "Splicing variant of WDR37 in a case of Neurooculocardiogenitourinary syndrome.",
+      "first_author": "Samejima M",
+      "year": "2024",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2023.11.007",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40501776",
+      "title": "Novel mouse model reveals neurodevelopmental origin of PMM2-CDG brain pathology.",
+      "first_author": "Edmondson AC",
+      "year": "2025",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2025.06.01.657261",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "28577347",
+      "title": "Neuroradiographic findings in 22q11.2 deletion syndrome.",
+      "first_author": "Bohm LA",
+      "year": "2017",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.38304",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30549416",
+      "title": "GPR126: A novel candidate gene implicated in autosomal recessive intellectual disability.",
+      "first_author": "Hosseini M",
+      "year": "2019",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.40531",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24316174",
+      "title": "Electroconvulsive seizures enhance autophagy signaling in rat hippocampus.",
+      "first_author": "Otabe H",
+      "year": "2014",
+      "journal": "Prog Neuropsychopharmacol Biol Psychiatry",
+      "doi": "10.1016/j.pnpbp.2013.11.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22564885",
+      "title": "Neurological findings in incontinentia pigmenti; a review.",
+      "first_author": "Meuwissen ME",
+      "year": "2012",
+      "journal": "Eur J Med Genet",
+      "doi": "10.1016/j.ejmg.2012.04.007",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39212003",
+      "title": "Dissecting CASK: Novel splice site variant associated with male MICPCH phenotype.",
+      "first_author": "Silveira KC",
+      "year": "2024",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14610",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39472694",
+      "title": "Gene-based burden tests of rare germline variants identify six cancer susceptibility genes.",
+      "first_author": "Ivarsdottir EV",
+      "year": "2024",
+      "journal": "Nat Genet",
+      "doi": "10.1038/s41588-024-01966-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

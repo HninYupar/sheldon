@@ -1,0 +1,129 @@
+{
+  "id": "r170",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "32593896",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "17 'cited_by' links for PMID 32593896; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42453761",
+      "title": "Expanding the phenotypic and genotypic spectrum of KCNT1-related epilepsies.",
+      "first_author": "Gras M",
+      "year": "2026",
+      "journal": "Brain Commun",
+      "doi": "10.1093/braincomms/fcag256",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40544226",
+      "title": "KCNT1 gene variant-associated epilepsy: genetic insights, functional mechanisms, and emerging therapies.",
+      "first_author": "Duan YZ",
+      "year": "2025",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-025-13207-9",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38374498",
+      "title": "Genetic and phenotypic landscape of pediatric-onset epilepsy in 142 Indian families: Counseling and therapeutic implications.",
+      "first_author": "Majethia P",
+      "year": "2024",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14495",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38074073",
+      "title": "Early-infantile developmental and epileptic encephalopathy: the aetiologies, phenotypic differences and outcomes-a prospective observational study.",
+      "first_author": "Agarwala P",
+      "year": "2023",
+      "journal": "Brain Commun",
+      "doi": "10.1093/braincomms/fcad243",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38059254",
+      "title": "Phenotypic features of epilepsy due to sodium channelopathies - A single center experience from India.",
+      "first_author": "Viswanathan LG",
+      "year": "2023",
+      "journal": "J Neurosci Rural Pract",
+      "doi": "10.25259/JNRP_329_2023",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38022486",
+      "title": "Genome-Based Therapeutics: Era of Precision Medicine in Genetic Epilepsies and Epileptic Encephalopathies.",
+      "first_author": "Balaji A",
+      "year": "2023",
+      "journal": "Ann Indian Acad Neurol",
+      "doi": "10.4103/aian.aian_314_23",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37583270",
+      "title": "Landscape of genetic infantile epileptic spasms syndrome-A multicenter cohort of 124 children from India.",
+      "first_author": "Nagarajan B",
+      "year": "2023",
+      "journal": "Epilepsia Open",
+      "doi": "10.1002/epi4.12811",
+      "pubtype": [
+        "Multicenter Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37555011",
+      "title": "The genotype-phenotype correlations of the CACNA1A-related neurodevelopmental disorders: a small case series and literature reviews.",
+      "first_author": "Kessi M",
+      "year": "2023",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2023.1222321",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37384052",
+      "title": "The landscape of infantile epileptic spasms syndrome in South Asia: peculiarities, challenges, and way forward.",
+      "first_author": "Sahu JK",
+      "year": "2023",
+      "journal": "Lancet Reg Health Southeast Asia",
+      "doi": "10.1016/j.lansea.2023.100170",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36938367",
+      "title": "A neurodevelopmental disorder caused by a dysfunctional CACNA1A allele.",
+      "first_author": "Kramer AA",
+      "year": "2023",
+      "journal": "eNeurologicalSci",
+      "doi": "10.1016/j.ensci.2023.100456",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

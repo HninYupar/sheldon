@@ -1,0 +1,26 @@
+{
+  "id": "r123",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(SIT1[gene] OR SIT1[tiab]) AND (immunodeficiency[tiab] OR \"combined immunodeficiency\"[tiab] OR \"severe combined immunodeficiency\"[tiab] OR CID[tiab] OR SCID[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '(SIT1[gene] OR SIT1[tiab]) AND (immunodeficiency[tiab] OR \"combined immunodeficiency\"[tiab] OR \"severe combined immunodeficiency\"[tiab] OR CID[tiab] OR SCID[tiab])'; showing 1 (PubMed read it as: (\"SIT1\"[All Fields] OR \"SIT1\"[Title/Abstract]) AND (\"immunodeficiency\"[Title/Abstract] OR \"combined immunodeficiency\"[Title/Abstract] OR \"severe combined immunodeficiency\"[Title/Abstract] OR \"CID\"[Title/Abstract] OR \"SCID\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

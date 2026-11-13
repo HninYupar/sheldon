@@ -1,0 +1,24 @@
+{
+  "id": "r103",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND Nature Communications[jour]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'PSMF1[tiab] AND Nature Communications[jour]'; showing 1 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND \"nat commun\"[Journal])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

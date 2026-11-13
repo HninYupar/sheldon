@@ -1,0 +1,25 @@
+{
+  "id": "r57",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (muscle[tiab] OR neuromuscular[tiab] OR motor neuron[tiab] OR neurogenic[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'PSMF1[gene] AND (muscle[tiab] OR neuromuscular[tiab] OR motor neuron[tiab] OR neurogenic[tiab])'; showing 1 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"muscle\"[Title/Abstract] OR \"neuromuscular\"[Title/Abstract] OR \"motor neuron\"[Title/Abstract] OR \"neurogenic\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "21866628",
+      "title": "[The antagonistic effect of PI3K-gamma inhibitor AS605240 on cardiac hypertrophy and cardiac fibrosis induced by isoproterenol in rats].",
+      "first_author": "Song LF",
+      "year": "2011",
+      "journal": "Sichuan Da Xue Xue Bao Yi Xue Ban",
+      "doi": "",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

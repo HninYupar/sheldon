@@ -1,0 +1,133 @@
+{
+  "id": "r92",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "42012897",
+    "relation": "references",
+    "max_results": 10
+  },
+  "summary": "57 'references' links for PMID 42012897; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40209002",
+      "title": "Commander complex regulates lysosomal function and is implicated in Parkinson's disease risk.",
+      "first_author": "Minakaki G",
+      "year": "2025",
+      "journal": "Science",
+      "doi": "10.1126/science.adq6650",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40040844",
+      "title": "Biallelic variants in GTF3C3 encoding a subunit of the TFIIIC2 complex are associated with neurodevelopmental phenotypes in humans and zebrafish.",
+      "first_author": "Abdel-Hamid MS",
+      "year": "2025",
+      "journal": "Brain Commun",
+      "doi": "10.1093/braincomms/fcaf055",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38600167",
+      "title": "Messenger RNA transport on lysosomal vesicles maintains axonal mitochondrial homeostasis and prevents axonal degeneration.",
+      "first_author": "De Pace R",
+      "year": "2024",
+      "journal": "Nat Neurosci",
+      "doi": "10.1038/s41593-024-01619-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38128568",
+      "title": "Biallelic BORCS8 variants cause an infantile-onset neurodegenerative disorder with altered lysosome dynamics.",
+      "first_author": "De Pace R",
+      "year": "2024",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad427",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37213076",
+      "title": "Inhibition of endolysosome fusion increases exosome secretion.",
+      "first_author": "Shelke GV",
+      "year": "2023",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.202209084",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "36869426",
+      "title": "Systematic Transmission Electron Microscopy-Based Identification and 3D Reconstruction of Cellular Degradation Machinery.",
+      "first_author": "Neikirk K",
+      "year": "2023",
+      "journal": "Adv Biol (Weinh)",
+      "doi": "10.1002/adbi.202200221",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36640308",
+      "title": "Consecutive functions of small GTPases guide HOPS-mediated tethering of late endosomes and lysosomes.",
+      "first_author": "Schleinitz A",
+      "year": "2023",
+      "journal": "Cell Rep",
+      "doi": "10.1016/j.celrep.2022.111969",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36418108",
+      "title": "Quantitative 3D correlative light and electron microscopy of organelle association during autophagy.",
+      "first_author": "Takahashi S",
+      "year": "2022",
+      "journal": "Cell Struct Funct",
+      "doi": "10.1247/csf.22071",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35858317",
+      "title": "A versatile fluorescence-quenched substrate for quantitative measurement of glucocerebrosidase activity within live cells.",
+      "first_author": "Deen MC",
+      "year": "2022",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2200553119",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35819772",
+      "title": "Measurement of Lysosome Positioning by Shell Analysis and Line Scan.",
+      "first_author": "Williamson CD",
+      "year": "2022",
+      "journal": "Methods Mol Biol",
+      "doi": "10.1007/978-1-0716-2209-4_19",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural"
+      ]
+    }
+  ]
+}

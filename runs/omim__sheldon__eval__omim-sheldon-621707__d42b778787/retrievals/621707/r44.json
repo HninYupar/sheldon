@@ -1,0 +1,121 @@
+{
+  "id": "r44",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (de novo[tiab] OR activating[tiab] OR missense[tiab] OR germline[tiab]) AND (patient[tiab] OR syndrome[tiab] OR immunodeficiency[tiab] OR phenotype[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "9 PubMed hits for 'GNAI2[gene] AND (de novo[tiab] OR activating[tiab] OR missense[tiab] OR germline[tiab]) AND (patient[tiab] OR syndrome[tiab] OR immunodeficiency[tiab] OR phenotype[tiab])'; showing 9 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"de novo\"[Title/Abstract] OR \"activating\"[Title/Abstract] OR \"missense\"[Title/Abstract] OR \"germline\"[Title/Abstract]) AND (\"patient\"[Title/Abstract] OR \"syndrome\"[Title/Abstract] OR \"immunodeficiency\"[Title/Abstract] OR \"phenotype\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32856736",
+      "title": "miR-34a is upregulated in AIP-mutated somatotropinomas and promotes octreotide resistance.",
+      "first_author": "Bogner EM",
+      "year": "2020",
+      "journal": "Int J Cancer",
+      "doi": "10.1002/ijc.33268",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25205820",
+      "title": "Insulin secretion stimulated by L-arginine and its metabolite L-ornithine depends on G\u03b1(i2).",
+      "first_author": "Leiss V",
+      "year": "2014",
+      "journal": "Am J Physiol Endocrinol Metab",
+      "doi": "10.1152/ajpendo.00337.2014",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27787898",
+      "title": "Role of a heterotrimeric G-protein, Gi2, in the corticogenesis: possible involvement in periventricular nodular heterotopia and intellectual disability.",
+      "first_author": "Hamada N",
+      "year": "2017",
+      "journal": "J Neurochem",
+      "doi": "10.1111/jnc.13878",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26854024",
+      "title": "JAK-STAT and G-protein-coupled receptor signaling pathways are frequently altered in epitheliotropic intestinal T-cell lymphoma.",
+      "first_author": "Nairism\u00e4gi ML",
+      "year": "2016",
+      "journal": "Leukemia",
+      "doi": "10.1038/leu.2016.13",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25291362",
+      "title": "Mutation analysis of inhibitory guanine nucleotide binding protein alpha (GNAI) loci in young and familial pituitary adenomas.",
+      "first_author": "Demir H",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0109897",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42420675",
+      "title": "The NeuroWES project: lessons learned from comprehensive phenotyping and genetic analysis of neurodevelopmental disorders over a decade.",
+      "first_author": "Cardaropoli S",
+      "year": "2026",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-026-02843-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31036916",
+      "title": "Variant\u00a0recurrence in neurodevelopmental disorders: the use of publicly available genomic data identifies clinically relevant pathogenic missense variants.",
+      "first_author": "Lecoquierre F",
+      "year": "2019",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-019-0518-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

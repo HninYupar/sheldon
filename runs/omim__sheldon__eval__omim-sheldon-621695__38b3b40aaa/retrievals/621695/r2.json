@@ -1,0 +1,606 @@
+{
+  "id": "r2",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"arthrogryposis multiplex congenita 8\" OR AMC8 OR \"neurogenic type\"",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "529 PubMed hits for '\"arthrogryposis multiplex congenita 8\" OR AMC8 OR \"neurogenic type\"'; showing 50 (PubMed read it as: ((\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR (\"arthrogryposis\"[All Fields] AND \"multiplex\"[All Fields] AND \"congenita\"[All Fields]) OR \"arthrogryposis multiplex congenita\"[All Fields]) AND \"8\"[All Fields]) OR \"AMC8\"[All Fields] OR \"neurogenic type\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "24459070",
+      "title": "Amyoplasia revisited.",
+      "first_author": "Hall JG",
+      "year": "2014",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.36395",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20301516",
+      "title": "Cockayne Syndrome.",
+      "first_author": "Adam MP",
+      "year": "1993",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "3366895",
+      "title": "Arthrogryposis.",
+      "first_author": "Herring JA",
+      "year": "1988",
+      "journal": "J Pediatr Orthop",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35696452",
+      "title": "The gain of function SCN1A disorder spectrum: novel epilepsy phenotypes and therapeutic implications.",
+      "first_author": "Brunklaus A",
+      "year": "2022",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awac210",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41300731",
+      "title": "PMP22-Related Neuropathies: A Systematic Review.",
+      "first_author": "Cesaroni CA",
+      "year": "2025",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes16111279",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "40048676",
+      "title": "Genotype-Phenotype Landscape of NALCN and UNC80-Related Disorders.",
+      "first_author": "Parra-D\u00edaz P",
+      "year": "2025",
+      "journal": "Neurology",
+      "doi": "10.1212/WNL.0000000000213429",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37147532",
+      "title": "[Thyroid Eye Disease-Compressive Optic Neuropathy].",
+      "first_author": "Garip Kuebler A",
+      "year": "2023",
+      "journal": "Ophthalmologie",
+      "doi": "10.1007/s00347-023-01865-x",
+      "pubtype": [
+        "Observational Study",
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36757831",
+      "title": "The clinical and genetic spectrum of autosomal-recessive TOR1A-related disorders.",
+      "first_author": "Saffari A",
+      "year": "2023",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad039",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32040062",
+      "title": "Patient-reported Outcomes in Arthrogryposis.",
+      "first_author": "Wall LB",
+      "year": "2020",
+      "journal": "J Pediatr Orthop",
+      "doi": "10.1097/BPO.0000000000001527",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37186601",
+      "title": "The emerging spectrum of fetal acetylcholine receptor antibody-related disorders (FARAD).",
+      "first_author": "Allen NM",
+      "year": "2023",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad153",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "2797850",
+      "title": "Arthrogryposis multiplex congenita.",
+      "first_author": "Bender LH",
+      "year": "1989",
+      "journal": "Orthop Nurs",
+      "doi": "10.1097/00006416-198909000-00009",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "1157389",
+      "title": "Trisomy 8 syndrome.",
+      "first_author": "Lai CC",
+      "year": "1975",
+      "journal": "Clin Orthop Relat Res",
+      "doi": "",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39666198",
+      "title": "Literature review of clinical analysis of hereditary neuropathy with liability to pressure palsies.",
+      "first_author": "Chen L",
+      "year": "2024",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-024-12839-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40580892",
+      "title": "Development of a versatile deep hyperthermia treatment planning tool.",
+      "first_author": "Drizdal T",
+      "year": "2025",
+      "journal": "Phys Med",
+      "doi": "10.1016/j.ejmp.2025.105035",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40219868",
+      "title": "Biallelic Variant, c.644-13_644-9del in UNC50 Is Associated With Congenital Myasthenia Syndrome.",
+      "first_author": "Shravya MS",
+      "year": "2025",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.64086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38548315",
+      "title": "Subcellular localisation of truncated MAGEL2 proteins: insight into the molecular pathology of Schaaf-Yang syndrome.",
+      "first_author": "Centeno-Pla M",
+      "year": "2024",
+      "journal": "J Med Genet",
+      "doi": "10.1136/jmg-2024-109898",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "4758131",
+      "title": "Arythenoidectomy in children.",
+      "first_author": "Cohen SR",
+      "year": "1973",
+      "journal": "Laryngoscope",
+      "doi": "10.1288/00005537-197308000-00013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31885220",
+      "title": "A novel de novo nonsense mutation in ZC4H2 causes Wieacker-Wolff Syndrome.",
+      "first_author": "Wang D",
+      "year": "2020",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.1100",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28317099",
+      "title": "Mutations in ERGIC1 cause Arthrogryposis multiplex congenita, neuropathic type.",
+      "first_author": "Reinstein E",
+      "year": "2018",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.13018",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36628841",
+      "title": "Inherited myopathy plus: Double-trouble from rare neuromuscular disorders.",
+      "first_author": "Granger A",
+      "year": "2023",
+      "journal": "Neuromuscul Disord",
+      "doi": "10.1016/j.nmd.2022.12.009",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37215511",
+      "title": "Effectiveness of Ponseti technique in management of arthrogrypotic clubfeet - a prospective study.",
+      "first_author": "Alam N",
+      "year": "2023",
+      "journal": "Int J Burns Trauma",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30400128",
+      "title": "Revisiting the Many Names of Freeman-Sheldon Syndrome.",
+      "first_author": "Poling MI",
+      "year": "2018",
+      "journal": "J Craniofac Surg",
+      "doi": "10.1097/SCS.0000000000004802",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42393765",
+      "title": "Phenotype-specific muscle proteomic profiling in titinopathies.",
+      "first_author": "Perrin A",
+      "year": "2026",
+      "journal": "Acta Neuropathol Commun",
+      "doi": "10.1186/s40478-026-02363-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33191452",
+      "title": "Orthopaedic approach to the congenital Zika syndrome.",
+      "first_author": "Matos MA",
+      "year": "2021",
+      "journal": "Int Orthop",
+      "doi": "10.1007/s00264-020-04521-0",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36906250",
+      "title": "A comprehensive perspective of Huntington's disease and mitochondrial dysfunction.",
+      "first_author": "Dai Y",
+      "year": "2023",
+      "journal": "Mitochondrion",
+      "doi": "10.1016/j.mito.2023.03.001",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38933350",
+      "title": "EVALUATION OF ARTHROGRYPOTIC FOOT TREATMENT: MINIMUM 10 YEARS FOLLOW-UP.",
+      "first_author": "Nogueira MP",
+      "year": "2024",
+      "journal": "Acta Ortop Bras",
+      "doi": "10.1590/1413-785220243202e275561",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35647989",
+      "title": "The electromyographic analysis of orbicularis oculi muscle in epiphora.",
+      "first_author": "Yazicioglu T",
+      "year": "2022",
+      "journal": "Indian J Ophthalmol",
+      "doi": "10.4103/ijo.IJO_2744_21",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35504761",
+      "title": "A novel ZC4H2 variant in a female with severe respiratory complications.",
+      "first_author": "Wakabayashi T",
+      "year": "2022",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2022.04.009",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35595401",
+      "title": "Autosomal recessive spinocerebellar ataxia SCAR8/ARCA1: first families detected in Spain.",
+      "first_author": "Arias M",
+      "year": "2022",
+      "journal": "Neurologia (Engl Ed)",
+      "doi": "10.1016/j.nrleng.2019.01.014",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37628590",
+      "title": "The ATP6V1B2 DDOD/DOORS-Associated p.Arg506* Variant Causes Hyperactivity and Seizures in Mice.",
+      "first_author": "Rousseau J",
+      "year": "2023",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes14081538",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26141802",
+      "title": "[Arthrogryposis: clinical manifestations and management].",
+      "first_author": "Ayadi K",
+      "year": "2015",
+      "journal": "Arch Pediatr",
+      "doi": "10.1016/j.arcped.2015.05.014",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25219146",
+      "title": "[Fetal Escobar syndrome--a case report].",
+      "first_author": "Olejniczak T",
+      "year": "2014",
+      "journal": "Ginekol Pol",
+      "doi": "10.17772/gp/1784",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39736737",
+      "title": "VIPAS39 related arthrogryposis-renal dysfunction-cholestasis syndrome-case report and systematic review.",
+      "first_author": "Kafol J",
+      "year": "2024",
+      "journal": "Orphanet J Rare Dis",
+      "doi": "10.1186/s13023-024-03486-2",
+      "pubtype": [
+        "Systematic Review",
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30989370",
+      "title": "Hereditary neuropathy with liability to pressure palsies.",
+      "first_author": "Attarian S",
+      "year": "2020",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-019-09319-8",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37431644",
+      "title": "DST variants are responsible for neurogenic arthrogryposis multiplex congenita enlarging the spectrum of type VI hereditary sensory autonomic neuropathy.",
+      "first_author": "Capri Y",
+      "year": "2023",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14397",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30626539",
+      "title": "Characteristic clinical and ultrastructural findings in nesprinopathies.",
+      "first_author": "K\u00f6lbel H",
+      "year": "2019",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2018.12.011",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21150740",
+      "title": "Orthopaedic manifestations of arthrogryposis-renal dysfunction-cholestasis syndrome.",
+      "first_author": "Jang WY",
+      "year": "2011",
+      "journal": "J Pediatr Orthop",
+      "doi": "10.1097/BPO.0b013e3182032c83",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38568023",
+      "title": "ECEL1 related distal arthrogryposis 5D in an Indian cohort-Report of recognizable musculoskeletal phenotype and a possible founder variant.",
+      "first_author": "Endrakanti M",
+      "year": "2024",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.63592",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36631315",
+      "title": "Skeletal anomaly and opisthotonus in early-onset epileptic encephalopathy with KCNQ2 abnormality.",
+      "first_author": "Kawano O",
+      "year": "2023",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2022.12.004",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33689168",
+      "title": "Can rodent models elucidate the pathomechanisms of genetic epilepsy?",
+      "first_author": "Okada M",
+      "year": "2022",
+      "journal": "Br J Pharmacol",
+      "doi": "10.1111/bph.15443",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "3942523",
+      "title": "Arthrogryposis multiplex congenita.",
+      "first_author": "Poser S",
+      "year": "1986",
+      "journal": "Arch Neurol",
+      "doi": "10.1001/archneur.1986.00520010008005",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "14395471",
+      "title": "Arthrogryposis multiplex congenita.",
+      "first_author": "JACOBSON HG",
+      "year": "1955",
+      "journal": "Radiology",
+      "doi": "10.1148/65.1.8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36379720",
+      "title": "Rapid genome sequencing identifies a novel de novo SNAP25 variant for neonatal congenital myasthenic syndrome.",
+      "first_author": "Reynolds HM",
+      "year": "2022",
+      "journal": "Cold Spring Harb Mol Case Stud",
+      "doi": "10.1101/mcs.a006242",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34814150",
+      "title": "Copeptin: Utility in Paediatric Patients with Hyponatraemia.",
+      "first_author": "Boal RL",
+      "year": "2022",
+      "journal": "Horm Res Paediatr",
+      "doi": "10.1159/000521073",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33233749",
+      "title": "One-Stage Extension Shortening Osteotomy for Syndromic Camptodactyly.",
+      "first_author": "Park BK",
+      "year": "2020",
+      "journal": "J Clin Med",
+      "doi": "10.3390/jcm9113731",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34440395",
+      "title": "The Clinical and Genotypic Spectrum of Scoliosis in Multiple Pterygium Syndrome: A Case Series on 12 Children.",
+      "first_author": "Dahan-Oliel N",
+      "year": "2021",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes12081220",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37339770",
+      "title": "Effects of Powerchair Football: Contextual Factors That Impact Participation.",
+      "first_author": "Vandenbergue A",
+      "year": "2024",
+      "journal": "Adapt Phys Activ Q",
+      "doi": "10.1123/apaq.2022-0124",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41024163",
+      "title": "Hypoglycemic noncardiogenic pulmonary edema: a case report.",
+      "first_author": "Tesfay F",
+      "year": "2025",
+      "journal": "J Med Case Rep",
+      "doi": "10.1186/s13256-025-05413-w",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "34189232",
+      "title": "Management of Fibro-adipose Vascular Anomalies (FAVA) in Paediatric Practice.",
+      "first_author": "Lipede C",
+      "year": "2021",
+      "journal": "JPRAS Open",
+      "doi": "10.1016/j.jpra.2021.05.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29805041",
+      "title": "Recessive Spondylocarpotarsal Synostosis Syndrome Due to Compound Heterozygosity for Variants in MYH3.",
+      "first_author": "Cameron-Christie SR",
+      "year": "2018",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2018.04.008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

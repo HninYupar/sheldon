@@ -1,0 +1,39 @@
+{
+  "id": "r147",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "31367875",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "2 'cited_by' links for PMID 31367875; showing 2",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38770804",
+      "title": "Interventions for smoking cessation in hospitalised patients.",
+      "first_author": "Streck JM",
+      "year": "2024",
+      "journal": "Cochrane Database Syst Rev",
+      "doi": "10.1002/14651858.CD001837.pub4",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ]
+    },
+    {
+      "pmid": "33010473",
+      "title": "Patient navigation among recently hospitalized smokers to promote tobacco treatment: Results from a randomized exploratory pilot study.",
+      "first_author": "Quintiliani LM",
+      "year": "2021",
+      "journal": "Addict Behav",
+      "doi": "10.1016/j.addbeh.2020.106659",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

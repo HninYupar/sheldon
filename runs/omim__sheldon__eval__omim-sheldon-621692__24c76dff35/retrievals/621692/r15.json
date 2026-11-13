@@ -1,0 +1,121 @@
+{
+  "id": "r15",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "35722745",
+      "23934111",
+      "39096015"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "authors": [
+        "Lipman AR",
+        "Fan X",
+        "Shen Y",
+        "Chung WK"
+      ],
+      "year": "2022",
+      "journal": "Clinical genetics",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Autism Spectrum Disorder",
+        "Calcium Channels",
+        "Humans",
+        "Nystagmus, Pathologic",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Pathogenic variants in the CACNA1A gene have been associated with episodic ataxia type 2, familial hemiplegic migraine, and spinocerebellar ataxia 6. With increasing use of clinical genetic testing, associations have expanded to include developmental delay, epilepsy, paroxysmal dystonia, and neuropsychiatric disorders. We report 47 individuals with 33 unique likely pathogenic or pathogenic CACNA1A variants. A machine learning method, funNCion, was used to predict loss-of-function (LoF)/gain-of-function (GoF) impact of genetic variants, and a heuristic severity score was designed to analyze genotype/phenotype correlations. Commonly reported phenotypes include developmental delay/intellectual disability (96%), hemiplegic migraines (36%), episodic ataxia type 2 (32%), epilepsy (55%), autism spectrum disorder (23%), and paroxysmal tonic upward gaze (36%). Severity score was significantly higher for predicted GoF variants, variants in the S5/S6 helices, and the recurrent p.Val1392Met variant. Seizures/status epilepticus were correlated with GoF and were more frequent in those with the p.Val1392Met variant. Our findings demonstrate a breadth of disease severity in CACNA1A-related disease and suggest that the clinical phenotypic heterogeneity likely reflects diverse molecular phenotypes. A better understanding of the natural history of CACNA1A-related disease and genotype/phenotype correlations will help inform prognosis and prepare for future clinical trials."
+    },
+    {
+      "pmid": "23934111",
+      "title": "De novo mutations in epileptic encephalopathies.",
+      "authors": [
+        "Epi4K Consortium",
+        "Epilepsy Phenome/Genome Project",
+        "Allen AS",
+        "Berkovic SF",
+        "Cossette P",
+        "Delanty N",
+        "et al."
+      ],
+      "year": "2013",
+      "journal": "Nature",
+      "doi": "10.1038/nature12439",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, American Recovery and Reinvestment Act",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Child Development Disorders, Pervasive",
+        "Cohort Studies",
+        "Exome",
+        "Female",
+        "Fragile X Messenger Ribonucleoprotein 1",
+        "Genetic Predisposition to Disease",
+        "Humans",
+        "Infant",
+        "Intellectual Disability",
+        "Lennox Gastaut Syndrome",
+        "Male",
+        "Mutation",
+        "Mutation Rate",
+        "N-Acetylglucosaminyltransferases",
+        "Probability",
+        "Receptors, GABA-A",
+        "Spasms, Infantile"
+      ],
+      "abstract": "Epileptic encephalopathies are a devastating group of severe childhood epilepsy disorders for which the cause is often unknown. Here we report a screen for de novo mutations in patients with two classical epileptic encephalopathies: infantile spasms (n = 149) and Lennox-Gastaut syndrome (n = 115). We sequenced the exomes of 264 probands, and their parents, and confirmed 329 de novo mutations. A likelihood analysis showed a significant excess of de novo mutations in the \u223c4,000 genes that are the most intolerant to functional genetic variation in the human population (P = 2.9\u2009\u00d7\u200910(-3)). Among these are GABRB3, with de novo mutations in four patients, and ALG13, with the same de novo mutation in two patients; both genes show clear statistical evidence of association with epileptic encephalopathy. Given the relevant site-specific mutation rates, the probabilities of these outcomes occurring by chance are P = 4.1\u2009\u00d7\u200910(-10) and P = 7.8\u2009\u00d7\u200910(-12), respectively. Other genes with de novo mutations in this cohort include CACNA1A, CHD2, FLNA, GABRA1, GRIN1, GRIN2B, HNRNPU, IQSEC2, MTOR and NEDD4L. Finally, we show that the de novo mutations observed are enriched in specific gene sets including genes regulated by the fragile X protein (P\u2009<\u200910(-8)), as has been reported previously for autism spectrum disorders."
+    },
+    {
+      "pmid": "39096015",
+      "title": "Solving the Etiology of Developmental and Epileptic Encephalopathy with Spike-Wave Activation in Sleep (D/EE-SWAS).",
+      "authors": [
+        "Viswanathan S",
+        "Oliver KL",
+        "Regan BM",
+        "Schneider AL",
+        "Myers CT",
+        "Mehaffey MG",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Annals of neurology",
+      "doi": "10.1002/ana.27041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Female",
+        "Male",
+        "Child, Preschool",
+        "Child",
+        "Infant",
+        "Spasms, Infantile",
+        "Adolescent",
+        "Electroencephalography",
+        "Sleep",
+        "Cohort Studies",
+        "Phenotype",
+        "Adult",
+        "Young Adult"
+      ],
+      "abstract": "OBJECTIVE: To understand the etiological landscape and phenotypic differences between 2 developmental and epileptic encephalopathy (DEE) syndromes: DEE with spike-wave activation in sleep (DEE-SWAS) and epileptic encephalopathy with spike-wave activation in sleep (EE-SWAS).\nMETHODS: All patients fulfilled International League Against Epilepsy (ILAE) DEE-SWAS or EE-SWAS criteria with a Core cohort (n\u2009=\u200991) drawn from our Epilepsy Genetics research program, together with 10 etiologically solved patients referred by collaborators in the Expanded cohort (n\u2009=\u2009101). Detailed phenotyping and analysis of molecular genetic results were performed. We compared the phenotypic features of individuals with DEE-SWAS and EE-SWAS. Brain-specific gene co-expression analysis was performed for D/EE-SWAS genes.\nRESULTS: We identified the etiology in 42/91 (46%) patients in our Core cohort, including 29/44 (66%) with DEE-SWAS and 13/47 (28%) with EE-SWAS. A genetic etiology was identified in 31/91 (34%). D/EE-SWAS genes were highly co-expressed in brain, highlighting the importance of channelopathies and transcriptional regulators. Structural etiologies were found in 12/91 (13%) individuals. We identified 10 novel D/EE-SWAS genes with a range of functions: ATP1A2, CACNA1A, FOXP1, GRIN1, KCNMA1, KCNQ3, PPFIA3, PUF60, SETD1B, and ZBTB18, and 2 novel copy number variants, 17p11.2 duplication and 5q22 deletion. Although developmental regression patterns were similar in both syndromes, DEE-SWAS was associated with a longer duration of epilepsy and poorer intellectual outcome than EE-SWAS.\nINTERPRETATION: DEE-SWAS and EE-SWAS have highly heterogeneous genetic and structural etiologies. Phenotypic analysis highlights valuable clinical differences between DEE-SWAS and EE-SWAS which inform clinical care and prognostic counseling. Our etiological findings pave the way for the development of precision therapies. ANN NEUROL 2024;96:932-943."
+    }
+  ]
+}

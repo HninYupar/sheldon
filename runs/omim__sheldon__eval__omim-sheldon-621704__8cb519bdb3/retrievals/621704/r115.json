@@ -1,0 +1,71 @@
+{
+  "id": "r115",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "42012897",
+      "40385417"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42012897",
+      "title": "Pathogenic variants in BORCS5 cause a spectrum of neurodevelopmental and neurodegenerative disorders with lysosomal dysfunction.",
+      "authors": [
+        "Mencacci NE",
+        "Minakaki G",
+        "Maroofian R",
+        "De Pace R",
+        "Paimboeuf A",
+        "Branco Fonseca T",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "The Journal of clinical investigation",
+      "doi": "10.1172/JCI195336",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Animals",
+        "Female",
+        "Zebrafish",
+        "Lysosomes",
+        "Male",
+        "Neurodegenerative Diseases",
+        "Neurodevelopmental Disorders",
+        "Child, Preschool",
+        "Child",
+        "Infant",
+        "Zebrafish Proteins",
+        "Adult"
+      ],
+      "abstract": "BORCS5 encodes a subunit of the BLOC-One-Related Complex (BORC), which is known to promote anterograde movement and fusion of lysosomes. We identified 16 individuals from 9 families with bi-allelic BORCS5 variants, revealing a spectrum of neurodevelopmental and neurodegenerative phenotypes. Carriers of homozygous protein-truncating variants (PTVs), resulting in complete loss of BORCS5, presented with prenatally lethal arthrogryposis multiplex congenita, brain malformations, and neuropathological evidence of neuroaxonal dystrophy. Individuals with missense or splice-site variants presented differently, with microcephaly, developmental epileptic encephalopathy, optic atrophy, spasticity, and progressive movement disorders. In this group, brain MRI showed diffuse hypomyelination, corpus callosum abnormalities, and progressive global cerebral atrophy, consistent with neurodegeneration. Borcs5 KO in zebrafish resulted in microcephaly, motor deficits, and increased seizure susceptibility, mirroring the patients' clinical presentation. At the cellular level, only BORCS5 PTVs, but not missense variants, led to perinuclear lysosomal clustering and impaired lysosomal axonal trafficking in induced pluripotent stem cell-derived forebrain neurons. However, PTVs and missense variants were associated with reduced lysosomal proteolysis and activity of lysosomal hydrolases glucocerebrosidase and cathepsin B, indicating lysosomal dysfunction. Our study reveals a role for BORCS5 in modulation of lysosomal function, in addition to its known role in lysosome movement and fusion, possibly underlying the diverse clinical manifestations in individuals with BORCS5-related disorders."
+    },
+    {
+      "pmid": "40385417",
+      "title": "Pathogenic variants in BORCS5 Cause a Spectrum of Neurodevelopmental and Neurodegenerative Disorders with Lysosomal Dysfunction.",
+      "authors": [
+        "Mencacci NE",
+        "Minakaki G",
+        "Maroofian R",
+        "De Pace R",
+        "Paimboeuf A",
+        "Shannon P",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "doi": "10.1101/2025.04.30.25326597",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh": [],
+      "abstract": "BORCS5 encodes a subunit of the BLOC-one-related complex (BORC), which is known to mediate the kinesin-dependent anterograde movement of lysosomes. Using whole-exome sequencing, we identified 12 cases from seven families carrying bi-allelic BORCS5 variants, including four loss-of-function and two missense variants. Carriers of homozygous loss-of-function variants presented with prenatally lethal arthrogryposis multiplex congenita, brain malformations, and neuropathological evidence of diffuse neuroaxonal dystrophy. Individuals with missense variants presented differently, with microcephaly, developmental epileptic encephalopathy, intellectual disability, optic atrophy, spasticity, and progressive movement disorders. In this group, brain MRI showed diffuse hypomyelination and progressive global cerebral atrophy, consistent with neurodegeneration. Borcs5 knockout in zebrafish exhibited microcephaly, motor deficits, and seizures, mirroring the patients' clinical presentation. At the cellular level, BORCS5 loss-of-function but not missense variants, resulted in lower protein expression and impaired BORC assembly, paralleled by perinuclear lysosomal clustering. However, both loss-of-function and missense BORCS5 variants were associated with reduced total lysosomal proteolysis, reduced activity of the lysosomal hydrolases glucocerebrosidase and cathepsin B, and presence of multilamellar bodies, indicating lysosomal dysfunction. Our study reveals a novel role for BORCS5 in the regulation of lysosomal function, in addition to its known role in the anterograde movement of lysosomes, possibly underlying the diverse clinical manifestations in individuals with BORCS5-related disorders."
+    }
+  ]
+}

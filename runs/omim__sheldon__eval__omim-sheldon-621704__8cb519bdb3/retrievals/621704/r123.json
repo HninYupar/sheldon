@@ -1,0 +1,156 @@
+{
+  "id": "r123",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "38128568",
+      "40209002",
+      "38600167",
+      "41887224"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38128568",
+      "title": "Biallelic BORCS8 variants cause an infantile-onset neurodegenerative disorder with altered lysosome dynamics.",
+      "authors": [
+        "De Pace R",
+        "Maroofian R",
+        "Paimboeuf A",
+        "Zamani M",
+        "Zaki MS",
+        "Sadeghian S",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Brain : a journal of neurology",
+      "doi": "10.1093/brain/awad427",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Lysosomes",
+        "Female",
+        "Male",
+        "Neurodegenerative Diseases",
+        "Animals",
+        "Infant",
+        "Child, Preschool",
+        "Child",
+        "Zebrafish",
+        "Pedigree",
+        "ADP-Ribosylation Factors",
+        "Alleles",
+        "Mutation, Missense"
+      ],
+      "abstract": "BLOC-one-related complex (BORC) is a multiprotein complex composed of eight subunits named BORCS1-8. BORC associates with the cytosolic face of lysosomes, where it sequentially recruits the small GTPase ARL8 and kinesin-1 and -3 microtubule motors to promote anterograde transport of lysosomes toward the peripheral cytoplasm in non-neuronal cells and the distal axon in neurons. The physiological and pathological importance of BORC in humans, however, remains to be determined. Here, we report the identification of compound heterozygous variants [missense c.85T>C (p.Ser29Pro) and frameshift c.71-75dupTGGCC (p.Asn26Trpfs*51)] and homozygous variants [missense c.196A>C (p.Thr66Pro) and c.124T>C (p.Ser42Pro)] in BORCS8 in five children with a severe early-infantile neurodegenerative disorder from three unrelated families. The children exhibit global developmental delay, severe-to-profound intellectual disability, hypotonia, limb spasticity, muscle wasting, dysmorphic facies, optic atrophy, leuko-axonopathy with hypomyelination, and neurodegenerative features with prevalent supratentorial involvement. Cellular studies using a heterologous transfection system show that the BORCS8 missense variants p.Ser29Pro, p.Ser42Pro and p.Thr66Pro are expressed at normal levels but exhibit reduced assembly with other BORC subunits and reduced ability to drive lysosome distribution toward the cell periphery. The BORCS8 frameshift variant p.Asn26Trpfs*51, on the other hand, is expressed at lower levels and is completely incapable of assembling with other BORC subunits and promoting lysosome distribution toward the cell periphery. Therefore, all the BORCS8 variants are partial or total loss-of-function alleles and are thus likely pathogenic. Knockout of the orthologous borcs8 in zebrafish causes decreased brain and eye size, neuromuscular anomalies and impaired locomotion, recapitulating some of the key traits of the human disease. These findings thus identify BORCS8 as a novel genetic locus for an early-infantile neurodegenerative disorder and highlight the critical importance of BORC and lysosome dynamics for the development and function of the central nervous system."
+    },
+    {
+      "pmid": "40209002",
+      "title": "Commander complex regulates lysosomal function and is implicated in Parkinson's disease risk.",
+      "authors": [
+        "Minakaki G",
+        "Safren N",
+        "Bustos BI",
+        "Lubbe SJ",
+        "Mencacci NE",
+        "Krainc D"
+      ],
+      "year": "2025",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.adq6650",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Lysosomes",
+        "Parkinson Disease",
+        "Humans",
+        "Glucosylceramidase",
+        "Adaptor Proteins, Signal Transducing",
+        "HEK293 Cells",
+        "Genetic Predisposition to Disease",
+        "Lewy Body Disease"
+      ],
+      "abstract": "Variants in GBA1 resulting in decreased lysosomal glucocerebrosidase (GCase) activity are a common risk factor for Parkinson's disease (PD) and dementia with Lewy bodies (DLB). Incomplete penetrance of GBA1 variants suggests that additional genes contribute to PD and DLB manifestation. By using a pooled genome-wide CRISPR interference screen, we identified copper metabolism MURR1 domain-containing 3 (COMMD3) protein, a component of the COMMD/coiled-coil domain-containing protein 22 (CCDC22)/CCDC93 (CCC) and Commander complexes, as a modifier of GCase and lysosomal activity. Loss of COMMD3 increased the release of lysosomal proteins through extracellular vesicles, leading to their impaired delivery to endolysosomes and consequent lysosomal dysfunction. Rare variants in the Commander gene family were associated with increased PD risk. Thus, COMMD genes and related complexes regulate lysosomal homeostasis and may represent modifiers in PD and other neurodegenerative diseases associated with lysosomal dysfunction."
+    },
+    {
+      "pmid": "38600167",
+      "title": "Messenger RNA transport on lysosomal vesicles maintains axonal mitochondrial homeostasis and prevents axonal degeneration.",
+      "authors": [
+        "De Pace R",
+        "Ghosh S",
+        "Ryan VH",
+        "Sohn M",
+        "Jarnik M",
+        "Rezvan Sangsari P",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Nature neuroscience",
+      "doi": "10.1038/s41593-024-01619-1",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Mitochondria",
+        "Lysosomes",
+        "Axons",
+        "Mice",
+        "RNA, Messenger",
+        "Homeostasis",
+        "Humans",
+        "Induced Pluripotent Stem Cells",
+        "Nerve Degeneration",
+        "Axonal Transport",
+        "Mice, Knockout",
+        "Neurons",
+        "RNA Transport"
+      ],
+      "abstract": "In neurons, RNA granules are transported along the axon for local translation away from the soma. Recent studies indicate that some of this transport involves hitchhiking of RNA granules on lysosome-related vesicles. In the present study, we leveraged the ability to prevent transport of these vesicles into the axon by knockout of the lysosome-kinesin adaptor BLOC-one-related complex (BORC) to identify a subset of axonal mRNAs that depend on lysosome-related vesicles for transport. We found that BORC knockout causes depletion of a large group of axonal mRNAs mainly encoding ribosomal and mitochondrial/oxidative phosphorylation proteins. This depletion results in mitochondrial defects and eventually leads to axonal degeneration in human induced pluripotent stem cell (iPSC)-derived and mouse neurons. Pathway analyses of the depleted mRNAs revealed a mechanistic connection of BORC deficiency with common neurodegenerative disorders. These results demonstrate that mRNA transport on lysosome-related vesicles is critical for the maintenance of axonal homeostasis and that its failure causes axonal degeneration."
+    },
+    {
+      "pmid": "41887224",
+      "title": "BLOC1S1 variants cause lysosomal and autophagic defects resulting in a hypomyelinating leukodystrophy with epileptic encephalopathy.",
+      "authors": [
+        "De Pace R",
+        "Dominguez Gonzalez CA",
+        "Williamson CD",
+        "Helman G",
+        "Sanderson LE",
+        "Disanza B",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "American journal of human genetics",
+      "doi": "10.1016/j.ajhg.2026.02.024",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Autophagy",
+        "Lysosomes",
+        "Female",
+        "Male",
+        "Child",
+        "Child, Preschool",
+        "Nerve Tissue Proteins",
+        "Infant",
+        "Hereditary Central Nervous System Demyelinating Diseases",
+        "Mutation",
+        "Adolescent",
+        "Induced Pluripotent Stem Cells",
+        "Pedigree",
+        "Neurons"
+      ],
+      "abstract": "BLOC1S1 encodes a subunit shared by the BLOC-1 and BLOC-one-related complex (BORC) hetero-octameric complexes that regulate various endolysosomal processes. Here, we report the identification of seven distinct variants in BLOC1S1 in 11 individuals from seven independent families presenting with early psychomotor delay, hypotonia, spasticity, epileptic encephalopathy, optic atrophy, and leuko-axonopathy with hypomyelination. A subset of the affected individuals also have features of hypopigmentation and ocular albinism that are similar, although milder, than those of individuals with BLOC-1-related Hermansky-Pudlak syndrome. Functional analyses show that BLOC1S1 knockout (KO) impairs the anterograde transport of lysosomes and autophagy in both non-neuronal cells and induced pluripotent stem cell (iPSC)-derived neurons. Transfection experiments reveal that most BLOC1S1 variants exhibit reduced expression, decreased assembly with other BORC/BLOC-1 subunits, and/or impaired restoration of lysosome transport and autophagy in BLOC1S1-KO cells. Additionally, we show that KO of BLOC1S1 reduces pigmentation in a melanocytic cell line and that five of the BLOC1S1 variants partially or fully restore pigmentation. These findings provide genetic, clinical, and functional evidence that loss of function (LoF) of BLOC1S1 leads to more pronounced deficits in BORC than BLOC-1 function. We conclude that the bi-allelic BLOC1S1 variants characterized here primarily result in a neurological disorder with prominent leukodystrophy, similar to the recently reported condition caused by variants in the BORCS8 subunit of BORC. Together, these findings establish BORCopathies as a distinct disease entity."
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "r83",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (familial hemiplegic migraine OR episodic ataxia type 2 OR spinocerebellar ataxia 6) AND epilepsy",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "103 PubMed hits for 'CACNA1A[gene] AND (familial hemiplegic migraine OR episodic ataxia type 2 OR spinocerebellar ataxia 6) AND epilepsy'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"migraine with aura\"[MeSH Terms] OR (\"migraine\"[All Fields] AND \"aura\"[All Fields]) OR \"migraine with aura\"[All Fields] OR (\"familial\"[All Fields] AND \"hemiplegic\"[All Fields] AND \"migraine\"[All Fields]) OR \"familial hemiplegic migraine\"[All Fields] OR (\"episodic ataxia type 2\"[Supplementary Concept] OR \"episodic ataxia type 2\"[All Fields] OR \"episodic ataxia type 2\"[All Fields]) OR (\"spinocerebellar ataxias\"[MeSH Terms] OR (\"spinocerebellar\"[All Fields] AND \"ataxias\"[All Fields]) OR \"spinocerebellar ataxias\"[All Fields] OR \"spinocerebellar ataxia 6\"[All Fields])) AND (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38307656",
+      "title": "Hemiplegic migraine.",
+      "first_author": "de Boer I",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-12-823357-3.00015-X",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36592223",
+      "title": "CACNA1A-Related Channelopathies: Clinical Manifestations and Treatment Options.",
+      "first_author": "Indelicato E",
+      "year": "2023",
+      "journal": "Handb Exp Pharmacol",
+      "doi": "10.1007/164_2022_625",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39174245",
+      "title": "Familial hemiplegic migraine.",
+      "first_author": "Villar-Martinez MD",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-323-90820-7.00007-0",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38785745",
+      "title": "A Review of the CACNA Gene Family: Its Role in Neurological Disorders.",
+      "first_author": "Szymanowicz O",
+      "year": "2024",
+      "journal": "Diseases",
+      "doi": "10.3390/diseases12050090",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "16100538",
+      "title": "[Episodic ataxias].",
+      "first_author": "Herrmann A",
+      "year": "2005",
+      "journal": "Tidsskr Nor Laegeforen",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21492892",
+      "title": "[Hereditary episodic ataxia].",
+      "first_author": "Riant F",
+      "year": "2011",
+      "journal": "Rev Neurol (Paris)",
+      "doi": "10.1016/j.neurol.2010.10.016",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "first_author": "Hommersom MP",
+      "year": "2025",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "15907261",
+      "title": "Migraine genetics: an update.",
+      "first_author": "Haan J",
+      "year": "2005",
+      "journal": "Curr Pain Headache Rep",
+      "doi": "10.1007/s11916-005-0065-9",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38043972",
+      "title": "Pathophysiology of migraine aura.",
+      "first_author": "Sanchez Del Rio M",
+      "year": "2023",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-12-823356-6.00016-0",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33983550",
+      "title": "Epilepsy and episodic ataxia type 2: family study and review of the literature.",
+      "first_author": "Verriello L",
+      "year": "2021",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-021-10555-0",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20071244",
+      "title": "Sporadic hemiplegic migraine and epilepsy associated with CACNA1A gene mutation.",
+      "first_author": "Zangaladze A",
+      "year": "2010",
+      "journal": "Epilepsy Behav",
+      "doi": "10.1016/j.yebeh.2009.12.017",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40949139",
+      "title": "Epilepsy and migraine: a diagnostic and therapeutic challenge.",
+      "first_author": "Pascarella A",
+      "year": "2025",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2025.1649543",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41718461",
+      "title": "Expanding the phenotypic spectrum of CACNA1A-related developmental and epileptic encephalopathy in adults.",
+      "first_author": "Palumbo O",
+      "year": "2026",
+      "journal": "Epileptic Disord",
+      "doi": "10.1002/epd2.70207",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "28479855",
+      "title": "The genetic relationship between epilepsy and hemiplegic migraine.",
+      "first_author": "Huang Y",
+      "year": "2017",
+      "journal": "Neuropsychiatr Dis Treat",
+      "doi": "10.2147/NDT.S132451",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "12045730",
+      "title": "Calcium channel mutations and migraine.",
+      "first_author": "Kors EE",
+      "year": "2002",
+      "journal": "Curr Opin Neurol",
+      "doi": "10.1097/00019052-200206000-00014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "10412193",
+      "title": "Association study of the CACN1A4 (SCA6) triplet repeat and schizophrenia.",
+      "first_author": "Breen G",
+      "year": "1999",
+      "journal": "Psychiatr Genet",
+      "doi": "10.1097/00041444-199906000-00012",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37366229",
+      "title": "Migraine with prolonged aphasic aura associated with a CACNA1A mutation: A case report and narrative review.",
+      "first_author": "Jicha CJ",
+      "year": "2023",
+      "journal": "Headache",
+      "doi": "10.1111/head.14594",
+      "pubtype": [
+        "Case Reports",
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "15452324",
+      "title": "Childhood epilepsy, familial hemiplegic migraine, cerebellar ataxia, and a new CACNA1A mutation.",
+      "first_author": "Kors EE",
+      "year": "2004",
+      "journal": "Neurology",
+      "doi": "10.1212/01.wnl.0000138571.48593.fc",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

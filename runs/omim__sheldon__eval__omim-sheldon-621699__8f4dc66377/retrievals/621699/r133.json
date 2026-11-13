@@ -1,0 +1,134 @@
+{
+  "id": "r133",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (patients[tiab] OR patient[tiab] OR family[tiab] OR case report[tiab] OR cohort[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "69 PubMed hits for 'SIT1[gene] AND (patients[tiab] OR patient[tiab] OR family[tiab] OR case report[tiab] OR cohort[tiab])'; showing 10 (PubMed read it as: \"SIT1\"[All Fields] AND (\"patients\"[Title/Abstract] OR \"patient\"[Title/Abstract] OR \"family\"[Title/Abstract] OR \"case report\"[Title/Abstract] OR \"cohort\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27183719",
+      "title": "[MOLECULAR CHARACTERISTICS OF THE MULTIDRUG-RESISTANT MYCOBACTERIUM TUBERCULOSIS STRAINS IN THE NORTHWEST RUSSIA].",
+      "first_author": "Vyazovaya AA",
+      "year": "2016",
+      "journal": "Mol Gen Mikrobiol Virusol",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30160974",
+      "title": "Intestinal IMINO transporter SIT1 is not expressed in human newborns.",
+      "first_author": "Meier C",
+      "year": "2018",
+      "journal": "Am J Physiol Gastrointest Liver Physiol",
+      "doi": "10.1152/ajpgi.00318.2017",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33164640",
+      "title": "Bioinformatics analysis to screen key prognostic genes in the breast cancer tumor microenvironment.",
+      "first_author": "Ye Q",
+      "year": "2020",
+      "journal": "Bioengineered",
+      "doi": "10.1080/21655979.2020.1840731",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39159813",
+      "title": "Cryo-EM structure of ACE2-SIT1 in complex with tiagabine.",
+      "first_author": "Br\u00f6er A",
+      "year": "2024",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2024.107687",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35563545",
+      "title": "Close Related Drug-Resistance Beijing Isolates of Mycobacterium tuberculosis Reveal a Different Transcriptomic Signature in a Murine Disease Progression Model.",
+      "first_author": "Cerezo-Cort\u00e9s MI",
+      "year": "2022",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms23095157",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "9867099",
+      "title": "Active Crohn's disease and ulcerative colitis evaluated by low-field magnetic resonance imaging.",
+      "first_author": "Madsen SM",
+      "year": "1998",
+      "journal": "Scand J Gastroenterol",
+      "doi": "10.1080/00365529850172566",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "8723457",
+      "title": "Ciprofloxacin pharmacokinetics in burn patients.",
+      "first_author": "Garrelts JC",
+      "year": "1996",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.40.5.1153",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16622594",
+      "title": "Transport of L-proline, L-proline-containing peptides and related drugs at mammalian epithelial cell membranes.",
+      "first_author": "Brandsch M",
+      "year": "2006",
+      "journal": "Amino Acids",
+      "doi": "10.1007/s00726-006-0307-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

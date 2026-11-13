@@ -1,0 +1,412 @@
+{
+  "id": "r23",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (mouse OR Xenopus OR oocyte) AND (knockout OR knockdown OR loss of function OR variant)",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "33 PubMed hits for 'TACC3[gene] AND (mouse OR Xenopus OR oocyte) AND (knockout OR knockdown OR loss of function OR variant)'; showing 33 (PubMed read it as: \"TACC3\"[All Fields] AND (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields] OR (\"xenopus\"[MeSH Terms] OR \"xenopus\"[All Fields] OR \"xenopus laevis\"[MeSH Terms] OR (\"xenopus\"[All Fields] AND \"laevis\"[All Fields]) OR \"xenopus laevis\"[All Fields]) OR (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields])) AND (\"knockout\"[All Fields] OR \"knockouts\"[All Fields] OR (\"knockdown\"[All Fields] OR \"knockdowned\"[All Fields] OR \"knockdowns\"[All Fields]) OR (\"loss\"[All Fields] AND (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms])) OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38319231",
+      "title": "Targeting TACC3 Induces Immunogenic Cell Death and Enhances T-DM1 Response in HER2-Positive Breast Cancer.",
+      "first_author": "Gedik ME",
+      "year": "2024",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-23-2812",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38012214",
+      "title": "Knockdown of TACC3 inhibits tumor cell proliferation and increases chemosensitivity in pancreatic cancer.",
+      "first_author": "Shi S",
+      "year": "2023",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-023-06313-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40246827",
+      "title": "TACC3 enhances glycolysis in bladder cancer cells through inducing acetylation of c-Myc.",
+      "first_author": "Lin Z",
+      "year": "2025",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-025-07645-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39470303",
+      "title": "LncRNA evf-2 Exacerbates Podocyte Injury in Diabetic Nephropathy by Inducing Cell Cycle Re-entry and Inflammation Through Distinct Mechanisms Triggered by hnRNPU.",
+      "first_author": "Zhang C",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202406532",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33901174",
+      "title": "Aurora kinase A is essential for meiosis in mouse oocytes.",
+      "first_author": "Blengini CS",
+      "year": "2021",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1009327",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20923838",
+      "title": "Clathrin recruits phosphorylated TACC3 to spindle poles for bipolar spindle assembly and chromosome alignment.",
+      "first_author": "Fu W",
+      "year": "2010",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.075911",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28109075",
+      "title": "Knockdown of TACC3 Inhibits the Proliferation and Invasion of Human Renal Cell Carcinoma Cells.",
+      "first_author": "Guo F",
+      "year": "2018",
+      "journal": "Oncol Res",
+      "doi": "10.3727/096504017X14837020772250",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32156598",
+      "title": "TACC3 promotes prostate cancer cell proliferation and restrains primary cilium formation.",
+      "first_author": "Qie Y",
+      "year": "2020",
+      "journal": "Exp Cell Res",
+      "doi": "10.1016/j.yexcr.2020.111952",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29991799",
+      "title": "FGFR3-TACC3 is an oncogenic fusion protein in respiratory epithelium.",
+      "first_author": "Best SA",
+      "year": "2018",
+      "journal": "Oncogene",
+      "doi": "10.1038/s41388-018-0399-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39717713",
+      "title": "CRISPR-Cas13a Targeting the FGFR3-TACC3 Fusion Gene Inhibits Proliferation of Bladder Cancer Cells in vitro and in vivo.",
+      "first_author": "Wang Y",
+      "year": "2024",
+      "journal": "Onco Targets Ther",
+      "doi": "10.2147/OTT.S492659",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41460723",
+      "title": "C-Terminal Truncation and Fusion Partner Determine Oncogenicity of FGFR3.",
+      "first_author": "Yemelyanenko J",
+      "year": "2026",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-24-2648",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27248823",
+      "title": "TACC3 promotes colorectal cancer tumourigenesis and correlates with poor prognosis.",
+      "first_author": "Du Y",
+      "year": "2016",
+      "journal": "Oncotarget",
+      "doi": "10.18632/oncotarget.9628",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26168150",
+      "title": "TACC3 Is Important for Correct Progression of Meiosis in Bovine Oocytes.",
+      "first_author": "Mahdipour M",
+      "year": "2015",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0132591",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34152366",
+      "title": "Loss of acentriolar MTOCs disrupts spindle pole Aurora A and assembly of the liquid-like meiotic spindle domain in oocytes.",
+      "first_author": "Wang X",
+      "year": "2021",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.256297",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "23298836",
+      "title": "The tumorigenic FGFR3-TACC3 gene fusion escapes miR-99a regulation in glioblastoma.",
+      "first_author": "Parker BC",
+      "year": "2013",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI67144",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29017056",
+      "title": "Mitotic Spindle Assembly and Genomic Stability in Breast Cancer Require PI3K-C2\u03b1 Scaffolding Function.",
+      "first_author": "Gulluni F",
+      "year": "2017",
+      "journal": "Cancer Cell",
+      "doi": "10.1016/j.ccell.2017.09.002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30705408",
+      "title": "Potential involvement of RITA in the activation of Aurora A at spindle poles during mitosis.",
+      "first_author": "Kreis NN",
+      "year": "2019",
+      "journal": "Oncogene",
+      "doi": "10.1038/s41388-019-0716-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42913141",
+      "title": "Discovery and optimization of N-phenylbenzenesulfonamide analogues as novel ALKBH5 inhibitors for AML therapy.",
+      "first_author": "Xu Q",
+      "year": "2026",
+      "journal": "Bioorg Chem",
+      "doi": "10.1016/j.bioorg.2026.110658",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17599038",
+      "title": "TACC3 depletion sensitizes to paclitaxel-induced cell death and overrides p21WAF-mediated cell cycle arrest.",
+      "first_author": "Schneider L",
+      "year": "2008",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1210628",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27705912",
+      "title": "TACC3 overexpression in cholangiocarcinoma correlates with poor prognosis and is a potential anti-cancer molecular drug target for HDAC inhibitors.",
+      "first_author": "He JC",
+      "year": "2016",
+      "journal": "Oncotarget",
+      "doi": "10.18632/oncotarget.12254",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23175443",
+      "title": "Oncogenic FGFR3 gene fusions in bladder cancer.",
+      "first_author": "Williams SV",
+      "year": "2013",
+      "journal": "Hum Mol Genet",
+      "doi": "10.1093/hmg/dds486",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30455703",
+      "title": "Myeloid Cell Hypoxia-Inducible Factors Promote Resolution of Inflammation in Experimental Colitis.",
+      "first_author": "Lin N",
+      "year": "2018",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2018.02565",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "27157623",
+      "title": "Suppression of intestinal tumors by targeting the mitotic spindle of intestinal stem cells.",
+      "first_author": "Yao R",
+      "year": "2016",
+      "journal": "Oncogene",
+      "doi": "10.1038/onc.2016.148",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24784839",
+      "title": "FGFR3 translocations in bladder cancer: differential sensitivity to HSP90 inhibition based on drug metabolism.",
+      "first_author": "Acquaviva J",
+      "year": "2014",
+      "journal": "Mol Cancer Res",
+      "doi": "10.1158/1541-7786.MCR-14-0004",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18242217",
+      "title": "A molecular signature of gastric metaplasia arising in response to acute parietal cell loss.",
+      "first_author": "Nozaki K",
+      "year": "2008",
+      "journal": "Gastroenterology",
+      "doi": "10.1053/j.gastro.2007.11.058",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "21685933",
+      "title": "Disruption of Tacc3 function leads to in vivo tumor regression.",
+      "first_author": "Yao R",
+      "year": "2012",
+      "journal": "Oncogene",
+      "doi": "10.1038/onc.2011.235",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29978472",
+      "title": "Long non-coding RNA lnc-PCTST predicts prognosis through inhibiting progression of pancreatic cancer by downregulation of TACC-3.",
+      "first_author": "Wang Y",
+      "year": "2018",
+      "journal": "Int J Cancer",
+      "doi": "10.1002/ijc.31657",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18959748",
+      "title": "Microarray analyses of hypoxia-regulated genes in an aryl hydrocarbon receptor nuclear translocator (Arnt)-dependent manner.",
+      "first_author": "Choi SM",
+      "year": "2008",
+      "journal": "FEBS J",
+      "doi": "10.1111/j.1742-4658.2008.06686.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21879811",
+      "title": "A novel Aurora kinase A inhibitor MK-8745 predicts TPX2 as a therapeutic biomarker in non-Hodgkin lymphoma cell lines.",
+      "first_author": "Chowdhury A",
+      "year": "2012",
+      "journal": "Leuk Lymphoma",
+      "doi": "10.3109/10428194.2011.619018",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24047696",
+      "title": "Cellular senescence or EGFR signaling induces Interleukin 6 (IL-6) receptor expression controlled by mammalian target of rapamycin (mTOR).",
+      "first_author": "Garbers C",
+      "year": "2013",
+      "journal": "Cell Cycle",
+      "doi": "10.4161/cc.26431",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "r45",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (oocyte OR spindle OR meiosis) AND (rescue OR rescued OR complementation OR knockdown OR overexpression OR mutant)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "49 PubMed hits for 'TACC3[gene] AND (oocyte OR spindle OR meiosis) AND (rescue OR rescued OR complementation OR knockdown OR overexpression OR mutant)'; showing 10 (PubMed read it as: \"TACC3\"[All Fields] AND (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields] OR (\"spindle\"[All Fields] OR \"spindle s\"[All Fields] OR \"spindled\"[All Fields] OR \"spindles\"[All Fields] OR \"spindling\"[All Fields]) OR (\"meiosis\"[MeSH Terms] OR \"meiosis\"[All Fields] OR \"meioses\"[All Fields])) AND (\"rescue\"[All Fields] OR \"rescued\"[All Fields] OR \"rescues\"[All Fields] OR \"rescuing\"[All Fields] OR (\"rescue\"[All Fields] OR \"rescued\"[All Fields] OR \"rescues\"[All Fields] OR \"rescuing\"[All Fields]) OR (\"complementable\"[All Fields] OR \"complementation\"[All Fields] OR \"complementations\"[All Fields] OR \"complemention\"[All Fields]) OR (\"knockdown\"[All Fields] OR \"knockdowned\"[All Fields] OR \"knockdowns\"[All Fields]) OR (\"overexpress\"[All Fields] OR \"overexpressed\"[All Fields] OR \"overexpresser\"[All Fields] OR \"overexpressers\"[All Fields] OR \"overexpresses\"[All Fields] OR \"overexpressing\"[All Fields] OR \"overexpression\"[All Fields] OR \"overexpressions\"[All Fields]) OR (\"mutant\"[All Fields] OR \"mutant s\"[All Fields] OR \"mutants\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38319231",
+      "title": "Targeting TACC3 Induces Immunogenic Cell Death and Enhances T-DM1 Response in HER2-Positive Breast Cancer.",
+      "first_author": "Gedik ME",
+      "year": "2024",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-23-2812",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38012214",
+      "title": "Knockdown of TACC3 inhibits tumor cell proliferation and increases chemosensitivity in pancreatic cancer.",
+      "first_author": "Shi S",
+      "year": "2023",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-023-06313-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18508920",
+      "title": "Xenopus TACC3/maskin is not required for microtubule stability but is required for anchoring microtubules at the centrosome.",
+      "first_author": "Albee AJ",
+      "year": "2008",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.e07-11-1204",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "26168150",
+      "title": "TACC3 Is Important for Correct Progression of Meiosis in Bovine Oocytes.",
+      "first_author": "Mahdipour M",
+      "year": "2015",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0132591",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38413710",
+      "title": "Male meiotic spindle poles are stabilized by TACC3 and cKAP5/chTOG differently from female meiotic or somatic mitotic spindles in mice.",
+      "first_author": "Simerly C",
+      "year": "2024",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-024-55376-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22138824",
+      "title": "High-efficiency counterselection recombineering for site-directed mutagenesis in bacterial artificial chromosomes.",
+      "first_author": "Bird AW",
+      "year": "2011",
+      "journal": "Nat Methods",
+      "doi": "10.1038/nmeth.1803",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15788567",
+      "title": "The Xenopus TACC homologue, maskin, functions in mitotic spindle assembly.",
+      "first_author": "O'Brien LL",
+      "year": "2005",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.e04-10-0926",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "23598415",
+      "title": "Mitotic catastrophe and cell death induced by depletion of centrosomal proteins.",
+      "first_author": "Kimura M",
+      "year": "2013",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/cddis.2013.108",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23918938",
+      "title": "Coordination of adjacent domains mediates TACC3-ch-TOG-clathrin assembly and mitotic spindle binding.",
+      "first_author": "Hood FE",
+      "year": "2013",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.201211127",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

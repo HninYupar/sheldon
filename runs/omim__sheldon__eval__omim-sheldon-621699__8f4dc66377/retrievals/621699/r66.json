@@ -1,0 +1,254 @@
+{
+  "id": "r66",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "42128181",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "99 'similar' links for PMID 42128181; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "27522155",
+      "title": "Mutations in linker for activation of T\u00a0cells (LAT) lead to a novel form of severe combined immunodeficiency.",
+      "first_author": "Bacchelli C",
+      "year": "2017",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2016.05.036",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40716650",
+      "title": "Heterozygous loss of MAP4K1 causes immune dysregulation by amplifying T-cell responses.",
+      "first_author": "Kaustio M",
+      "year": "2025",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2025.07.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31037583",
+      "title": "Novel MALT1 Mutation Linked to Immunodeficiency, Immune Dysregulation, and an Abnormal T Cell Receptor Repertoire.",
+      "first_author": "Frizinsky S",
+      "year": "2019",
+      "journal": "J Clin Immunol",
+      "doi": "10.1007/s10875-019-00629-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42473108",
+      "title": "A novel linker region truncating variant in BCL10 underlies a leaky immunodeficiency phenotype.",
+      "first_author": "Tong L",
+      "year": "2026",
+      "journal": "Pediatr Allergy Immunol",
+      "doi": "10.1111/pai.70441",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38100037",
+      "title": "A Novel Biallelic LCK Variant Resulting in Profound T-Cell Immune Deficiency and Review of the Literature.",
+      "first_author": "Lanz AL",
+      "year": "2023",
+      "journal": "J Clin Immunol",
+      "doi": "10.1007/s10875-023-01602-8",
+      "pubtype": [
+        "Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37211057",
+      "title": "Combined immunodeficiency and impaired PI3K signaling in a patient with biallelic LCP2 variants.",
+      "first_author": "Edwards ESJ",
+      "year": "2023",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2023.04.020",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41074026",
+      "title": "T cell receptor associated transmembrane adaptor 1 (TRAT1) modulates human Th17 and Treg responses via PI3-kinase and STAT dependent mechanisms.",
+      "first_author": "Frey T",
+      "year": "2025",
+      "journal": "Cell Commun Signal",
+      "doi": "10.1186/s12964-025-02429-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24406074",
+      "title": "Human syndromes of immunodeficiency and dysregulation are characterized by distinct defects in T-cell receptor repertoire development.",
+      "first_author": "Yu X",
+      "year": "2014",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2013.11.018",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "27242165",
+      "title": "Early onset combined immunodeficiency and autoimmunity in patients with loss-of-function mutation in LAT.",
+      "first_author": "Keller B",
+      "year": "2016",
+      "journal": "J Exp Med",
+      "doi": "10.1084/jem.20151110",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33662367",
+      "title": "Loss of DIAPH1 causes SCBMS, combined immunodeficiency, and mitochondrial dysfunction.",
+      "first_author": "Kaustio M",
+      "year": "2021",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2020.12.656",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28826773",
+      "title": "Combined immunodeficiency and atopy caused by a dominant negative mutation in caspase activation and recruitment domain family member 11 (CARD11).",
+      "first_author": "Dadi H",
+      "year": "2018",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2017.06.047",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39734035",
+      "title": "Thymic and T-cell intrinsic critical roles associated with severe combined immunodeficiency and Omenn syndrome due to a heterozygous variant (G201R) in PSMB10.",
+      "first_author": "Kuehn HS",
+      "year": "2025",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2024.12.1082",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40403933",
+      "title": "IKBKB gain of function: An inborn error with clinical heterogeneity progressing toward combined immunodeficiency.",
+      "first_author": "K\u00f6rholz J",
+      "year": "2025",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2025.04.033",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42263152",
+      "title": "PTPN22 regulates T cell synapse formation through PSTPIP1-dependent actin remodeling.",
+      "first_author": "Joseph MD",
+      "year": "2026",
+      "journal": "Sci Signal",
+      "doi": "10.1126/scisignal.ady6063",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42367780",
+      "title": "Heterogeneous immune cell composition in patients with combined immunodeficiency.",
+      "first_author": "P\u00e9rez-Caraballo JJ",
+      "year": "2026",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2026.1830231",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34427831",
+      "title": "A Novel STK4 Mutation Impairs T Cell Immunity Through Dysregulation of Cytokine-Induced Adhesion and Chemotaxis Genes.",
+      "first_author": "Guennoun A",
+      "year": "2021",
+      "journal": "J Clin Immunol",
+      "doi": "10.1007/s10875-021-01115-2",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11696592",
+      "title": "Functional cloning of Src-like adapter protein-2 (SLAP-2), a novel inhibitor of antigen receptor signaling.",
+      "first_author": "Holland SJ",
+      "year": "2001",
+      "journal": "J Exp Med",
+      "doi": "10.1084/jem.194.9.1263",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26162572",
+      "title": "Monogenic mutations differentially affect the quantity and quality of T follicular helper cells in patients with human primary immunodeficiencies.",
+      "first_author": "Ma CS",
+      "year": "2015",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2015.05.036",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40748513",
+      "title": "Loss of MALT1 Function in a Patient With Combined Immunodeficiency: a Novel Pathogenic Variant and Immunological Insights.",
+      "first_author": "Tian Z",
+      "year": "2025",
+      "journal": "J Clin Immunol",
+      "doi": "10.1007/s10875-025-01921-y",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22985903",
+      "title": "Primary T-cell immunodeficiency with immunodysregulation caused by autosomal recessive LCK deficiency.",
+      "first_author": "Hauck F",
+      "year": "2012",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2012.07.029",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

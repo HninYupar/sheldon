@@ -1,0 +1,249 @@
+{
+  "id": "r10",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"variants in the proteasome regulator PSMF1\" OR \"PSMF1 variants\" OR \"PI31\" AND (fibroblast OR mitochondria OR Drosophila OR mouse)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "20 PubMed hits for '\"variants in the proteasome regulator PSMF1\" OR \"PSMF1 variants\" OR \"PI31\" AND (fibroblast OR mitochondria OR Drosophila OR mouse)'; showing 20 (PubMed read it as: (((\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) AND (\"proteasomal\"[All Fields] OR \"proteasomally\"[All Fields] OR \"proteasome endopeptidase complex\"[Supplementary Concept] OR \"proteasome endopeptidase complex\"[All Fields] OR \"proteasome\"[All Fields] OR \"proteasome endopeptidase complex\"[MeSH Terms] OR (\"proteasome\"[All Fields] AND \"endopeptidase\"[All Fields] AND \"complex\"[All Fields]) OR \"proteasomes\"[All Fields] OR \"proteasome s\"[All Fields] OR \"proteasomic\"[All Fields]) AND (\"legislation and jurisprudence\"[MeSH Subheading] OR (\"legislation\"[All Fields] AND \"jurisprudence\"[All Fields]) OR \"legislation and jurisprudence\"[All Fields] OR \"regulations\"[All Fields] OR \"social control, formal\"[MeSH Terms] OR (\"social\"[All Fields] AND \"control\"[All Fields] AND \"formal\"[All Fields]) OR \"formal social control\"[All Fields] OR \"regulate\"[All Fields] OR \"regulates\"[All Fields] OR \"regulating\"[All Fields] OR \"regulation s\"[All Fields] OR \"regulative\"[All Fields] OR \"regulator\"[All Fields] OR \"regulator s\"[All Fields] OR \"regulators\"[All Fields] OR \"regulated\"[All Fields] OR \"regulation\"[All Fields]) AND \"psmf1\"[All Fields]) OR (\"psmf1\"[All Fields] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields])) OR \"PI31\"[All Fields]) AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields] OR (\"mitochondria\"[MeSH Terms] OR \"mitochondria\"[All Fields] OR \"mitochondria s\"[All Fields] OR \"mitochondriae\"[All Fields] OR \"mitochondrias\"[All Fields]) OR (\"drosophila\"[MeSH Terms] OR \"drosophila\"[All Fields] OR \"drosophilas\"[All Fields] OR \"drosophila s\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "first_author": "Rodriguez JA",
+      "year": "2025",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "40337847",
+      "title": "PI31 is a positive regulator of 20S immunoproteasome assembly.",
+      "first_author": "Wang J",
+      "year": "2025",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.263887",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23622245",
+      "title": "Proteasome regulation by ADP-ribosylation.",
+      "first_author": "Cho-Park PF",
+      "year": "2013",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2013.03.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12374861",
+      "title": "PI31 is a modulator of proteasome formation and antigen processing.",
+      "first_author": "Zaiss DM",
+      "year": "2002",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.212257299",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27936908",
+      "title": "The FBXO7 homologue nutcracker and binding partner PI31 in Drosophila melanogaster models of Parkinson's disease.",
+      "first_author": "Merzetti EM",
+      "year": "2017",
+      "journal": "Genome",
+      "doi": "10.1139/gen-2016-0087",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39621430",
+      "title": "Dynll1-PI31 Interaction Enhances Proteolysis Through the Proteasome, Representing a Novel Therapeutic Target for INF2-Related FSGS.",
+      "first_author": "Williquett J",
+      "year": "2025",
+      "journal": "Kidney360",
+      "doi": "10.34067/KID.0000000659",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "10471803",
+      "title": "The proteasome inhibitor PI31 competes with PA28 for binding to 20S proteasomes.",
+      "first_author": "Zaiss DM",
+      "year": "1999",
+      "journal": "FEBS Lett",
+      "doi": "10.1016/s0014-5793(99)01072-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "first_author": "Li X",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38466799",
+      "title": "Study of an FBXO7 patient mutation reveals Fbxo7 and PI31 co-regulate proteasomes and mitochondria.",
+      "first_author": "Al Rawi S",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17114",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42363684",
+      "title": "FMRP-Mediated Proteasome Regulation: A Novel Mechanism in ALS Pathology.",
+      "first_author": "Majumder P",
+      "year": "2026",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.202600563R",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "first_author": "Clemen CS",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20680343",
+      "title": "Characterization and mRNA expression analysis of PI31, an endogenous proteasome inhibitor from Schistosoma mansoni.",
+      "first_author": "Botelho-Machado C",
+      "year": "2010",
+      "journal": "Parasitol Res",
+      "doi": "10.1007/s00436-010-1984-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31327739",
+      "title": "PI31 Is an Adaptor Protein for Proteasome Transport in Axons and Required for Synaptic Development.",
+      "first_author": "Liu K",
+      "year": "2019",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2019.06.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21529711",
+      "title": "A conserved F box regulatory complex controls proteasome activity in Drosophila.",
+      "first_author": "Bader M",
+      "year": "2011",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2011.03.021",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31649556",
+      "title": "A Conserved Requirement for Fbxo7 During Male Germ Cell Cytoplasmic Remodeling.",
+      "first_author": "Rathje CC",
+      "year": "2019",
+      "journal": "Front Physiol",
+      "doi": "10.3389/fphys.2019.01278",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42983429",
+      "title": "The TNKS/PI31-proteasome axis as a central node in TDP-43 neuropathies.",
+      "first_author": "Bubphachat P",
+      "year": "2026",
+      "journal": "J Biomed Sci",
+      "doi": "10.1186/s12929-026-01296-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

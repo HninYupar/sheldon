@@ -1,0 +1,158 @@
+{
+  "id": "r164",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "24836863",
+      "37555011",
+      "30063100",
+      "33544220"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "24836863",
+      "title": "Congenital ataxia and hemiplegic migraine with cerebral edema associated with a novel gain of function mutation in the calcium channel CACNA1A.",
+      "authors": [
+        "Garc\u00eda Segarra N",
+        "Gautschi I",
+        "Mittaz-Crettol L",
+        "Kallay Zetchi C",
+        "Al-Qusairi L",
+        "Van Bemmelen MX",
+        "et al."
+      ],
+      "year": "2014",
+      "journal": "Journal of the neurological sciences",
+      "doi": "10.1016/j.jns.2014.04.027",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Acetazolamide",
+        "Adolescent",
+        "Animals",
+        "Ataxia",
+        "Brain Edema",
+        "Calcium Channels",
+        "Cerebellar Ataxia",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Genetic Predisposition to Disease",
+        "Humans",
+        "Infant",
+        "Magnetic Resonance Imaging",
+        "Membrane Potentials",
+        "Migraine Disorders",
+        "Mutation, Missense",
+        "Neuroimaging",
+        "Oocytes",
+        "Xenopus laevis",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Mutations in the CACNA1A gene, encoding the \u03b11 subunit of the voltage-gated calcium channel Ca(V)2.1 (P/Q-type), have been associated with three neurological phenotypes: familial and sporadic hemiplegic migraine type 1 (FHM1, SHM1), episodic ataxia type 2 (EA2), and spinocerebellar ataxia type 6 (SCA6). We report a child with congenital ataxia, abnormal eye movements and developmental delay who presented severe attacks of hemiplegic migraine triggered by minor head traumas and associated with hemispheric swelling and seizures. Progressive cerebellar atrophy was also observed. Remission of the attacks was obtained with acetazolamide. A de novo 3 bp deletion was found in heterozygosity causing loss of a phenylalanine residue at position 1502, in one of the critical transmembrane domains of the protein contributing to the inner part of the pore. We characterized the electrophysiology of this mutant in a Xenopus oocyte in vitro system and showed that it causes gain of function of the channel. The mutant Ca(V)2.1 activates at lower voltage threshold than the wild type. These findings provide further evidence of this molecular mechanism as causative of FHM1 and expand the phenotypic spectrum of CACNA1A mutations with a child exhibiting severe SHM1 and non-episodic ataxia of congenital onset."
+    },
+    {
+      "pmid": "37555011",
+      "title": "The genotype-phenotype correlations of the CACNA1A-related neurodevelopmental disorders: a small case series and literature reviews.",
+      "authors": [
+        "Kessi M",
+        "Chen B",
+        "Pang N",
+        "Yang L",
+        "Peng J",
+        "He F",
+        "et al."
+      ],
+      "year": "2023",
+      "journal": "Frontiers in molecular neuroscience",
+      "doi": "10.3389/fnmol.2023.1222321",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "BACKGROUND: Genotype-phenotype correlations of the CACNA1A-related neurodevelopmental disorders such as global developmental delay (GDD)/intellectual disability (ID), epileptic encephalopathy (EE), and autism spectrum disorder (ASD) are unknown. We aimed to summarize genotype-phenotype correlations and potential treatment for CACNA1A-related neurodevelopmental disorders.\nMETHODS: Six children diagnosed with CACNA1A-related neurodevelopmental disorders at Xiangya Hospital, Central South University from April 2018 to July 2021 were enrolled. The PubMed database was systematically searched for all reported patients with CACNA1A-related neurodevelopmental disorders until February 2023. Thereafter, we divided patients into several groups for comparison.\nRESULTS: Six patients were recruited from our hospital. Three cases presented with epilepsy, five with GDD/ID, five with ataxia, and two with ASD. The variants included p.G701R, p.R279C, p.D1644N, p.Y62C, p.L1422Sfs*8, and p. R1664Q [two gain-of-function (GOF) and four loss-of-function (LOF) variants]. About 187 individuals with GDD/ID harboring 123 variants were found (case series plus data from literature). Of those 123 variants, p.A713T and p.R1664* were recurrent, 37 were LOF, and 7 were GOF. GOF variants were linked with severe-profound GDD/ID while LOF variants were associated with mild-moderate GDD/ID (p =\u20090.001). The p.A713T variant correlated with severe-profound GDD/ID (p =\u20090.003). A total of 130 epileptic patients harboring 83 variants were identified. The epileptic manifestations included status epilepticus (n =\u200964), provoked seizures (n =\u200949), focal seizures (n =\u200937), EE (n =\u200929), absence seizures (n =\u200926), and myoclonic seizures (n =\u200910). About 49 (42.20%) patients had controlled seizures while 67 (57.80%) individuals remained with refractory seizures. Status epilepticus correlated with variants located on S4, S5, and S6 (p =\u20090.000). Among the 83 epilepsy-related variants, 23 were recurrent, 32 were LOF, and 11 were GOF. Status epilepticus was linked with GOF variants (p =\u20090.000). LOF variants were associated with absence seizures (p =\u20090.000). Six patients died at an early age (3\u2009months to \u22645\u2009years). We found 18 children with ASD. Thirteen variants including recurrent ones were identified in those 18 cases. GOF changes were more linked to ASD.\nCONCLUSION: The p.A713T variant is linked with severe-profound GDD/ID. More than half of CACNA1A-related epilepsy is refractory. The most common epileptic ma"
+    },
+    {
+      "pmid": "30063100",
+      "title": "The neuropsychiatric phenotype in CACNA1A mutations: a retrospective single center study and review of the literature.",
+      "authors": [
+        "Indelicato E",
+        "Nachbauer W",
+        "Karner E",
+        "Eigentler A",
+        "Wagner M",
+        "Unterberger I",
+        "et al."
+      ],
+      "year": "2019",
+      "journal": "European journal of neurology",
+      "doi": "10.1111/ene.13765",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Adolescent",
+        "Adult",
+        "Ataxia",
+        "Calcium Channels",
+        "Cerebellar Ataxia",
+        "Child",
+        "Child, Preschool",
+        "Comorbidity",
+        "Educational Status",
+        "Female",
+        "Genotype",
+        "Humans",
+        "Male",
+        "Mental Disorders",
+        "Migraine Disorders",
+        "Nervous System Diseases",
+        "Neuropsychological Tests",
+        "Phenotype",
+        "Psychomotor Performance",
+        "Retrospective Studies",
+        "Spinocerebellar Ataxias",
+        "Young Adult",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "BACKGROUND AND PURPOSE: CACNA1A encodes the \u03b11 subunit of the neuronal calcium channel P/Q. CACNA1A mutations underlie three allelic disorders: familial hemiplegic migraine type 1 (FHM1), episodic ataxia type 2 (EA2) and spinocerebellar ataxia type 6 (SCA6). A clear-cut genotype-phenotype correlation is often lacking since clinical manifestations may overlap. Several case reports have described cognitive and behavioral features in CACNA1A disorders, but studies in larger case series are lacking.\nMETHODS: Genetically confirmed CACNA1A cases were retrieved from the database of the ataxia outpatient clinic of the Department of Neurology at Innsbruck Medical University. Clinical charts and neuropsychological test results were retrospectively analyzed. In addition, a review of the literature including only genetically confirmed cases was performed.\nRESULTS: Forty-four CACNA1A cases were identified in our database. Delayed psychomotor milestones and poor school performance were described in seven (four FHM1, three EA2) and eight (three FHM1, five EA2) patients, respectively. Psychiatric comorbidities were diagnosed in eight patients (two FHM1, six EA2). Neuropsychological testing was available for 23 patients (11 FHM1, 10 EA2, two SCA6). Various cognitive deficits were documented in 21 cases (all patients except one SCA6). Impairments were predominantly seen in figural memory, visuoconstructive abilities and verbal fluency. In the literature, an early psychomotor delay is described in several children with EA2 and FHM1, whilst reports of cognitive and psychiatric findings from adult cases are scarce.\nCONCLUSIONS: Neuropsychiatric manifestations are common in episodic CACNA1A disorders. In the case of otherwise unexplained developmental delay and a positive family history, CACNA1A mutations should be considered in the differential diagnosis."
+    },
+    {
+      "pmid": "33544220",
+      "title": "The electrophysiological footprint of CACNA1A disorders.",
+      "authors": [
+        "Indelicato E",
+        "Unterberger I",
+        "Nachbauer W",
+        "Eigentler A",
+        "Amprosi M",
+        "Zeiner F",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "Journal of neurology",
+      "doi": "10.1007/s00415-021-10415-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Calcium Channels",
+        "Epilepsy",
+        "Humans",
+        "Migraine with Aura",
+        "Phenotype",
+        "Spinocerebellar Ataxias",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "OBJECTIVES: CACNA1A variants underlie three neurological disorders: familial hemiplegic migraine type 1 (FHM1), episodic ataxia type 2 (EA2) and spinocerebellar ataxia type 6 (SCA6). EEG is applied to study their episodic manifestations, but findings in the intervals did not gain attention up to date.\nMETHODS: We analyzed repeated EEG recordings performed between 1994 and 2019 in a large cohort of genetically confirmed CACNA1A patients. EEG findings were compared with those of CACNA1A-negative phenocopies. A review of the related literature was performed.\nRESULTS: 85 EEG recordings from 38 patients (19 EA2, 14 FHM1, 5 SCA6) were analyzed. Baseline EEG was abnormal in 55% of cases (12 EA2, 9 FHM1). The most common finding was a lateralized intermittent slowing, mainly affecting the temporal region. Slowing was more pronounced after a recent attack but was consistently detected in the majority of patients also during the follow-up. Interictal epileptic discharges (IEDs) were detected in eight patients (7 EA2,1 FHM1). EEG abnormalities and especially IEDs were significantly associated with younger age at examination (16\u2009\u00b1\u20099 vs 43\u2009\u00b1\u200921\u00a0years in those without epileptic changes, p\u2009=\u20090.003) and with earlier onset of disease (1 (1-2) vs 12 (5-45) years, p\u2009=\u20090.0009). EEG findings in CACNA1A-negative phenocopies (n\u2009=\u200915) were largely unremarkable (p\u2009=\u20090.03 in the comparison with CACNA1A patients).\nCONCLUSIONS: EEG abnormalities between attacks are highly prevalent in episodic CACNA1A disorders and especially associated with younger age at examination and earlier disease onset. Our findings underpin an age-dependent effect of CACNA1A variants, with a more severe impairment when P/Q channel dysfunction manifests early in life."
+    }
+  ]
+}

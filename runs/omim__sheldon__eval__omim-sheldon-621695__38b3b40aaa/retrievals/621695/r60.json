@@ -1,0 +1,12 @@
+{
+  "id": "r60",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (arthrogryposis OR contracture* OR \"fetal akinesia\" OR AMC8 OR \"neurogenic type\")",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (arthrogryposis OR contracture* OR \"fetal akinesia\" OR AMC8 OR \"neurogenic type\")'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields] OR \"contracture*\"[All Fields] OR \"fetal akinesia\"[All Fields] OR \"AMC8\"[All Fields] OR \"neurogenic type\"[All Fields]))",
+  "ok": true,
+  "evidence": []
+}

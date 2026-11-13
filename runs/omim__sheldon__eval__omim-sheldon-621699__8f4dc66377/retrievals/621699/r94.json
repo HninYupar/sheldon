@@ -1,0 +1,24 @@
+{
+  "id": "r94",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1 immunodeficiency 135 OR 621699 OR immunodeficiency-135",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'SIT1 immunodeficiency 135 OR 621699 OR immunodeficiency-135'; showing 1 (PubMed read it as: (\"SIT1\"[All Fields] AND (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields]) AND \"135\"[All Fields]) OR 621699[UID])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "621699",
+      "title": "Effect of ionic strength, serum albumin and other macromolecules on the maintenance of motility and the surface of mammalian spermatozoa in a simple medium.",
+      "first_author": "Harrison RA",
+      "year": "1978",
+      "journal": "J Reprod Fertil",
+      "doi": "10.1530/jrf.0.0520065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

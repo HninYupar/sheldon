@@ -1,0 +1,255 @@
+{
+  "id": "r8",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "MAGIS syndrome OR MAGIS[tiab] OR \"621707\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "122 PubMed hits for 'MAGIS syndrome OR MAGIS[tiab] OR \"621707\"[tiab]'; showing 20 (PubMed read it as: (\"MAGIS\"[All Fields] AND (\"syndrom\"[All Fields] OR \"syndromal\"[All Fields] OR \"syndromally\"[All Fields] OR \"syndrome\"[MeSH Terms] OR \"syndrome\"[All Fields] OR \"syndromes\"[All Fields] OR \"syndrome s\"[All Fields] OR \"syndromic\"[All Fields] OR \"syndroms\"[All Fields])) OR \"MAGIS\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "29493566",
+      "title": "Cluster headache.",
+      "first_author": "May A",
+      "year": "2018",
+      "journal": "Nat Rev Dis Primers",
+      "doi": "10.1038/nrdp.2018.6",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36479481",
+      "title": "Dietary supplements for polycystic ovary syndrome.",
+      "first_author": "Kiani AK",
+      "year": "2022",
+      "journal": "J Prev Med Hyg",
+      "doi": "10.15167/2421-4248/jpmh2022.63.2S3.2762",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31577259",
+      "title": "Syndromic infertility.",
+      "first_author": "Guerri G",
+      "year": "2019",
+      "journal": "Acta Biomed",
+      "doi": "10.23750/abm.v90i10-S.8764",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31577257",
+      "title": "Non-syndromic monogenic male infertility.",
+      "first_author": "Guerri G",
+      "year": "2019",
+      "journal": "Acta Biomed",
+      "doi": "10.23750/abm.v90i10-S.8762",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35192169",
+      "title": "Memory-Assisted Global Impression of Change (MAGIC).",
+      "first_author": "Deal LS",
+      "year": "2022",
+      "journal": "Ther Innov Regul Sci",
+      "doi": "10.1007/s43441-022-00377-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35216672",
+      "title": "Multiple early factors anticipate post-acute COVID-19 sequelae.",
+      "first_author": "Su Y",
+      "year": "2022",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2022.01.014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36699383",
+      "title": "MAGI-MS: multiple seed-centric module discovery.",
+      "first_author": "Chow JC",
+      "year": "2022",
+      "journal": "Bioinform Adv",
+      "doi": "10.1093/bioadv/vbac025",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30547889",
+      "title": "Cytokines and male infertility.",
+      "first_author": "Syriou V",
+      "year": "2018",
+      "journal": "Eur Cytokine Netw",
+      "doi": "10.1684/ecn.2018.0412",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31577258",
+      "title": "Non-syndromic monogenic female infertility.",
+      "first_author": "Guerri G",
+      "year": "2019",
+      "journal": "Acta Biomed",
+      "doi": "10.23750/abm.v90i10-S.8763",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39693079",
+      "title": "2024 Update of the RECOVER-Adult Long COVID Research Index.",
+      "first_author": "Geng LN",
+      "year": "2025",
+      "journal": "JAMA",
+      "doi": "10.1001/jama.2024.24184",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "31577261",
+      "title": "Mendelian non-syndromic obesity.",
+      "first_author": "Paolacci S",
+      "year": "2019",
+      "journal": "Acta Biomed",
+      "doi": "10.23750/abm.v90i10-S.8766",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33576794",
+      "title": "Molecular Epidemiology in 591 Italian Probands With Nonsyndromic Retinitis Pigmentosa and Usher Syndrome.",
+      "first_author": "Colombo L",
+      "year": "2021",
+      "journal": "Invest Ophthalmol Vis Sci",
+      "doi": "10.1167/iovs.62.2.13",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37994768",
+      "title": "In Memory of Professor Derek Pheby.",
+      "first_author": "Bertelli M",
+      "year": "2023",
+      "journal": "Clin Ter",
+      "doi": "10.7417/CT.2023.2491",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33712709",
+      "title": "MAGIs regulate aPKC to enable balanced distribution of intercellular tension for epithelial sheet homeostasis.",
+      "first_author": "Matsuzawa K",
+      "year": "2021",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-021-01874-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32351641",
+      "title": "Molecular Aspects of Regional Pain Syndrome.",
+      "first_author": "Baronio M",
+      "year": "2020",
+      "journal": "Pain Res Manag",
+      "doi": "10.1155/2020/7697214",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33170158",
+      "title": "Genetic analysis of genes associated with epilepsy.",
+      "first_author": "Guerri G",
+      "year": "2020",
+      "journal": "Acta Biomed",
+      "doi": "10.23750/abm.v91i13-S.10596",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21498811",
+      "title": "MAGUKs, synaptic development, and synaptic plasticity.",
+      "first_author": "Zheng CY",
+      "year": "2011",
+      "journal": "Neuroscientist",
+      "doi": "10.1177/1073858410386384",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "22891490",
+      "title": "[Migraine: from genetics to environment].",
+      "first_author": "Magis D",
+      "year": "2012",
+      "journal": "Rev Med Liege",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38024513",
+      "title": "Acute uropathogen-related cowperitis with sepsis: case report and literature review.",
+      "first_author": "Maiolino G",
+      "year": "2023",
+      "journal": "Urol Case Rep",
+      "doi": "10.1016/j.eucr.2023.102566",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    }
+  ]
+}

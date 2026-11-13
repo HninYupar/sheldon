@@ -1,0 +1,25 @@
+{
+  "id": "r142",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1[gene] AND (lupus OR \"systemic lupus erythematosus\" OR SLE) AND (patient OR patients OR case OR cohort OR family OR families OR pedigree OR report)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'SAT1[gene] AND (lupus OR \"systemic lupus erythematosus\" OR SLE) AND (patient OR patients OR case OR cohort OR family OR families OR pedigree OR report)'; showing 1 (PubMed read it as: \"SAT1\"[All Fields] AND (\"lupus vulgaris\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"vulgaris\"[All Fields]) OR \"lupus vulgaris\"[All Fields] OR \"lupus\"[All Fields] OR \"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields] OR \"systemic lupus erythematosus\"[All Fields] OR \"SLE\"[All Fields]) AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"ieee int conf automation sci eng case\"[Journal] OR \"case phila\"[Journal] OR \"case\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"pedigree\"[MeSH Terms] OR \"pedigree\"[All Fields] OR \"pedigrees\"[All Fields] OR \"pedigree s\"[All Fields] OR \"pedigreed\"[All Fields]) OR (\"reportable\"[All Fields] OR \"reporting\"[All Fields] OR \"reportings\"[All Fields] OR \"research report\"[MeSH Terms] OR (\"research\"[All Fields] AND \"report\"[All Fields]) OR \"research report\"[All Fields] OR \"report\"[All Fields] OR \"reported\"[All Fields] OR \"reports\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

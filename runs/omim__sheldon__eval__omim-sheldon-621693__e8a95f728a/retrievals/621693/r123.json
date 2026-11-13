@@ -1,0 +1,12 @@
+{
+  "id": "r123",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"The genetics of autosomal recessive early-onset Parkinson's disease\"[tiab] AND PSMF1[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"The genetics of autosomal recessive early-onset Parkinson\\'s disease\"[tiab] AND PSMF1[tiab]'; showing 0 (PubMed read it as: \"The genetics of autosomal recessive early-onset Parkinson's disease\"[tiab] AND PSMF1[tiab])",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,109 @@
+{
+  "id": "r121",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(SIT1[gene] OR SIT1[tiab]) AND (immunodeficiency[tiab] OR immune deficiency[tiab] OR T-cell[tiab] OR T cell[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "8 PubMed hits for '(SIT1[gene] OR SIT1[tiab]) AND (immunodeficiency[tiab] OR immune deficiency[tiab] OR T-cell[tiab] OR T cell[tiab])'; showing 8 (PubMed read it as: (\"SIT1\"[All Fields] OR \"SIT1\"[Title/Abstract]) AND (\"immunodeficiency\"[Title/Abstract] OR \"immune deficiency\"[Title/Abstract] OR \"T-cell\"[Title/Abstract] OR \"T-cell\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34800203",
+      "title": "Identification of Hub Genes Associated with Abnormal Endothelial Function in Early Coronary Atherosclerosis.",
+      "first_author": "Qiu X",
+      "year": "2022",
+      "journal": "Biochem Genet",
+      "doi": "10.1007/s10528-021-10139-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "10209036",
+      "title": "SHP2-interacting transmembrane adaptor protein (SIT), a novel disulfide-linked dimer regulating human T cell activation.",
+      "first_author": "Marie-Cardine A",
+      "year": "1999",
+      "journal": "J Exp Med",
+      "doi": "10.1084/jem.189.8.1181",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35972918",
+      "title": "Multiomic Signatures of Chronic Beryllium Disease Bronchoalveolar Lavage Cells Relate to T-Cell Function and Innate Immunity.",
+      "first_author": "Li L",
+      "year": "2022",
+      "journal": "Am J Respir Cell Mol Biol",
+      "doi": "10.1165/rcmb.2022-0077OC",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21957439",
+      "title": "The transmembrane adaptor protein SIT inhibits TCR-mediated signaling.",
+      "first_author": "Arndt B",
+      "year": "2011",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0023761",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41033605",
+      "title": "Identification of Distinct Subtypes in Immune Tolerance after Hematopoietic Cell Transplantation Using the Prospective ABLE1.0 Pediatric Study Cohort.",
+      "first_author": "Ng B",
+      "year": "2026",
+      "journal": "Transplant Cell Ther",
+      "doi": "10.1016/j.jtct.2025.09.034",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27677155",
+      "title": "Changes in expression of genes involved in antitumor immunity in mice vaccinated with tumor vaccine composed of irradiated syngeneic tumor cells and CpG oligodeoxynucleotides.",
+      "first_author": "Cerkovnik P",
+      "year": "2016",
+      "journal": "Mol Immunol",
+      "doi": "10.1016/j.molimm.2016.09.016",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

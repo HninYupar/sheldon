@@ -1,0 +1,26 @@
+{
+  "id": "r138",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Homozygous loss-of-function mutation in SIT1\"",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '\"Homozygous loss-of-function mutation in SIT1\"'; showing 1 (PubMed read it as: (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) AND (\"loss of function mutation\"[MeSH Terms] OR (\"loss\"[All Fields] AND \"function\"[All Fields] AND \"mutation\"[All Fields]) OR \"loss of function mutation\"[All Fields]) AND \"sit1\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

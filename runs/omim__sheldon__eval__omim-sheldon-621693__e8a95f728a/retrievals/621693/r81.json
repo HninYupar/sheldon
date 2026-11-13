@@ -1,0 +1,253 @@
+{
+  "id": "r81",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(PI31 OR \"proteasome inhibitor 31\" OR \"proteasome regulator\") AND (Parkinson OR parkinsonism OR PARK27 OR PSMF1)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "49 PubMed hits for '(PI31 OR \"proteasome inhibitor 31\" OR \"proteasome regulator\") AND (Parkinson OR parkinsonism OR PARK27 OR PSMF1)'; showing 20 (PubMed read it as: (\"PI31\"[All Fields] OR ((\"proteasome inhibitors\"[Pharmacological Action] OR \"proteasome inhibitors\"[Supplementary Concept] OR \"proteasome inhibitors\"[All Fields] OR \"proteasome inhibitor\"[All Fields] OR \"proteasome inhibitors\"[MeSH Terms] OR (\"proteasome\"[All Fields] AND \"inhibitors\"[All Fields]) OR (\"proteasome\"[All Fields] AND \"inhibitor\"[All Fields])) AND \"31\"[All Fields]) OR \"proteasome regulator\"[All Fields]) AND (\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR \"parkinson s\"[All Fields] OR \"parkinsons\"[All Fields] OR \"parkinson\"[All Fields] OR \"parkinsonian disorders\"[MeSH Terms] OR (\"parkinsonian\"[All Fields] AND \"disorders\"[All Fields]) OR \"parkinsonian disorders\"[All Fields] OR \"parkinsonism\"[All Fields] OR \"parkinsonisms\"[All Fields] OR \"parkinsons s\"[All Fields] OR (\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR \"parkinson s\"[All Fields] OR \"parkinsons\"[All Fields] OR \"parkinson\"[All Fields] OR \"parkinsonian disorders\"[MeSH Terms] OR (\"parkinsonian\"[All Fields] AND \"disorders\"[All Fields]) OR \"parkinsonian disorders\"[All Fields] OR \"parkinsonism\"[All Fields] OR \"parkinsonisms\"[All Fields] OR \"parkinsons s\"[All Fields]) OR \"PSMF1\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "first_author": "Rodriguez JA",
+      "year": "2025",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "12374861",
+      "title": "PI31 is a modulator of proteasome formation and antigen processing.",
+      "first_author": "Zaiss DM",
+      "year": "2002",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.212257299",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "10471803",
+      "title": "The proteasome inhibitor PI31 competes with PA28 for binding to 20S proteasomes.",
+      "first_author": "Zaiss DM",
+      "year": "1999",
+      "journal": "FEBS Lett",
+      "doi": "10.1016/s0014-5793(99)01072-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27936908",
+      "title": "The FBXO7 homologue nutcracker and binding partner PI31 in Drosophila melanogaster models of Parkinson's disease.",
+      "first_author": "Merzetti EM",
+      "year": "2017",
+      "journal": "Genome",
+      "doi": "10.1139/gen-2016-0087",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "first_author": "Li X",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31114588",
+      "title": "NOD2 and TLR2 Signal via TBK1 and PI31 to Direct Cross-Presentation and CD8 T Cell Responses.",
+      "first_author": "Corridoni D",
+      "year": "2019",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2019.00958",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27802243",
+      "title": "The Proteasome Inhibition Model of\u00a0Parkinson's Disease.",
+      "first_author": "Bentea E",
+      "year": "2017",
+      "journal": "J Parkinsons Dis",
+      "doi": "10.3233/JPD-160921",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38466799",
+      "title": "Study of an FBXO7 patient mutation reveals Fbxo7 and PI31 co-regulate proteasomes and mitochondria.",
+      "first_author": "Al Rawi S",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17114",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19628698",
+      "title": "Repression of alpha-synuclein expression and toxicity by microRNA-7.",
+      "first_author": "Junn E",
+      "year": "2009",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.0906277106",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "first_author": "Clemen CS",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25266262",
+      "title": "The FP domains of PI31 and Fbxo7 have the same protein fold but very different modes of protein-protein interaction.",
+      "first_author": "Shang J",
+      "year": "2015",
+      "journal": "J Biomol Struct Dyn",
+      "doi": "10.1080/07391102.2014.963675",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "10764772",
+      "title": "cDNA cloning, expression, and functional characterization of PI31, a proline-rich inhibitor of the proteasome.",
+      "first_author": "McCutchen-Maloney SL",
+      "year": "2000",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M001697200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "20417232",
+      "title": "Mechanisms of rotenone-induced proteasome inhibition.",
+      "first_author": "Chou AP",
+      "year": "2010",
+      "journal": "Neurotoxicology",
+      "doi": "10.1016/j.neuro.2010.04.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "41204197",
+      "title": "Deubiquitinating enzymes in parkinson's disease: molecular mechanisms and therapeutic potential.",
+      "first_author": "Wu Y",
+      "year": "2025",
+      "journal": "Mol Med",
+      "doi": "10.1186/s10020-025-01389-x",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31023025",
+      "title": "The Role of HSF1 Protein in Malignant Transformation.",
+      "first_author": "\u0160imon\u010d\u00edk O",
+      "year": "2018",
+      "journal": "Klin Onkol",
+      "doi": "10.14735/amko20182S55",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40131610",
+      "title": "Effect of Bushen Huoxue Granule on Clearance of Pathological \u03b1-Synuclein in MPP(+)-Induced PC12 Cells.",
+      "first_author": "Luan ZX",
+      "year": "2025",
+      "journal": "Chin J Integr Med",
+      "doi": "10.1007/s11655-025-3707-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28881616",
+      "title": "Repetitive transcranial magnetic stimulation for treatment of lactacystin-induced Parkinsonian rat model.",
+      "first_author": "Ba M",
+      "year": "2017",
+      "journal": "Oncotarget",
+      "doi": "10.18632/oncotarget.17285",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

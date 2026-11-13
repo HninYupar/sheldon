@@ -1,0 +1,12 @@
+{
+  "id": "r51",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND (contracture[tiab] OR arthrogryposis[tiab] OR akinesia[tiab] OR fetal akinesia[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[tiab] AND (contracture[tiab] OR arthrogryposis[tiab] OR akinesia[tiab] OR fetal akinesia[tiab])'; showing 0 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"contracture\"[Title/Abstract] OR \"arthrogryposis\"[Title/Abstract] OR \"akinesia\"[Title/Abstract] OR \"fetal akinesia\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "r163",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"AMC8\"[tiab] OR \"arthrogryposis multiplex congenita 8\"[tiab] OR \"phenotype MIM\"[tiab] AND PSMF1[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"AMC8\"[tiab] OR \"arthrogryposis multiplex congenita 8\"[tiab] OR \"phenotype MIM\"[tiab] AND PSMF1[tiab]'; showing 0 (PubMed read it as: \"AMC8\"[Title/Abstract] AND \"PSMF1\"[Title/Abstract])",
+  "ok": true,
+  "evidence": []
+}

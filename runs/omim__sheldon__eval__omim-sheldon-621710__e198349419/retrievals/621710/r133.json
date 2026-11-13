@@ -1,0 +1,252 @@
+{
+  "id": "r133",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"neurodevelopmental disorder with seizures and cerebellar hypoplasia\"[tiab] OR NEDSCH[tiab] OR ATG12[gene] OR ATG12[tiab]) AND (patients OR patient OR case OR cohort OR family)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "337 PubMed hits for '(\"neurodevelopmental disorder with seizures and cerebellar hypoplasia\"[tiab] OR NEDSCH[tiab] OR ATG12[gene] OR ATG12[tiab]) AND (patients OR patient OR case OR cohort OR family)'; showing 20 (PubMed read it as: (\"ATG12\"[All Fields] OR \"ATG12\"[Title/Abstract]) AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"ieee int conf automation sci eng case\"[Journal] OR \"case phila\"[Journal] OR \"case\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "32401642",
+      "title": "Autophagy in the physiological endometrium and cancer.",
+      "first_author": "Devis-Jauregui L",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1752548",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39087410",
+      "title": "ZDHHC7-mediated S-palmitoylation of ATG16L1 facilitates LC3 lipidation and autophagosome formation.",
+      "first_author": "Wei F",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2386915",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30335591",
+      "title": "Trehalose induces autophagy via lysosomal-mediated TFEB activation in models of motoneuron degeneration.",
+      "first_author": "Rusmini P",
+      "year": "2019",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2018.1535292",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40509575",
+      "title": "Macrophage TRIM21 knockout inhibits septic acute lung injury by downregulating autophagy regulator protein ubiquitination.",
+      "first_author": "Xie F",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2025.2519063",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36541703",
+      "title": "PEX13 prevents pexophagy by regulating ubiquitinated PEX5 and peroxisomal ROS.",
+      "first_author": "Demers ND",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2160566",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35222638",
+      "title": "Deficient Autophagy in Microglia Aggravates Repeated Social Defeat Stress-Induced Social Avoidance.",
+      "first_author": "Sakai M",
+      "year": "2022",
+      "journal": "Neural Plast",
+      "doi": "10.1155/2022/7503553",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37970991",
+      "title": "Upregulation of ATG9b by propranolol promotes autophagic cell death of hepatic stellate cells to improve liver fibrosis.",
+      "first_author": "Wang S",
+      "year": "2024",
+      "journal": "J Cell Mol Med",
+      "doi": "10.1111/jcmm.18047",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36280710",
+      "title": "Intercellular transfer of activated STING triggered by RAB22A-mediated non-canonical autophagy promotes antitumor immunity.",
+      "first_author": "Gao Y",
+      "year": "2022",
+      "journal": "Cell Res",
+      "doi": "10.1038/s41422-022-00731-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39018396",
+      "title": "Endogenous retroviruses mediate transcriptional rewiring in response to oncogenic signaling in colorectal cancer.",
+      "first_author": "Ivancevic A",
+      "year": "2024",
+      "journal": "Sci Adv",
+      "doi": "10.1126/sciadv.ado1218",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39055616",
+      "title": "Machine-Learning-Based Identification of Key Feature RNA-Signature Linked to Diagnosis of Hepatocellular Carcinoma.",
+      "first_author": "Matboli M",
+      "year": "2024",
+      "journal": "J Clin Exp Hepatol",
+      "doi": "10.1016/j.jceh.2024.101456",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31690182",
+      "title": "Allosteric regulation through a switch element in the autophagy E2, Atg3.",
+      "first_author": "Qiu Y",
+      "year": "2020",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2019.1688550",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34892984",
+      "title": "Electroacupuncture altered expression of microRNAs in Stat5 knockout obese mice.",
+      "first_author": "Hong H",
+      "year": "2022",
+      "journal": "Acupunct Med",
+      "doi": "10.1177/09645284211056345",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32883836",
+      "title": "Reconstitution of autophagosome nucleation defines Atg9 vesicles as seeds for membrane formation.",
+      "first_author": "Sawa-Makarska J",
+      "year": "2020",
+      "journal": "Science",
+      "doi": "10.1126/science.aaz7714",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37673390",
+      "title": "Phenothiazines reduced autophagy in ischemic stroke through endoplasmic reticulum (ER) stress-associated PERK-eIF2\u03b1 pathway.",
+      "first_author": "Lv S",
+      "year": "2023",
+      "journal": "Exp Neurol",
+      "doi": "10.1016/j.expneurol.2023.114524",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39988583",
+      "title": "Targeting NLRC5 in cardiomyocytes protects postinfarction cardiac injury by enhancing autophagy flux through the CAVIN1/CAV1 axis.",
+      "first_author": "Gu L",
+      "year": "2025",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-025-07755-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27054338",
+      "title": "\u03b2-Arrestins promote podocyte injury by inhibition of autophagy in diabetic nephropathy.",
+      "first_author": "Liu J",
+      "year": "2016",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/cddis.2016.89",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33853474",
+      "title": "WLS/wntless is essential in controlling dendritic cell homeostasis via a WNT signaling-independent mechanism.",
+      "first_author": "Wang LT",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1907516",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30185779",
+      "title": "Alcohol-induced autophagy via upregulation of PIASy promotes HCV replication in human hepatoma cells.",
+      "first_author": "Ran M",
+      "year": "2018",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-018-0845-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35991574",
+      "title": "The prognostic value and clinical significance of mitophagy-related genes in hepatocellular carcinoma.",
+      "first_author": "Xu W",
+      "year": "2022",
+      "journal": "Front Genet",
+      "doi": "10.3389/fgene.2022.917584",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38522078",
+      "title": "Impaired neuronal macroautophagy in the prelimbic cortex contributes to comorbid anxiety-like behaviors in rats with chronic neuropathic pain.",
+      "first_author": "Fu S",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2330038",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

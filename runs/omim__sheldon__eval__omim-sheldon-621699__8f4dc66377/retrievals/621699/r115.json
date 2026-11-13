@@ -1,0 +1,12 @@
+{
+  "id": "r115",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling\"[ti]",
+    "max_results": 5,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling\"[ti]'; showing 0 (PubMed read it as: \"Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling\"[ti])",
+  "ok": true,
+  "evidence": []
+}

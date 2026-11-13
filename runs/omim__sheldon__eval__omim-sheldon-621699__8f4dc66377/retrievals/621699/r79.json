@@ -1,0 +1,12 @@
+{
+  "id": "r79",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(IMD135 OR \"immunodeficiency 135\" OR \"621699\") AND SIT1",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '(IMD135 OR \"immunodeficiency 135\" OR \"621699\") AND SIT1'; showing 0 (PubMed read it as: (((\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields]) AND \"135\"[All Fields]) OR \"621699\"[All Fields]) AND \"SIT1\"[All Fields])",
+  "ok": true,
+  "evidence": []
+}

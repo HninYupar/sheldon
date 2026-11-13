@@ -1,0 +1,127 @@
+{
+  "id": "r75",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "23934111",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "862 'cited_by' links for PMID 23934111; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42884121",
+      "title": "Precision Medicine in Epilepsy: Diagnostic Yield by Next-Generation Sequencing and Genotype-Phenotype Findings in a Romanian Cohort.",
+      "first_author": "Butnariu LI",
+      "year": "2026",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms27198878",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42856667",
+      "title": "Haploinsufficiency, de novo and biallelic missense variants in CSMD2 are associated with neurodevelopmental disorders.",
+      "first_author": "Pailler-Pradeau C",
+      "year": "2026",
+      "journal": "medRxiv",
+      "doi": "10.64898/2026.09.24.26361611",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42720877",
+      "title": "Genetic Diagnosis in Epilepsy: Implications for Clinical Management.",
+      "first_author": "Schatz KS",
+      "year": "2026",
+      "journal": "Curr Neurol Neurosci Rep",
+      "doi": "10.1007/s11910-026-01514-1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42703615",
+      "title": "Integrating rare and common variation in epilepsy genetics: from genetic architecture to penetrance and clinical expressivity.",
+      "first_author": "Cai MS",
+      "year": "2026",
+      "journal": "Front Genet",
+      "doi": "10.3389/fgene.2026.1902275",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42640804",
+      "title": "Cannabinoid tolerance relies on CB(1) receptor ubiquitination by NEDD4L.",
+      "first_author": "\u00c1lvaro-Bl\u00e1zquez A",
+      "year": "2026",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2606671123",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42609058",
+      "title": "STXBP1 Variants Associated With Epilepsy With Variable Severity.",
+      "first_author": "Xu M",
+      "year": "2026",
+      "journal": "CNS Neurosci Ther",
+      "doi": "10.1002/cns.71093",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42546502",
+      "title": "Accurate prediction of gain- and loss-of-function missense variants in GABA(A) receptors.",
+      "first_author": "Bo\u00dfelmann CM",
+      "year": "2026",
+      "journal": "EBioMedicine",
+      "doi": "10.1016/j.ebiom.2026.106417",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42516310",
+      "title": "Novel ALG13 Variants and an Expanded Neurodevelopmental Spectrum: Genotype-Phenotype Correlations.",
+      "first_author": "Su S",
+      "year": "2026",
+      "journal": "Hum Mutat",
+      "doi": "10.1155/humu/6800099",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42325954",
+      "title": "The genotypic spectrum of complex febrile seizures: insights from high-risk population genetic screening in a pediatric cohort.",
+      "first_author": "Deng X",
+      "year": "2026",
+      "journal": "Front Neurosci",
+      "doi": "10.3389/fnins.2026.1828448",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42284891",
+      "title": "Structural and molecular determinants of glutamate transporter allosteric modulators.",
+      "first_author": "Reeb KL",
+      "year": "2026",
+      "journal": "Mol Pharmacol",
+      "doi": "10.1016/j.molpha.2026.100122",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

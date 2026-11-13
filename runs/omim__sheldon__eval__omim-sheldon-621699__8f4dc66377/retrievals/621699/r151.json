@@ -1,0 +1,98 @@
+{
+  "id": "r151",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "36384914",
+      "37515120",
+      "33320938"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36384914",
+      "title": "Structures of ACE2-SIT1 recognized by Omicron variants of SARS-CoV-2.",
+      "authors": [
+        "Shen Y",
+        "Wang J",
+        "Li Y",
+        "Zhang Y",
+        "Tian R",
+        "Yan R"
+      ],
+      "year": "2022",
+      "journal": "Cell discovery",
+      "doi": "10.1038/s41421-022-00488-x",
+      "pubtype": [
+        "Letter"
+      ],
+      "mesh": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "37515120",
+      "title": "Applications of the Microscale Thermophoresis Binding Assay in COVID-19 Research.",
+      "authors": [
+        "Nydegger DT",
+        "Pujol-Gim\u00e9nez J",
+        "Kandasamy P",
+        "Vogt B",
+        "Hediger MA"
+      ],
+      "year": "2023",
+      "journal": "Viruses",
+      "doi": "10.3390/v15071432",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "COVID-19",
+        "SARS-CoV-2",
+        "Binding Sites",
+        "Angiotensin-Converting Enzyme 2",
+        "Pandemics",
+        "Protein Binding",
+        "Antiviral Agents",
+        "Spike Glycoprotein, Coronavirus",
+        "Membrane Transport Proteins"
+      ],
+      "abstract": "As the COVID-19 pandemic progresses, new variants of SARS-CoV-2 continue to emerge. This underscores the need to develop optimized tools to study such variants, along with new coronaviruses that may arise in the future. Such tools will also be instrumental in the development of new antiviral drugs. Here, we introduce microscale thermophoresis (MST) as a reliable and versatile tool for coronavirus research, which we demonstrate through three different applications described in this report: (1) binding of the SARS-CoV-2 spike receptor binding domain (RBD) to peptides as a strategy to prevent virus entry, (2) binding of the RBD to the viral receptor ACE2, and (3) binding of the RBD to ACE2 in complex with the amino acid transporter SLC6A20/SIT1 or its allelic variant rs61731475 (p.Ile529Val). Our results demonstrate that MST is a highly precise approach to studying protein-protein and/or protein-ligand interactions in coronavirus research, making it an ideal tool for studying viral variants and developing antiviral agents. Moreover, as shown in our results, a unique advantage of the MST assay over other available binding assays is the ability to measure interactions with membrane proteins in their near-native plasma membrane environment."
+    },
+    {
+      "pmid": "33320938",
+      "title": "Drug-resistant Mycobacterium tuberculosis and its genotypes isolated from an outbreak in western Thailand.",
+      "authors": [
+        "Rudeeaneksin J",
+        "Phetsuksiri B",
+        "Nakajima C",
+        "Bunchoo S",
+        "Suthum K",
+        "Tipkrua N",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+      "doi": "10.1093/trstmh/traa148",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Antitubercular Agents",
+        "Disease Outbreaks",
+        "Drug Resistance, Multiple, Bacterial",
+        "Genotype",
+        "Humans",
+        "Minisatellite Repeats",
+        "Mycobacterium tuberculosis",
+        "Thailand",
+        "Tuberculosis, Multidrug-Resistant"
+      ],
+      "abstract": "BACKGROUND: Multidrug-resistant TB (MDR-TB) outbreaks have occurred in the Thamaka district, Kanchanaburi province in Thailand.\nMETHODS: Seventy-two isolates, which included 7% mono-, 30.6% MDR and extensively drug-resistant TB (XDR-TB), were genotyped by spoligotyping, mycobacterial interspersed repetitive unit-variable-number tandem repeat (MIRU-VNTR) and single nucleotide polymorphism genotyping, and their drug resistance was analysed.\nRESULTS: The spoligotyping results showed that Beijing spoligo-international type (SIT)1 was predominant (n=38; 52.8%) while the remaining were non-Beijing sublineages (n=34). The MIRU-VNTR analysis showed that Beijing isolates, most of which belonged to the modern type (n=37), formed 5 clusters and 13 individual patterns. In katG, only mutation Ser315Thr was identified. In rpoB, Ser531Leu was predominant, except for His526Arg and Leu533Pro, which were found in two isolates. A cluster of 14 Beijing strains contained these common mutations and shared the MIRU-VNTR genotype with isolates in the Thamaka district that had spread previously. Two U SIT523 isolates contained the mutations A1400G in rrs and Asp94Gly in gyrA genes, indicating a spread of XDR-TB.\nCONCLUSIONS: Most mutations were associated with drug resistance and the specific MDR Beijing and XDR-TB in U SIT523 isolates remain. This genotyping is a key tool for tracking TB transmission in the Thamaka district of Thailand."
+    }
+  ]
+}

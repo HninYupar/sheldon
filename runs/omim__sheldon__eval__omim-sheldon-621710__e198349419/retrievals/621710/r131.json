@@ -1,0 +1,37 @@
+{
+  "id": "r131",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[tiab] AND (variant[tiab] OR mutation[tiab]) AND fibroblast*[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'ATG12[tiab] AND (variant[tiab] OR mutation[tiab]) AND fibroblast*[tiab]'; showing 2 (PubMed read it as: \"ATG12\"[Title/Abstract] AND (\"variant\"[Title/Abstract] OR \"mutation\"[Title/Abstract]) AND \"fibroblast*\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36095096",
+      "title": "Apicoplast biogenesis mediated by ATG8 requires the ATG12-ATG5-ATG16L and SNAP29 complexes in Toxoplasma gondii.",
+      "first_author": "Fu J",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2123639",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25259530",
+      "title": "Trehalose improves human fibroblast deficits in a new CHIP-mutation related ataxia.",
+      "first_author": "Casarejos MJ",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0106931",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

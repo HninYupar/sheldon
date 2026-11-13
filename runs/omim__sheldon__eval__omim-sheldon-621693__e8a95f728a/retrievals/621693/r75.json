@@ -1,0 +1,130 @@
+{
+  "id": "r75",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "40956890",
+      "42649079",
+      "26086101",
+      "24770418"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "authors": [
+        "Rodriguez JA",
+        "Minis A",
+        "Aref R",
+        "Nguyen HHM",
+        "Sun F",
+        "Steller H"
+      ],
+      "year": "2025",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Mice",
+        "Disease Models, Animal",
+        "F-Box Proteins",
+        "Parkinsonian Disorders",
+        "Humans",
+        "Neurons",
+        "Mice, Transgenic",
+        "tau Proteins",
+        "Phosphorylation",
+        "Proteasome Endopeptidase Complex",
+        "Drosophila melanogaster"
+      ],
+      "abstract": "Neurodegenerative diseases present one of the most significant global health challenges. These disorders are defined by the accumulation of abnormal protein aggregates that impair synaptic function and cause progressive neuronal degeneration. Therefore, stimulating protein clearance mechanisms may be neuro-protective. Variants in FBXO7/PARK15 cause Parkinsonian Pyramidal Syndrome, an early-onset parkinsonian neurodegenerative disorder in humans, and inactivation of this gene in mice recapitulates many phenotypes seen in patients. The proteasome regulator PI31 is a direct binding partner of Fbxo7 and promotes local protein degradation at synapses by mediating fast proteasome transport in neurites. PI31 protein levels are reduced when the function of Fbxo7 is impaired. Here we show that restoring PI31 levels in Fbxo7 mutant fly and mouse strains prevents neuronal degeneration and significantly improves neuronal function, health, and lifespan. Notably, Fbxo7 inactivation in mouse neurons causes hyperphosphorylation of tau, and this was suppressed by transgenic expression of PI31. Our results demonstrate that PI31 is a crucial biological target through which Fbxo7 deficiency drives pathology. Therefore, targeting the PI31-pathway may represent a promising therapeutic approach for treating neurodegenerative disorders."
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "authors": [
+        "Gabbert C",
+        "Much C",
+        "Wengh\u00f6fer A",
+        "Fienemann A",
+        "Schaake S",
+        "L\u00fcth T",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ],
+      "mesh": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "authors": [
+        "Clemen CS",
+        "Marko M",
+        "Strucksberg KH",
+        "Behrens J",
+        "Wittig I",
+        "G\u00e4rtner L",
+        "et al."
+      ],
+      "year": "2015",
+      "journal": "Biochemical and biophysical research communications",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Adenosine Triphosphatases",
+        "Biopolymers",
+        "Cell Cycle Proteins",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Proteins",
+        "Valosin Containing Protein"
+      ],
+      "abstract": "Protein turnover and quality control by the proteasome is of paramount importance for cell homeostasis. Dysfunction of the proteasome is associated with aging processes and human diseases such as neurodegeneration, cardiomyopathy, and cancer. The regulation, i.e. activation and inhibition of this fundamentally important protein degradation system, is still widely unexplored. We demonstrate here that the evolutionarily highly conserved type II triple-A ATPase VCP and the proteasome inhibitor PSMF1/PI31 interact directly, and antagonistically regulate proteasomal activity. Our data provide novel insights into the regulation of proteasomal activity."
+    },
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "authors": [
+        "Li X",
+        "Thompson D",
+        "Kumar B",
+        "DeMartino GN"
+      ],
+      "year": "2014",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Amino Acid Motifs",
+        "Animals",
+        "Drosophila melanogaster",
+        "HEK293 Cells",
+        "HeLa Cells",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Protein Structure, Tertiary",
+        "Proteins"
+      ],
+      "abstract": "We investigated molecular features and cellular roles of PI31 (PSMF1) on regulation of proteasome function. PI31 has a C-terminal HbYX (where Hb is a hydrophobic amino acid, Y is tyrosine, and X is any amino acid) motif characteristic of several proteasome activators. Peptides corresponding to the PI31 C terminus also bind to and activate the 20 S proteasome in an HbYX-dependent manner, but intact PI31protein inhibits in vitro 20 S activity. Binding to and inhibition of the proteasome by PI31 are conferred by the HbYX-containing proline-rich C-terminal domain but do not require HbYX residues. Thus, multiple regions of PI31 bind independently to the proteasome and collectively determine effects on activity. PI31 blocks the ATP-dependent in vitro assembly of 26 S proteasome from 20 S proteasome and PA700 subcomplexes but has no effect on in vitro activity of the intact 26 S proteasome. To determine the physiologic significance of these in vitro effects, we assessed multiple aspects of cellular proteasome content and function after altering PI31 levels. We detected no change in overall cellular proteasome content or function when PI31 levels were either increased by moderate ectopic overexpression or decreased by RNA interference (RNAi). We also failed to identify a role of PI31 ADP-ribosylation as a mechanism for regulation of overall 26 S proteasome content and function, as recently proposed. Thus, despite its in vitro effects on various proteasome activities and its structural relationship to established proteasome regulators, cellular roles and mechanisms of PI31 in regulation of proteasome function remain unclear and require future definition."
+    }
+  ]
+}

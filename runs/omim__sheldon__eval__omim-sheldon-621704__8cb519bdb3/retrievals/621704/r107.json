@@ -1,0 +1,48 @@
+{
+  "id": "r107",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"infantile neuroaxonal dystrophy\" OR INAD OR osteopetrosis OR optic atrophy) AND BORCS5",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for '(\"infantile neuroaxonal dystrophy\" OR INAD OR osteopetrosis OR optic atrophy) AND BORCS5'; showing 3 (PubMed read it as: (\"infantile neuroaxonal dystrophy\"[All Fields] OR \"INAD\"[All Fields] OR (\"osteopetrosis\"[MeSH Terms] OR \"osteopetrosis\"[All Fields] OR \"osteopetroses\"[All Fields]) OR (\"optic atrophy\"[MeSH Terms] OR (\"optic\"[All Fields] AND \"atrophy\"[All Fields]) OR \"optic atrophy\"[All Fields])) AND \"BORCS5\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40385417",
+      "title": "Pathogenic variants in BORCS5 Cause a Spectrum of Neurodevelopmental and Neurodegenerative Disorders with Lysosomal Dysfunction.",
+      "first_author": "Mencacci NE",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2025.04.30.25326597",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42012897",
+      "title": "Pathogenic variants in BORCS5 cause a spectrum of neurodevelopmental and neurodegenerative disorders with lysosomal dysfunction.",
+      "first_author": "Mencacci NE",
+      "year": "2026",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI195336",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40621786",
+      "title": "Neuroaxonal Dystrophy With Osteopetrosis Associated With a Novel Biallelic Nonsense Homozygous Variant in BORCS5.",
+      "first_author": "Fisher Y",
+      "year": "2025",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.64164",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    }
+  ]
+}

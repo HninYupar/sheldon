@@ -1,0 +1,48 @@
+{
+  "id": "r86",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Variants in the proteasome regulator PSMF1\"",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for '\"Variants in the proteasome regulator PSMF1\"'; showing 3 (PubMed read it as: (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) AND (\"proteasomal\"[All Fields] OR \"proteasomally\"[All Fields] OR \"proteasome endopeptidase complex\"[Supplementary Concept] OR \"proteasome endopeptidase complex\"[All Fields] OR \"proteasome\"[All Fields] OR \"proteasome endopeptidase complex\"[MeSH Terms] OR (\"proteasome\"[All Fields] AND \"endopeptidase\"[All Fields] AND \"complex\"[All Fields]) OR \"proteasomes\"[All Fields] OR \"proteasome s\"[All Fields] OR \"proteasomic\"[All Fields]) AND (\"legislation and jurisprudence\"[MeSH Subheading] OR (\"legislation\"[All Fields] AND \"jurisprudence\"[All Fields]) OR \"legislation and jurisprudence\"[All Fields] OR \"regulations\"[All Fields] OR \"social control, formal\"[MeSH Terms] OR (\"social\"[All Fields] AND \"control\"[All Fields] AND \"formal\"[All Fields]) OR \"formal social control\"[All Fields] OR \"regulate\"[All Fields] OR \"regulates\"[All Fields] OR \"regulating\"[All Fields] OR \"regulation s\"[All Fields] OR \"regulative\"[All Fields] OR \"regulator\"[All Fields] OR \"regulator s\"[All Fields] OR \"regulators\"[All Fields] OR \"regulated\"[All Fields] OR \"regulation\"[All Fields]) AND \"psmf1\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    }
+  ]
+}

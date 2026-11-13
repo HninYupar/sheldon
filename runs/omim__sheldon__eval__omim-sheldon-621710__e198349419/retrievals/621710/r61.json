@@ -1,0 +1,256 @@
+{
+  "id": "r61",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (autophagy[tiab] OR LC3[tiab] OR fibroblast*[tiab] OR patient-derived[tiab] OR fibroblasts[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1343 PubMed hits for 'ATG12[gene] AND (autophagy[tiab] OR LC3[tiab] OR fibroblast*[tiab] OR patient-derived[tiab] OR fibroblasts[tiab])'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"autophagy\"[Title/Abstract] OR \"LC3\"[Title/Abstract] OR \"fibroblast*\"[Title/Abstract] OR \"patient-derived\"[Title/Abstract] OR \"fibroblasts\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31969156",
+      "title": "Autophagy and autophagy-related proteins in cancer.",
+      "first_author": "Li X",
+      "year": "2020",
+      "journal": "Mol Cancer",
+      "doi": "10.1186/s12943-020-1138-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39087410",
+      "title": "ZDHHC7-mediated S-palmitoylation of ATG16L1 facilitates LC3 lipidation and autophagosome formation.",
+      "first_author": "Wei F",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2386915",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21175768",
+      "title": "Autophagy basics.",
+      "first_author": "Tanida I",
+      "year": "2011",
+      "journal": "Microbiol Immunol",
+      "doi": "10.1111/j.1348-0421.2010.00271.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "28121222",
+      "title": "Beyond Atg8 binding: The role of AIM/LIR motifs in autophagy.",
+      "first_author": "Fracchiolla D",
+      "year": "2017",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2016.1277311",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38032155",
+      "title": "What's in an E3: role of highly curved membranes in facilitating LC3-phosphatidylethanolamine conjugation during autophagy.",
+      "first_author": "Ye Y",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2023.2288527",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "32437499",
+      "title": "A PI3K-WIPI2 positive feedback loop allosterically activates LC3 lipidation in autophagy.",
+      "first_author": "Fracchiolla D",
+      "year": "2020",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.201912098",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37409490",
+      "title": "TECPR1 conjugates LC3 to damaged endomembranes upon detection of sphingomyelin exposure.",
+      "first_author": "Boyle KB",
+      "year": "2023",
+      "journal": "EMBO J",
+      "doi": "10.15252/embj.2022113012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38479594",
+      "title": "Membrane atg8ylation in Canonical and Noncanonical Autophagy.",
+      "first_author": "Deretic V",
+      "year": "2024",
+      "journal": "J Mol Biol",
+      "doi": "10.1016/j.jmb.2024.168532",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40641404",
+      "title": "ATG16L1 membrane recruitment in autophagy.",
+      "first_author": "Wei F",
+      "year": "2025",
+      "journal": "Crit Rev Biochem Mol Biol",
+      "doi": "10.1080/10409238.2025.2521321",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40395522",
+      "title": "ATG5 is dispensable for ATG8ylation of cellular proteins.",
+      "first_author": "Ketteler R",
+      "year": "2024",
+      "journal": "Autophagy Rep",
+      "doi": "10.1080/27694127.2024.2392450",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25804753",
+      "title": "Measuring autophagy in stressed cells.",
+      "first_author": "Sharifi MN",
+      "year": "2015",
+      "journal": "Methods Mol Biol",
+      "doi": "10.1007/978-1-4939-2522-3_10",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "42141163",
+      "title": "Atg7-Atg12 conjugation and autophagy are negatively regulated by the disordered region of Atg12.",
+      "first_author": "Popelka H",
+      "year": "2026",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-026-10269-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34193767",
+      "title": "Atg12-Interacting Motif Is Crucial for E2-E3 Interaction in Plant Atg8 System.",
+      "first_author": "Matoba K",
+      "year": "2021",
+      "journal": "Biol Pharm Bull",
+      "doi": "10.1248/bpb.b21-00439",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35632790",
+      "title": "Porcine Epidemic Diarrhea Virus Infection Induces Autophagosome Formation but Inhibits Autolysosome Formation during Replication.",
+      "first_author": "Park JY",
+      "year": "2022",
+      "journal": "Viruses",
+      "doi": "10.3390/v14051050",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26404030",
+      "title": "Atg7 in development and disease: panacea or Pandora's Box?",
+      "first_author": "Xiong J",
+      "year": "2015",
+      "journal": "Protein Cell",
+      "doi": "10.1007/s13238-015-0195-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30765325",
+      "title": "miR-221/222-Mediated Inhibition of Autophagy Promotes Dexamethasone Resistance in Multiple Myeloma.",
+      "first_author": "Xu J",
+      "year": "2019",
+      "journal": "Mol Ther",
+      "doi": "10.1016/j.ymthe.2019.01.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37762652",
+      "title": "miR-30a-3p Regulates Autophagy in the Involution of Mice Mammary Glands.",
+      "first_author": "Tian L",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms241814352",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21166723",
+      "title": "Autophagy in human keratinocytes: an early step of the differentiation?",
+      "first_author": "Aymard E",
+      "year": "2011",
+      "journal": "Exp Dermatol",
+      "doi": "10.1111/j.1600-0625.2010.01157.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25686249",
+      "title": "ATG12-ATG3 interacts with Alix to promote basal autophagic flux and late endosome function.",
+      "first_author": "Murrow L",
+      "year": "2015",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/ncb3112",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40395294",
+      "title": "Venetoclax inhibits autophagy in chronic lymphocytic leukemia cells.",
+      "first_author": "Chen Y",
+      "year": "2023",
+      "journal": "Autophagy Rep",
+      "doi": "10.1080/27694127.2023.2169518",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

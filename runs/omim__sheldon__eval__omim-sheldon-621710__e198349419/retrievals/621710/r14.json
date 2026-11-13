@@ -1,0 +1,139 @@
+{
+  "id": "r14",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND autophagy AND patient-derived OR fibroblast OR lymphoblast OR functional",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "17809247 PubMed hits for 'ATG12[gene] AND autophagy AND patient-derived OR fibroblast OR lymphoblast OR functional'; showing 10 (PubMed read it as: (\"ATG12\"[All Fields] AND (\"autophagies\"[All Fields] OR \"autophagy\"[MeSH Terms] OR \"autophagy\"[All Fields] OR \"autophagy s\"[All Fields]) AND \"patient-derived\"[All Fields]) OR (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields]) OR (\"lymphoblast\"[All Fields] OR \"lymphoblastic\"[All Fields] OR \"lymphoblasts\"[All Fields]) OR (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38124183",
+      "title": "Transcription factors in fibroblast plasticity and CAF heterogeneity.",
+      "first_author": "Melchionna R",
+      "year": "2023",
+      "journal": "J Exp Clin Cancer Res",
+      "doi": "10.1186/s13046-023-02934-4",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32401642",
+      "title": "Autophagy in the physiological endometrium and cancer.",
+      "first_author": "Devis-Jauregui L",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1752548",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33987902",
+      "title": "The inflammatory speech of fibroblasts.",
+      "first_author": "Schuster R",
+      "year": "2021",
+      "journal": "Immunol Rev",
+      "doi": "10.1111/imr.12971",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34028841",
+      "title": "Macrophage-fibroblast circuits in the spleen.",
+      "first_author": "Bellomo A",
+      "year": "2021",
+      "journal": "Immunol Rev",
+      "doi": "10.1111/imr.12979",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32037627",
+      "title": "Origin and functional heterogeneity of fibroblasts.",
+      "first_author": "LeBleu VS",
+      "year": "2020",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.201903188R",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "14110866",
+      "title": "THE FIBROBLAST.",
+      "first_author": "BRANWOOD AW",
+      "year": "1963",
+      "journal": "Int Rev Connect Tissue Res",
+      "doi": "10.1016/b978-1-4831-6755-8.50006-1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39337618",
+      "title": "Rice Husk Silica Liquid Enhances Autophagy and Reduces Overactive Immune Responses via TLR-7 Signaling in Lupus-Prone Models.",
+      "first_author": "Kao C",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms251810133",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34036608",
+      "title": "Fibroblasts as confederates of the immune system.",
+      "first_author": "Correa-Gallegos D",
+      "year": "2021",
+      "journal": "Immunol Rev",
+      "doi": "10.1111/imr.12972",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "17693758",
+      "title": "BK channels in the kidney.",
+      "first_author": "Grimm PR",
+      "year": "2007",
+      "journal": "Curr Opin Nephrol Hypertens",
+      "doi": "10.1097/MNH.0b013e32826fbc7d",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33786982",
+      "title": "Phenotypic heterogeneity, stability and plasticity in tumor-promoting carcinoma-associated fibroblasts.",
+      "first_author": "Mezawa Y",
+      "year": "2022",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.15851",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "r29",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[tiab] AND (syndrome OR immunodeficiency OR lymphoproliferation OR eczema OR EBV OR autoimmunity OR infection)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "28 PubMed hits for 'GNAI2[tiab] AND (syndrome OR immunodeficiency OR lymphoproliferation OR eczema OR EBV OR autoimmunity OR infection)'; showing 20 (PubMed read it as: \"GNAI2\"[Title/Abstract] AND (\"syndrom\"[All Fields] OR \"syndromal\"[All Fields] OR \"syndromally\"[All Fields] OR \"syndrome\"[MeSH Terms] OR \"syndrome\"[All Fields] OR \"syndromes\"[All Fields] OR \"syndrome s\"[All Fields] OR \"syndromic\"[All Fields] OR \"syndroms\"[All Fields] OR (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields]) OR (\"lymphoproliferation\"[All Fields] OR \"lymphoproliferations\"[All Fields]) OR (\"eczema\"[MeSH Terms] OR \"eczema\"[All Fields] OR \"eczemas\"[All Fields]) OR (\"herpesvirus 4, human\"[MeSH Terms] OR \"human herpesvirus 4\"[All Fields] OR \"ebv\"[All Fields]) OR (\"autoimmune\"[All Fields] OR \"autoimmunity\"[MeSH Terms] OR \"autoimmunity\"[All Fields] OR \"autoimmunities\"[All Fields] OR \"autoimmunization\"[All Fields] OR \"autoimmunizing\"[All Fields]) OR (\"infect\"[All Fields] OR \"infectability\"[All Fields] OR \"infectable\"[All Fields] OR \"infectant\"[All Fields] OR \"infectants\"[All Fields] OR \"infected\"[All Fields] OR \"infecteds\"[All Fields] OR \"infectibility\"[All Fields] OR \"infectible\"[All Fields] OR \"infecting\"[All Fields] OR \"infection s\"[All Fields] OR \"infections\"[MeSH Terms] OR \"infections\"[All Fields] OR \"infection\"[All Fields] OR \"infective\"[All Fields] OR \"infectiveness\"[All Fields] OR \"infectives\"[All Fields] OR \"infectivities\"[All Fields] OR \"infects\"[All Fields] OR \"pathogenicity\"[MeSH Subheading] OR \"pathogenicity\"[All Fields] OR \"infectivity\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36201743",
+      "title": "Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma.",
+      "first_author": "Thomas N",
+      "year": "2023",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2022016534",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "first_author": "Huang X",
+      "year": "2009",
+      "journal": "Med Hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34185889",
+      "title": "An epigenome-wide DNA methylation study of patients with COVID-19.",
+      "first_author": "Zhou S",
+      "year": "2021",
+      "journal": "Ann Hum Genet",
+      "doi": "10.1111/ahg.12440",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40141310",
+      "title": "Plasma Exosomal-Derived SERPINA1 and GNAI2 Downregulation as Potential Diagnostic Biomarkers of Kawasaki Disease with Coronary Artery Aneurysms.",
+      "first_author": "Zheng Y",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms26062668",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41226691",
+      "title": "G\u03b1(i2) Signaling Regulates Neonatal Respiratory Adaptation.",
+      "first_author": "Leiss V",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms262110655",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34054860",
+      "title": "GPCRomics of Homeostatic and Disease-Associated Human Microglia.",
+      "first_author": "Hsiao CC",
+      "year": "2021",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2021.674189",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30233409",
+      "title": "RXFP1 Receptor Activation by Relaxin-2 Induces Vascular Relaxation in Mice via a G\u03b1(i2)-Protein/PI3K\u00df/\u03b3/Nitric Oxide-Coupled Pathway.",
+      "first_author": "Lian X",
+      "year": "2018",
+      "journal": "Front Physiol",
+      "doi": "10.3389/fphys.2018.01234",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23977324",
+      "title": "The loss of Gnai2 and Gnai3 in B cells eliminates B lymphocyte compartments and leads to a hyper-IgM like syndrome.",
+      "first_author": "Hwang IY",
+      "year": "2013",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0072596",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "40792212",
+      "title": "Exploring the biological basis for the identification of different syndromes in ischemic heart failure based on joint multi-omics analysis.",
+      "first_author": "Zhang Y",
+      "year": "2025",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2025.1641422",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38310583",
+      "title": "Bioinformatics analysis of a disease-specific lncRNA-miRNA-mRNA regulatory network in recurrent spontaneous abortion (RSA).",
+      "first_author": "Reiisi S",
+      "year": "2024",
+      "journal": "Arch Gynecol Obstet",
+      "doi": "10.1007/s00404-023-07356-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26267680",
+      "title": "[Screening and functional analysis of microRNA expression in HPV16-positive squamous carcinoma of the cervix \u2028in the Uygur of southern Xinjiang].",
+      "first_author": "Yuan M",
+      "year": "2015",
+      "journal": "Zhong Nan Da Xue Xue Bao Yi Xue Ban",
+      "doi": "10.11817/j.issn.1672-7347.2015.07.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38811421",
+      "title": "Targeting G\u03b1(i2) in neutrophils protects from myocardial ischemia reperfusion injury.",
+      "first_author": "K\u00f6hler D",
+      "year": "2024",
+      "journal": "Basic Res Cardiol",
+      "doi": "10.1007/s00395-024-01057-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37713293",
+      "title": "Extracellular Vesicles and Endocannabinoid Signaling in Patients with COVID-19.",
+      "first_author": "Brandes F",
+      "year": "2024",
+      "journal": "Cannabis Cannabinoid Res",
+      "doi": "10.1089/can.2023.0040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42420675",
+      "title": "The NeuroWES project: lessons learned from comprehensive phenotyping and genetic analysis of neurodevelopmental disorders over a decade.",
+      "first_author": "Cardaropoli S",
+      "year": "2026",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-026-02843-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32431710",
+      "title": "Single or Combined Dietary Supply of Psidium guajava and Phyllanthus amarus Extracts Differentially Modulate Immune Responses and Liver Proteome in Striped Catfish (Pangasianodon hyphophthalmus).",
+      "first_author": "Nhu TQ",
+      "year": "2020",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2020.00797",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40145347",
+      "title": "Functional Genomics Using High-Throughput Methods for Salivary Analysis in Sj\u00f6gren's Disease.",
+      "first_author": "Florezi GP",
+      "year": "2025",
+      "journal": "Oral Dis",
+      "doi": "10.1111/odi.15328",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30582979",
+      "title": "Hepatocyte-specific suppression of microRNA-221-3p mitigates liver fibrosis.",
+      "first_author": "Tsay HC",
+      "year": "2019",
+      "journal": "J Hepatol",
+      "doi": "10.1016/j.jhep.2018.12.016",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

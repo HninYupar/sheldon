@@ -1,0 +1,145 @@
+{
+  "id": "r114",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "40796344",
+      "36395215",
+      "39834092",
+      "39030352"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "authors": [
+        "Hu H",
+        "Wan X",
+        "Sun J",
+        "Zhang S",
+        "Guo J",
+        "Zhang Y",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Human reproduction (Oxford, England)",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Female",
+        "Animals",
+        "Mice",
+        "Spindle Apparatus",
+        "Embryonic Development",
+        "Infertility, Female",
+        "HeLa Cells",
+        "Microtubule-Associated Proteins",
+        "Exome Sequencing",
+        "Oocytes",
+        "Alleles"
+      ],
+      "abstract": "STUDY QUESTION: What effects do DLGAP5 defects have on human early embryo development?\nSUMMARY ANSWER: DLGAP5 deficiency disrupts normal spindle assembly through its interaction with TACC3, leading to female infertility characterized by recurrent early embryonic arrest (REEA).\nWHAT IS KNOWN ALREADY: REEA is a significant contributor to failures in assisted reproductive technology. While genetic factors play a crucial role, known gene variants account for only a small proportion of affected individuals, leaving many underlying genetic factors yet to be elucidated. The relationship between spindle assembly and early embryonic development has emerged as a key research focus, however, our understanding of bipolar spindles in human oocytes and early embryos remains limited, highlighting the need for further investigation into the essential molecular players involved.\nSTUDY DESIGN, SIZE, DURATION: A total of 488 female patients experiencing infertility characterized as REEA were recruited from a university-affiliated center from November 2021 to December 2023.\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Whole-exome sequencing was performed on the REEA cohort to identify candidate variants. HeLa cells were transiently transfected with wild-type and mutant plasmids to evaluate protein abundance and localization. Mutant mRNAs were expressed at the zygote stage to monitor subsequent embryonic development. Immunoprecipitation-mass spectrometry was employed to identify altered interacting molecules associated with the candidate variants. Additionally, a site-directed mutant mouse model was developed to investigate the pathogenic mechanisms in vivo, validated with patient oocytes and arrested embryos.\nMAIN RESULTS AND THE ROLE OF CHANCE: The study identified two nonsense variants, one frameshift variant, and one missense pathogenic variant in the DLGAP5 gene of three independent families from the cohort of 488 REEA patients through whole-exome sequencing. All affected individuals displayed a Mendelian recessive inheritance pattern. These variants significantly altered protein length, abundance, or localization, resulting in spindle abnormalities in HeLa cells and mouse zygotes. Furthermore, the microinjection of exogenous mutant DLGAP5 mRNA into mouse zygote and the construction of Dlgap5 site-directed mutant mice successfully replicated the patient phenotypes. Functional studies, both in vivo and in vitro, revealed that DLGAP5 deficiency disrupts normal spindle assembly"
+    },
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "authors": [
+        "Wu T",
+        "Dong J",
+        "Fu J",
+        "Kuang Y",
+        "Chen B",
+        "Gu H",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Chromosome Segregation",
+        "Kinetochores",
+        "Microtubule-Associated Proteins",
+        "Microtubule-Organizing Center",
+        "Oocytes",
+        "Spindle Apparatus",
+        "Cells, Cultured",
+        "Phosphoproteins",
+        "Cell Cycle Proteins",
+        "Nerve Tissue Proteins"
+      ],
+      "abstract": "Meiotic spindle assembly ensures proper chromosome segregation in oocytes. However, the mechanisms behind spindle assembly in human oocytes remain largely unknown. We used three-dimensional high-resolution imaging of more than 2000 human oocytes to identify a structure that we named the human oocyte microtubule organizing center (huoMTOC). The proteins TACC3, CCP110, CKAP5, and DISC1 were found to be essential components of the huoMTOC. The huoMTOC arises beneath the oocyte cortex and migrates adjacent to the nuclear envelope before nuclear envelope breakdown (NEBD). After NEBD, the huoMTOC fragments and relocates on the kinetochores to initiate microtubule nucleation and spindle assembly. Disrupting the huoMTOC led to spindle assembly defects and oocyte maturation arrest. These results reveal a physiological mechanism of huoMTOC-regulated spindle assembly in human oocytes."
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "authors": [
+        "Luo H",
+        "Chen J",
+        "Li C",
+        "Wu T",
+        "Yin S",
+        "Yang G",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Clinical and translational medicine",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Tubulin",
+        "Histone Deacetylase 6",
+        "Animals",
+        "Mice",
+        "Oocytes",
+        "Humans",
+        "Acetylation",
+        "Female",
+        "Microtubules",
+        "Spindle Apparatus",
+        "Microtubule-Associated Proteins"
+      ],
+      "abstract": "BACKGROUND: Numerous pathogenic variants causing human oocyte maturation arrest have been reported on the primate-specific TUBB8 gene. The main etiology is the dramatic reduction of tubulin \u03b1/\u03b2 dimer, but still large numbers of variants remain unexplained.\nMETHODS: Using microinjection mRNA and genome engineering to reintroduce the conserved pathogenic missense variants into oocytes or in generating TUBB8 variant knock-in mouse models, we investigated that the human deleterious variants alter microtubule nucleation and spindle assembly during meiosis. Live-cell imaging and immunofluorescence were utilised to track the dynamic expression of microtubule plus end-tracking proteins in vivo and analysed microtubule nucleation or spindle assembly in vitro, respectively. Immunoprecipitation-mass spectrometry and ultramicro-quantitative proteomics were performed to identify the differential abundance proteins and affected interactome of TUBB8 protein.\nRESULTS: First, we observed a significant depletion of the EB1 signal upon microinjection of mutated TUBB8 mRNA (including R262Q, M300I, and D417N missense variants), indicating disruption of microtubule nucleation caused by these introduced TUBB8 missense variants. Mechanically, we demonstrated that the in vivo TUBB8-D417N missense variant diminished the affinity of EB1 and microtubules. It also harmed the interaction between microtubules and CKAP5/TACC3, which are crucial for initiating microtubule nucleation. Attenuated Ran-GTP pathway was also found in TUBB8-D417N oocytes, leading to disrupted spindle assembly. Stable microtubule was largely abolished on the spindle of TUBB8-D417N oocytes, reflected by reduced tubulin acetylation and accumulated HDAC6. More importantly, selective inhibition of HDAC6 by culturing TUBB8-D417N oocytes with Tubacin or Tubastatin A showed morphologically normal spindle and drastically recovered polar-body extrusion rate. These rescue results shed light on the strategy to treat meiotic defects in a certain group of TUBB8 mutated patients.\nCONCLUSION: Our study provides a comprehensive mechanism elucidating how TUBB8 missense variants cause oocyte maturation arrest and offers new therapeutic avenues for treating female infertility in the clinic."
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "authors": [
+        "Biswas L",
+        "Schindler K"
+      ],
+      "year": "2024",
+      "journal": "Advances in anatomy, embryology, and cell biology",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Oocytes",
+        "Humans",
+        "Spindle Apparatus",
+        "Female",
+        "Meiosis",
+        "Genetic Variation",
+        "Infertility, Female",
+        "Animals"
+      ],
+      "abstract": "Successful reproduction relies on the union of a single chromosomally normal egg and sperm. Chromosomally normal eggs develop from precursor cells, called oocytes, that have undergone accurate chromosome segregation. The process of chromosome segregation is governed by the oocyte spindle, a unique cytoskeletal machine that splits chromatin content of the meiotically dividing oocyte. The oocyte spindle develops and functions in an idiosyncratic process, which is vulnerable to genetic variation in spindle-associated proteins. Human genetic variants in several spindle-associated proteins are associated with poor clinical fertility outcomes, suggesting that heritable etiologies for oocyte dysfunction leading to infertility exist and that the spindle is a crux for female fertility. This chapter examines the mammalian oocyte spindle through the lens of human genetic variation, covering the genes TUBB8, TACC3, CEP120, AURKA, AURKC, AURKB, BUB1B, and CDC20. Specifically, it explores how patient-identified variants perturb spindle development and function, and it links these molecular changes in the oocyte to their cognate clinical consequences, such as oocyte maturation arrest, elevated egg aneuploidy, primary ovarian insufficiency, and recurrent pregnancy loss. This discussion demonstrates that small genetic errors in oocyte meiosis can result in remarkably far-ranging embryonic consequences, and thus reveals the importance of the oocyte's fine machinery in sustaining life."
+    }
+  ]
+}

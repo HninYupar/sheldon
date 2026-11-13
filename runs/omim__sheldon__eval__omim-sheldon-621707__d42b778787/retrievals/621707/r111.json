@@ -1,0 +1,244 @@
+{
+  "id": "r111",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"GNAI2\"[tiab] AND 2024[pdat]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "21 PubMed hits for '\"GNAI2\"[tiab] AND 2024[pdat]'; showing 20 (PubMed read it as: \"GNAI2\"[Title/Abstract] AND 2024/01/01:2024/12/31[Date - Publication])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38169377",
+      "title": "Identification and validation of iron metabolism genes in osteoporosis.",
+      "first_author": "Li Z",
+      "year": "2024",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-023-01779-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38505600",
+      "title": "G protein subunit alpha i2's pivotal role in angiogenesis.",
+      "first_author": "Bai CW",
+      "year": "2024",
+      "journal": "Theranostics",
+      "doi": "10.7150/thno.92909",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39273699",
+      "title": "Key Disease-Related Genes and Immune Cell Infiltration Landscape in Inflammatory Bowel Disease: A Bioinformatics Investigation.",
+      "first_author": "Alghamdi KS",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25179751",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39249692",
+      "title": "A new variant confirms GNAI2 as a rare cause of periventricular nodular heterotopia.",
+      "first_author": "Decio A",
+      "year": "2024",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-024-07764-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38811421",
+      "title": "Targeting G\u03b1(i2) in neutrophils protects from myocardial ischemia reperfusion injury.",
+      "first_author": "K\u00f6hler D",
+      "year": "2024",
+      "journal": "Basic Res Cardiol",
+      "doi": "10.1007/s00395-024-01057-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38790179",
+      "title": "Whole-Genome Resequencing Revealed Selective Signatures for Growth Traits in Hu and Gangba Sheep.",
+      "first_author": "Yang P",
+      "year": "2024",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes15050551",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37713293",
+      "title": "Extracellular Vesicles and Endocannabinoid Signaling in Patients with COVID-19.",
+      "first_author": "Brandes F",
+      "year": "2024",
+      "journal": "Cannabis Cannabinoid Res",
+      "doi": "10.1089/can.2023.0040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38651641",
+      "title": "Inhibitory G proteins play multiple roles to polarize sensory hair cell morphogenesis.",
+      "first_author": "Jarysta A",
+      "year": "2024",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.88186",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37292807",
+      "title": "Inhibitory G proteins play multiple roles to polarize sensory hair cell morphogenesis.",
+      "first_author": "Jarysta A",
+      "year": "2024",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2023.05.25.542257",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39670989",
+      "title": "Single-cell transcriptomics of vomeronasal neuroepithelium reveals a differential endoplasmic reticulum environment amongst neuronal subtypes.",
+      "first_author": "Devakinandan GVS",
+      "year": "2024",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.98250",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38153649",
+      "title": "MiR-30c-5p-Targeted Regulation of GNAI2 Improves Neural Function Injury and Inflammation in Cerebral Ischemia-Reperfusion Injury.",
+      "first_author": "Deng X",
+      "year": "2024",
+      "journal": "Appl Biochem Biotechnol",
+      "doi": "10.1007/s12010-023-04802-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39229596",
+      "title": "Corrigendum: GnRH-mediated suppression of S100A4 expression inhibits endometrial epithelial cell proliferation in sheep via GNAI2/MAPK signaling.",
+      "first_author": "Jiao X",
+      "year": "2024",
+      "journal": "Front Vet Sci",
+      "doi": "10.3389/fvets.2024.1445291",
+      "pubtype": [
+        "Published Erratum"
+      ]
+    },
+    {
+      "pmid": "39063192",
+      "title": "MicroRNA-181a Targets GNAI2 and Affects the Proliferation and Induction Ability of Dermal Papilla Cells: The Potential Involvement of the Wnt/\u03b2-Catenin Signaling Pathway.",
+      "first_author": "He M",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25147950",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39532806",
+      "title": "Early-Life Stress Influences the Transcriptional Activation of Alpha-2A Adrenergic Receptor and Associated Protein Kinase A Signaling Molecules in the Frontal Cortex of Rats.",
+      "first_author": "Ali S",
+      "year": "2025",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-024-04578-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39521089",
+      "title": "The Keap1-Nrf2/ARE signaling pathway regulates redox balance and apoptosis in the small yellow croaker (Larimichthys polyactis) under hypoxic stress.",
+      "first_author": "Wang J",
+      "year": "2024",
+      "journal": "Sci Total Environ",
+      "doi": "10.1016/j.scitotenv.2024.177396",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38310583",
+      "title": "Bioinformatics analysis of a disease-specific lncRNA-miRNA-mRNA regulatory network in recurrent spontaneous abortion (RSA).",
+      "first_author": "Reiisi S",
+      "year": "2024",
+      "journal": "Arch Gynecol Obstet",
+      "doi": "10.1007/s00404-023-07356-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38872805",
+      "title": "GnRH-mediated suppression of S100A4 expression inhibits endometrial epithelial cell proliferation in sheep via GNAI2/MAPK signaling.",
+      "first_author": "Jiao X",
+      "year": "2024",
+      "journal": "Front Vet Sci",
+      "doi": "10.3389/fvets.2024.1410371",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38373483",
+      "title": "Investigating neuropathological changes and underlying neurobiological mechanisms in the early stages of primary blast-induced traumatic brain injury: Insights from a rat model.",
+      "first_author": "Zhu X",
+      "year": "2024",
+      "journal": "Exp Neurol",
+      "doi": "10.1016/j.expneurol.2024.114731",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39233824",
+      "title": "Identification of feature genes and molecular mechanisms involved in cell communication in uveal melanoma through analysis of single\u2011cell sequencing data.",
+      "first_author": "Lyu N",
+      "year": "2024",
+      "journal": "Oncol Lett",
+      "doi": "10.3892/ol.2024.14636",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

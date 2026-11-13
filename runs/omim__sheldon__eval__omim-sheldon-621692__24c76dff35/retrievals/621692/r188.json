@@ -1,0 +1,64 @@
+{
+  "id": "r188",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "34320921",
+      "24498617"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34320921",
+      "title": "CACNA1A-p.Thr501Met mutation associated with familial hemiplegic migraine: a family report.",
+      "authors": [
+        "Romozzi M",
+        "Primiano G",
+        "Rollo E",
+        "Travaglini L",
+        "Calabresi P",
+        "Servidei S",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "The journal of headache and pain",
+      "doi": "10.1186/s10194-021-01297-5",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Calcium Channels",
+        "Humans",
+        "Migraine Disorders",
+        "Migraine with Aura",
+        "Mutation",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "BACKGROUND AND AIMS: Hemiplegic migraine (HM) is a rare form of migraine characterized by the presence of a motor and other types of aura. HM can be sporadic or familial. Familial hemiplegic migraine (FHM) is an autosomal dominant disorder, classified into 3 subtypes, based on the gene involved (CACNA1A in FHM1, ATP1A2 in FHM2 and SCN1A in FHM3). The clinical presentation is highly heterogeneous and some attacks may be severe. We report the clinical characteristics and genetic analysis of 12 patients belonging to a family with CACNA1A-p.Thr501Met gene mutation.\nMETHODS: We screened for mutations in CACNA1A gene 15 patients belonging to the same family. The exonic sequences of CACNA1A were analyzed using a Tru-seq\u00ae Custom Amplicon (TSCA) (Illumina Inc., San Diego, CA) targeted capture and paired end library kit. Sanger sequencing was used to confirm CACNA1A variants and segregation analysis.\nRESULTS: CACNA1A-p.Thr501Met mutation was found in 12 of the 15 patients screened, which was compatible with the diagnosis of FHM1. Attacks of hemiplegic migraine were reported by 10 of the 12 subjects (83.33%). Only one subject developed persistent mild cerebellar symptoms and none of the subjects developed cerebellar atrophy.\nDISCUSSION: The variant p.Thr501Met was described previously in association with episodic ataxia and rarely with FHM related to cerebellar symptoms. FHM1 has a broad clinical spectrum and about half of the families have cerebellar involvement. In our study, only one patient developed persistent cerebellar deficits. These data suggest that CACNA1A-p.Thr501Met mutation can occur prevalently as hemiplegic migraine."
+    },
+    {
+      "pmid": "24498617",
+      "title": "Screening of CACNA1A and ATP1A2 genes in hemiplegic migraine: clinical, genetic, and functional studies.",
+      "authors": [
+        "Carre\u00f1o O",
+        "Corominas R",
+        "Serra SA",
+        "Sintas C",
+        "Fern\u00e1ndez-Castillo N",
+        "Vila-Pueyo M",
+        "et al."
+      ],
+      "year": "2013",
+      "journal": "Molecular genetics & genomic medicine",
+      "doi": "10.1002/mgg3.24",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Hemiplegic migraine (HM) is a rare and severe subtype of autosomal dominant migraine, characterized by a complex aura including some degree of motor weakness. Mutations in four genes (CACNA1A, ATP1A2, SCN1A and PRRT2) have been detected in familial and in sporadic cases. This genetically and clinically heterogeneous disorder is often accompanied by permanent ataxia, epileptic seizures, mental retardation, and chronic progressive cerebellar atrophy. Here we report a mutation screening in the CACNA1A and ATP1A2 genes in 18 patients with HM. Furthermore, intragenic copy number variant (CNV) analysis was performed in CACNA1A using quantitative approaches. We identified four previously described missense CACNA1A mutations (p.Ser218Leu, p.Thr501Met, p.Arg583Gln, and p.Thr666Met) and two missense changes in the ATP1A2 gene, the previously described p.Ala606Thr and the novel variant p.Glu825Lys. No structural variants were found. This genetic screening allowed the identification of more than 30% of the disease alleles, all present in a heterozygous state. Functional consequences of the CACNA1A-p.Thr501Met mutation, previously described only in association with episodic ataxia, and ATP1A2-p.Glu825Lys, were investigated by means of electrophysiological studies, cell viability assays or Western blot analysis. Our data suggest that both these variants are disease-causing."
+    }
+  ]
+}

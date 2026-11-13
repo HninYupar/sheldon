@@ -1,0 +1,251 @@
+{
+  "id": "r41",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "9335498",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "99 'cited_by' links for PMID 9335498; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42852994",
+      "title": "MooneyMaker: A Python package to create ambiguous two-tone images.",
+      "first_author": "Reining LC",
+      "year": "2026",
+      "journal": "J Vis",
+      "doi": "10.1167/jov.26.10.8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42188270",
+      "title": "The Memory Superiority Effect of Induced Insight in Semantic Versus Perceptual Levels.",
+      "first_author": "Zhang Z",
+      "year": "2026",
+      "journal": "J Intell",
+      "doi": "10.3390/jintelligence14050084",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41986488",
+      "title": "Image type reveals evolutionarily shaped perceptual and conceptual mechanisms of pareidolia.",
+      "first_author": "G\u00f6bel N",
+      "year": "2026",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-026-47242-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41639076",
+      "title": "Neural and computational mechanisms underlying one-shot perceptual learning in humans.",
+      "first_author": "Hachisuka A",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-68711-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39351371",
+      "title": "A psychophysical evaluation of techniques for Mooney image generation.",
+      "first_author": "Reining LC",
+      "year": "2024",
+      "journal": "PeerJ",
+      "doi": "10.7717/peerj.18059",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38719939",
+      "title": "Electrophysiological correlates of sustained conscious perception.",
+      "first_author": "Hense A",
+      "year": "2024",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-024-61281-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38220035",
+      "title": "Synthetic surprise as the foundation of the psychedelic experience.",
+      "first_author": "De Filippo R",
+      "year": "2024",
+      "journal": "Neurosci Biobehav Rev",
+      "doi": "10.1016/j.neubiorev.2024.105538",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37160327",
+      "title": "Dynamic signatures of the Eureka effect: an EEG study.",
+      "first_author": "Lu Y",
+      "year": "2023",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhad150",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36829186",
+      "title": "Neural ensembles in the murine medial prefrontal cortex process distinct information during visual perceptual learning.",
+      "first_author": "Wang Z",
+      "year": "2023",
+      "journal": "BMC Biol",
+      "doi": "10.1186/s12915-023-01529-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36739325",
+      "title": "Face pareidolia is enhanced by 40\u00a0Hz transcranial alternating current stimulation (tACS) of the face perception network.",
+      "first_author": "Palmisano A",
+      "year": "2023",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-023-29124-8",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ]
+    },
+    {
+      "pmid": "34783016",
+      "title": "Corticothalamic projections deliver enhanced responses to medial geniculate body as a function of the temporal reliability of the stimulus.",
+      "first_author": "Kommajosyula SP",
+      "year": "2021",
+      "journal": "J Physiol",
+      "doi": "10.1113/JP282321",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "34725348",
+      "title": "Long-term priors influence visual perception through recruitment of long-range feedback.",
+      "first_author": "Hardstone R",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-26544-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "34545079",
+      "title": "Computational models of category-selective brain regions enable high-throughput tests of selectivity.",
+      "first_author": "Ratan Murty NA",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-25409-6",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "34366818",
+      "title": "Learning Invariant Object and Spatial View Representations in the Brain Using Slow Unsupervised Learning.",
+      "first_author": "Rolls ET",
+      "year": "2021",
+      "journal": "Front Comput Neurosci",
+      "doi": "10.3389/fncom.2021.686239",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34335156",
+      "title": "The Relative Weight of Temporal Envelope Cues in Different Frequency Regions for Mandarin Disyllabic Word Recognition.",
+      "first_author": "Zheng Z",
+      "year": "2021",
+      "journal": "Front Neurosci",
+      "doi": "10.3389/fnins.2021.670192",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34296106",
+      "title": "Neural and Behavioral Evidence for Frequency-Selective Context Effects in Rhythm Processing in Humans.",
+      "first_author": "Lenc T",
+      "year": "2020",
+      "journal": "Cereb Cortex Commun",
+      "doi": "10.1093/texcom/tgaa037",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33952702",
+      "title": "One-trial perceptual learning in the absence of conscious remembering and independent of the medial temporal lobe.",
+      "first_author": "Squire LR",
+      "year": "2021",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2104072118",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "33208472",
+      "title": "A Gradient of Sharpening Effects by Perceptual Prior across the Human Cortical Hierarchy.",
+      "first_author": "Gonz\u00e1lez-Garc\u00eda C",
+      "year": "2021",
+      "journal": "J Neurosci",
+      "doi": "10.1523/JNEUROSCI.2023-20.2020",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "33192395",
+      "title": "Neural Correlates of Repetition Priming: A Coordinate-Based Meta-Analysis of fMRI Studies.",
+      "first_author": "Lee SM",
+      "year": "2020",
+      "journal": "Front Hum Neurosci",
+      "doi": "10.3389/fnhum.2020.565114",
+      "pubtype": [
+        "Systematic Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32650054",
+      "title": "Object recognition is enabled by an experience-dependent appraisal of visual features in the brain's value system.",
+      "first_author": "Kozunov VV",
+      "year": "2020",
+      "journal": "Neuroimage",
+      "doi": "10.1016/j.neuroimage.2020.117143",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

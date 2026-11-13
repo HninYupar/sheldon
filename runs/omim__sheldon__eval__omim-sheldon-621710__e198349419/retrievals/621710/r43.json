@@ -1,0 +1,247 @@
+{
+  "id": "r43",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND autophagy AND fibroblasts AND human",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "53 PubMed hits for 'ATG12[gene] AND autophagy AND fibroblasts AND human'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"autophagies\"[All Fields] OR \"autophagy\"[MeSH Terms] OR \"autophagy\"[All Fields] OR \"autophagy s\"[All Fields]) AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields]) AND (\"human s\"[All Fields] OR \"humans\"[MeSH Terms] OR \"humans\"[All Fields] OR \"human\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36541703",
+      "title": "PEX13 prevents pexophagy by regulating ubiquitinated PEX5 and peroxisomal ROS.",
+      "first_author": "Demers ND",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2160566",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39179205",
+      "title": "Invasion of human dental pulp fibroblasts by Porphyromonas gingivalis leads to autophagy via the phosphoinositide 3-kinase/Akt/mammalian target of rapamycin signaling pathway.",
+      "first_author": "Feng Y",
+      "year": "2024",
+      "journal": "J Oral Biosci",
+      "doi": "10.1016/j.job.2024.08.004",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34217712",
+      "title": "Zinc oxide nanoparticle-triggered oxidative stress and autophagy activation in human tenon fibroblasts.",
+      "first_author": "Guo D",
+      "year": "2021",
+      "journal": "Eur J Pharmacol",
+      "doi": "10.1016/j.ejphar.2021.174294",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30809091",
+      "title": "Emodin induces apoptosis and autophagy of fibroblasts obtained from patient with ankylosing spondylitis.",
+      "first_author": "Ma C",
+      "year": "2019",
+      "journal": "Drug Des Devel Ther",
+      "doi": "10.2147/DDDT.S182087",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39608349",
+      "title": "RNF144A inhibits autophagy by targeting BECN1 for degradation during L. monocytogenes infection.",
+      "first_author": "Yang B",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2429380",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21858089",
+      "title": "Autophagy impairment induces premature senescence in primary human fibroblasts.",
+      "first_author": "Kang HT",
+      "year": "2011",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0023367",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31612776",
+      "title": "BIRC5/Survivin is a novel ATG12-ATG5 conjugate interactor and an autophagy-induced DNA damage suppressor in human cancer and mouse embryonic fibroblast cells.",
+      "first_author": "Lin TY",
+      "year": "2020",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2019.1671643",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30720102",
+      "title": "Autophagy and apoptotic machinery caused by Polygonum\u00a0cuspidatum extract in cisplatin\u2011resistant human oral cancer CAR cells.",
+      "first_author": "Wang YL",
+      "year": "2019",
+      "journal": "Oncol Rep",
+      "doi": "10.3892/or.2019.6985",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38524239",
+      "title": "Rapid induction of dopaminergic neuron-like cells from human fibroblasts by autophagy activation with only 2-small molecules.",
+      "first_author": "Sorraksa N",
+      "year": "2024",
+      "journal": "3 Biotech",
+      "doi": "10.1007/s13205-024-03957-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23075094",
+      "title": "Autophagy in periodontitis patients and gingival fibroblasts: unraveling the link between chronic diseases and inflammation.",
+      "first_author": "Bullon P",
+      "year": "2012",
+      "journal": "BMC Med",
+      "doi": "10.1186/1741-7015-10-122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31321620",
+      "title": "Small molecules re-establish neural cell fate of human fibroblasts via autophagy activation.",
+      "first_author": "Rujanapun N",
+      "year": "2019",
+      "journal": "In Vitro Cell Dev Biol Anim",
+      "doi": "10.1007/s11626-019-00381-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40374597",
+      "title": "Autophagy- and oxidative stress-related protein deregulation mediated by extracellular vesicles of human MJD/SCA3 iPSC-derived neuroepithelial stem cells and differentiated neural cultures.",
+      "first_author": "Mendon\u00e7a LS",
+      "year": "2025",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-025-07659-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36095096",
+      "title": "Apicoplast biogenesis mediated by ATG8 requires the ATG12-ATG5-ATG16L and SNAP29 complexes in Toxoplasma gondii.",
+      "first_author": "Fu J",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2123639",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34904929",
+      "title": "ATG12 deficiency results in intracellular glutamine depletion, abrogation of tumor hypoxia and a favorable prognosis in cancer.",
+      "first_author": "Keulers TG",
+      "year": "2022",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.2008690",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35657166",
+      "title": "Ginsenoside Rg1 suppresses paraquat-induced epithelial cell senescence by enhancing autophagy in an ATG12-dependent manner.",
+      "first_author": "Huang C",
+      "year": "2022",
+      "journal": "Environ Toxicol",
+      "doi": "10.1002/tox.23597",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25241929",
+      "title": "PICALM modulates autophagy activity and tau accumulation.",
+      "first_author": "Moreau K",
+      "year": "2014",
+      "journal": "Nat Commun",
+      "doi": "10.1038/ncomms5998",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32349535",
+      "title": "Cav-1 (Caveolin-1) Deficiency Increases Autophagy in the Endothelium and Attenuates Vascular Inflammation and Atherosclerosis.",
+      "first_author": "Zhang X",
+      "year": "2020",
+      "journal": "Arterioscler Thromb Vasc Biol",
+      "doi": "10.1161/ATVBAHA.120.314291",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25629932",
+      "title": "Ubiquitination and proteasomal degradation of ATG12 regulates its proapoptotic activity.",
+      "first_author": "Haller M",
+      "year": "2014",
+      "journal": "Autophagy",
+      "doi": "10.4161/15548627.2014.981914",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

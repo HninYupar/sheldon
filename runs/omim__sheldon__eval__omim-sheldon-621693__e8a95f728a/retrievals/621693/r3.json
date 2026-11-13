@@ -1,0 +1,26 @@
+{
+  "id": "r3",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"621693\"[all] OR \"PARK27\"[all]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '\"621693\"[all] OR \"PARK27\"[all]'; showing 1 (PubMed read it as: \"621693\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "23710469",
+      "title": "Application of IgG-derived natural Treg epitopes (IgG Tregitopes) to antigen-specific tolerance induction in a murine model of type 1 diabetes.",
+      "first_author": "Cousens LP",
+      "year": "2013",
+      "journal": "J Diabetes Res",
+      "doi": "10.1155/2013/621693",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "r156",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1[gene] AND (\"systemic lupus erythematosus\"[tiab] OR SLE[tiab]) AND (childhood OR childhood-onset OR early-onset OR juvenile OR pediatric OR paediatric)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'SAT1[gene] AND (\"systemic lupus erythematosus\"[tiab] OR SLE[tiab]) AND (childhood OR childhood-onset OR early-onset OR juvenile OR pediatric OR paediatric)'; showing 2 (PubMed read it as: \"SAT1\"[All Fields] AND (\"systemic lupus erythematosus\"[Title/Abstract] OR \"SLE\"[Title/Abstract]) AND (\"childhood\"[All Fields] OR \"childhoods\"[All Fields] OR \"childhood-onset\"[All Fields] OR \"early-onset\"[All Fields] OR (\"juvenile\"[All Fields] OR \"juvenile s\"[All Fields] OR \"juveniles\"[All Fields] OR \"juvenility\"[All Fields]) OR (\"paediatrics\"[All Fields] OR \"pediatrics\"[MeSH Terms] OR \"pediatrics\"[All Fields] OR \"paediatric\"[All Fields] OR \"pediatric\"[All Fields]) OR (\"paediatrics\"[All Fields] OR \"pediatrics\"[MeSH Terms] OR \"pediatrics\"[All Fields] OR \"paediatric\"[All Fields] OR \"pediatric\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37438615",
+      "title": "Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants.",
+      "first_author": "Vinuesa CG",
+      "year": "2023",
+      "journal": "Nat Rev Nephrol",
+      "doi": "10.1038/s41581-023-00732-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

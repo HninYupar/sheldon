@@ -1,0 +1,135 @@
+{
+  "id": "r128",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "40621786",
+    "relation": "similar",
+    "max_results": 10
+  },
+  "summary": "99 'similar' links for PMID 40621786; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "29926385",
+      "title": "Whole exome sequencing identified two novel homozygous missense variants in the same codon of CLCN7 underlying autosomal recessive infantile malignant osteopetrosis in a Pakistani family.",
+      "first_author": "Khan MA",
+      "year": "2018",
+      "journal": "Mol Biol Rep",
+      "doi": "10.1007/s11033-018-4194-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39103847",
+      "title": "Exome sequencing reveals neurodevelopmental genes in simplex consanguineous Iranian families with syndromic autism.",
+      "first_author": "Ghasemi MR",
+      "year": "2024",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-024-01969-6",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "7577667",
+      "title": "Association of infantile neuroaxonal dystrophy and osteopetrosis: a rare autosomal recessive disorder.",
+      "first_author": "Rees H",
+      "year": "1995",
+      "journal": "Pediatr Neurosurg",
+      "doi": "10.1159/000120923",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39796207",
+      "title": "Association of Novel Pathogenic Variant (p. Ile366Asn) in PLA2G6 Gene with Infantile Neuroaxonal Dystrophy.",
+      "first_author": "Cheema AN",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms26010352",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39994654",
+      "title": "A novel frameshift variant leads to familial osteopetrosis with variable phenotypes in a Chinese Han consanguineous family.",
+      "first_author": "Liu M",
+      "year": "2025",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-025-02101-y",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35092705",
+      "title": "Novel insertion mutation in the PLA2G6 gene in an Iranian family with infantile neuroaxonal dystrophy.",
+      "first_author": "Rostampour D",
+      "year": "2022",
+      "journal": "J Clin Lab Anal",
+      "doi": "10.1002/jcla.24253",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40836236",
+      "title": "CCDC82 and neurodevelopment: a novel genetic variant linked to infantile spasms and hypotonia.",
+      "first_author": "Safarian Z",
+      "year": "2025",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-025-02201-9",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "19238435",
+      "title": "A novel CLCN7 mutation resulting in a most severe form of autosomal recessive osteopetrosis.",
+      "first_author": "Besbas N",
+      "year": "2009",
+      "journal": "Eur J Pediatr",
+      "doi": "10.1007/s00431-009-0945-9",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30868578",
+      "title": "Genetic studies of multiple consanguineous Pakistani families segregating oculocutaneous albinism identified novel and reported mutations.",
+      "first_author": "Gul H",
+      "year": "2019",
+      "journal": "Ann Hum Genet",
+      "doi": "10.1111/ahg.12307",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40361155",
+      "title": "Exome sequencing revealed a novel homozygous variant in TRMT61 A in a multiplex family with atypical Cornelia de Lange Syndrome from Rwanda.",
+      "first_author": "Uwibambe E",
+      "year": "2025",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-025-02153-0",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

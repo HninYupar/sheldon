@@ -1,0 +1,25 @@
+{
+  "id": "r125",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1[tiab] AND (review OR perspective OR editorial) AND lupus",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'SAT1[tiab] AND (review OR perspective OR editorial) AND lupus'; showing 1 (PubMed read it as: \"SAT1\"[Title/Abstract] AND (\"review\"[Publication Type] OR \"review literature as topic\"[MeSH Terms] OR \"review\"[All Fields] OR (\"perspective\"[All Fields] OR \"perspective s\"[All Fields] OR \"perspectives\"[All Fields]) OR (\"editorial\"[Publication Type] OR \"editorial\"[All Fields])) AND (\"lupus vulgaris\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"vulgaris\"[All Fields]) OR \"lupus vulgaris\"[All Fields] OR \"lupus\"[All Fields] OR \"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "37438615",
+      "title": "Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants.",
+      "first_author": "Vinuesa CG",
+      "year": "2023",
+      "journal": "Nat Rev Nephrol",
+      "doi": "10.1038/s41581-023-00732-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

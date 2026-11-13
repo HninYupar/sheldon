@@ -1,0 +1,132 @@
+{
+  "id": "r139",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"neurodevelopmental disorder with seizures and cerebellar hypoplasia\" OR NEDSCH OR 621710",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "63 PubMed hits for '\"neurodevelopmental disorder with seizures and cerebellar hypoplasia\" OR NEDSCH OR 621710'; showing 10 (PubMed read it as: ((\"neurodevelopmental disorders\"[MeSH Terms] OR (\"neurodevelopmental\"[All Fields] AND \"disorders\"[All Fields]) OR \"neurodevelopmental disorders\"[All Fields] OR (\"neurodevelopmental\"[All Fields] AND \"disorder\"[All Fields]) OR \"neurodevelopmental disorder\"[All Fields]) AND (\"seizural\"[All Fields] OR \"seizure s\"[All Fields] OR \"seizured\"[All Fields] OR \"seizures\"[MeSH Terms] OR \"seizures\"[All Fields] OR \"seizure\"[All Fields] OR \"seizuring\"[All Fields]) AND (\"cerebellar hypoplasia\"[Supplementary Concept] OR \"cerebellar hypoplasia\"[All Fields])) OR 621710[UID])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39707840",
+      "title": "RORA-neurodevelopmental disorder: A unique triad of developmental disabilities, cerebellar anomalies, and myoclonic seizures.",
+      "first_author": "Talarico M",
+      "year": "2025",
+      "journal": "Genet Med",
+      "doi": "10.1016/j.gim.2024.101347",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39315527",
+      "title": "Elucidating the clinical and genetic spectrum of inositol polyphosphate phosphatase INPP4A-related neurodevelopmental disorder.",
+      "first_author": "Rawlins LE",
+      "year": "2025",
+      "journal": "Genet Med",
+      "doi": "10.1016/j.gim.2024.101278",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34731330",
+      "title": "Myoclonic status epilepticus and cerebellar hypoplasia associated with a novel variant in the GRIA3 gene.",
+      "first_author": "Rinaldi B",
+      "year": "2022",
+      "journal": "Neurogenetics",
+      "doi": "10.1007/s10048-021-00666-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40501776",
+      "title": "Novel mouse model reveals neurodevelopmental origin of PMM2-CDG brain pathology.",
+      "first_author": "Edmondson AC",
+      "year": "2025",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2025.06.01.657261",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "27422383",
+      "title": "Hyperekplexia, microcephaly and simplified gyral pattern caused by novel ASNS mutations, case report.",
+      "first_author": "Seidahmed MZ",
+      "year": "2016",
+      "journal": "BMC Neurol",
+      "doi": "10.1186/s12883-016-0633-0",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33640666",
+      "title": "CASK related disorder: Epilepsy and developmental outcome.",
+      "first_author": "Giacomini T",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.02.006",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12878295",
+      "title": "Clinical spectrum associated with cerebellar hypoplasia.",
+      "first_author": "Wassmer E",
+      "year": "2003",
+      "journal": "Pediatr Neurol",
+      "doi": "10.1016/s0887-8994(03)00016-x",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22564885",
+      "title": "Neurological findings in incontinentia pigmenti; a review.",
+      "first_author": "Meuwissen ME",
+      "year": "2012",
+      "journal": "Eur J Med Genet",
+      "doi": "10.1016/j.ejmg.2012.04.007",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39586739",
+      "title": "Novel BRAT1 Deep Intronic Variant Affects Splicing Regulatory Elements Causing Cerebellar Hypoplasia Syndrome: Genotypic and Phenotypic Expansion.",
+      "first_author": "Poleg T",
+      "year": "2025",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14653",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

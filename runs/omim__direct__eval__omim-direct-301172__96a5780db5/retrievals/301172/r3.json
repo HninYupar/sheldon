@@ -1,0 +1,249 @@
+{
+  "id": "r3",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SAT1[gene] AND (variant OR mutation OR deficiency OR polymorphism)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "131 PubMed hits for 'SAT1[gene] AND (variant OR mutation OR deficiency OR polymorphism)'; showing 20 (PubMed read it as: \"SAT1\"[All Fields] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields] OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"deficiences\"[All Fields] OR \"deficiencies\"[All Fields] OR \"deficiency\"[MeSH Subheading] OR \"deficiency\"[All Fields] OR \"deficient\"[All Fields] OR \"deficients\"[All Fields]) OR (\"polymorphic\"[All Fields] OR \"polymorphics\"[All Fields] OR \"polymorphism s\"[All Fields] OR \"polymorphism, genetic\"[MeSH Terms] OR (\"polymorphism\"[All Fields] AND \"genetic\"[All Fields]) OR \"genetic polymorphism\"[All Fields] OR \"polymorphism\"[All Fields] OR \"polymorphisms\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "24717514",
+      "title": "Nicotinamide N-methyltransferase knockdown protects against diet-induced obesity.",
+      "first_author": "Kraus D",
+      "year": "2014",
+      "journal": "Nature",
+      "doi": "10.1038/nature13198",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37848037",
+      "title": "Polyamine metabolism controls B-to-Z DNA transition to orchestrate DNA sensor cGAS activity.",
+      "first_author": "Zhao C",
+      "year": "2023",
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2023.09.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40485050",
+      "title": "Dauricine Overcomes Osimertinib Resistance in Lung Cancer by Inducing Ferroptosis via Stabilizing SAT1.",
+      "first_author": "Men B",
+      "year": "2025",
+      "journal": "Cancer Sci",
+      "doi": "10.1111/cas.70113",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39073262",
+      "title": "Autophagy Deficiency Induced by SAT1 Potentiates Tumor Progression in Triple-Negative Breast Cancer.",
+      "first_author": "Tian W",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202309903",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41219185",
+      "title": "Targeting polyamine metabolism and ferroptosis enhances the efficacy of KRAS-targeted therapy depending on KEAP1 status.",
+      "first_author": "Bian Y",
+      "year": "2025",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-025-65441-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37438615",
+      "title": "Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants.",
+      "first_author": "Vinuesa CG",
+      "year": "2023",
+      "journal": "Nat Rev Nephrol",
+      "doi": "10.1038/s41581-023-00732-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41388741",
+      "title": "HDAC1 dysregulation promotes pro-inflammatory microglial activation and aggravates post-stroke neuroinflammation.",
+      "first_author": "Chen JS",
+      "year": "2025",
+      "journal": "Ann Med",
+      "doi": "10.1080/07853890.2025.2597624",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35107385",
+      "title": "The sat1 Gene Is Required for the Growth and Virulence of the Human Pathogenic Fungus Aspergillus fumigatus.",
+      "first_author": "Wei Y",
+      "year": "2022",
+      "journal": "Microbiol Spectr",
+      "doi": "10.1128/spectrum.01558-21",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30807778",
+      "title": "Inherent biophysical stability of foot-and-mouth disease SAT1, SAT2 and SAT3 viruses.",
+      "first_author": "Scott KA",
+      "year": "2019",
+      "journal": "Virus Res",
+      "doi": "10.1016/j.virusres.2019.02.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27229768",
+      "title": "Whole-gene sequencing investigation of SAT1 in attempted suicide.",
+      "first_author": "Monson ET",
+      "year": "2016",
+      "journal": "Am J Med Genet B Neuropsychiatr Genet",
+      "doi": "10.1002/ajmg.b.32462",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42222888",
+      "title": "Polyamine sequestration of 2'3'-cGAMP constrains intercellular transmission and STING engagement to subvert antitumor immunity.",
+      "first_author": "Ma Y",
+      "year": "2026",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI201460",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40250076",
+      "title": "Integrated analysis of scRNA-seq and bulk RNA-seq data identifies BHLHE40 as a key gene in pancreatic cancer progression and gemcitabine resistance.",
+      "first_author": "Wu Y",
+      "year": "2025",
+      "journal": "Semin Oncol",
+      "doi": "10.1016/j.seminoncol.2025.152338",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15720248",
+      "title": "Pathogenetics of the human SLC26 transporters.",
+      "first_author": "Dawson PA",
+      "year": "2005",
+      "journal": "Curr Med Chem",
+      "doi": "10.2174/0929867053363144",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39041636",
+      "title": "Identifying Oncogenic Missense Single Nucleotide Polymorphisms in Human SAT1 Gene Using Computational Algorithms and Molecular Dynamics Tools.",
+      "first_author": "Mozibullah M",
+      "year": "2024",
+      "journal": "Cancer Rep (Hoboken)",
+      "doi": "10.1002/cnr2.2130",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42631064",
+      "title": "Polyamine Metabolism in Brain Health and Disease.",
+      "first_author": "Tao X",
+      "year": "2026",
+      "journal": "Neuropharmacol Ther",
+      "doi": "10.15212/npt-2025-0028",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35227235",
+      "title": "Abundant expression of ferroptosis-related SAT1 is related to unfavorable outcome and immune cell infiltration in low-grade glioma.",
+      "first_author": "Mou Y",
+      "year": "2022",
+      "journal": "BMC Cancer",
+      "doi": "10.1186/s12885-022-09313-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41509377",
+      "title": "Satellite DNA fragility accompanies complex genome rearrangements and ecDNA oncogene amplification in canine osteosarcomas.",
+      "first_author": "Yilmaz F",
+      "year": "2025",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2025.12.31.697157",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "33482370",
+      "title": "A genome-wide association study for shoulder impingement and rotator cuff disease.",
+      "first_author": "Kim SK",
+      "year": "2021",
+      "journal": "J Shoulder Elbow Surg",
+      "doi": "10.1016/j.jse.2020.11.025",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ]
+    },
+    {
+      "pmid": "40361259",
+      "title": "PPAR\u03b3 is a potential therapeutic target for radiation enteritis via suppressing ferroptosis, mediated by the GAPDH/glycosylation axis.",
+      "first_author": "Zeng X",
+      "year": "2025",
+      "journal": "Br J Pharmacol",
+      "doi": "10.1111/bph.70045",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

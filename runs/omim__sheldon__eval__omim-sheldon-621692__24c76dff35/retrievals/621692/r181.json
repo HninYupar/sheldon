@@ -1,0 +1,260 @@
+{
+  "id": "r181",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (R1349Q OR R583Q OR R1667W OR E1115K OR D287N OR S218L OR T666M OR p.Arg1349Gln OR p.Arg583Gln OR p.Arg1667Trp)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "60 PubMed hits for 'CACNA1A[gene] AND (R1349Q OR R583Q OR R1667W OR E1115K OR D287N OR S218L OR T666M OR p.Arg1349Gln OR p.Arg583Gln OR p.Arg1667Trp)'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"R1349Q\"[All Fields] OR \"R583Q\"[All Fields] OR \"R1667W\"[All Fields] OR \"E1115K\"[All Fields] OR \"D287N\"[All Fields] OR \"S218L\"[All Fields] OR \"T666M\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "30698758",
+      "title": "Brainstem spreading depolarization: rapid descent into the shadow of SUDEP.",
+      "first_author": "Noebels JL MD, PhD",
+      "year": "2019",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awy356",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "18670797",
+      "title": "Downbeat positioning nystagmus is a common clinical feature despite variable phenotypes in an FHM1 family.",
+      "first_author": "Yabe I",
+      "year": "2008",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-008-0970-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22527033",
+      "title": "R583Q CACNA1A variant in SHM1 and ataxia: case report and literature update.",
+      "first_author": "Di Cristofori A",
+      "year": "2012",
+      "journal": "J Headache Pain",
+      "doi": "10.1007/s10194-012-0444-7",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35474853",
+      "title": "Hyperexcitable superior colliculus and fatal brainstem spreading depolarization in a model of Sudden Unexpected Death in Epilepsy.",
+      "first_author": "Cain SM",
+      "year": "2022",
+      "journal": "Brain Commun",
+      "doi": "10.1093/braincomms/fcac006",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30080864",
+      "title": "Drosophila CaV2 channels harboring human migraine mutations cause synapse hyperexcitability that can be suppressed by inhibition of a Ca2+ store release pathway.",
+      "first_author": "Brusich DJ",
+      "year": "2018",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1007577",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28900389",
+      "title": "Cerebellar Atrophy and Changes in Cytokines Associated with the CACNA1A R583Q Mutation in a Russian Familial Hemiplegic Migraine Type 1 Family.",
+      "first_author": "Khaiboullina SF",
+      "year": "2017",
+      "journal": "Front Cell Neurosci",
+      "doi": "10.3389/fncel.2017.00263",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24270521",
+      "title": "Rare clinical findings in a patient with sporadic hemiplegic migraine: FDG-PET provides diminished brain metabolism at 10-year follow-up.",
+      "first_author": "Topakian R",
+      "year": "2014",
+      "journal": "Cephalalgia",
+      "doi": "10.1177/0333102413513182",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17952365",
+      "title": "Recurrent ATP1A2 mutations in Portuguese families with familial hemiplegic migraine.",
+      "first_author": "Castro MJ",
+      "year": "2007",
+      "journal": "J Hum Genet",
+      "doi": "10.1007/s10038-007-0205-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33856647",
+      "title": "Epilepsy and Migraine Shared Genetic and Molecular Mechanisms: Focus on Therapeutic Strategies.",
+      "first_author": "Gotra P",
+      "year": "2021",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-021-02386-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20071244",
+      "title": "Sporadic hemiplegic migraine and epilepsy associated with CACNA1A gene mutation.",
+      "first_author": "Zangaladze A",
+      "year": "2010",
+      "journal": "Epilepsy Behav",
+      "doi": "10.1016/j.yebeh.2009.12.017",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20974584",
+      "title": "A long-term follow-up study of 18 patients with sporadic hemiplegic migraine.",
+      "first_author": "Stam AH",
+      "year": "2011",
+      "journal": "Cephalalgia",
+      "doi": "10.1177/0333102410375629",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31824404",
+      "title": "Familial Hemiplegic Migraine With Progressive Cerebellar Ataxia Caused by a p.Thr666Met CACNA1A Gene Mutation in a Chinese Family.",
+      "first_author": "Li M",
+      "year": "2019",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2019.01221",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20186955",
+      "title": "High cortical spreading depression susceptibility and migraine-associated symptoms in Ca(v)2.1 S218L mice.",
+      "first_author": "van den Maagdenberg AM",
+      "year": "2010",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.21815",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23673147",
+      "title": "Behavioral evidence for photophobia and stress-related ipsilateral head pain in transgenic Cacna1a mutant mice.",
+      "first_author": "Chanda ML",
+      "year": "2013",
+      "journal": "Pain",
+      "doi": "10.1016/j.pain.2013.03.038",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12056940",
+      "title": "Mutation analysis of the CACNA1A calcium channel subunit gene in 27 patients with sporadic hemiplegic migraine.",
+      "first_author": "Terwindt G",
+      "year": "2002",
+      "journal": "Arch Neurol",
+      "doi": "10.1001/archneur.59.6.1016",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39568055",
+      "title": "A structural analysis of the splice-specific functional impact of the pathogenic familial hemiplegic migraine type 1 S218L mutation on Ca(v)2.1 P/Q-type channel gating.",
+      "first_author": "Sack AS",
+      "year": "2024",
+      "journal": "Mol Brain",
+      "doi": "10.1186/s13041-024-01152-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18384418",
+      "title": "Familial hemiplegic migraine type 1 shows no hypersensitivity to nitric oxide.",
+      "first_author": "Hansen JM",
+      "year": "2008",
+      "journal": "Cephalalgia",
+      "doi": "10.1111/j.1468-2982.2008.01559.x",
+      "pubtype": [
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23165010",
+      "title": "Calcium channels and migraine.",
+      "first_author": "Pietrobon D",
+      "year": "2013",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbamem.2012.11.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39763636",
+      "title": "A Longitudinal Exploration of CACNA1A-Related Hemiplegic Migraine in Children Using Electronic Medical Records.",
+      "first_author": "Schaare D",
+      "year": "2025",
+      "journal": "Neurol Genet",
+      "doi": "10.1212/NXG.0000000000200228",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38946946",
+      "title": "A Longitudinal Exploration of CACNA1A -related Hemiplegic Migraine in Children.",
+      "first_author": "Schaare D",
+      "year": "2024",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.14.24308953",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    }
+  ]
+}

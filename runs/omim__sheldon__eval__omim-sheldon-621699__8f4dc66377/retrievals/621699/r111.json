@@ -1,0 +1,129 @@
+{
+  "id": "r111",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (cohort OR series OR \"clinical\" OR phenotype OR patient) AND NOT cancer",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "10 PubMed hits for 'SIT1[gene] AND (cohort OR series OR \"clinical\" OR phenotype OR patient) AND NOT cancer'; showing 10 (PubMed read it as: \"SIT1\"[All Fields] AND (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields] OR (\"serie\"[All Fields] OR \"series\"[All Fields]) OR \"clinical\"[All Fields] OR (\"phenotype\"[MeSH Terms] OR \"phenotype\"[All Fields] OR \"phenotypes\"[All Fields] OR \"phenotyped\"[All Fields] OR \"phenotypic\"[All Fields] OR \"phenotypical\"[All Fields] OR \"phenotypically\"[All Fields] OR \"phenotyping\"[All Fields] OR \"phenotypings\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields])) AND (\"cancer s\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33164640",
+      "title": "Bioinformatics analysis to screen key prognostic genes in the breast cancer tumor microenvironment.",
+      "first_author": "Ye Q",
+      "year": "2020",
+      "journal": "Bioengineered",
+      "doi": "10.1080/21655979.2020.1840731",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34409029",
+      "title": "Identification of CDK2-Related Immune Forecast Model and ceRNA in Lung Adenocarcinoma, a Pan-Cancer Analysis.",
+      "first_author": "Liu TT",
+      "year": "2021",
+      "journal": "Front Cell Dev Biol",
+      "doi": "10.3389/fcell.2021.682002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36008101",
+      "title": "Distinct blood protein profiles associated with the risk of short-term and mid/long-term clinical relapse in patients with Crohn's disease stopping infliximab: when the remission state hides different types of residual disease activity.",
+      "first_author": "Pierre N",
+      "year": "2023",
+      "journal": "Gut",
+      "doi": "10.1136/gutjnl-2022-327321",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36675674",
+      "title": "Discovery and Validation of a SIT1-Related Prognostic Signature Associated with Immune Infiltration in Cutaneous Melanoma.",
+      "first_author": "Jia M",
+      "year": "2022",
+      "journal": "J Pers Med",
+      "doi": "10.3390/jpm13010013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25106487",
+      "title": "The diagnostic value of SE MRI and DWI of the spine in patients with monoclonal gammopathy of undetermined significance, smouldering myeloma and multiple myeloma.",
+      "first_author": "Dutoit JC",
+      "year": "2014",
+      "journal": "Eur Radiol",
+      "doi": "10.1007/s00330-014-3324-5",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Observational Study"
+      ]
+    },
+    {
+      "pmid": "41033605",
+      "title": "Identification of Distinct Subtypes in Immune Tolerance after Hematopoietic Cell Transplantation Using the Prospective ABLE1.0 Pediatric Study Cohort.",
+      "first_author": "Ng B",
+      "year": "2026",
+      "journal": "Transplant Cell Ther",
+      "doi": "10.1016/j.jtct.2025.09.034",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35435077",
+      "title": "Spoligotyping of Mycobacterium tuberculosis isolates from Pulmonary Tuberculosis patients from North Karnataka, India.",
+      "first_author": "Bellad R",
+      "year": "2022",
+      "journal": "Trop Doct",
+      "doi": "10.1177/00494755221080584",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42838996",
+      "title": "Integrated spatial and single-cell transcriptomics uncover IFI6\u207a regulatory T-cells and SPP1\u207a macrophages immunosuppressive niches in colorectal cancer.",
+      "first_author": "Miroszewska D",
+      "year": "2026",
+      "journal": "Br J Cancer",
+      "doi": "10.1038/s41416-026-03637-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "14534538",
+      "title": "The phosphotyrosine phosphatase SHP2 is a critical mediator of transformation induced by the oncogenic fibroblast growth factor receptor 3.",
+      "first_author": "Agazie YM",
+      "year": "2003",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1206798",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    }
+  ]
+}

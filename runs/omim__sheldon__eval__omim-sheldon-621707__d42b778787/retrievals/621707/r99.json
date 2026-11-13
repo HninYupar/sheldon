@@ -1,0 +1,25 @@
+{
+  "id": "r99",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "40926810",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "1 'cited_by' links for PMID 40926810; showing 1",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

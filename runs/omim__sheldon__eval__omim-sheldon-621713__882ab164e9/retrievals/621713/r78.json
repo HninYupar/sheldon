@@ -1,0 +1,253 @@
+{
+  "id": "r78",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "39871066",
+    "relation": "references",
+    "max_results": 20
+  },
+  "summary": "35 'references' links for PMID 39871066; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "37921973",
+      "title": "NOBOX gene variants in premature ovarian insufficiency: ethnicity-dependent insights.",
+      "first_author": "Jordan P",
+      "year": "2024",
+      "journal": "J Assist Reprod Genet",
+      "doi": "10.1007/s10815-023-02981-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36793102",
+      "title": "Next-generation sequencing of 500 POI patients identified novel responsible monogenic and oligogenic variants.",
+      "first_author": "Luo W",
+      "year": "2023",
+      "journal": "J Ovarian Res",
+      "doi": "10.1186/s13048-023-01104-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36571510",
+      "title": "A systematic review and evidence assessment of monogenic gene-disease relationships in human female infertility and differences in sex development.",
+      "first_author": "Van Der Kelen A",
+      "year": "2023",
+      "journal": "Hum Reprod Update",
+      "doi": "10.1093/humupd/dmac044",
+      "pubtype": [
+        "Systematic Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36403623",
+      "title": "MOS mutation causes female infertility with large polar body oocytes.",
+      "first_author": "Jiao G",
+      "year": "2022",
+      "journal": "Gynecol Endocrinol",
+      "doi": "10.1080/09513590.2022.2147158",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35670744",
+      "title": "Biallelic variants in MOS cause large polar body in oocyte and human female infertility.",
+      "first_author": "Zhang YL",
+      "year": "2022",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deac120",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35451369",
+      "title": "A systematic review and standardized clinical validity assessment of genes involved in female reproductive failure.",
+      "first_author": "Volozonoka L",
+      "year": "2022",
+      "journal": "Reproduction",
+      "doi": "10.1530/REP-21-0486",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "35357606",
+      "title": "Effect of A23187 ionophore treatment on human blastocyst development-a sibling oocyte study.",
+      "first_author": "Mateizel I",
+      "year": "2022",
+      "journal": "J Assist Reprod Genet",
+      "doi": "10.1007/s10815-022-02467-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35157068",
+      "title": "Loss of Nobox prevents ovarian differentiation from juvenile ovaries in zebrafish.",
+      "first_author": "Qin M",
+      "year": "2022",
+      "journal": "Biol Reprod",
+      "doi": "10.1093/biolre/ioac036",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34997960",
+      "title": "Bi-allelic mutations in MOS cause female infertility characterized by preimplantation embryonic arrest.",
+      "first_author": "Zeng Y",
+      "year": "2022",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deab281",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34779126",
+      "title": "Biallelic mutations in MOS cause female infertility characterized by human early embryonic arrest and fragmentation.",
+      "first_author": "Zhang YL",
+      "year": "2021",
+      "journal": "EMBO Mol Med",
+      "doi": "10.15252/emmm.202114887",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34480478",
+      "title": "Targeted whole exome sequencing and Drosophila modelling to unveil the molecular basis of primary ovarian insufficiency.",
+      "first_author": "Bestetti I",
+      "year": "2021",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deab192",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34480423",
+      "title": "Compound heterozygous null mutations of NOBOX in sisters with delayed puberty and primary amenorrhea.",
+      "first_author": "Sassi A",
+      "year": "2021",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.1776",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33101191",
+      "title": "The Potential Synergic Effect of a Complex Pattern of Multiple Inherited Genetic Variants as a Pathogenic Factor for Ovarian Dysgenesis: A Case Report.",
+      "first_author": "Cattoni A",
+      "year": "2020",
+      "journal": "Front Endocrinol (Lausanne)",
+      "doi": "10.3389/fendo.2020.540683",
+      "pubtype": [
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33095795",
+      "title": "Screening of targeted panel genes in Brazilian patients with primary ovarian insufficiency.",
+      "first_author": "Fran\u00e7a MM",
+      "year": "2020",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0240795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31352801",
+      "title": "Association between the FMR1 CGG repeat lengths and the severity of idiopathic primary ovarian insufficiency: a meta analysis.",
+      "first_author": "Huang J",
+      "year": "2019",
+      "journal": "Artif Cells Nanomed Biotechnol",
+      "doi": "10.1080/21691401.2019.1645153",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ]
+    },
+    {
+      "pmid": "31042289",
+      "title": "Exome Sequencing of a Primary Ovarian Insufficiency Cohort Reveals Common Molecular Etiologies for a Spectrum of Disease.",
+      "first_author": "Jolly A",
+      "year": "2019",
+      "journal": "J Clin Endocrinol Metab",
+      "doi": "10.1210/jc.2019-00248",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30357004",
+      "title": "Premature ovarian insufficiency - aetiopathology, epidemiology, and diagnostic evaluation.",
+      "first_author": "Rudnicka E",
+      "year": "2018",
+      "journal": "Prz Menopauzalny",
+      "doi": "10.5114/pm.2018.78550",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29067606",
+      "title": "A novel homozygous 1-bp deletion in the NOBOX gene in two Brazilian sisters with primary ovarian failure.",
+      "first_author": "Fran\u00e7a MM",
+      "year": "2017",
+      "journal": "Endocrine",
+      "doi": "10.1007/s12020-017-1459-2",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27836978",
+      "title": "A homozygous NOBOX truncating variant causes defective transcriptional activation and leads to primary ovarian insufficiency.",
+      "first_author": "Li L",
+      "year": "2017",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/dew271",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27798098",
+      "title": "Impaired protein stability and nuclear localization of NOBOX variants associated with premature ovarian insufficiency.",
+      "first_author": "Ferrari I",
+      "year": "2016",
+      "journal": "Hum Mol Genet",
+      "doi": "10.1093/hmg/ddw342",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

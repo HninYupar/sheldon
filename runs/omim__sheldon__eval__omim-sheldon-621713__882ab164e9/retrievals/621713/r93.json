@@ -1,0 +1,49 @@
+{
+  "id": "r93",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"oocyte maturation arrest\" OR \"zygote maturation arrest\" OR \"embryo maturation arrest\" OR \"early embryo arrest\" OR \"preimplantation embryo arrest\") AND TACC3",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for '(\"oocyte maturation arrest\" OR \"zygote maturation arrest\" OR \"embryo maturation arrest\" OR \"early embryo arrest\" OR \"preimplantation embryo arrest\") AND TACC3'; showing 3 (PubMed read it as: (\"oocyte maturation arrest\"[All Fields] OR ((\"zygote\"[MeSH Terms] OR \"zygote\"[All Fields] OR \"zygotes\"[All Fields] OR \"zygote s\"[All Fields] OR \"zygotic\"[All Fields] OR \"zygotically\"[All Fields]) AND (\"maturate\"[All Fields] OR \"maturated\"[All Fields] OR \"maturating\"[All Fields] OR \"maturation\"[All Fields] OR \"maturational\"[All Fields] OR \"maturations\"[All Fields] OR \"maturative\"[All Fields] OR \"mature\"[All Fields] OR \"matured\"[All Fields] OR \"maturer\"[All Fields] OR \"maturers\"[All Fields] OR \"matures\"[All Fields] OR \"maturing\"[All Fields] OR \"maturities\"[All Fields] OR \"maturity\"[All Fields]) AND (\"arrestant\"[All Fields] OR \"arrestants\"[All Fields] OR \"arresting\"[All Fields] OR \"arrestment\"[All Fields] OR \"arrests\"[All Fields] OR \"heart arrest\"[MeSH Terms] OR (\"heart\"[All Fields] AND \"arrest\"[All Fields]) OR \"heart arrest\"[All Fields] OR \"arrest\"[All Fields] OR \"arrested\"[All Fields])) OR \"embryo maturation arrest\"[All Fields] OR \"early embryo arrest\"[All Fields] OR \"preimplantation embryo arrest\"[All Fields]) AND \"TACC3\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

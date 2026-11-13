@@ -1,0 +1,135 @@
+{
+  "id": "r158",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "41895291",
+    "relation": "similar",
+    "max_results": 10
+  },
+  "summary": "99 'similar' links for PMID 41895291; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34161705",
+      "title": "Developmental Consequences of Defective ATG7-Mediated Autophagy in Humans.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "N Engl J Med",
+      "doi": "10.1056/NEJMoa1915722",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40930097",
+      "title": "Bi-allelic deleterious variants in SNAPIN, which encodes a retrograde dynein adaptor, cause a prenatal-onset neurodevelopmental disorder.",
+      "first_author": "Yousaf H",
+      "year": "2025",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2025.08.015",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "42353819",
+      "title": "Biallelic ATG9B Variants Define a Novel Autophagy-Related Neurodevelopmental Disorder with Cerebellar Ataxia.",
+      "first_author": "K\u0131l\u0131\u00e7 S",
+      "year": "2026",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes17060660",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41643666",
+      "title": "Bi-allelic loss-of-function variants in JKAMP cause a neurodevelopmental syndrome associated with dysregulation of GPR37 trafficking.",
+      "first_author": "Chacon-Millan P",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.01.008",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26812546",
+      "title": "Mutation in ATG5 reduces autophagy and leads to ataxia with developmental delay.",
+      "first_author": "Kim M",
+      "year": "2016",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.12245",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31794024",
+      "title": "Deficiencies in vesicular transport mediated by TRAPPC4 are associated with severe syndromic intellectual disability.",
+      "first_author": "Van Bergen NJ",
+      "year": "2020",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awz374",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37951597",
+      "title": "Bi-allelic ACBD6 variants lead to a neurodevelopmental syndrome with progressive and complex movement disorders.",
+      "first_author": "Kaiyrzhanov R",
+      "year": "2024",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad380",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29367244",
+      "title": "Hepatitis B Virus Subverts the Autophagy Elongation Complex Atg5-12/16L1 and Does Not Require Atg8/LC3 Lipidation for Viral Maturation.",
+      "first_author": "D\u00f6ring T",
+      "year": "2018",
+      "journal": "J Virol",
+      "doi": "10.1128/JVI.01513-17",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41260215",
+      "title": "Bi-allelic PRMT9 loss-of-function variants cause a syndromic form of intellectual disability.",
+      "first_author": "Kr\u00f6ll-Hermi A",
+      "year": "2025",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2025.10.014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

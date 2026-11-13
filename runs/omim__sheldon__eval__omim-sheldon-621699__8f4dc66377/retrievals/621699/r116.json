@@ -1,0 +1,127 @@
+{
+  "id": "r116",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (patient OR patients OR family OR case report OR cohort)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "74 PubMed hits for 'SIT1[gene] AND (patient OR patients OR family OR case report OR cohort)'; showing 10 (PubMed read it as: \"SIT1\"[All Fields] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"case reports\"[Publication Type] OR \"case report\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33164640",
+      "title": "Bioinformatics analysis to screen key prognostic genes in the breast cancer tumor microenvironment.",
+      "first_author": "Ye Q",
+      "year": "2020",
+      "journal": "Bioengineered",
+      "doi": "10.1080/21655979.2020.1840731",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35563545",
+      "title": "Close Related Drug-Resistance Beijing Isolates of Mycobacterium tuberculosis Reveal a Different Transcriptomic Signature in a Murine Disease Progression Model.",
+      "first_author": "Cerezo-Cort\u00e9s MI",
+      "year": "2022",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms23095157",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39108991",
+      "title": "Discordance Between Phenotypic and WGS-Based Drug Susceptibility Testing Results for Some Anti-Tuberculosis Drugs: A Snapshot Study of Paired Mycobacterium tuberculosis Isolates with Small Genetic Distance.",
+      "first_author": "Sadovska D",
+      "year": "2024",
+      "journal": "Infect Drug Resist",
+      "doi": "10.2147/IDR.S468997",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "9867099",
+      "title": "Active Crohn's disease and ulcerative colitis evaluated by low-field magnetic resonance imaging.",
+      "first_author": "Madsen SM",
+      "year": "1998",
+      "journal": "Scand J Gastroenterol",
+      "doi": "10.1080/00365529850172566",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35834115",
+      "title": "Screening of Diabetic Nephropathy Progression-Related Genes Based on Weighted Gene Co-expression Network Analysis.",
+      "first_author": "Yu L",
+      "year": "2023",
+      "journal": "Biochem Genet",
+      "doi": "10.1007/s10528-022-10250-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42838996",
+      "title": "Integrated spatial and single-cell transcriptomics uncover IFI6\u207a regulatory T-cells and SPP1\u207a macrophages immunosuppressive niches in colorectal cancer.",
+      "first_author": "Miroszewska D",
+      "year": "2026",
+      "journal": "Br J Cancer",
+      "doi": "10.1038/s41416-026-03637-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39159813",
+      "title": "Cryo-EM structure of ACE2-SIT1 in complex with tiagabine.",
+      "first_author": "Br\u00f6er A",
+      "year": "2024",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2024.107687",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38951531",
+      "title": "Structure and function of the SIT1 proline transporter in complex with the COVID-19 receptor ACE2.",
+      "first_author": "Li HZ",
+      "year": "2024",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-024-48921-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

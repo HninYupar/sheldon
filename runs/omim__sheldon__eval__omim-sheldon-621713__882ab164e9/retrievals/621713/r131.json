@@ -1,0 +1,232 @@
+{
+  "id": "r131",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[tiab] AND (oocyte OR embryo OR zygote) AND human",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "18 PubMed hits for 'TACC3[tiab] AND (oocyte OR embryo OR zygote) AND human'; showing 18 (PubMed read it as: \"TACC3\"[Title/Abstract] AND (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields] OR (\"embryo s\"[All Fields] OR \"embryoes\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryo\"[All Fields] OR \"embryos\"[All Fields]) OR (\"zygote\"[MeSH Terms] OR \"zygote\"[All Fields] OR \"zygotes\"[All Fields] OR \"zygote s\"[All Fields] OR \"zygotic\"[All Fields] OR \"zygotically\"[All Fields])) AND (\"human s\"[All Fields] OR \"humans\"[MeSH Terms] OR \"humans\"[All Fields] OR \"human\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40903356",
+      "title": "The mechanisms of MTOCs maturation in human and mouse oocytes.",
+      "first_author": "Gu H",
+      "year": "2025",
+      "journal": "Sci Bull (Beijing)",
+      "doi": "10.1016/j.scib.2025.08.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12569123",
+      "title": "The ch-TOG/XMAP215 protein is essential for spindle pole organization in human somatic cells.",
+      "first_author": "Gergely F",
+      "year": "2003",
+      "journal": "Genes Dev",
+      "doi": "10.1101/gad.245603",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33901174",
+      "title": "Aurora kinase A is essential for meiosis in mouse oocytes.",
+      "first_author": "Blengini CS",
+      "year": "2021",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1009327",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12237944",
+      "title": "TACC3 expression and localization in the murine egg and ovary.",
+      "first_author": "Hao Z",
+      "year": "2002",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.90012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "27572091",
+      "title": "Knockdown of TACC3 inhibits trophoblast cell migration and invasion through the PI3K/Akt signaling pathway.",
+      "first_author": "Zhu X",
+      "year": "2016",
+      "journal": "Mol Med Rep",
+      "doi": "10.3892/mmr.2016.5659",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12389629",
+      "title": "AINT/ERIC/TACC: an expanding family of proteins with C-terminal coiled coil domains.",
+      "first_author": "Lappin TR",
+      "year": "2002",
+      "journal": "Leuk Lymphoma",
+      "doi": "10.1080/1042819022386644",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "12711550",
+      "title": "TACC3 expression is tightly regulated during early differentiation.",
+      "first_author": "Sadek CM",
+      "year": "2003",
+      "journal": "Gene Expr Patterns",
+      "doi": "10.1016/s1567-133x(02)00066-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12642624",
+      "title": "Aint/Tacc3 is highly expressed in proliferating mouse tissues during development, spermatogenesis, and oogenesis.",
+      "first_author": "Aitola M",
+      "year": "2003",
+      "journal": "J Histochem Cytochem",
+      "doi": "10.1177/002215540305100407",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17241108",
+      "title": "Translational control of maskin mRNA by its 3' untranslated region.",
+      "first_author": "Meijer HA",
+      "year": "2007",
+      "journal": "Biol Cell",
+      "doi": "10.1042/BC20060112",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32543081",
+      "title": "Investigating the impact of the phosphorylation status of tyrosine residues within the TACC domain of TACC3 on microtubule behavior during axon growth and guidance.",
+      "first_author": "Erdogan B",
+      "year": "2020",
+      "journal": "Cytoskeleton (Hoboken)",
+      "doi": "10.1002/cm.21622",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16172205",
+      "title": "Aurora A phosphorylation of TACC3/maskin is required for centrosome-dependent microtubule assembly in mitosis.",
+      "first_author": "Kinoshita K",
+      "year": "2005",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.200503023",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11121038",
+      "title": "The TACC domain identifies a family of centrosomal proteins that can interact with microtubules.",
+      "first_author": "Gergely F",
+      "year": "2000",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.97.26.14352",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "31031646",
+      "title": "Wolf-Hirschhorn Syndrome-Associated Genes Are Enriched in Motile Neural Crest Cells and Affect Craniofacial Development in Xenopus laevis.",
+      "first_author": "Mills A",
+      "year": "2019",
+      "journal": "Front Physiol",
+      "doi": "10.3389/fphys.2019.00431",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17595343",
+      "title": "Conserved molecular portraits of bovine and human blastocysts as a consequence of the transition from maternal to embryonic control of gene expression.",
+      "first_author": "Adjaye J",
+      "year": "2007",
+      "journal": "Physiol Genomics",
+      "doi": "10.1152/physiolgenomics.00041.2007",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

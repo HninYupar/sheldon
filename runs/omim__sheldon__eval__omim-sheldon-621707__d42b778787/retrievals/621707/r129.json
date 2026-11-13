@@ -1,0 +1,131 @@
+{
+  "id": "r129",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "MAGIS[tiab] OR \"MAGIS syndrome\"[tiab] OR GNAI2[gene] AND (MAGIS[tiab] OR syndrome[tiab] OR phenotype[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "74 PubMed hits for 'MAGIS[tiab] OR \"MAGIS syndrome\"[tiab] OR GNAI2[gene] AND (MAGIS[tiab] OR syndrome[tiab] OR phenotype[tiab])'; showing 10 (PubMed read it as: (\"MAGIS\"[Title/Abstract] OR \"MAGIS syndrome\"[Title/Abstract] OR (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields])) AND (\"MAGIS\"[Title/Abstract] OR \"syndrome\"[Title/Abstract] OR \"phenotype\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36699383",
+      "title": "MAGI-MS: multiple seed-centric module discovery.",
+      "first_author": "Chow JC",
+      "year": "2022",
+      "journal": "Bioinform Adv",
+      "doi": "10.1093/bioadv/vbac025",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30547889",
+      "title": "Cytokines and male infertility.",
+      "first_author": "Syriou V",
+      "year": "2018",
+      "journal": "Eur Cytokine Netw",
+      "doi": "10.1684/ecn.2018.0412",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35192169",
+      "title": "Memory-Assisted Global Impression of Change (MAGIC).",
+      "first_author": "Deal LS",
+      "year": "2022",
+      "journal": "Ther Innov Regul Sci",
+      "doi": "10.1007/s43441-022-00377-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33712709",
+      "title": "MAGIs regulate aPKC to enable balanced distribution of intercellular tension for epithelial sheet homeostasis.",
+      "first_author": "Matsuzawa K",
+      "year": "2021",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-021-01874-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29906209",
+      "title": "GNAI2 polymorphic variance associates with salt sensitivity of blood pressure in the Genetic Epidemiology Network of Salt Sensitivity study.",
+      "first_author": "Zhang X",
+      "year": "2018",
+      "journal": "Physiol Genomics",
+      "doi": "10.1152/physiolgenomics.00141.2017",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40792212",
+      "title": "Exploring the biological basis for the identification of different syndromes in ischemic heart failure based on joint multi-omics analysis.",
+      "first_author": "Zhang Y",
+      "year": "2025",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2025.1641422",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "first_author": "Huang X",
+      "year": "2009",
+      "journal": "Med Hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "32856736",
+      "title": "miR-34a is upregulated in AIP-mutated somatotropinomas and promotes octreotide resistance.",
+      "first_author": "Bogner EM",
+      "year": "2020",
+      "journal": "Int J Cancer",
+      "doi": "10.1002/ijc.33268",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34503076",
+      "title": "A New Story of the Three Magi: Scaffolding Proteins and lncRNA Suppressors of Cancer.",
+      "first_author": "Kotelevets L",
+      "year": "2021",
+      "journal": "Cancers (Basel)",
+      "doi": "10.3390/cancers13174264",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

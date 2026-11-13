@@ -1,0 +1,12 @@
+{
+  "id": "r123",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND (contractures[tiab] OR arthrogryposis[tiab]) AND (patient OR patients OR pedigree OR family)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[tiab] AND (contractures[tiab] OR arthrogryposis[tiab]) AND (patient OR patients OR pedigree OR family)'; showing 0 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"contractures\"[Title/Abstract] OR \"arthrogryposis\"[Title/Abstract]) AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"pedigree\"[MeSH Terms] OR \"pedigree\"[All Fields] OR \"pedigrees\"[All Fields] OR \"pedigree s\"[All Fields] OR \"pedigreed\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields])))",
+  "ok": true,
+  "evidence": []
+}

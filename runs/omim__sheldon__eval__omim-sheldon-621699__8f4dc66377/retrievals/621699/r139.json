@@ -1,0 +1,12 @@
+{
+  "id": "r139",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND \"severe combined immunodeficiency\"[tiab]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'SIT1[gene] AND \"severe combined immunodeficiency\"[tiab]'; showing 0 (PubMed read it as: \"SIT1\"[All Fields] AND \"severe combined immunodeficiency\"[Title/Abstract])",
+  "ok": true,
+  "evidence": []
+}

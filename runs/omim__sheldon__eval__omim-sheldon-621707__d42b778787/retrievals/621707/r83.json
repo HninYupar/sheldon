@@ -1,0 +1,36 @@
+{
+  "id": "r83",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"MAGIS syndrome\" AND (case report OR cohort OR review OR treatment OR outcome)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for '\"MAGIS syndrome\" AND (case report OR cohort OR review OR treatment OR outcome)'; showing 2 (PubMed read it as: \"MAGIS syndrome\"[All Fields] AND (\"case reports\"[Publication Type] OR \"case report\"[All Fields] OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"review\"[Publication Type] OR \"review literature as topic\"[MeSH Terms] OR \"review\"[All Fields]) OR (\"therapeutics\"[MeSH Terms] OR \"therapeutics\"[All Fields] OR \"treatments\"[All Fields] OR \"therapy\"[MeSH Subheading] OR \"therapy\"[All Fields] OR \"treatment\"[All Fields] OR \"treatment s\"[All Fields]) OR (\"outcome\"[All Fields] OR \"outcomes\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

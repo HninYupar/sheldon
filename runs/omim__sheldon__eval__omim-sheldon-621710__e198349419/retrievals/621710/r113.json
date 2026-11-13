@@ -1,0 +1,53 @@
+{
+  "id": "r113",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41895291"
+    ]
+  },
+  "summary": "fetched 1 of 1 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "authors": [
+        "Lambton J",
+        "Asano S",
+        "Huang Y",
+        "Suomi F",
+        "Eguchi T",
+        "Petree C",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "American journal of human genetics",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Autophagy",
+        "Autophagy-Related Protein 12",
+        "Female",
+        "Zebrafish",
+        "Male",
+        "Animals",
+        "HeLa Cells",
+        "Alleles",
+        "Pedigree",
+        "Child",
+        "Child, Preschool",
+        "Neurodevelopmental Disorders",
+        "Autophagy-Related Protein 5",
+        "Fibroblasts",
+        "Adolescent",
+        "Autophagy-Related Protein 7",
+        "Phenotype"
+      ],
+      "abstract": "Autophagy is an essential developmental and homeostatic process, defined by the endolysosomal degradation of intracellular components and pathogens. Dysfunctional autophagy is implicated in complex human disease, yet reports of congenital autophagy disorders were considered exceedingly rare until the recent report of several unrelated families with bi-allelic variants in the core autophagy effector ATG7, complementing the report of two individuals harboring ATG5 variants. We now report six affected individuals from five families with bi-allelic ATG12 variants with complex neurological phenotypes overlapping those seen in individuals with pathogenic variants in ATG5 and ATG7: developmental delay, intellectual disability, congenital ataxia, hypotonia, and seizures with cerebellar vermis hypoplasia evident on neuroradiological imaging. Structural modeling implicated a potential disruption of the ATG12-ATG5-ATG16N-ATG3 complex. Biochemical analyses of primary fibroblasts confirmed the loss of stable ATG12-ATG5 conjugate in one family and altered autophagic flux in one unrelated family. The HaloTag processing assay in HeLa cells demonstrated a decrease in ATG12-ATG5 conjugate and reduced autophagic flux in response to starvation. Complementation studies demonstrated that equivalent missense atg12 variants were unable to fully recover the biochemical defect in atg12-null yeast, with microscopy analysis demonstrating a reduced delivery of autophagy substrates to the yeast's degradative compartment. Zebrafish studies confirmed that Atg12 is required for normal growth, brain development, and neural function. Collectively, our findings underscore the pivotal role of autophagy in maintaining human neural integrity, emphasize an emerging group of congenital autophagy disorders, and expand our understanding of adaptive homeostasis in human health and disease."
+    }
+  ]
+}

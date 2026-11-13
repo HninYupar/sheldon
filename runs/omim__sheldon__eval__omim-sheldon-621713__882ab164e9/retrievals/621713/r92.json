@@ -1,0 +1,256 @@
+{
+  "id": "r92",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "36395215",
+      "31249032",
+      "40796344",
+      "17359303",
+      "16107707",
+      "39030352",
+      "39834092"
+    ]
+  },
+  "summary": "fetched 7 of 7 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "authors": [
+        "Wu T",
+        "Dong J",
+        "Fu J",
+        "Kuang Y",
+        "Chen B",
+        "Gu H",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Chromosome Segregation",
+        "Kinetochores",
+        "Microtubule-Associated Proteins",
+        "Microtubule-Organizing Center",
+        "Oocytes",
+        "Spindle Apparatus",
+        "Cells, Cultured",
+        "Phosphoproteins",
+        "Cell Cycle Proteins",
+        "Nerve Tissue Proteins"
+      ],
+      "abstract": "Meiotic spindle assembly ensures proper chromosome segregation in oocytes. However, the mechanisms behind spindle assembly in human oocytes remain largely unknown. We used three-dimensional high-resolution imaging of more than 2000 human oocytes to identify a structure that we named the human oocyte microtubule organizing center (huoMTOC). The proteins TACC3, CCP110, CKAP5, and DISC1 were found to be essential components of the huoMTOC. The huoMTOC arises beneath the oocyte cortex and migrates adjacent to the nuclear envelope before nuclear envelope breakdown (NEBD). After NEBD, the huoMTOC fragments and relocates on the kinetochores to initiate microtubule nucleation and spindle assembly. Disrupting the huoMTOC led to spindle assembly defects and oocyte maturation arrest. These results reveal a physiological mechanism of huoMTOC-regulated spindle assembly in human oocytes."
+    },
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "authors": [
+        "So C",
+        "Seres KB",
+        "Steyer AM",
+        "M\u00f6nnich E",
+        "Clift D",
+        "Pejkovska A",
+        "et al."
+      ],
+      "year": "2019",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Animals",
+        "Aurora Kinase A",
+        "Centrosome",
+        "Clathrin Heavy Chains",
+        "Female",
+        "Fetal Proteins",
+        "Meiosis",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Microtubule-Associated Proteins",
+        "Microtubules",
+        "NIH 3T3 Cells",
+        "Oocytes",
+        "Spindle Apparatus"
+      ],
+      "abstract": "Mammalian oocytes segregate chromosomes with a microtubule spindle that lacks centrosomes, but the mechanisms by which acentrosomal spindles are organized and function are largely unclear. In this study, we identify a conserved subcellular structure in mammalian oocytes that forms by phase separation. This structure, which we term the liquid-like meiotic spindle domain (LISD), permeates the spindle poles and forms dynamic protrusions that extend well beyond the spindle. The LISD selectively concentrates multiple microtubule regulatory factors and allows them to diffuse rapidly within the spindle volume. Disruption of the LISD via different means disperses these factors and leads to severe spindle assembly defects. Our data suggest a model whereby the LISD promotes meiotic spindle assembly by serving as a reservoir that sequesters and mobilizes microtubule regulatory factors in proximity to spindle microtubules."
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "authors": [
+        "Hu H",
+        "Wan X",
+        "Sun J",
+        "Zhang S",
+        "Guo J",
+        "Zhang Y",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Human reproduction (Oxford, England)",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Female",
+        "Animals",
+        "Mice",
+        "Spindle Apparatus",
+        "Embryonic Development",
+        "Infertility, Female",
+        "HeLa Cells",
+        "Microtubule-Associated Proteins",
+        "Exome Sequencing",
+        "Oocytes",
+        "Alleles"
+      ],
+      "abstract": "STUDY QUESTION: What effects do DLGAP5 defects have on human early embryo development?\nSUMMARY ANSWER: DLGAP5 deficiency disrupts normal spindle assembly through its interaction with TACC3, leading to female infertility characterized by recurrent early embryonic arrest (REEA).\nWHAT IS KNOWN ALREADY: REEA is a significant contributor to failures in assisted reproductive technology. While genetic factors play a crucial role, known gene variants account for only a small proportion of affected individuals, leaving many underlying genetic factors yet to be elucidated. The relationship between spindle assembly and early embryonic development has emerged as a key research focus, however, our understanding of bipolar spindles in human oocytes and early embryos remains limited, highlighting the need for further investigation into the essential molecular players involved.\nSTUDY DESIGN, SIZE, DURATION: A total of 488 female patients experiencing infertility characterized as REEA were recruited from a university-affiliated center from November 2021 to December 2023.\nPARTICIPANTS/MATERIALS, SETTING, METHODS: Whole-exome sequencing was performed on the REEA cohort to identify candidate variants. HeLa cells were transiently transfected with wild-type and mutant plasmids to evaluate protein abundance and localization. Mutant mRNAs were expressed at the zygote stage to monitor subsequent embryonic development. Immunoprecipitation-mass spectrometry was employed to identify altered interacting molecules associated with the candidate variants. Additionally, a site-directed mutant mouse model was developed to investigate the pathogenic mechanisms in vivo, validated with patient oocytes and arrested embryos.\nMAIN RESULTS AND THE ROLE OF CHANCE: The study identified two nonsense variants, one frameshift variant, and one missense pathogenic variant in the DLGAP5 gene of three independent families from the cohort of 488 REEA patients through whole-exome sequencing. All affected individuals displayed a Mendelian recessive inheritance pattern. These variants significantly altered protein length, abundance, or localization, resulting in spindle abnormalities in HeLa cells and mouse zygotes. Furthermore, the microinjection of exogenous mutant DLGAP5 mRNA into mouse zygote and the construction of Dlgap5 site-directed mutant mice successfully replicated the patient phenotypes. Functional studies, both in vivo and in vitro, revealed that DLGAP5 deficiency disrupts normal spindle assembly"
+    },
+    {
+      "pmid": "17359303",
+      "title": "TACC3 is required for the proper mitosis of sclerotome mesenchymal cells during formation of the axial skeleton.",
+      "authors": [
+        "Yao R",
+        "Natsume Y",
+        "Noda T"
+      ],
+      "year": "2007",
+      "journal": "Cancer science",
+      "doi": "10.1111/j.1349-7006.2007.00433.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Apoptosis",
+        "Bone and Bones",
+        "Carrier Proteins",
+        "Cytokinesis",
+        "Fetal Proteins",
+        "Fibroblasts",
+        "Mesenchymal Stem Cells",
+        "Mice",
+        "Mice, Mutant Strains",
+        "Microtubule-Associated Proteins",
+        "Mitosis"
+      ],
+      "abstract": "Transforming acidic coiled-coil-containing (TACC) family members regulate mitotic spindles and have essential roles in embryogenesis. However, the functions of TACC3 in mitosis during mammalian development are not known. We have generated and characterized three mutant alleles of mouse Tacc3 including a conditional allele. Homozygous mutants of a hypomorphic allele exhibited malformations of the axial skeleton. The primary cause of this defect was the failure of mitosis in mesenchymal sclerotome cells. In vitro, 36% of primary mouse embryo fibroblasts (MEF) obtained from mutants homozygous for the hypomorphic allele and 67% of MEF from Tacc3 null mutants failed mitosis. In cloned immortalized MEF, Tacc3 depletion destabilized spindles and prevented chromosomes from aligning properly. Furthermore, chromosome separation and cytokinesis were also severely impaired. Chromosomes were moved randomly and cytokinesis initiated but the cleavage furrow eventually regressed, resulting in binucleate cells that then yielded aneuploid cells in the next cell division. Thus, in addition to spindle assembly, Tacc3 has critical roles in chromosome separation and cytokinesis, and is essential for the mitosis of sclerotome mesenchymal cells during axial formation in mammals."
+    },
+    {
+      "pmid": "16107707",
+      "title": "Differential phosphorylation controls Maskin association with eukaryotic translation initiation factor 4E and localization on the mitotic apparatus.",
+      "authors": [
+        "Barnard DC",
+        "Cao Q",
+        "Richter JD"
+      ],
+      "year": "2005",
+      "journal": "Molecular and cellular biology",
+      "doi": "10.1128/MCB.25.17.7605-7615.2005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh": [
+        "Amino Acid Sequence",
+        "Animals",
+        "Cell Differentiation",
+        "Eukaryotic Initiation Factor-4E",
+        "Humans",
+        "Molecular Sequence Data",
+        "Oocytes",
+        "Phosphoamino Acids",
+        "Phosphorylation",
+        "Phosphoserine",
+        "Polyadenylation",
+        "Protein Binding",
+        "Protein Biosynthesis",
+        "RNA, Messenger",
+        "Sequence Alignment",
+        "Spindle Apparatus",
+        "Staphylococcal Protein A",
+        "Transcription Factors",
+        "Xenopus Proteins",
+        "Xenopus laevis"
+      ],
+      "abstract": "Several cytoplasmic polyadenylation element (CPE)-containing mRNAs that are repressed in Xenopus oocytes become active during meiotic maturation. A group of factors that are anchored to the CPE are responsible for this repression and activation. Two of the most important are CPEB, which binds directly to the CPE, and Maskin, which associates with CPEB. In oocytes, Maskin also binds eukaryotic translation initiation factor 4E (eIF4E), an interaction that excludes eIF4G and prevents formation of the eIF4F initiation complex. When the oocytes are stimulated to reenter the meiotic divisions (maturation), CPEB promotes cytoplasmic polyadenylation. The newly elongated poly(A) tail becomes bound by poly(A) binding protein (PABP), which in turn binds eIF4G and helps it displace Maskin from eIF4E, thereby inducing translation. Here we show that Maskin undergoes several phosphorylation events during oocyte maturation, some of which are important for its dissociation from eIF4E and translational activation of CPE-containing mRNA. These sites are T58, S152, S311, S343, S453, and S638 and are phosphorylated by cdk1. Mutation of these sites to alanine alleviates the cdk1-induced dissociation of Maskin from eIF4E. Prior to maturation, Maskin is phosphorylated on S626 by protein kinase A. While this modification has no detectable effect on translation during oocyte maturation, it is critical for this protein to localize on the mitotic apparatus in somatic cells. These results show that Maskin activity and localization is controlled by differential phosphorylation."
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "authors": [
+        "Biswas L",
+        "Schindler K"
+      ],
+      "year": "2024",
+      "journal": "Advances in anatomy, embryology, and cell biology",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Oocytes",
+        "Humans",
+        "Spindle Apparatus",
+        "Female",
+        "Meiosis",
+        "Genetic Variation",
+        "Infertility, Female",
+        "Animals"
+      ],
+      "abstract": "Successful reproduction relies on the union of a single chromosomally normal egg and sperm. Chromosomally normal eggs develop from precursor cells, called oocytes, that have undergone accurate chromosome segregation. The process of chromosome segregation is governed by the oocyte spindle, a unique cytoskeletal machine that splits chromatin content of the meiotically dividing oocyte. The oocyte spindle develops and functions in an idiosyncratic process, which is vulnerable to genetic variation in spindle-associated proteins. Human genetic variants in several spindle-associated proteins are associated with poor clinical fertility outcomes, suggesting that heritable etiologies for oocyte dysfunction leading to infertility exist and that the spindle is a crux for female fertility. This chapter examines the mammalian oocyte spindle through the lens of human genetic variation, covering the genes TUBB8, TACC3, CEP120, AURKA, AURKC, AURKB, BUB1B, and CDC20. Specifically, it explores how patient-identified variants perturb spindle development and function, and it links these molecular changes in the oocyte to their cognate clinical consequences, such as oocyte maturation arrest, elevated egg aneuploidy, primary ovarian insufficiency, and recurrent pregnancy loss. This discussion demonstrates that small genetic errors in oocyte meiosis can result in remarkably far-ranging embryonic consequences, and thus reveals the importance of the oocyte's fine machinery in sustaining life."
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "authors": [
+        "Luo H",
+        "Chen J",
+        "Li C",
+        "Wu T",
+        "Yin S",
+        "Yang G",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Clinical and translational medicine",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Tubulin",
+        "Histone Deacetylase 6",
+        "Animals",
+        "Mice",
+        "Oocytes",
+        "Humans",
+        "Acetylation",
+        "Female",
+        "Microtubules",
+        "Spindle Apparatus",
+        "Microtubule-Associated Proteins"
+      ],
+      "abstract": "BACKGROUND: Numerous pathogenic variants causing human oocyte maturation arrest have been reported on the primate-specific TUBB8 gene. The main etiology is the dramatic reduction of tubulin \u03b1/\u03b2 dimer, but still large numbers of variants remain unexplained.\nMETHODS: Using microinjection mRNA and genome engineering to reintroduce the conserved pathogenic missense variants into oocytes or in generating TUBB8 variant knock-in mouse models, we investigated that the human deleterious variants alter microtubule nucleation and spindle assembly during meiosis. Live-cell imaging and immunofluorescence were utilised to track the dynamic expression of microtubule plus end-tracking proteins in vivo and analysed microtubule nucleation or spindle assembly in vitro, respectively. Immunoprecipitation-mass spectrometry and ultramicro-quantitative proteomics were performed to identify the differential abundance proteins and affected interactome of TUBB8 protein.\nRESULTS: First, we observed a significant depletion of the EB1 signal upon microinjection of mutated TUBB8 mRNA (including R262Q, M300I, and D417N missense variants), indicating disruption of microtubule nucleation caused by these introduced TUBB8 missense variants. Mechanically, we demonstrated that the in vivo TUBB8-D417N missense variant diminished the affinity of EB1 and microtubules. It also harmed the interaction between microtubules and CKAP5/TACC3, which are crucial for initiating microtubule nucleation. Attenuated Ran-GTP pathway was also found in TUBB8-D417N oocytes, leading to disrupted spindle assembly. Stable microtubule was largely abolished on the spindle of TUBB8-D417N oocytes, reflected by reduced tubulin acetylation and accumulated HDAC6. More importantly, selective inhibition of HDAC6 by culturing TUBB8-D417N oocytes with Tubacin or Tubastatin A showed morphologically normal spindle and drastically recovered polar-body extrusion rate. These rescue results shed light on the strategy to treat meiotic defects in a certain group of TUBB8 mutated patients.\nCONCLUSION: Our study provides a comprehensive mechanism elucidating how TUBB8 missense variants cause oocyte maturation arrest and offers new therapeutic avenues for treating female infertility in the clinic."
+    }
+  ]
+}

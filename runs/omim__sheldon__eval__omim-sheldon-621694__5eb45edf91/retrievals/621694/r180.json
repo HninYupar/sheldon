@@ -1,0 +1,57 @@
+{
+  "id": "r180",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "39148840",
+      "42649079"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "authors": [
+        "Magrinelli F",
+        "Tesson C",
+        "Angelova PR",
+        "Rodriguez JA",
+        "Scardamaglia A",
+        "O'Callaghan B",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh": [],
+      "abstract": "Dissecting biological pathways highlighted by Mendelian gene discovery has provided critical insights into the pathogenesis of Parkinson's disease (PD) and neurodegeneration. This approach ultimately catalyzes the identification of potential biomarkers and therapeutic targets. Here, we identify PSMF1 as a novel gene implicated in parkinsonism and childhood neurodegeneration. We find that biallelic PSMF1 missense and loss-of-function variants co-segregate with phenotypes from early-onset PD to perinatal lethality with neurological manifestations across 17 pedigrees with 24 affected subjects, showing clear genotype-phenotype correlation. PSMF1 encodes the proteasome regulator PSMF1/PI31, a highly conserved, ubiquitously expressed partner of the 20S proteasome and neurodegeneration-associated F-box-O 7 and valosin-containing proteins. We demonstrate that PSMF1 variants impair mitochondrial membrane potential, dynamics and mitophagy, and may affect proteasomal abundance and assembly in patient-derived fibroblasts. Furthermore, Drosophila and mouse models of PSMF1 loss of function exhibit age-dependent motor impairment, as well as brain-wide mitochondrial membrane depolarization and dopaminergic neurodegeneration in aged flies, and diffuse gliosis in mice. Collectively, our findings unequivocally link defective PSMF1 to early-onset parkinsonism and neurodegeneration, and suggest proteasomal and mitochondrial dysfunction as mechanistic contributors."
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "authors": [
+        "Gabbert C",
+        "Much C",
+        "Wengh\u00f6fer A",
+        "Fienemann A",
+        "Schaake S",
+        "L\u00fcth T",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ],
+      "mesh": [],
+      "abstract": ""
+    }
+  ]
+}

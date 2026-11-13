@@ -1,0 +1,251 @@
+{
+  "id": "r108",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (mutation OR variant OR homozygous OR loss-of-function)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "40 PubMed hits for 'SIT1[gene] AND (mutation OR variant OR homozygous OR loss-of-function)'; showing 20 (PubMed read it as: \"SIT1\"[All Fields] AND (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields] OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR \"loss-of-function\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "37515120",
+      "title": "Applications of the Microscale Thermophoresis Binding Assay in COVID-19 Research.",
+      "first_author": "Nydegger DT",
+      "year": "2023",
+      "journal": "Viruses",
+      "doi": "10.3390/v15071432",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36384914",
+      "title": "Structures of ACE2-SIT1 recognized by Omicron variants of SARS-CoV-2.",
+      "first_author": "Shen Y",
+      "year": "2022",
+      "journal": "Cell Discov",
+      "doi": "10.1038/s41421-022-00488-x",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "33320938",
+      "title": "Drug-resistant Mycobacterium tuberculosis and its genotypes isolated from an outbreak in western Thailand.",
+      "first_author": "Rudeeaneksin J",
+      "year": "2021",
+      "journal": "Trans R Soc Trop Med Hyg",
+      "doi": "10.1093/trstmh/traa148",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11158346",
+      "title": "Siderophore uptake and use by the yeast Saccharomyces cerevisiae.",
+      "first_author": "Lesuisse E",
+      "year": "2001",
+      "journal": "Microbiology (Reading)",
+      "doi": "10.1099/00221287-147-2-289",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19657969",
+      "title": "Sodium translocation by the iminoglycinuria associated imino transporter (SLC6A20).",
+      "first_author": "Br\u00f6er A",
+      "year": "2009",
+      "journal": "Mol Membr Biol",
+      "doi": "10.1080/09687680903150027",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15814599",
+      "title": "Genome-wide expression profiling of the response to ciclopirox olamine in Candida albicans.",
+      "first_author": "Lee RE",
+      "year": "2005",
+      "journal": "J Antimicrob Chemother",
+      "doi": "10.1093/jac/dki105",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "32608016",
+      "title": "Is susceptibility to severe COVID-19 disease an inborn error of metabolism?",
+      "first_author": "Clayton PT",
+      "year": "2020",
+      "journal": "J Inherit Metab Dis",
+      "doi": "10.1002/jimd.12280",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "10744769",
+      "title": "Desferrioxamine-mediated iron uptake in Saccharomyces cerevisiae. Evidence for two pathways of iron uptake.",
+      "first_author": "Yun CW",
+      "year": "2000",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.275.14.10709",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "17665200",
+      "title": "New and efficient method using Saccharomyces cerevisiae mutants for identification of siderophores produced by microorganisms.",
+      "first_author": "Park YS",
+      "year": "2007",
+      "journal": "Curr Genet",
+      "doi": "10.1007/s00294-007-0145-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36982620",
+      "title": "The ENA1 Na(+)-ATPase Gene Is Regulated by the SPS Sensing Pathway and the Stp1/Stp2 Transcription Factors.",
+      "first_author": "Zekhnini A",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms24065548",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38951531",
+      "title": "Structure and function of the SIT1 proline transporter in complex with the COVID-19 receptor ACE2.",
+      "first_author": "Li HZ",
+      "year": "2024",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-024-48921-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31405853",
+      "title": "ASP2397 Is a Novel Natural Compound That Exhibits Rapid and Potent Fungicidal Activity against Aspergillus Species through a Specific Transporter.",
+      "first_author": "Nakamura I",
+      "year": "2019",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.02689-18",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19184091",
+      "title": "Kidney amino acid transport.",
+      "first_author": "Verrey F",
+      "year": "2009",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-009-0638-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "9573141",
+      "title": "Stimulation of transcription by mutations affecting conserved regions of RNA polymerase II.",
+      "first_author": "Archambault J",
+      "year": "1998",
+      "journal": "J Bacteriol",
+      "doi": "10.1128/JB.180.10.2590-2598.1998",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36675674",
+      "title": "Discovery and Validation of a SIT1-Related Prognostic Signature Associated with Immune Infiltration in Cutaneous Melanoma.",
+      "first_author": "Jia M",
+      "year": "2022",
+      "journal": "J Pers Med",
+      "doi": "10.3390/jpm13010013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28760824",
+      "title": "The glucose sensor Snf1 and the transcription factors Msn2 and Msn4 regulate transcription of the vacuolar iron importer gene CCC1 and iron resistance in yeast.",
+      "first_author": "Li L",
+      "year": "2017",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M117.802504",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30072493",
+      "title": "A copper transcription factor, AfMac1, regulates both iron and copper homeostasis in the opportunistic fungal pathogen Aspergillus fumigatus.",
+      "first_author": "Park YS",
+      "year": "2018",
+      "journal": "Biochem J",
+      "doi": "10.1042/BCJ20180399",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22790597",
+      "title": "Defective intestinal amino acid absorption in Ace2 null mice.",
+      "first_author": "Singer D",
+      "year": "2012",
+      "journal": "Am J Physiol Gastrointest Liver Physiol",
+      "doi": "10.1152/ajpgi.00140.2012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18489705",
+      "title": "Substrate- and ubiquitin-dependent trafficking of the yeast siderophore transporter Sit1.",
+      "first_author": "Erpapazoglou Z",
+      "year": "2008",
+      "journal": "Traffic",
+      "doi": "10.1111/j.1600-0854.2008.00766.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33140827",
+      "title": "ACE2 and gut amino acid transport.",
+      "first_author": "Camargo SMR",
+      "year": "2020",
+      "journal": "Clin Sci (Lond)",
+      "doi": "10.1042/CS20200477",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

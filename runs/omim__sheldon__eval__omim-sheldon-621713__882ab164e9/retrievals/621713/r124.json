@@ -1,0 +1,248 @@
+{
+  "id": "r124",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"OOCYTE MATURATION ARREST\"[tiab] OR \"zygote arrest\"[tiab] OR \"embryo maturation arrest\"[tiab] OR \"OZEMA\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "160 PubMed hits for '\"OOCYTE MATURATION ARREST\"[tiab] OR \"zygote arrest\"[tiab] OR \"embryo maturation arrest\"[tiab] OR \"OZEMA\"[tiab]'; showing 20 (PubMed read it as: \"OOCYTE MATURATION ARREST\"[Title/Abstract] OR \"zygote arrest\"[Title/Abstract] OR \"embryo maturation arrest\"[Title/Abstract] OR \"OZEMA\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39471219",
+      "title": "COX15 deficiency causes oocyte ferroptosis.",
+      "first_author": "Zhang Z",
+      "year": "2024",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2406174121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41005306",
+      "title": "Genetic landscape of human oocyte/embryo defects.",
+      "first_author": "Chen B",
+      "year": "2026",
+      "journal": "Cell Genom",
+      "doi": "10.1016/j.xgen.2025.101012",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33118031",
+      "title": "Molecular genetics of infertility: loss-of-function mutations in humans and corresponding knockout/mutated mice.",
+      "first_author": "Jiao SY",
+      "year": "2021",
+      "journal": "Hum Reprod Update",
+      "doi": "10.1093/humupd/dmaa034",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42222905",
+      "title": "A comprehensive review for defining cut-off values of oocyte, zygote, and embryo maturation arrest (OZEMA) due to maternal-effect genes: towards the establishment of clinical criteria.",
+      "first_author": "Van Der Kelen A",
+      "year": "2026",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deag072",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39358552",
+      "title": "CHK1 controls zygote pronuclear envelope breakdown by regulating F-actin through interacting with MICAL3.",
+      "first_author": "Zhang H",
+      "year": "2024",
+      "journal": "EMBO Rep",
+      "doi": "10.1038/s44319-024-00267-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40657385",
+      "title": "Novel Genetic Variants in PATL2 Corresponding to Different Clinical Phenotypes of Female Infertility.",
+      "first_author": "Yang X",
+      "year": "2025",
+      "journal": "Int J Med Sci",
+      "doi": "10.7150/ijms.109085",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39871066",
+      "title": "Oocyte/zygote/embryo maturation arrest: a clinical study expanding the phenotype of NOBOX variants.",
+      "first_author": "Van Der Kelen A",
+      "year": "2025",
+      "journal": "J Assist Reprod Genet",
+      "doi": "10.1007/s10815-025-03402-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36360157",
+      "title": "Genetics of Oocyte Maturation Defects and Early Embryo Development Arrest.",
+      "first_author": "Solovova OA",
+      "year": "2022",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes13111920",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41270827",
+      "title": "Advances in monogenic female infertility.",
+      "first_author": "Gu H",
+      "year": "2026",
+      "journal": "J Genet Genomics",
+      "doi": "10.1016/j.jgg.2025.11.009",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42409946",
+      "title": "Gene panel analysis for oocyte/zygote/embryo maturation arrest in female infertility: a multicenter study in Japan.",
+      "first_author": "Sako Y",
+      "year": "2026",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-026-60724-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37218508",
+      "title": "PATL2 regulates mRNA homeostasis in oocytes by interacting with EIF4E and CPEB1.",
+      "first_author": "Zhang Z",
+      "year": "2023",
+      "journal": "Development",
+      "doi": "10.1242/dev.201572",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36197634",
+      "title": "Identification of TUBB8 Variants in 5 Primary Infertile Women with Multiple Phenotypes in Oocytes and Early Embryos.",
+      "first_author": "Yu W",
+      "year": "2023",
+      "journal": "Reprod Sci",
+      "doi": "10.1007/s43032-022-01079-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37073822",
+      "title": "Female infertility from oocyte maturation arrest: assembling the genetic puzzle.",
+      "first_author": "Ding X",
+      "year": "2023",
+      "journal": "EMBO Mol Med",
+      "doi": "10.15252/emmm.202317729",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "40680131",
+      "title": "Nicotinamide boosts oocyte quantity and quality by promoting N4-acetylation modification in lupus mice.",
+      "first_author": "Xie Y",
+      "year": "2025",
+      "journal": "Sci Adv",
+      "doi": "10.1126/sciadv.adu0955",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23776146",
+      "title": "Specificity factors in cytoplasmic polyadenylation.",
+      "first_author": "Charlesworth A",
+      "year": "2013",
+      "journal": "Wiley Interdiscip Rev RNA",
+      "doi": "10.1002/wrna.1171",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38007525",
+      "title": "Novel variants in TUBB8 gene cause multiple phenotypic abnormalities in human oocytes and early embryos.",
+      "first_author": "Hu T",
+      "year": "2023",
+      "journal": "J Ovarian Res",
+      "doi": "10.1186/s13048-023-01274-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38980564",
+      "title": "Genetic factors of oocyte maturation arrest: an important cause for recurrent IVF/ICSI failures.",
+      "first_author": "Wang W",
+      "year": "2024",
+      "journal": "J Assist Reprod Genet",
+      "doi": "10.1007/s10815-024-03195-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32828887",
+      "title": "The ZAR1 protein in cancer; from epigenetic silencing to functional characterisation and epigenetic therapy of tumour suppressors.",
+      "first_author": "Deutschmeyer VE",
+      "year": "2020",
+      "journal": "Biochim Biophys Acta Rev Cancer",
+      "doi": "10.1016/j.bbcan.2020.188417",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36242916",
+      "title": "Estradiol-17 \u03b2 levels as a tool for sex determination in Farmed Anguilla japonica.",
+      "first_author": "Hwang JA",
+      "year": "2022",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2022.10.020",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

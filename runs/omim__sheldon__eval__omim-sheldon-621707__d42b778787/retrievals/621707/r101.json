@@ -1,0 +1,252 @@
+{
+  "id": "r101",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"MAGIS syndrome\" OR MAGIS[tiab] OR GNAI2[tiab]) AND (MAPK OR \"mitogen-activated protein kinase\" OR PI3K OR AKT OR signaling OR signaling[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "98 PubMed hits for '(\"MAGIS syndrome\" OR MAGIS[tiab] OR GNAI2[tiab]) AND (MAPK OR \"mitogen-activated protein kinase\" OR PI3K OR AKT OR signaling OR signaling[tiab])'; showing 20 (PubMed read it as: (\"MAGIS syndrome\"[All Fields] OR \"MAGIS\"[Title/Abstract] OR \"GNAI2\"[Title/Abstract]) AND (\"MAPK\"[All Fields] OR \"mitogen-activated protein kinase\"[All Fields] OR (\"pik3cg protein human\"[Supplementary Concept] OR \"pik3cg protein human\"[All Fields] OR \"pi3k\"[All Fields] OR \"pik3cb protein human\"[Supplementary Concept] OR \"pik3cb protein human\"[All Fields]) OR \"AKT\"[All Fields] OR (\"signal transduction\"[MeSH Terms] OR (\"signal\"[All Fields] AND \"transduction\"[All Fields]) OR \"signal transduction\"[All Fields] OR \"signaling\"[All Fields] OR \"signal\"[All Fields] OR \"signal s\"[All Fields] OR \"signaled\"[All Fields] OR \"signaler\"[All Fields] OR \"signaler s\"[All Fields] OR \"signalers\"[All Fields] OR \"signalings\"[All Fields] OR \"signalization\"[All Fields] OR \"signalled\"[All Fields] OR \"signaller\"[All Fields] OR \"signaller s\"[All Fields] OR \"signallers\"[All Fields] OR \"signalling\"[All Fields] OR \"signallings\"[All Fields] OR \"signals\"[All Fields]) OR \"signaling\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34294713",
+      "title": "S-nitrosylation-mediated coupling of G-protein alpha-2 with CXCR5 induces Hippo/YAP-dependent diabetes-accelerated atherosclerosis.",
+      "first_author": "Chao ML",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-24736-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41632920",
+      "title": "Hepatic GPR75 exacerbates MASH through GNAI2-dependent signaling.",
+      "first_author": "Yang X",
+      "year": "2026",
+      "journal": "Hepatology",
+      "doi": "10.1097/HEP.0000000000001706",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38169377",
+      "title": "Identification and validation of iron metabolism genes in osteoporosis.",
+      "first_author": "Li Z",
+      "year": "2024",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-023-01779-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "24423449",
+      "title": "Suppression of GNAI2 message in ovarian cancer.",
+      "first_author": "Raymond JR Jr",
+      "year": "2014",
+      "journal": "J Ovarian Res",
+      "doi": "10.1186/1757-2215-7-6",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40784450",
+      "title": "A non-coding RNA circGNAI2 suppresses triple-negative breast cancer progression by sponging miR-454-3p to inhibit the VGLL4-STAT3 signaling.",
+      "first_author": "Song H",
+      "year": "2025",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2025.110577",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39670989",
+      "title": "Single-cell transcriptomics of vomeronasal neuroepithelium reveals a differential endoplasmic reticulum environment amongst neuronal subtypes.",
+      "first_author": "Devakinandan GVS",
+      "year": "2024",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.98250",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34439877",
+      "title": "GNAi2/gip2-Regulated Transcriptome and Its Therapeutic Significance in Ovarian Cancer.",
+      "first_author": "Ha JH",
+      "year": "2021",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom11081211",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "41226691",
+      "title": "G\u03b1(i2) Signaling Regulates Neonatal Respiratory Adaptation.",
+      "first_author": "Leiss V",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms262110655",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34322898",
+      "title": "Guanine Nucleotide-Binding Protein G(i) Subunit Alpha 2 Exacerbates NASH Progression by Regulating Peroxiredoxin 1-Related Inflammation and Lipophagy.",
+      "first_author": "Zhang Z",
+      "year": "2021",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32078",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39273699",
+      "title": "Key Disease-Related Genes and Immune Cell Infiltration Landscape in Inflammatory Bowel Disease: A Bioinformatics Investigation.",
+      "first_author": "Alghamdi KS",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25179751",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32480042",
+      "title": "Lack of G\u03b1(i2) proteins in adipocytes attenuates diet-induced obesity.",
+      "first_author": "Leiss V",
+      "year": "2020",
+      "journal": "Mol Metab",
+      "doi": "10.1016/j.molmet.2020.101029",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38811421",
+      "title": "Targeting G\u03b1(i2) in neutrophils protects from myocardial ischemia reperfusion injury.",
+      "first_author": "K\u00f6hler D",
+      "year": "2024",
+      "journal": "Basic Res Cardiol",
+      "doi": "10.1007/s00395-024-01057-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39229596",
+      "title": "Corrigendum: GnRH-mediated suppression of S100A4 expression inhibits endometrial epithelial cell proliferation in sheep via GNAI2/MAPK signaling.",
+      "first_author": "Jiao X",
+      "year": "2024",
+      "journal": "Front Vet Sci",
+      "doi": "10.3389/fvets.2024.1445291",
+      "pubtype": [
+        "Published Erratum"
+      ]
+    },
+    {
+      "pmid": "41866035",
+      "title": "Mesothelin promotes acute myeloid leukemia progression through LYN-dependent signaling.",
+      "first_author": "Faust JR",
+      "year": "2026",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2026.111390",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37537613",
+      "title": "Integration of single-cell sequencing and bulk expression data reveals chemokine signaling pathway in proliferating cells is associated with the survival outcome of osteosarcoma.",
+      "first_author": "Yu L",
+      "year": "2023",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-023-01617-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26854024",
+      "title": "JAK-STAT and G-protein-coupled receptor signaling pathways are frequently altered in epitheliotropic intestinal T-cell lymphoma.",
+      "first_author": "Nairism\u00e4gi ML",
+      "year": "2016",
+      "journal": "Leukemia",
+      "doi": "10.1038/leu.2016.13",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36671532",
+      "title": "Combination Analysis of Ferroptosis and Immune Status Predicts Patients Survival in Breast Invasive Ductal Carcinoma.",
+      "first_author": "Yang Y",
+      "year": "2023",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom13010147",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33712709",
+      "title": "MAGIs regulate aPKC to enable balanced distribution of intercellular tension for epithelial sheet homeostasis.",
+      "first_author": "Matsuzawa K",
+      "year": "2021",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-021-01874-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40792212",
+      "title": "Exploring the biological basis for the identification of different syndromes in ischemic heart failure based on joint multi-omics analysis.",
+      "first_author": "Zhang Y",
+      "year": "2025",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2025.1641422",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

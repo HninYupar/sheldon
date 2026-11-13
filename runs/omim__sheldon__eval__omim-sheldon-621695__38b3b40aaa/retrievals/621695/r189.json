@@ -1,0 +1,253 @@
+{
+  "id": "r189",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (\"c.\"[tiab] OR \"p.\"[tiab] OR mutation[tiab] OR mutations[tiab] OR variant[tiab] OR variants[tiab]) AND humans[filter]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "20 PubMed hits for 'PSMF1[gene] AND (\"c.\"[tiab] OR \"p.\"[tiab] OR mutation[tiab] OR mutations[tiab] OR variant[tiab] OR variants[tiab]) AND humans[filter]'; showing 20 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"c\"[Title/Abstract] OR \"p\"[Title/Abstract] OR \"mutation\"[Title/Abstract] OR \"mutations\"[Title/Abstract] OR \"variant\"[Title/Abstract] OR \"variants\"[Title/Abstract]) AND \"humans\"[MeSH Terms])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33009551",
+      "title": "Genome-Wide Association Analysis of Neonatal White Matter Microstructure.",
+      "first_author": "Zhang J",
+      "year": "2021",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhaa266",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33942992",
+      "title": "Genomic analysis of host gene responses to cerebral Plasmodium falciparum malaria.",
+      "first_author": "Li K",
+      "year": "2021",
+      "journal": "Immun Inflamm Dis",
+      "doi": "10.1002/iid3.436",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26711386",
+      "title": "[Application of gene microarray to screen differential expression genes of Modic changes at vertebral endplates].",
+      "first_author": "Xu M",
+      "year": "2015",
+      "journal": "Zhonghua Yi Xue Za Zhi",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21944250",
+      "title": "A replication study of genome-wide CNV association for hepatic biomarkers identifies nine genes associated with liver function.",
+      "first_author": "Kim HY",
+      "year": "2011",
+      "journal": "BMB Rep",
+      "doi": "10.5483/bmbrep.2011.44.9.578",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "first_author": "Li X",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25266262",
+      "title": "The FP domains of PI31 and Fbxo7 have the same protein fold but very different modes of protein-protein interaction.",
+      "first_author": "Shang J",
+      "year": "2015",
+      "journal": "J Biomol Struct Dyn",
+      "doi": "10.1080/07391102.2014.963675",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31327739",
+      "title": "PI31 Is an Adaptor Protein for Proteasome Transport in Axons and Required for Synaptic Development.",
+      "first_author": "Liu K",
+      "year": "2019",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2019.06.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33651148",
+      "title": "Potentially functional variants of ERAP1, PSMF1 and NCF2 in the MHC-I-related pathway predict non-small cell lung cancer survival.",
+      "first_author": "Yang S",
+      "year": "2021",
+      "journal": "Cancer Immunol Immunother",
+      "doi": "10.1007/s00262-021-02877-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31585107",
+      "title": "A Rare Variant Nonparametric Linkage Method for Nuclear and Extended Pedigrees with Application to Late-Onset Alzheimer Disease via WGS Data.",
+      "first_author": "Zhao L",
+      "year": "2019",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2019.09.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "34867951",
+      "title": "Circulating Exosome Involves in the Pathogenesis of Autoimmune Thyroid Diseases Through Immunomodulatory Proteins.",
+      "first_author": "Jia X",
+      "year": "2021",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2021.730089",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32856318",
+      "title": "PIK3R2/Pik3r2 Activating Mutations Result in Brain Overgrowth and EEG Changes.",
+      "first_author": "Shi X",
+      "year": "2020",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.25890",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21757251",
+      "title": "Marsdenia tenacissima extract restored gefitinib sensitivity in resistant non-small cell lung cancer cells.",
+      "first_author": "Han SY",
+      "year": "2012",
+      "journal": "Lung Cancer",
+      "doi": "10.1016/j.lungcan.2011.06.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18495667",
+      "title": "Structure of a conserved dimerization domain within the F-box protein Fbxo7 and the PI31 proteasome inhibitor.",
+      "first_author": "Kirk R",
+      "year": "2008",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M709900200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21909130",
+      "title": "AKT induces senescence in human cells via mTORC1 and p53 in the absence of DNA damage: implications for targeting mTOR during malignancy.",
+      "first_author": "Astle MV",
+      "year": "2012",
+      "journal": "Oncogene",
+      "doi": "10.1038/onc.2011.394",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21940337",
+      "title": "Impaired activation of phosphatidylinositol 3-kinase by leptin is a novel mechanism of hepatic leptin resistance in NAFLD.",
+      "first_author": "Xu D",
+      "year": "2011",
+      "journal": "Hepatogastroenterology",
+      "doi": "10.5754/hge11005",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

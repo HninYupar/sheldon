@@ -1,0 +1,12 @@
+{
+  "id": "r45",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "00000000",
+    "relation": "similar",
+    "max_results": 1
+  },
+  "summary": "1 'similar' links for PMID 00000000; showing 0",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "r127",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "7577667",
+    "relation": "references",
+    "max_results": 10
+  },
+  "summary": "0 'references' links for PMID 7577667; showing 0",
+  "ok": true,
+  "evidence": []
+}

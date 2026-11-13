@@ -1,0 +1,246 @@
+{
+  "id": "r161",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (Thr501Met[tiab] OR T501M[tiab] OR c.1502C>T[tiab] OR p.Thr501Met[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "65 PubMed hits for 'CACNA1A[gene] AND (Thr501Met[tiab] OR T501M[tiab] OR c.1502C>T[tiab] OR p.Thr501Met[tiab])'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"Thr501Met\"[Title/Abstract] OR (\"T\"[Title/Abstract]) OR \"p.Thr501Met\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "first_author": "El Ghaleb Y",
+      "year": "2021",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38743163",
+      "title": "CACNA1A variant associated with generalized dystonia.",
+      "first_author": "Rinaldi D",
+      "year": "2024",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-024-07592-8",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30301590",
+      "title": "Genetic analysis of undiagnosed ataxia-telangiectasia-like disorders.",
+      "first_author": "Kashimada A",
+      "year": "2019",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2018.09.007",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37243399",
+      "title": "Functional characterization of a novel PRRT2 variant found in a Portuguese patient with hemiplegic migraine.",
+      "first_author": "Dias A",
+      "year": "2023",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14379",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35928792",
+      "title": "Investigation of CACNA1I Cav3.3 Dysfunction in Hemiplegic Migraine.",
+      "first_author": "Maksemous N",
+      "year": "2022",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2022.892820",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28781648",
+      "title": "Voltage-gated calcium channels: Novel targets for cancer therapy.",
+      "first_author": "Phan NN",
+      "year": "2017",
+      "journal": "Oncol Lett",
+      "doi": "10.3892/ol.2017.6457",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40789467",
+      "title": "Noribogaine altered intrinsic properties of thalamocortical neurons in a sex-dependent manner.",
+      "first_author": "Villalba S",
+      "year": "2025",
+      "journal": "Prog Neuropsychopharmacol Biol Psychiatry",
+      "doi": "10.1016/j.pnpbp.2025.111467",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40869402",
+      "title": "CACNA1A Genetic Variants and Their Potential Involvement in Migraine Pathogenesis.",
+      "first_author": "Szymanowicz O",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms26168083",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29770609",
+      "title": "Whole-exome sequencing for variant discovery in blepharospasm.",
+      "first_author": "Tian J",
+      "year": "2018",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.411",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35041321",
+      "title": "[Diversity of CACNA1A-related disorders].",
+      "first_author": "Rudenskaya GE",
+      "year": "2021",
+      "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+      "doi": "10.17116/jnevro2021121121106",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41359828",
+      "title": "Impact of PPP1R1A Knockdown on the Proteomic Landscape of INS-1 Cells: A Focus on Significant Modulated Pathways.",
+      "first_author": "Taneera J",
+      "year": "2026",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/acs.jproteome.5c00889",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34565721",
+      "title": "Effect of CAG repeats on the age at onset of patients with spinocerebellar ataxia type 2 in China.",
+      "first_author": "Li Y",
+      "year": "2021",
+      "journal": "Zhong Nan Da Xue Xue Bao Yi Xue Ban",
+      "doi": "10.11817/j.issn.1672-7347.2021.210230",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20361479",
+      "title": "[Genetic in long QT syndromes].",
+      "first_author": "Iturralde-Torres P",
+      "year": "2009",
+      "journal": "Arch Cardiol Mex",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "9600739",
+      "title": "De novo mutation in CACNA1A caused acetazolamide-responsive episodic ataxia.",
+      "first_author": "Yue Q",
+      "year": "1998",
+      "journal": "Am J Med Genet",
+      "doi": "10.1002/(sici)1096-8628(19980526)77:4<298::aid-ajmg9>3.0.co;2-j",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "39637109",
+      "title": "High-Voltage-Activated Calcium Channels in Epilepsy: Lessons from Humans and Rodents.",
+      "first_author": "Noebels JL",
+      "year": "2024",
+      "journal": "",
+      "doi": "10.1093/med/9780197549469.003.0046",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31192002",
+      "title": "Multiple Gene Polymorphisms Associated with Exfoliation Syndrome in the Uygur Population.",
+      "first_author": "Ma YN",
+      "year": "2019",
+      "journal": "J Ophthalmol",
+      "doi": "10.1155/2019/9687823",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24498617",
+      "title": "Screening of CACNA1A and ATP1A2 genes in hemiplegic migraine: clinical, genetic, and functional studies.",
+      "first_author": "Carre\u00f1o O",
+      "year": "2013",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.24",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29713557",
+      "title": "A Novel CACNA1A Nonsense Variant [c.4054C>T (p.Arg1352(\u204e))] Causing Episodic Ataxia Type 2.",
+      "first_author": "Lance S",
+      "year": "2018",
+      "journal": "Case Rep Neurol Med",
+      "doi": "10.1155/2018/5802650",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33121221",
+      "title": "New Nonsense Variant c.2983G>T; p.Glu995* in the CACNA1A Gene Causes Progressive Autosomal Dominant Ataxia.",
+      "first_author": "Saathoff Y",
+      "year": "2021",
+      "journal": "J Mov Disord",
+      "doi": "10.14802/jmd.20082",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22787604",
+      "title": "The Voltage-Gated Calcium Channel and Absence Epilepsy.",
+      "first_author": "Noebels JL",
+      "year": "2012",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Review"
+      ]
+    }
+  ]
+}

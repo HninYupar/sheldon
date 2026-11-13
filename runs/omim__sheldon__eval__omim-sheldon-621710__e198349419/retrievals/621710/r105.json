@@ -1,0 +1,136 @@
+{
+  "id": "r105",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"neurodevelopmental disorder with seizures and cerebellar hypoplasia\" OR NEDSCH OR ATG12",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1475 PubMed hits for '\"neurodevelopmental disorder with seizures and cerebellar hypoplasia\" OR NEDSCH OR ATG12'; showing 10 (PubMed read it as: ((\"neurodevelopmental disorders\"[MeSH Terms] OR (\"neurodevelopmental\"[All Fields] AND \"disorders\"[All Fields]) OR \"neurodevelopmental disorders\"[All Fields] OR (\"neurodevelopmental\"[All Fields] AND \"disorder\"[All Fields]) OR \"neurodevelopmental disorder\"[All Fields]) AND (\"seizural\"[All Fields] OR \"seizure s\"[All Fields] OR \"seizured\"[All Fields] OR \"seizures\"[MeSH Terms] OR \"seizures\"[All Fields] OR \"seizure\"[All Fields] OR \"seizuring\"[All Fields]) AND (\"cerebellar hypoplasia\"[Supplementary Concept] OR \"cerebellar hypoplasia\"[All Fields])) OR \"ATG12\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35222638",
+      "title": "Deficient Autophagy in Microglia Aggravates Repeated Social Defeat Stress-Induced Social Avoidance.",
+      "first_author": "Sakai M",
+      "year": "2022",
+      "journal": "Neural Plast",
+      "doi": "10.1155/2022/7503553",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40641404",
+      "title": "ATG16L1 membrane recruitment in autophagy.",
+      "first_author": "Wei F",
+      "year": "2025",
+      "journal": "Crit Rev Biochem Mol Biol",
+      "doi": "10.1080/10409238.2025.2521321",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33033362",
+      "title": "Macrophage scavenger receptor 1 controls Chikungunya virus infection through autophagy in mice.",
+      "first_author": "Yang L",
+      "year": "2020",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-020-01285-6",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31901645",
+      "title": "The ATG conjugation systems in autophagy.",
+      "first_author": "Mizushima N",
+      "year": "2020",
+      "journal": "Curr Opin Cell Biol",
+      "doi": "10.1016/j.ceb.2019.12.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25585051",
+      "title": "Loss of Atg12, but not Atg5, in pro-opiomelanocortin neurons exacerbates diet-induced obesity.",
+      "first_author": "Malhotra R",
+      "year": "2015",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2014.998917",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36095096",
+      "title": "Apicoplast biogenesis mediated by ATG8 requires the ATG12-ATG5-ATG16L and SNAP29 complexes in Toxoplasma gondii.",
+      "first_author": "Fu J",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2123639",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28160545",
+      "title": "Impact of resistance training on the autophagy-inflammation-apoptosis crosstalk in elderly subjects.",
+      "first_author": "Mej\u00edas-Pe\u00f1a Y",
+      "year": "2017",
+      "journal": "Aging (Albany NY)",
+      "doi": "10.18632/aging.101167",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40763565",
+      "title": "Targeting the ATG12-ATG3 protein-protein interaction: From structural insights to therapeutic opportunities in autophagy modulation.",
+      "first_author": "Kamel EM",
+      "year": "2025",
+      "journal": "Pathol Res Pract",
+      "doi": "10.1016/j.prp.2025.156156",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37432567",
+      "title": "Zinc Oxide Nanoparticles Trigger Autophagy in the Human Multiple Myeloma Cell Line RPMI8226: an In Vitro Study.",
+      "first_author": "Li Z",
+      "year": "2024",
+      "journal": "Biol Trace Elem Res",
+      "doi": "10.1007/s12011-023-03737-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37673390",
+      "title": "Phenothiazines reduced autophagy in ischemic stroke through endoplasmic reticulum (ER) stress-associated PERK-eIF2\u03b1 pathway.",
+      "first_author": "Lv S",
+      "year": "2023",
+      "journal": "Exp Neurol",
+      "doi": "10.1016/j.expneurol.2023.114524",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "r110",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "34300000",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "11 'cited_by' links for PMID 34300000; showing 11",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42588169",
+      "title": "Plant-Derived Amino Acid-Based vs. Bovine-Derived Protein Human Milk Fortifiers in Preterm Infants at <34 Weeks' Gestation: An Open-Label Pilot Randomized Controlled Trial.",
+      "first_author": "Mudmal NK",
+      "year": "2026",
+      "journal": "Nutrients",
+      "doi": "10.3390/nu18152547",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ]
+    },
+    {
+      "pmid": "42540094",
+      "title": "Optimising enteral feeding prevents postnatal growth faltering in preterm infants: a retrospective cohort study.",
+      "first_author": "Gegel GE",
+      "year": "2026",
+      "journal": "BMJ Nutr Prev Health",
+      "doi": "10.1136/bmjnph-2025-001425",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42075064",
+      "title": "New Perspectives in Nutritional Management for Neonatal Health.",
+      "first_author": "Salvatore S",
+      "year": "2026",
+      "journal": "Nutrients",
+      "doi": "10.3390/nu18081251",
+      "pubtype": [
+        "Editorial",
+        "Introductory Journal Article"
+      ]
+    },
+    {
+      "pmid": "41145633",
+      "title": "Early feeding and fluid volume associations with adverse in-hospital outcomes among premature newborns.",
+      "first_author": "Brandon OC",
+      "year": "2026",
+      "journal": "Pediatr Res",
+      "doi": "10.1038/s41390-025-04494-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39686475",
+      "title": "The catch-up growth follow-up management system use and need for the parents of premature infants after discharge based on a WeChat mini program: A cross-sectional survey in China.",
+      "first_author": "Chen R",
+      "year": "2024",
+      "journal": "Medicine (Baltimore)",
+      "doi": "10.1097/MD.0000000000040883",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39659865",
+      "title": "Safety of Short-Term Parenteral Nutrition Administration Through Umbilical Artery Catheters in Neonates While in the Neonatal Intensive Care Unit.",
+      "first_author": "Christensen ML",
+      "year": "2024",
+      "journal": "J Pediatr Pharmacol Ther",
+      "doi": "10.5863/1551-6776-29.6.610",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37692741",
+      "title": "Combined Nutrition in Very-Low-Birth-Weight Preterm Infants in the Neonatal Intensive Care Unit.",
+      "first_author": "Jim\u00e9nez-Jim\u00e9nez JR",
+      "year": "2023",
+      "journal": "Cureus",
+      "doi": "10.7759/cureus.43202",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36185669",
+      "title": "Preterm birth and metabolic implications on later life: A narrative review focused on body composition.",
+      "first_author": "Casirati A",
+      "year": "2022",
+      "journal": "Front Nutr",
+      "doi": "10.3389/fnut.2022.978271",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36050673",
+      "title": "Osteopenia of prematurity and associated nutritional factors: case-control study.",
+      "first_author": "Pinto MRC",
+      "year": "2022",
+      "journal": "BMC Pediatr",
+      "doi": "10.1186/s12887-022-03581-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35327787",
+      "title": "Enteral Linezolid as an Effective Option to Treat an Extremely Preterm Infant with Bacillus cereus Sepsis.",
+      "first_author": "Minotti C",
+      "year": "2022",
+      "journal": "Children (Basel)",
+      "doi": "10.3390/children9030415",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35323698",
+      "title": "A Longitudinal (1)H NMR-Based Metabolic Profile Analysis of Urine from Hospitalized Premature Newborns Receiving Enteral and Parenteral Nutrition.",
+      "first_author": "Esturau-Escofet N",
+      "year": "2022",
+      "journal": "Metabolites",
+      "doi": "10.3390/metabo12030255",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

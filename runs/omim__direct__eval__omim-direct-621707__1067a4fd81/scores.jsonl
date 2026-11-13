@@ -1,0 +1,1 @@
+{"task_id": "621707", "score": 0.5, "metrics": {"recall": 0.5, "precision": 0.6666666666666666, "n_found": 3.0, "n_gold": 5.0, "n_gold_with_pmid": 4.0, "scored": 1.0}, "detail": {"hits": ["39298586", "40926810"], "missed": ["27787898", "31036916"], "gold_without_pmid": ["Hamosh, A. Personal Communication. Baltimore, Md. 10/06/2026."], "new": ["42920069"]}}

@@ -1,0 +1,240 @@
+{
+  "id": "r54",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "39298586",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "23 'cited_by' links for PMID 39298586; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42636080",
+      "title": "Circular RNA circLAMC1 Promotes Liver Regeneration by Regulating the miR-138-5p/Gnai2 Axis.",
+      "first_author": "Yang G",
+      "year": "2026",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.202504443R",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42420675",
+      "title": "The NeuroWES project: lessons learned from comprehensive phenotyping and genetic analysis of neurodevelopmental disorders over a decade.",
+      "first_author": "Cardaropoli S",
+      "year": "2026",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-026-02843-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42310673",
+      "title": "Microglial IRF7-induced lipophagy impairment aggravates lipid droplet overload and impedes neurological recovery after ischemic stroke.",
+      "first_author": "Yin J",
+      "year": "2026",
+      "journal": "J Neuroinflammation",
+      "doi": "10.1186/s12974-026-03902-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42146425",
+      "title": "Monocyte Migration Emerges from a Divergent Chemokine Signaling Network.",
+      "first_author": "So SS",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.04.29.721539",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42096402",
+      "title": "Structured water molecules drive activation and G protein selectivity in the GPR174 receptor.",
+      "first_author": "Dong YJ",
+      "year": "2026",
+      "journal": "PLoS Biol",
+      "doi": "10.1371/journal.pbio.3003447",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42096094",
+      "title": "Multivariable genome-wide analysis elucidates the shared genetic architecture, immunosenescence features, and gut-origin therapeutic targets of ulcerative colitis-associated multisystem inflammation.",
+      "first_author": "Tang S",
+      "year": "2026",
+      "journal": "Inflamm Res",
+      "doi": "10.1007/s00011-026-02257-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42062517",
+      "title": "Determinants of drug efficacy and the dynamics of G protein activation.",
+      "first_author": "Dohlman HG",
+      "year": "2026",
+      "journal": "Nat Struct Mol Biol",
+      "doi": "10.1038/s41594-026-01798-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41964950",
+      "title": "A Rasa3-G\u03b1i signaling axis orchestrates B lymphocyte trafficking into and through lymphoid organs.",
+      "first_author": "Park C",
+      "year": "2026",
+      "journal": "Cell Rep",
+      "doi": "10.1016/j.celrep.2026.117243",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41773808",
+      "title": "Mapping malignant T-cell states and immune circuits in S\u00e9zary syndrome by single-cell analysis.",
+      "first_author": "Childs BA",
+      "year": "2026",
+      "journal": "J Eur Acad Dermatol Venereol",
+      "doi": "10.1111/jdv.70368",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41744004",
+      "title": "Urgent considerations on renal immune-related adverse events in oncology practice.",
+      "first_author": "Lv WQ",
+      "year": "2025",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2025.1714090",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41674319",
+      "title": "G\u03b1i1/3 Is a Novel Regulatory Target for RANKL Signal Transduction and Osteoporosis.",
+      "first_author": "Bai C",
+      "year": "2026",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202510836",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41427421",
+      "title": "Multimodal analysis defines GNG4 as a distinguishing feature of germinal center-positioned CD4 T follicular helper cells in humans.",
+      "first_author": "Dubensky SB",
+      "year": "2025",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2025.12.10.693235",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41403938",
+      "title": "Unraveling the immune response in optic nerve injury: implications for retinal ganglion cell protection.",
+      "first_author": "Xu K",
+      "year": "2025",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2025.1671438",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41349768",
+      "title": "Binding of the brain G protein G\u237a(o) to its potential effector RASA3 is promoted by Ca(2).",
+      "first_author": "Bell HAS",
+      "year": "2026",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2025.110999",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "41332446",
+      "title": "Human immunity.",
+      "first_author": "Casanova JL",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250001",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41226691",
+      "title": "G\u03b1(i2) Signaling Regulates Neonatal Respiratory Adaptation.",
+      "first_author": "Leiss V",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms262110655",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40819057",
+      "title": "A comprehensive in silico and invitro analysis revealed the diagnostic, prognostic and therapeutic potential of GNAI family genes in colon adenocarcinoma (COAD).",
+      "first_author": "Wang B",
+      "year": "2025",
+      "journal": "Hereditas",
+      "doi": "10.1186/s41065-025-00523-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40745211",
+      "title": "Dominant G\u03b1 mutations in human disease: unifying mechanisms and treatment strategies.",
+      "first_author": "Katanaev VL",
+      "year": "2025",
+      "journal": "EMBO Mol Med",
+      "doi": "10.1038/s44321-025-00274-8",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

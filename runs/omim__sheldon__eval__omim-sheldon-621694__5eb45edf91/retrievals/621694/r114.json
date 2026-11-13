@@ -1,0 +1,69 @@
+{
+  "id": "r114",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "24770418",
+      "38708447"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "authors": [
+        "Li X",
+        "Thompson D",
+        "Kumar B",
+        "DeMartino GN"
+      ],
+      "year": "2014",
+      "journal": "The Journal of biological chemistry",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Amino Acid Motifs",
+        "Animals",
+        "Drosophila melanogaster",
+        "HEK293 Cells",
+        "HeLa Cells",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Protein Structure, Tertiary",
+        "Proteins"
+      ],
+      "abstract": "We investigated molecular features and cellular roles of PI31 (PSMF1) on regulation of proteasome function. PI31 has a C-terminal HbYX (where Hb is a hydrophobic amino acid, Y is tyrosine, and X is any amino acid) motif characteristic of several proteasome activators. Peptides corresponding to the PI31 C terminus also bind to and activate the 20 S proteasome in an HbYX-dependent manner, but intact PI31protein inhibits in vitro 20 S activity. Binding to and inhibition of the proteasome by PI31 are conferred by the HbYX-containing proline-rich C-terminal domain but do not require HbYX residues. Thus, multiple regions of PI31 bind independently to the proteasome and collectively determine effects on activity. PI31 blocks the ATP-dependent in vitro assembly of 26 S proteasome from 20 S proteasome and PA700 subcomplexes but has no effect on in vitro activity of the intact 26 S proteasome. To determine the physiologic significance of these in vitro effects, we assessed multiple aspects of cellular proteasome content and function after altering PI31 levels. We detected no change in overall cellular proteasome content or function when PI31 levels were either increased by moderate ectopic overexpression or decreased by RNA interference (RNAi). We also failed to identify a role of PI31 ADP-ribosylation as a mechanism for regulation of overall 26 S proteasome content and function, as recently proposed. Thus, despite its in vitro effects on various proteasome activities and its structural relationship to established proteasome regulators, cellular roles and mechanisms of PI31 in regulation of proteasome function remain unclear and require future definition."
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "authors": [
+        "Navarro E",
+        "Esteras N"
+      ],
+      "year": "2024",
+      "journal": "The FEBS journal",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Parkinson Disease",
+        "Proteasome Endopeptidase Complex",
+        "F-Box Proteins",
+        "Mitochondria",
+        "Mutation",
+        "Mitophagy",
+        "Ubiquitination"
+      ],
+      "abstract": "Around 10% of Parkinson's disease (PD) cases are associated with mutations in various genes, including FBXO7, which encodes the substrate-recognition component for the Skp1-Cullin-F-box (SCF) class of ubiquitin E3 ligases that target proteins for proteasomal degradation. In their recent study, Al Rawi et\u00a0al. characterized a new mutation in FBXO7, L250P, in a pediatric patient. Their findings reveal that the L250P mutation abolishes Fbxo7 interaction with the proteasome regulator, proteasome inhibitor 31kD (PI31), affecting proteasomal activity and the ubiquitination of some of the ligase's targets. Furthermore, the authors show that this previously undescribed mutation impairs mitochondrial function and mitophagy, emphasizing the importance of mitochondrial and proteasomal dysfunction in PD pathogenesis."
+    }
+  ]
+}

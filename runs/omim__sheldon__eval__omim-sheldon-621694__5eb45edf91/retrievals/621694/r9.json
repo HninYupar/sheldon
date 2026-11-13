@@ -1,0 +1,620 @@
+{
+  "id": "r9",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND fibroblast OR mitochondria OR Drosophila OR mouse OR functional",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "18140439 PubMed hits for 'PSMF1[tiab] AND fibroblast OR mitochondria OR Drosophila OR mouse OR functional'; showing 50 (PubMed read it as: (\"PSMF1\"[Title/Abstract] AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields])) OR (\"mitochondria\"[MeSH Terms] OR \"mitochondria\"[All Fields] OR \"mitochondria s\"[All Fields] OR \"mitochondriae\"[All Fields] OR \"mitochondrias\"[All Fields]) OR (\"drosophila\"[MeSH Terms] OR \"drosophila\"[All Fields] OR \"drosophilas\"[All Fields] OR \"drosophila s\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields]) OR (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "30089241",
+      "title": "Interplay between YAP/TAZ and Metabolism.",
+      "first_author": "Koo JH",
+      "year": "2018",
+      "journal": "Cell Metab",
+      "doi": "10.1016/j.cmet.2018.07.010",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42561934",
+      "title": "Tau-induced mitochondrial reverse electron transport drives neurodegeneration.",
+      "first_author": "Li W",
+      "year": "2026",
+      "journal": "Neuron",
+      "doi": "10.1016/j.neuron.2026.07.012",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33852843",
+      "title": "Dietary spermidine improves cognitive function.",
+      "first_author": "Schroeder S",
+      "year": "2021",
+      "journal": "Cell Rep",
+      "doi": "10.1016/j.celrep.2021.108985",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27011354",
+      "title": "Sensitive red protein calcium indicators for imaging neural activity.",
+      "first_author": "Dana H",
+      "year": "2016",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.12727",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28812582",
+      "title": "Control of intestinal stem cell function and proliferation by mitochondrial pyruvate metabolism.",
+      "first_author": "Schell JC",
+      "year": "2017",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/ncb3593",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41379939",
+      "title": "Spatial and morphological organization of mitochondria in neurons across a connectome.",
+      "first_author": "Sager G",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.ads6674",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31813825",
+      "title": "Regulation of Tumor Initiation by the Mitochondrial Pyruvate Carrier.",
+      "first_author": "Bensard CL",
+      "year": "2020",
+      "journal": "Cell Metab",
+      "doi": "10.1016/j.cmet.2019.11.002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "18446867",
+      "title": "Mitochondria and ageing in Drosophila.",
+      "first_author": "Morrow G",
+      "year": "2008",
+      "journal": "Biotechnol J",
+      "doi": "10.1002/biot.200800015",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39537626",
+      "title": "The mitochondrial mRNA-stabilizing protein SLIRP regulates skeletal muscle mitochondrial structure and respiration by exercise-recoverable mechanisms.",
+      "first_author": "Pham TCP",
+      "year": "2024",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-024-54183-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41398051",
+      "title": "MISO regulates mitochondrial dynamics and mtDNA homeostasis by establishing membrane subdomains.",
+      "first_author": "Zhang Y",
+      "year": "2026",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/s41556-025-01829-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37390796",
+      "title": "Mitochondrial control of sleep.",
+      "first_author": "Hartmann C",
+      "year": "2023",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2023.102733",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39726060",
+      "title": "SARS-CoV-2 membrane protein induces neurodegeneration via affecting Golgi-mitochondria interaction.",
+      "first_author": "Wang F",
+      "year": "2024",
+      "journal": "Transl Neurodegener",
+      "doi": "10.1186/s40035-024-00458-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22619228",
+      "title": "The axonal transport of mitochondria.",
+      "first_author": "Saxton WM",
+      "year": "2012",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.053850",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32142409",
+      "title": "A highly responsive pyruvate sensor reveals pathway-regulatory role of the mitochondrial pyruvate carrier MPC.",
+      "first_author": "Arce-Molina R",
+      "year": "2020",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.53917",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41437725",
+      "title": "Insights into PINK1/Parkin function and dysfunction from Drosophila models.",
+      "first_author": "Park S",
+      "year": "2025",
+      "journal": "Biochem J",
+      "doi": "10.1042/BCJ20253459",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39471439",
+      "title": "Peroxisome inter-organelle cooperation in Drosophila.",
+      "first_author": "Cheng AY",
+      "year": "2025",
+      "journal": "Genome",
+      "doi": "10.1139/gen-2024-0082",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40489973",
+      "title": "Spermidine supplementation and protein restriction protect from organismal and brain aging independently.",
+      "first_author": "Liang Y",
+      "year": "2025",
+      "journal": "Aging (Albany NY)",
+      "doi": "10.18632/aging.206267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41453949",
+      "title": "Model organisms in POLG-related disorders: insights from yeast to multicellular systems.",
+      "first_author": "Bra\u00f1as Casas R",
+      "year": "2025",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-025-08366-6",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37188705",
+      "title": "Peripheral modulation of antidepressant targets MAO-B and GABAAR by harmol induces mitohormesis and delays aging in preclinical models.",
+      "first_author": "Costa-Machado LF",
+      "year": "2023",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-023-38410-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "33525374",
+      "title": "ER Stress-Sensor Proteins and ER-Mitochondrial Crosstalk-Signaling Beyond (ER) Stress Response.",
+      "first_author": "Kumar V",
+      "year": "2021",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom11020173",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40184468",
+      "title": "Retromer promotes the lysosomal turnover of mtDNA.",
+      "first_author": "Kakanj P",
+      "year": "2025",
+      "journal": "Sci Adv",
+      "doi": "10.1126/sciadv.adr6415",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36358905",
+      "title": "Electrophilic Aldehyde 4-Hydroxy-2-Nonenal Mediated Signaling and Mitochondrial Dysfunction.",
+      "first_author": "Sharma S",
+      "year": "2022",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom12111555",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39385390",
+      "title": "Disease models of Leigh syndrome: From yeast to organoids.",
+      "first_author": "Henke MT",
+      "year": "2024",
+      "journal": "J Inherit Metab Dis",
+      "doi": "10.1002/jimd.12804",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40680739",
+      "title": "Microtubules coordinate mitochondria transport with myofibril morphogenesis during muscle development.",
+      "first_author": "Avellaneda J",
+      "year": "2025",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2025.06.033",
+      "pubtype": [
+        "Journal Article",
+        "Video-Audio Media"
+      ]
+    },
+    {
+      "pmid": "4368919",
+      "title": "Mitochondrial heterosis.",
+      "first_author": "Grunder AA",
+      "year": "1974",
+      "journal": "Poult Sci",
+      "doi": "10.3382/ps.0531306",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40982549",
+      "title": "Mitochondrial Complex I and ROS control neuromuscular function through opposing pre- and postsynaptic mechanisms.",
+      "first_author": "Mallik B",
+      "year": "2025",
+      "journal": "PLoS Biol",
+      "doi": "10.1371/journal.pbio.3003388",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40372917",
+      "title": "Adipocyte metabolic state regulates glial phagocytic function.",
+      "first_author": "Alassaf M",
+      "year": "2025",
+      "journal": "Cell Rep",
+      "doi": "10.1016/j.celrep.2025.115704",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28363744",
+      "title": "DREF plays multiple roles during Drosophila development.",
+      "first_author": "Tue NT",
+      "year": "2017",
+      "journal": "Biochim Biophys Acta Gene Regul Mech",
+      "doi": "10.1016/j.bbagrm.2017.03.004",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39168012",
+      "title": "20(S)-ginsenoside Rg3 protects against diabetic muscle atrophy by promoting myoblastic differentiation and protecting mitochondrial function.",
+      "first_author": "Wang M",
+      "year": "2024",
+      "journal": "Phytomedicine",
+      "doi": "10.1016/j.phymed.2024.155964",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32524468",
+      "title": "Axon Degeneration: Which Method to Choose?",
+      "first_author": "Coleman MP",
+      "year": "2020",
+      "journal": "Methods Mol Biol",
+      "doi": "10.1007/978-1-0716-0585-1_1",
+      "pubtype": [
+        "Introductory Journal Article"
+      ]
+    },
+    {
+      "pmid": "33026269",
+      "title": "Towards understanding the evolutionary dynamics of mtDNA.",
+      "first_author": "Towarnicki SG",
+      "year": "2020",
+      "journal": "Mitochondrial DNA A DNA Mapp Seq Anal",
+      "doi": "10.1080/24701394.2020.1830076",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38698744",
+      "title": "Effect of Rotenone on the Neurodegeneration among Different Models.",
+      "first_author": "Subhan I",
+      "year": "2024",
+      "journal": "Curr Drug Targets",
+      "doi": "10.2174/0113894501281496231226070459",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41135839",
+      "title": "Physiological roles of reactive oxygen species in sleep homeostasis.",
+      "first_author": "Tian Y",
+      "year": "2026",
+      "journal": "Free Radic Biol Med",
+      "doi": "10.1016/j.freeradbiomed.2025.10.273",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31562251",
+      "title": "Drosophila melanogaster: a simple system for understanding complexity.",
+      "first_author": "Mohr SE",
+      "year": "2019",
+      "journal": "Dis Model Mech",
+      "doi": "10.1242/dmm.041871",
+      "pubtype": [
+        "Editorial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36600217",
+      "title": "Increased interaction between endoplasmic reticulum and mitochondria following sleep deprivation.",
+      "first_author": "Aboufares El Alaoui A",
+      "year": "2023",
+      "journal": "BMC Biol",
+      "doi": "10.1186/s12915-022-01498-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41885373",
+      "title": "Age-dependent H3K9 trimethylation by dSetdb1 impairs mitochondrial UPR leading to degeneration of olfactory neurons and loss of olfactory function in Drosophila.",
+      "first_author": "Mu\u00f1oz-Carvajal F",
+      "year": "2026",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.103118",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20228940",
+      "title": "Aging: Dial M for Mitochondria.",
+      "first_author": "Hur JH",
+      "year": "2010",
+      "journal": "Aging (Albany NY)",
+      "doi": "10.18632/aging.100118",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34043204",
+      "title": "Analysis of Dopaminergic Functions in Drosophila.",
+      "first_author": "Inoshita T",
+      "year": "2021",
+      "journal": "Methods Mol Biol",
+      "doi": "10.1007/978-1-0716-1495-2_18",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25299061",
+      "title": "Keeping mtDNA in shape between generations.",
+      "first_author": "Stewart JB",
+      "year": "2014",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1004670",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "26992930",
+      "title": "Central Parkin: The evolving role of Parkin in the heart.",
+      "first_author": "Dorn GW 2nd",
+      "year": "2016",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbabio.2016.03.014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40623095",
+      "title": "Clu1/Clu form mitochondria-associated granules upon metabolic transitions and regulate mitochondrial protein translation via ribosome interactions.",
+      "first_author": "Miller-Fleming L",
+      "year": "2025",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1011773",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41554711",
+      "title": "Glycerol 3-phosphate acyltransferase exacerbates \u03b1-synuclein-induced toxicity by increasing lipid peroxidation.",
+      "first_author": "Ren M",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-68325-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38148172",
+      "title": "Whole-Brain Electrophysiology and Calcium Imaging in Drosophila during Sleep and Wake.",
+      "first_author": "Van De Poll M",
+      "year": "2024",
+      "journal": "Cold Spring Harb Protoc",
+      "doi": "10.1101/pdb.top108394",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38612789",
+      "title": "Mitochondrial Differentiation during Spermatogenesis: Lessons from Drosophila melanogaster.",
+      "first_author": "Vedelek V",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25073980",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38290047",
+      "title": "Maternal mitochondrial function affects paternal mitochondrial inheritance in Drosophila.",
+      "first_author": "Cao J",
+      "year": "2024",
+      "journal": "Genetics",
+      "doi": "10.1093/genetics/iyae014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26997500",
+      "title": "Mitochondrial reactive oxygen species: Do they extend or shorten animal lifespan?",
+      "first_author": "Sanz A",
+      "year": "2016",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbabio.2016.03.018",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "4399418",
+      "title": "Comparative aspects of spermatogenesis.",
+      "first_author": "Roosen-Runge EC",
+      "year": "1969",
+      "journal": "Biol Reprod",
+      "doi": "10.1095/biolreprod1.supplement_1.24",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "16169180",
+      "title": "Drosophila simulans as a novel model for studying mitochondrial metabolism and aging.",
+      "first_author": "Ballard JW",
+      "year": "2005",
+      "journal": "Exp Gerontol",
+      "doi": "10.1016/j.exger.2005.07.014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41275989",
+      "title": "Ginsenoside Re binds Drp1 Leu94 across species to restore mitochondrial homeostasis via Atg1/ULK1-dependent fission-mitophagy coupling in age-related degeneration.",
+      "first_author": "Jin C",
+      "year": "2025",
+      "journal": "Pharmacol Res",
+      "doi": "10.1016/j.phrs.2025.108043",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

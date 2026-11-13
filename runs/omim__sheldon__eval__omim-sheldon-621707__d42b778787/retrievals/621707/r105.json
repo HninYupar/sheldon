@@ -1,0 +1,12 @@
+{
+  "id": "r105",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "38492953",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "0 'cited_by' links for PMID 38492953; showing 0",
+  "ok": true,
+  "evidence": []
+}

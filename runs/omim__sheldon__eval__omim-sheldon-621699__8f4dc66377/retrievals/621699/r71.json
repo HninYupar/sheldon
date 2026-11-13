@@ -1,0 +1,12 @@
+{
+  "id": "r71",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "42128181",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "0 'cited_by' links for PMID 42128181; showing 0",
+  "ok": true,
+  "evidence": []
+}

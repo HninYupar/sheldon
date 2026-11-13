@@ -1,0 +1,133 @@
+{
+  "id": "r57",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"ATG12\"[gene] OR ATG12[tiab]) AND (neurodevelopmental disorder OR seizures OR cerebellar hypoplasia OR developmental delay OR epilepsy)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "14 PubMed hits for '(\"ATG12\"[gene] OR ATG12[tiab]) AND (neurodevelopmental disorder OR seizures OR cerebellar hypoplasia OR developmental delay OR epilepsy)'; showing 10 (PubMed read it as: (\"ATG12\"[All Fields] OR \"ATG12\"[Title/Abstract]) AND (\"neurodevelopmental disorders\"[MeSH Terms] OR (\"neurodevelopmental\"[All Fields] AND \"disorders\"[All Fields]) OR \"neurodevelopmental disorders\"[All Fields] OR (\"neurodevelopmental\"[All Fields] AND \"disorder\"[All Fields]) OR \"neurodevelopmental disorder\"[All Fields] OR (\"seizural\"[All Fields] OR \"seizure s\"[All Fields] OR \"seizured\"[All Fields] OR \"seizures\"[MeSH Terms] OR \"seizures\"[All Fields] OR \"seizure\"[All Fields] OR \"seizuring\"[All Fields]) OR (\"cerebellar hypoplasia\"[Supplementary Concept] OR \"cerebellar hypoplasia\"[All Fields]) OR ((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"delay\"[All Fields] OR \"delayed\"[All Fields] OR \"delaying\"[All Fields] OR \"delays\"[All Fields])) OR (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31678999",
+      "title": "Electroconvulsive Seizures Induce Autophagy by Activating the AMPK Signaling Pathway in the Rat Frontal Cortex.",
+      "first_author": "Kim SH",
+      "year": "2020",
+      "journal": "Int J Neuropsychopharmacol",
+      "doi": "10.1093/ijnp/pyz055",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26812546",
+      "title": "Mutation in ATG5 reduces autophagy and leads to ataxia with developmental delay.",
+      "first_author": "Kim M",
+      "year": "2016",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.12245",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39472694",
+      "title": "Gene-based burden tests of rare germline variants identify six cancer susceptibility genes.",
+      "first_author": "Ivarsdottir EV",
+      "year": "2024",
+      "journal": "Nat Genet",
+      "doi": "10.1038/s41588-024-01966-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27777042",
+      "title": "The steroid hormone 20-hydroxyecdysone promotes switching from autophagy to apoptosis by increasing intracellular calcium levels.",
+      "first_author": "Li YB",
+      "year": "2016",
+      "journal": "Insect Biochem Mol Biol",
+      "doi": "10.1016/j.ibmb.2016.10.004",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17223264",
+      "title": "Kainic acid induces early and transient autophagic stress in mouse hippocampus.",
+      "first_author": "Shacka JJ",
+      "year": "2007",
+      "journal": "Neurosci Lett",
+      "doi": "10.1016/j.neulet.2006.12.025",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21679777",
+      "title": "Decreased heat shock protein 27 expression and altered autophagy in human cells harboring A8344G mitochondrial DNA mutation.",
+      "first_author": "Chen CY",
+      "year": "2011",
+      "journal": "Mitochondrion",
+      "doi": "10.1016/j.mito.2011.05.014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29808547",
+      "title": "MiR-181b inhibits P38/JNK signaling pathway to attenuate autophagy and apoptosis in juvenile rats with kainic acid-induced epilepsy via targeting TLR4.",
+      "first_author": "Wang L",
+      "year": "2019",
+      "journal": "CNS Neurosci Ther",
+      "doi": "10.1111/cns.12991",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24316174",
+      "title": "Electroconvulsive seizures enhance autophagy signaling in rat hippocampus.",
+      "first_author": "Otabe H",
+      "year": "2014",
+      "journal": "Prog Neuropsychopharmacol Biol Psychiatry",
+      "doi": "10.1016/j.pnpbp.2013.11.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "r144",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41895291",
+      "42642022",
+      "42886282"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "authors": [
+        "Lambton J",
+        "Asano S",
+        "Huang Y",
+        "Suomi F",
+        "Eguchi T",
+        "Petree C",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "American journal of human genetics",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Autophagy",
+        "Autophagy-Related Protein 12",
+        "Female",
+        "Zebrafish",
+        "Male",
+        "Animals",
+        "HeLa Cells",
+        "Alleles",
+        "Pedigree",
+        "Child",
+        "Child, Preschool",
+        "Neurodevelopmental Disorders",
+        "Autophagy-Related Protein 5",
+        "Fibroblasts",
+        "Adolescent",
+        "Autophagy-Related Protein 7",
+        "Phenotype"
+      ],
+      "abstract": "Autophagy is an essential developmental and homeostatic process, defined by the endolysosomal degradation of intracellular components and pathogens. Dysfunctional autophagy is implicated in complex human disease, yet reports of congenital autophagy disorders were considered exceedingly rare until the recent report of several unrelated families with bi-allelic variants in the core autophagy effector ATG7, complementing the report of two individuals harboring ATG5 variants. We now report six affected individuals from five families with bi-allelic ATG12 variants with complex neurological phenotypes overlapping those seen in individuals with pathogenic variants in ATG5 and ATG7: developmental delay, intellectual disability, congenital ataxia, hypotonia, and seizures with cerebellar vermis hypoplasia evident on neuroradiological imaging. Structural modeling implicated a potential disruption of the ATG12-ATG5-ATG16N-ATG3 complex. Biochemical analyses of primary fibroblasts confirmed the loss of stable ATG12-ATG5 conjugate in one family and altered autophagic flux in one unrelated family. The HaloTag processing assay in HeLa cells demonstrated a decrease in ATG12-ATG5 conjugate and reduced autophagic flux in response to starvation. Complementation studies demonstrated that equivalent missense atg12 variants were unable to fully recover the biochemical defect in atg12-null yeast, with microscopy analysis demonstrating a reduced delivery of autophagy substrates to the yeast's degradative compartment. Zebrafish studies confirmed that Atg12 is required for normal growth, brain development, and neural function. Collectively, our findings underscore the pivotal role of autophagy in maintaining human neural integrity, emphasize an emerging group of congenital autophagy disorders, and expand our understanding of adaptive homeostasis in human health and disease."
+    },
+    {
+      "pmid": "42642022",
+      "title": "A Contemporary Pathomechanistic Nosology of Inherited Lysosomal Disorders.",
+      "authors": [
+        "McCarron EP",
+        "Blau N",
+        "Eden ER",
+        "Platt FM",
+        "Aerts JM",
+        "Jones SA",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Journal of inherited metabolic disease",
+      "doi": "10.1002/jimd.70245",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Humans",
+        "Lysosomal Storage Diseases",
+        "Lysosomes",
+        "Autophagy",
+        "Phenotype"
+      ],
+      "abstract": "Lysosomal disorders (LDs) have traditionally been defined by intra-lysosomal substrate accumulation resulting from deficiencies of lysosomal enzymes or associated proteins. Advances in lysosomal biology have demonstrated that lysosomes function as central regulators of cellular signalling, membrane trafficking, autophagy, nutrient sensing, organelle communication and cellular homeostasis, expanding the spectrum of inherited disorders associated with lysosomal dysfunction beyond classical storage phenotypes. We developed a contemporary pathomechanistic nosology of inherited LDs through expert curation and targeted review of databases and published literature. Disorders were included when pathogenic variants resulted in lysosomal dysfunction as a major disease mechanism through defects affecting lysosomal degradation, membrane function, intracellular trafficking, biogenesis, autophagy-lysosome pathways or lysosome-related organelles. A total of 108 inherited lysosomal disorders caused by defects in 102 genes were identified and organised into 11 major disease categories. Neurologic and eye involvement were the most frequently affected organ-system categories, occurring in 80.6% and 68.5% of disorders, respectively. Digestive (including hepatosplenomegaly), dysmorphic, skeletal and haematological involvement occurred in 48.1%, 45.4%, 40.7% and 38.9% of disorders, respectively. Distinct phenotypic signatures were observed across disease categories despite substantial mechanistic overlap involving impaired autophagy, vesicular trafficking, lysosomal stress and altered organelle homeostasis. This proposed nosology extends disease classification beyond substrate accumulation alone and provides a biologically informed framework for disease classification, genomic interpretation, biomarker development, patient stratification and the development of mechanism-based therapies."
+    },
+    {
+      "pmid": "42886282",
+      "title": "Rewiring autophagy to target cutaneous wound healing: investigation of molecular mechanisms to therapeutic interventions.",
+      "authors": [
+        "Nayak K",
+        "Banerjee I",
+        "Nazerulla F",
+        "Valame A",
+        "Paul MK",
+        "Bhutia SK",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Molecular biology reports",
+      "doi": "10.1007/s11033-026-12938-w",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Humans",
+        "Autophagy",
+        "Wound Healing",
+        "Animals",
+        "Signal Transduction",
+        "Skin",
+        "Inflammation",
+        "TOR Serine-Threonine Kinases"
+      ],
+      "abstract": "Rewiring of pathways regulating inflammation, metabolism, and regeneration must occur in a coordinated fashion during wound healing; however, this orchestration gets disrupted in chronic and diabetic wounds. Autophagy is a conserved lysosome-dependent pathway that controls the integration of nutrient homeostasis, adaptation to stresses, immune regulation, and cell remodelling during wound repair. Here we summarize the pivotal role of autophagy in the different crucial steps of wound healing. An open wound often attracts pathogens, leading to infection and inflammation. During this inflammation stage, autophagy mediates signalling from the pattern recognition receptors, generates cytokines, manoeuvres the defence against infection, and polarizes macrophage. During proliferation stage, autophagy promotes keratinocyte migration, fibroblast function, endothelial cell survival, angiogenesis, while minimizing oxidative injury and apoptosis. During the remodelling stage, autophagy participates in the remodelling of the extracellular matrix, collagen maturation, and scar formation. However, these processes are context-dependent; while insufficient autophagy prevents adaptation and regeneration, we see excessive autophagy may contribute to pathological conditions associated with chronic wounds. The analysis also considers new therapeutic approaches including mTOR and AMPK inhibitors, phytochemicals, exosomes from mesenchymal stem cells, and the use of biomaterials for the delivery of drugs. Although they improve re-epithelization, vascularization, and matrix organization in preclinical models, the clinical application of these approaches is hampered by the lack of specificity of the pathway, poor stability and penetrability of drugs, off-target effects, and a lack of clinical trials in humans."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "r175",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41253044",
+      "31754024",
+      "32274753",
+      "16250896"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "authors": [
+        "Cogan G",
+        "Lesage S",
+        "Brice A"
+      ],
+      "year": "2025",
+      "journal": "Current opinion in neurobiology",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Humans",
+        "Parkinson Disease",
+        "Mutation",
+        "Age of Onset",
+        "Genes, Recessive",
+        "Ubiquitin-Protein Ligases"
+      ],
+      "abstract": "Early-onset Parkinson's disease (EOPD) is usually defined as Parkinson's disease (PD) occurring before the age of 40-50 years. Unlike late-onset PD, EOPD is often due to pathogenic mutations in autosomal recessive genes. Two phenotypes can be distinguished: typical EOPD, which progresses slowly (PRKN, PINK1 and DJ-1), and atypical PD, often associated with additional symptoms (ATP13A2, FBXO7, DNAJC6, VPS13C, SYNJ1, PLA2G6). In this review, we will highlight recent advances and remaining challenges. The frequency of causal genetic mutations and the genotype-phenotype landscape of PRKN-associated PD has been refined. Long-read sequencing has solved several undiagnosed cases with a single PRKN mutation. Five new genes have been reported to contribute to EOPD associated with various neurological signs (PTPA, DAGLB, PSMF1, EPG5, SGIP1). Small molecules targeting PRKN dysfunctions are expected to enter clinical trials in the coming years, paving the way for targeted therapies in EOPD."
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "authors": [
+        "Minis A",
+        "Rodriguez JA",
+        "Levin A",
+        "Liu K",
+        "Govek EE",
+        "Hatten ME",
+        "et al."
+      ],
+      "year": "2019",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Axons",
+        "Behavior Observation Techniques",
+        "Carrier Proteins",
+        "Cell Survival",
+        "Disease Models, Animal",
+        "Female",
+        "Humans",
+        "Mice",
+        "Mice, Knockout",
+        "Motor Neurons",
+        "Mutation",
+        "Neurodegenerative Diseases",
+        "Proteasome Endopeptidase Complex",
+        "Proteolysis",
+        "Proteostasis",
+        "Purkinje Cells",
+        "Synapses"
+      ],
+      "abstract": "Proteasome-mediated degradation of intracellular proteins is essential for cell function and survival. The proteasome-binding protein PI31 (Proteasomal Inhibitor of 31kD) promotes 26S assembly and functions as an adapter for proteasome transport in axons. As localized protein synthesis and degradation is especially critical in neurons, we generated a conditional loss of PI31 in spinal motor neurons (MNs) and cerebellar Purkinje cells (PCs). A cKO of PI31 in these neurons caused axon degeneration, neuronal loss, and progressive spinal and cerebellar neurological dysfunction. For both MNs and PCs, markers of proteotoxic stress preceded axonal degeneration and motor dysfunction, indicating a critical role for PI31 in neuronal homeostasis. The time course of the loss of MN and PC function in developing mouse central nervous system suggests a key role for PI31 in human neurodegenerative diseases."
+    },
+    {
+      "pmid": "32274753",
+      "title": "The Proteasome System in Health and Disease.",
+      "authors": [
+        "Coux O",
+        "Zieba BA",
+        "Meiners S"
+      ],
+      "year": "2020",
+      "journal": "Advances in experimental medicine and biology",
+      "doi": "10.1007/978-3-030-38266-7_3",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Disease",
+        "Health",
+        "Humans",
+        "Proteasome Endopeptidase Complex"
+      ],
+      "abstract": "The proteasome is involved in the regulation of all cellular pathways and consequently plays a central role in the control of cellular homeostasis. Together with its regulators, it is at the frontline, both as an actor and as a target, in human health and when homeostasis is disturbed in disease. In this review, we aim to provide an overview of the many levels at which the functions of the proteasome and its regulators can be regulated to cope with cellular needs or are altered in pathological conditions."
+    },
+    {
+      "pmid": "16250896",
+      "title": "Proteasomes.",
+      "authors": [
+        "Dahlmann B"
+      ],
+      "year": "2005",
+      "journal": "Essays in biochemistry",
+      "doi": "10.1042/EB0410031",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh": [
+        "Animals",
+        "Humans",
+        "Models, Molecular",
+        "Polyubiquitin",
+        "Proteasome Endopeptidase Complex",
+        "Protein Folding",
+        "Protein Transport"
+      ],
+      "abstract": "The major enzyme system catalysing the degradation of intracellular proteins is the proteasome system. A central inner chamber of the cylinder-shaped 20 S proteasome contains the active site, formed by N-terminal threonine residues. The 20 S proteasomes are extremely inefficient in degrading folded protein substrates and therefore one or two multisubunit 19 S regulatory particles bind to one or both ends of the 20 S proteasome cylinder, forming 26 S and 30 S proteasomes respectively. These regulatory complexes are able to bind proteins marked as proteasome substrates by prior conjugation with polyubiquitin chains, and initiate their unfolding and translocation into the proteolytic chamber of the 20 S proteasome, where they are broken down into peptides of 3-25 amino acids. The polyubiquitin tag is removed from the substrate protein by the deubiquitinating activity of the 19 S regulator complex. Under conditions of an intensified immune response, many eukaryotic cells adapt by replacing standard 20 S proteasomes with immuno-proteasomes and/or generating the proteasome activator complex, PA28. Both of these adaptations change the protein-breakdown process for optimized generation of antigenic peptide epitopes that are presented by the class I MHCs. Hybrid proteasomes (19 S regulator-20 S proteasome-PA28) may have a special function during the immune response. The functions of other proteasome accessory complexes, such as PA200 and PI31 are still under investigation."
+    }
+  ]
+}

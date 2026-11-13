@@ -1,0 +1,132 @@
+{
+  "id": "r32",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(TACC3[gene] OR TACC3[tiab]) AND (oocyte[tiab] OR zygote[tiab] OR embryo[tiab] OR infertility[tiab] OR \"maturation arrest\"[tiab] OR spindle[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "118 PubMed hits for '(TACC3[gene] OR TACC3[tiab]) AND (oocyte[tiab] OR zygote[tiab] OR embryo[tiab] OR infertility[tiab] OR \"maturation arrest\"[tiab] OR spindle[tiab])'; showing 10 (PubMed read it as: (\"TACC3\"[All Fields] OR \"TACC3\"[Title/Abstract]) AND (\"oocyte\"[Title/Abstract] OR \"zygote\"[Title/Abstract] OR \"embryo\"[Title/Abstract] OR \"infertility\"[Title/Abstract] OR \"maturation arrest\"[Title/Abstract] OR \"spindle\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38319231",
+      "title": "Targeting TACC3 Induces Immunogenic Cell Death and Enhances T-DM1 Response in HER2-Positive Breast Cancer.",
+      "first_author": "Gedik ME",
+      "year": "2024",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-23-2812",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "first_author": "So C",
+      "year": "2019",
+      "journal": "Science",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35930054",
+      "title": "Effects of Ran-GTP/importin \u03b2 inhibition on the meiotic division of porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Histochem Cell Biol",
+      "doi": "10.1007/s00418-022-02134-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36739938",
+      "title": "Cobalt chloride exposure disturbs spindle assembly and decreases mouse oocyte development potential.",
+      "first_author": "Zhao SC",
+      "year": "2023",
+      "journal": "Toxicology",
+      "doi": "10.1016/j.tox.2023.153450",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40105698",
+      "title": "Structural characterization and inhibition of the interaction between ch-TOG and TACC3.",
+      "first_author": "Shelford J",
+      "year": "2025",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.202407002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38012214",
+      "title": "Knockdown of TACC3 inhibits tumor cell proliferation and increases chemosensitivity in pancreatic cancer.",
+      "first_author": "Shi S",
+      "year": "2023",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-023-06313-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33318147",
+      "title": "Satellite cell expansion is mediated by P-eIF2\u03b1-dependent Tacc3 translation.",
+      "first_author": "Fujita R",
+      "year": "2021",
+      "journal": "Development",
+      "doi": "10.1242/dev.194480",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25971232",
+      "title": "Solution NMR assignment of the cryptic sixth TOG domain of mini spindles.",
+      "first_author": "Burgess SG",
+      "year": "2015",
+      "journal": "Biomol NMR Assign",
+      "doi": "10.1007/s12104-015-9620-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22138824",
+      "title": "High-efficiency counterselection recombineering for site-directed mutagenesis in bacterial artificial chromosomes.",
+      "first_author": "Bird AW",
+      "year": "2011",
+      "journal": "Nat Methods",
+      "doi": "10.1038/nmeth.1803",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

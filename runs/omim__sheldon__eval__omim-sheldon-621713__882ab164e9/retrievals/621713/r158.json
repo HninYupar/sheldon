@@ -1,0 +1,255 @@
+{
+  "id": "r158",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (oocyte spindle OR meiotic spindle OR acentrosomal spindle OR spindle pole)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "102 PubMed hits for 'TACC3[gene] AND (oocyte spindle OR meiotic spindle OR acentrosomal spindle OR spindle pole)'; showing 20 (PubMed read it as: \"TACC3\"[All Fields] AND (((\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) AND (\"spindle\"[All Fields] OR \"spindle s\"[All Fields] OR \"spindled\"[All Fields] OR \"spindles\"[All Fields] OR \"spindling\"[All Fields])) OR (\"spindle apparatus\"[MeSH Terms] OR (\"spindle\"[All Fields] AND \"apparatus\"[All Fields]) OR \"spindle apparatus\"[All Fields] OR (\"meiotic\"[All Fields] AND \"spindle\"[All Fields]) OR \"meiotic spindle\"[All Fields]) OR (\"acentrosomal\"[All Fields] AND (\"spindle\"[All Fields] OR \"spindle s\"[All Fields] OR \"spindled\"[All Fields] OR \"spindles\"[All Fields] OR \"spindling\"[All Fields])) OR (\"spindle poles\"[MeSH Terms] OR (\"spindle\"[All Fields] AND \"poles\"[All Fields]) OR \"spindle poles\"[All Fields] OR (\"spindle\"[All Fields] AND \"pole\"[All Fields]) OR \"spindle pole\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "first_author": "So C",
+      "year": "2019",
+      "journal": "Science",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "24419151",
+      "title": "Aurora A: working from dawn to dusk in mitosis.",
+      "first_author": "Lioutas A",
+      "year": "2014",
+      "journal": "Cell Cycle",
+      "doi": "10.4161/cc.27781",
+      "pubtype": [
+        "Editorial",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "38012214",
+      "title": "Knockdown of TACC3 inhibits tumor cell proliferation and increases chemosensitivity in pancreatic cancer.",
+      "first_author": "Shi S",
+      "year": "2023",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-023-06313-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29510984",
+      "title": "Mitotic spindle association of TACC3 requires Aurora-A-dependent stabilization of a cryptic \u03b1-helix.",
+      "first_author": "Burgess SG",
+      "year": "2018",
+      "journal": "EMBO J",
+      "doi": "10.15252/embj.201797902",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36864125",
+      "title": "Targeting TACC3 represents a novel vulnerability in highly aggressive breast cancers with centrosome amplification.",
+      "first_author": "Saatci O",
+      "year": "2023",
+      "journal": "Cell Death Differ",
+      "doi": "10.1038/s41418-023-01140-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35930054",
+      "title": "Effects of Ran-GTP/importin \u03b2 inhibition on the meiotic division of porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Histochem Cell Biol",
+      "doi": "10.1007/s00418-022-02134-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38197196",
+      "title": "TACC3: a multi-functional protein promoting cancer cell survival and aggressiveness.",
+      "first_author": "Saatci O",
+      "year": "2023",
+      "journal": "Cell Cycle",
+      "doi": "10.1080/15384101.2024.2302243",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "33380489",
+      "title": "Defining endogenous TACC3-chTOG-clathrin-GTSE1 interactions at the mitotic spindle using induced relocalization.",
+      "first_author": "Ryan EL",
+      "year": "2021",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.255794",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32217742",
+      "title": "A Highly Potent TACC3 Inhibitor as a Novel Anticancer Drug Candidate.",
+      "first_author": "Akbulut O",
+      "year": "2020",
+      "journal": "Mol Cancer Ther",
+      "doi": "10.1158/1535-7163.MCT-19-0957",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18508920",
+      "title": "Xenopus TACC3/maskin is not required for microtubule stability but is required for anchoring microtubules at the centrosome.",
+      "first_author": "Albee AJ",
+      "year": "2008",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.e07-11-1204",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "42498517",
+      "title": "The Secret (Mitotic) Life of Clathrin.",
+      "first_author": "Royle SJ",
+      "year": "2026",
+      "journal": "Traffic",
+      "doi": "10.1111/tra.70047",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40903356",
+      "title": "The mechanisms of MTOCs maturation in human and mouse oocytes.",
+      "first_author": "Gu H",
+      "year": "2025",
+      "journal": "Sci Bull (Beijing)",
+      "doi": "10.1016/j.scib.2025.08.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21297582",
+      "title": "A TACC3/ch-TOG/clathrin complex stabilises kinetochore fibres by inter-microtubule bridging.",
+      "first_author": "Booth DG",
+      "year": "2011",
+      "journal": "EMBO J",
+      "doi": "10.1038/emboj.2011.15",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21709692",
+      "title": "Novel functions of endocytic player clathrin in mitosis.",
+      "first_author": "Fu W",
+      "year": "2011",
+      "journal": "Cell Res",
+      "doi": "10.1038/cr.2011.106",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42049022",
+      "title": "Mechanistic design of cell-penetrating disruptors for phospho-dependent TACC3-CHC interaction.",
+      "first_author": "Gunning V",
+      "year": "2026",
+      "journal": "Structure",
+      "doi": "10.1016/j.str.2026.04.001",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20237422",
+      "title": "TACC3-TSC2 maintains nuclear envelope structure and controls cell division.",
+      "first_author": "G\u00f3mez-Bald\u00f3 L",
+      "year": "2010",
+      "journal": "Cell Cycle",
+      "doi": "10.4161/cc.9.6.11018",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26168150",
+      "title": "TACC3 Is Important for Correct Progression of Meiosis in Bovine Oocytes.",
+      "first_author": "Mahdipour M",
+      "year": "2015",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0132591",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

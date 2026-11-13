@@ -1,0 +1,127 @@
+{
+  "id": "r101",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "31249032",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "101 'cited_by' links for PMID 31249032; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42929796",
+      "title": "Slender lobes is a spindle matrix protein regulated by spindle envelope kinase Greatwall in oocytes.",
+      "first_author": "Kaade R",
+      "year": "2027",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.202606020",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42865959",
+      "title": "The role of LLPS of biomacromolecules in the gonads and related diseases.",
+      "first_author": "Zhao H",
+      "year": "2026",
+      "journal": "Front Endocrinol (Lausanne)",
+      "doi": "10.3389/fendo.2026.1800034",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42855540",
+      "title": "Power-law scaling of mitotic spindles with genome sizes across eukaryotes is driven by chromosome crowding.",
+      "first_author": "Gudlin L",
+      "year": "2026",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/s41556-026-02005-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42761981",
+      "title": "Divergent microtubule-organizing center strategies in mammalian gametogenesis.",
+      "first_author": "Skinner MW",
+      "year": "2026",
+      "journal": "Trends Open",
+      "doi": "10.1016/j.treopn.2025.12.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42555824",
+      "title": "Centriolar satellites regulate CEP350 mRNA stability and centrosome amplification.",
+      "first_author": "Martinez A",
+      "year": "2026",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.E26-03-0142",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42427873",
+      "title": "A variant in human leucine-rich repeat and coiled-coil domain-containing 1 (LRRCC1) elevates meiotic aneuploidy in oocytes.",
+      "first_author": "Duke M",
+      "year": "2026",
+      "journal": "Res Sq",
+      "doi": "10.21203/rs.3.rs-10131625/v1",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42352270",
+      "title": "A Novel Mechanism for Autoantigenicity: Condensate Conformational Change.",
+      "first_author": "Fried HM",
+      "year": "2026",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom16060803",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42146417",
+      "title": "An interaction between HP1 and the Chromosomal Passenger Complex Initiates Acentrosomal Spindle Assembly in Drosophila oocytes.",
+      "first_author": "Wu S",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.01.722309",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42096526",
+      "title": "A human CEP120 gene variant impairs meiotic spindle building causing aneuploidy\u2020.",
+      "first_author": "Duke M",
+      "year": "2026",
+      "journal": "Biol Reprod",
+      "doi": "10.1093/biolre/ioag094",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41929204",
+      "title": "Spindle pole proteins confine chromosomes to ensure their expulsion during female meiosis.",
+      "first_author": "Yaguchi K",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.03.24.713942",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    }
+  ]
+}

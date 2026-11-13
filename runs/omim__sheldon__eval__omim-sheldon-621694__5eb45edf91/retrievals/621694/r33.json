@@ -1,0 +1,129 @@
+{
+  "id": "r33",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] OR PI31[tiab] AND (fibroblast*[tiab] OR mitochondria*[tiab] OR proteasome*[tiab] OR Drosophila[tiab] OR mouse[tiab])",
+    "max_results": 10,
+    "sort": "pub_date"
+  },
+  "summary": "56 PubMed hits for 'PSMF1[gene] OR PI31[tiab] AND (fibroblast*[tiab] OR mitochondria*[tiab] OR proteasome*[tiab] OR Drosophila[tiab] OR mouse[tiab])'; showing 10 (PubMed read it as: (\"PSMF1\"[All Fields] OR \"PI31\"[Title/Abstract]) AND (\"fibroblast*\"[Title/Abstract] OR \"mitochondria*\"[Title/Abstract] OR \"proteasome*\"[Title/Abstract] OR \"Drosophila\"[Title/Abstract] OR \"mouse\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42983429",
+      "title": "The TNKS/PI31-proteasome axis as a central node in TDP-43 neuropathies.",
+      "first_author": "Bubphachat P",
+      "year": "2026",
+      "journal": "J Biomed Sci",
+      "doi": "10.1186/s12929-026-01296-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42945227",
+      "title": "Transcriptomic Profiling of PBMCs via Bulk RNA-Sequencing in Posner-Schlossman Syndrome Reveals Immune Dysregulation and Altered Viral Response.",
+      "first_author": "Peng SM",
+      "year": "2026",
+      "journal": "Ocul Immunol Inflamm",
+      "doi": "10.1080/09273948.2026.2746986",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42485378",
+      "title": "Blm10 and PI31 comprise a failsafe mechanism for proteasome inhibition.",
+      "first_author": "Fung D",
+      "year": "2026",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2611708123",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42363684",
+      "title": "FMRP-Mediated Proteasome Regulation: A Novel Mechanism in ALS Pathology.",
+      "first_author": "Majumder P",
+      "year": "2026",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.202600563R",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41796444",
+      "title": "Magical moments in protease biology: proteasome autocatalytic activation and PI31-mediated inhibition.",
+      "first_author": "Rajakumar T",
+      "year": "2026",
+      "journal": "Trends Biochem Sci",
+      "doi": "10.1016/j.tibs.2026.02.003",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "first_author": "Rodriguez JA",
+      "year": "2025",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "40337847",
+      "title": "PI31 is a positive regulator of 20S immunoproteasome assembly.",
+      "first_author": "Wang J",
+      "year": "2025",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.263887",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

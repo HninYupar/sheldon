@@ -1,0 +1,37 @@
+{
+  "id": "r131",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"neurodegeneration, childhood-onset, with movement disorders, cognitive decline, and brain abnormalities\" OR CONDMCB OR 621694",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for '\"neurodegeneration, childhood-onset, with movement disorders, cognitive decline, and brain abnormalities\" OR CONDMCB OR 621694'; showing 2 (PubMed read it as: ((\"nerve degeneration\"[MeSH Terms] OR (\"nerve\"[All Fields] AND \"degeneration\"[All Fields]) OR \"nerve degeneration\"[All Fields] OR \"neurodegeneration\"[All Fields] OR \"neurodegenerating\"[All Fields] OR \"neurodegenerations\"[All Fields]) AND \"childhood onset\"[All Fields] AND (\"movement disorders\"[MeSH Terms] OR (\"movement\"[All Fields] AND \"disorders\"[All Fields]) OR \"movement disorders\"[All Fields]) AND (\"cognitive dysfunction\"[MeSH Terms] OR (\"cognitive\"[All Fields] AND \"dysfunction\"[All Fields]) OR \"cognitive dysfunction\"[All Fields] OR (\"cognitive\"[All Fields] AND \"decline\"[All Fields]) OR \"cognitive decline\"[All Fields]) AND (\"brain\"[MeSH Terms] OR \"brain\"[All Fields] OR \"brains\"[All Fields] OR \"brain s\"[All Fields]) AND (\"abnormal\"[All Fields] OR \"abnormalities\"[MeSH Subheading] OR \"abnormalities\"[All Fields] OR \"congenital abnormalities\"[MeSH Terms] OR (\"congenital\"[All Fields] AND \"abnormalities\"[All Fields]) OR \"congenital abnormalities\"[All Fields] OR \"abnormality\"[All Fields] OR \"abnormally\"[All Fields] OR \"abnormals\"[All Fields] OR \"abnormities\"[All Fields] OR \"abnormity\"[All Fields])) OR 621694[UID])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "621694",
+      "title": "Induction of testicular growth and sexual activity in rams by a 'skeleton' short-day photoperiod.",
+      "first_author": "Lincoln GA",
+      "year": "1978",
+      "journal": "J Reprod Fertil",
+      "doi": "10.1530/jrf.0.0520179",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30854657",
+      "title": "Novel insights into the clinical and molecular spectrum of congenital disorders of autophagy.",
+      "first_author": "Teinert J",
+      "year": "2020",
+      "journal": "J Inherit Metab Dis",
+      "doi": "10.1002/jimd.12084",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    }
+  ]
+}

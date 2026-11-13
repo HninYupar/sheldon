@@ -1,0 +1,69 @@
+{
+  "id": "r139",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "36938367",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "5 'cited_by' links for PMID 36938367; showing 5",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42905476",
+      "title": "Single-Cell Integration of Mouse Models of Autism Reveals Conserved Transcriptomic Signatures of Excitatory-Inhibitory Imbalance and Glial Dysfunction.",
+      "first_author": "Nani JV",
+      "year": "2026",
+      "journal": "Glia",
+      "doi": "10.1002/glia.70225",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42030101",
+      "title": "Calmodulinopathy variants impair CaV1.3 and CaV2.1 regulation.",
+      "first_author": "Hussey JW",
+      "year": "2026",
+      "journal": "J Gen Physiol",
+      "doi": "10.1085/jgp.202413734",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39570184",
+      "title": "Exome sequencing in Nigerian children with early-onset epilepsy syndromes.",
+      "first_author": "Ademuwagun IA",
+      "year": "2025",
+      "journal": "Epilepsia Open",
+      "doi": "10.1002/epi4.13106",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "first_author": "Hommersom MP",
+      "year": "2025",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38681799",
+      "title": "Developing a pathway to clinical trials for CACNA1A-related epilepsies: A patient organization perspective.",
+      "first_author": "Fox PM",
+      "year": "2024",
+      "journal": "Ther Adv Rare Dis",
+      "doi": "10.1177/26330040241245725",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

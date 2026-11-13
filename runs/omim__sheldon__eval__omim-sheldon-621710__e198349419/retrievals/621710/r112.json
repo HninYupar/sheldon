@@ -1,0 +1,160 @@
+{
+  "id": "r112",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41895291",
+      "39472694",
+      "39315527",
+      "34731330"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "authors": [
+        "Lambton J",
+        "Asano S",
+        "Huang Y",
+        "Suomi F",
+        "Eguchi T",
+        "Petree C",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "American journal of human genetics",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Autophagy",
+        "Autophagy-Related Protein 12",
+        "Female",
+        "Zebrafish",
+        "Male",
+        "Animals",
+        "HeLa Cells",
+        "Alleles",
+        "Pedigree",
+        "Child",
+        "Child, Preschool",
+        "Neurodevelopmental Disorders",
+        "Autophagy-Related Protein 5",
+        "Fibroblasts",
+        "Adolescent",
+        "Autophagy-Related Protein 7",
+        "Phenotype"
+      ],
+      "abstract": "Autophagy is an essential developmental and homeostatic process, defined by the endolysosomal degradation of intracellular components and pathogens. Dysfunctional autophagy is implicated in complex human disease, yet reports of congenital autophagy disorders were considered exceedingly rare until the recent report of several unrelated families with bi-allelic variants in the core autophagy effector ATG7, complementing the report of two individuals harboring ATG5 variants. We now report six affected individuals from five families with bi-allelic ATG12 variants with complex neurological phenotypes overlapping those seen in individuals with pathogenic variants in ATG5 and ATG7: developmental delay, intellectual disability, congenital ataxia, hypotonia, and seizures with cerebellar vermis hypoplasia evident on neuroradiological imaging. Structural modeling implicated a potential disruption of the ATG12-ATG5-ATG16N-ATG3 complex. Biochemical analyses of primary fibroblasts confirmed the loss of stable ATG12-ATG5 conjugate in one family and altered autophagic flux in one unrelated family. The HaloTag processing assay in HeLa cells demonstrated a decrease in ATG12-ATG5 conjugate and reduced autophagic flux in response to starvation. Complementation studies demonstrated that equivalent missense atg12 variants were unable to fully recover the biochemical defect in atg12-null yeast, with microscopy analysis demonstrating a reduced delivery of autophagy substrates to the yeast's degradative compartment. Zebrafish studies confirmed that Atg12 is required for normal growth, brain development, and neural function. Collectively, our findings underscore the pivotal role of autophagy in maintaining human neural integrity, emphasize an emerging group of congenital autophagy disorders, and expand our understanding of adaptive homeostasis in human health and disease."
+    },
+    {
+      "pmid": "39472694",
+      "title": "Gene-based burden tests of rare germline variants identify six cancer susceptibility genes.",
+      "authors": [
+        "Ivarsdottir EV",
+        "Gudmundsson J",
+        "Tragante V",
+        "Sveinbjornsson G",
+        "Kristmundsdottir S",
+        "Stacey SN",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Nature genetics",
+      "doi": "10.1038/s41588-024-01966-6",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Genetic Predisposition to Disease",
+        "Germ-Line Mutation",
+        "Female",
+        "Male",
+        "Neoplasms",
+        "United Kingdom",
+        "Iceland",
+        "Norway",
+        "Case-Control Studies",
+        "Autophagy"
+      ],
+      "abstract": "Discovery of cancer risk variants in the sequence of the germline genome can shed light on carcinogenesis. Here we describe gene burden association analyses, aggregating rare missense and loss of function variants, at 22 cancer sites, including 130,991 cancer cases and 733,486 controls from Iceland, Norway and the United Kingdom. We identified four genes associated with increased cancer risk; the pro-apoptotic BIK for prostate cancer, the autophagy involved ATG12 for colorectal cancer, TG for thyroid cancer and CMTR2 for both lung cancer and cutaneous melanoma. Further, we found genes with rare variants that associate with decreased risk of cancer; AURKB for any cancer, irrespective of site, and PPP1R15A for breast cancer, suggesting that inhibition of PPP1R15A may be a preventive strategy for breast cancer. Our findings pinpoint several new cancer risk genes and emphasize autophagy, apoptosis and cell stress response as a focus point for developing new therapeutics."
+    },
+    {
+      "pmid": "39315527",
+      "title": "Elucidating the clinical and genetic spectrum of inositol polyphosphate phosphatase INPP4A-related neurodevelopmental disorder.",
+      "authors": [
+        "Rawlins LE",
+        "Maroofian R",
+        "Cannon SJ",
+        "Daana M",
+        "Zamani M",
+        "Ghani S",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+      "doi": "10.1016/j.gim.2024.101278",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Phosphoric Monoester Hydrolases",
+        "Neurodevelopmental Disorders",
+        "Animals",
+        "Female",
+        "Mice",
+        "Male",
+        "Child",
+        "Genetic Association Studies",
+        "Child, Preschool",
+        "Phenotype",
+        "Adolescent",
+        "Exons",
+        "Intellectual Disability",
+        "Mutation",
+        "Genotype"
+      ],
+      "abstract": "PURPOSE: Biallelic INPP4A variants have recently been associated with severe neurodevelopmental disease in single-case reports. Here, we expand and elucidate the clinical-genetic spectrum and provide a pathomechanistic explanation for genotype-phenotype correlations.\nMETHODS: Clinical and genomic investigations of 30 individuals were undertaken alongside molecular and in silico modelling and translation reinitiation studies.\nRESULTS: We characterize a clinically variable disorder with cardinal features, including global developmental delay, severe-profound intellectual disability, microcephaly, limb weakness, cerebellar signs, and short stature. A more severe presentation associated with biallelic INPP4A variants downstream of exon 4 has additional features of (ponto)cerebellar hypoplasia, reduced cerebral volume, peripheral spasticity, contractures, intractable seizures, and cortical visual impairment. Our studies identify the likely pathomechanism of this genotype-phenotype correlation entailing translational reinitiation in exon 4 resulting in an N-terminal truncated INPP4A protein retaining partial functionality, associated with less severe disease. We also identified identical reinitiation site conservation in Inpp4a-/- mouse models displaying similar genotype-phenotype correlation. Additionally, we show fibroblasts from a single affected individual exhibit disrupted endocytic trafficking pathways, indicating the potential biological basis of the condition.\nCONCLUSION: Our studies comprehensively characterize INPP4A-related neurodevelopmental disorder and suggest genotype-specific clinical assessment guidelines. We propose that the potential mechanistic basis of observed genotype-phenotype correlations entails exon 4 translation reinitiation."
+    },
+    {
+      "pmid": "34731330",
+      "title": "Myoclonic status epilepticus and cerebellar hypoplasia associated with a novel variant in the GRIA3 gene.",
+      "authors": [
+        "Rinaldi B",
+        "Ge YH",
+        "Freri E",
+        "Tucci A",
+        "Granata T",
+        "Estienne M",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "Neurogenetics",
+      "doi": "10.1007/s10048-021-00666-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Cerebellum",
+        "Child",
+        "Developmental Disabilities",
+        "Humans",
+        "Intellectual Disability",
+        "Male",
+        "Nervous System Malformations",
+        "Pedigree",
+        "Status Epilepticus"
+      ],
+      "abstract": "AMPA-type glutamate receptors (AMPARs) are postsynaptic ionotropic receptors which mediate fast excitatory currents. AMPARs have a heterotetrameric structure, variably composed by the four subunits GluA1-4 which are encoded by genes GRIA1-4. Increasing evidence support the role of pathogenic variants in GRIA1-4 genes as causative for syndromic intellectual disability (ID). We report an Italian pedigree where some male individuals share ID, seizures and facial dysmorphisms. The index subject was referred for severe ID, myoclonic seizures, cerebellar signs and short stature. Whole exome sequencing identified a novel variant in GRIA3, c.2360A\u2009>\u2009G, p.(Glu787Gly). The GRIA3 gene maps to\u00a0chromosome Xq25 and the c.2360A\u2009>\u2009G variant was transmitted by his healthy mother. Subsequent analysis in the family showed a segregation pattern compatible with the causative role of this variant, further supported by preliminary functional insights. We provide a detailed description of the clinical evolution of the index subjects and stress the relevance of myoclonic seizures and cerebellar syndrome as cardinal features of his presentation."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "r161",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "26045437",
+      "38413710",
+      "24003142"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "26045437",
+      "title": "Human oocytes. Error-prone chromosome-mediated spindle assembly favors chromosome segregation defects in human oocytes.",
+      "authors": [
+        "Holubcov\u00e1 Z",
+        "Blayney M",
+        "Elder K",
+        "Schuh M"
+      ],
+      "year": "2015",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.aaa9529",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Anaphase",
+        "Aneuploidy",
+        "Animals",
+        "Cells, Cultured",
+        "Chromosome Segregation",
+        "Female",
+        "Green Fluorescent Proteins",
+        "Humans",
+        "Kinetochores",
+        "Meiosis",
+        "Mice",
+        "Microtubule-Associated Proteins",
+        "Microtubule-Organizing Center",
+        "Oocytes",
+        "Spindle Apparatus",
+        "ran GTP-Binding Protein"
+      ],
+      "abstract": "Aneuploidy in human eggs is the leading cause of pregnancy loss and several genetic disorders such as Down syndrome. Most aneuploidy results from chromosome segregation errors during the meiotic divisions of an oocyte, the egg's progenitor cell. The basis for particularly error-prone chromosome segregation in human oocytes is not known. We analyzed meiosis in more than 100 live human oocytes and identified an error-prone chromosome-mediated spindle assembly mechanism as a major contributor to chromosome segregation defects. Human oocytes assembled a meiotic spindle independently of either centrosomes or other microtubule organizing centers. Instead, spindle assembly was mediated by chromosomes and the small guanosine triphosphatase Ran in a process requiring ~16 hours. This unusually long spindle assembly period was marked by intrinsic spindle instability and abnormal kinetochore-microtubule attachments, which favor chromosome segregation errors and provide a possible explanation for high rates of aneuploidy in human eggs."
+    },
+    {
+      "pmid": "38413710",
+      "title": "Male meiotic spindle poles are stabilized by TACC3 and cKAP5/chTOG differently from female meiotic or somatic mitotic spindles in mice.",
+      "authors": [
+        "Simerly C",
+        "Robertson E",
+        "Harrison C",
+        "Ward S",
+        "George C",
+        "Deleon J",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-024-55376-z",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Female",
+        "Male",
+        "Mice",
+        "Aurora Kinase A",
+        "Cell Cycle Proteins",
+        "Glycols",
+        "Meiosis",
+        "Microtubule-Associated Proteins",
+        "Microtubules",
+        "Oocytes",
+        "Semen",
+        "Spindle Apparatus",
+        "Spindle Poles",
+        "Fetal Proteins"
+      ],
+      "abstract": "Transforming acidic acid coiled-coil protein 3 (TACC3) and cytoskeleton associated protein 5 (cKAP5; or colonic hepatic tumor overexpressed gene, chTOG) are vital for spindle assembly and stabilization initiated through TACC3 Aurora-A kinase interaction. Here, TACC3 and cKAP5/chTOG localization with monospecific antibodies is investigated in eGFP-centrin-2- expressing mouse meiotic spermatocytes. Both proteins bind spermatocyte spindle poles but neither kinetochore nor interpolar microtubules, unlike in mitotic mouse fibroblasts or female meiotic oocyte spindles. Spermatocytes do not display a liquid-like spindle domain (LISD), although fusing them into maturing oocytes generates LISD-like TACC3 condensates around sperm chromatin but sparse microtubule assembly. Microtubule inhibitors do not reduce TACC3 and cKAP5/chTOG spindle pole binding. MLN 8237 Aurora-A kinase inhibitor removes TACC3, not cKAP5/chTOG, disrupting spindle organization, chromosome alignment, and impacting spindle pole \u03b3-tubulin intensity. The LISD disruptor 1,6-hexanediol abolished TACC3 in spermatocytes, impacting spindle bipolarity and chromosome organization. Cold microtubule disassembly and rescue experiments in the presence of 1,6-hexanediol reinforce the concept that spermatocyte TACC3 spindle pole presence is not required for spindle pole microtubule assembly. Collectively, meiotic spermatocytes without a LISD localize TACC3 and cKAP5/chTOG exclusively at spindle poles to support meiotic spindle pole stabilization during male meiosis, different from either female meiosis or mitosis."
+    },
+    {
+      "pmid": "24003142",
+      "title": "Self-assembly and sorting of acentrosomal microtubules by TACC3 facilitate kinetochore capture during the mitotic spindle assembly.",
+      "authors": [
+        "Fu W",
+        "Chen H",
+        "Wang G",
+        "Luo J",
+        "Deng Z",
+        "Xin G",
+        "et al."
+      ],
+      "year": "2013",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.1312382110",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Blotting, Western",
+        "Fluorescent Antibody Technique",
+        "HeLa Cells",
+        "Humans",
+        "Kinetochores",
+        "Microtubule-Associated Proteins",
+        "Microtubules",
+        "RNA Interference",
+        "RNA, Small Interfering",
+        "Spindle Apparatus"
+      ],
+      "abstract": "Kinetochore capture by dynamic kinetochore microtubule fibers (K fibers) is essential for proper chromosome alignment and accurate distribution of the replicated genome during cell division. Although this capture process has been extensively studied, the mechanisms underlying the initiation of this process and the proper formation of the K fibers remain largely unknown. Here we show that transforming acidic coiled-coil-containing protein 3 (TACC3) is essential for kinetochore capture and proper K-fiber formation in HeLa cells. To observe the assembly of acentrosomal microtubules more clearly, the cells were released from higher concentrations of nocodazole into zero or lower concentrations. We find that small acentrosomal TACC3-microtubule aster formation near the kinetochores and binding of the asters with the kinetochores are the initial steps of the kinetochore capture by the acentrosomal microtubules, and that the sorting of kinetochore-captured acentrosomal microtubules with centrosomal microtubules leads to the capture of kinetochore by centrosomal microtubules from both spindle poles. We demonstrate that the sorting of the TACC3-associated microtubules with the centrosomal microtubules is a crucial process for spindle assembly and chromosome movement. These findings, which are also supported in the unperturbed mitosis without nocodazole, reveal a critical TACC3-dependent acentrosomal microtubule nucleation and sorting process to regulate kinetochore-microtubule connections and provide deep insight into the mechanisms of mitotic spindle assembly and chromosome alignment."
+    }
+  ]
+}

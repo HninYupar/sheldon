@@ -1,0 +1,134 @@
+{
+  "id": "r97",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (gain of function[tiab] OR gain-of-function[tiab] OR GOF[tiab] OR increased current[tiab] OR channel gain[tiab]) AND (epilepsy[tiab] OR encephalopathy[tiab] OR developmental[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "20 PubMed hits for 'CACNA1A[gene] AND (gain of function[tiab] OR gain-of-function[tiab] OR GOF[tiab] OR increased current[tiab] OR channel gain[tiab]) AND (epilepsy[tiab] OR encephalopathy[tiab] OR developmental[tiab])'; showing 10 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"gain-of-function\"[Title/Abstract] OR \"gain-of-function\"[Title/Abstract] OR \"GOF\"[Title/Abstract] OR \"increased current\"[Title/Abstract] OR \"channel gain\"[Title/Abstract]) AND (\"epilepsy\"[Title/Abstract] OR \"encephalopathy\"[Title/Abstract] OR \"developmental\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "first_author": "El Ghaleb Y",
+      "year": "2021",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39781574",
+      "title": "Exploring the association between familial hemiplegic migraine genes (CACNA1A, ATP1A2 and SCN1A) with migraine and epilepsy: A UK Biobank exome-wide association study.",
+      "first_author": "Staehr C",
+      "year": "2025",
+      "journal": "Cephalalgia",
+      "doi": "10.1177/03331024241306103",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33985586",
+      "title": "Calcium channelopathies and intellectual disability: a systematic review.",
+      "first_author": "Kessi M",
+      "year": "2021",
+      "journal": "Orphanet J Rare Dis",
+      "doi": "10.1186/s13023-021-01850-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "20816411",
+      "title": "Biological science of headache channels.",
+      "first_author": "Pietrobon D",
+      "year": "2010",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/S0072-9752(10)97005-X",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "18193639",
+      "title": "Calcium channelopathies: voltage-gated calcium channels.",
+      "first_author": "Adams PJ",
+      "year": "2007",
+      "journal": "Subcell Biochem",
+      "doi": "10.1007/978-1-4020-6191-2_8",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39637109",
+      "title": "High-Voltage-Activated Calcium Channels in Epilepsy: Lessons from Humans and Rodents.",
+      "first_author": "Noebels JL",
+      "year": "2024",
+      "journal": "",
+      "doi": "10.1093/med/9780197549469.003.0046",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31468518",
+      "title": "Both gain-of-function and loss-of-function de novo CACNA1A mutations cause severe developmental epileptic encephalopathies in the spectrum of Lennox-Gastaut syndrome.",
+      "first_author": "Jiang X",
+      "year": "2019",
+      "journal": "Epilepsia",
+      "doi": "10.1111/epi.16316",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38681799",
+      "title": "Developing a pathway to clinical trials for CACNA1A-related epilepsies: A patient organization perspective.",
+      "first_author": "Fox PM",
+      "year": "2024",
+      "journal": "Ther Adv Rare Dis",
+      "doi": "10.1177/26330040241245725",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

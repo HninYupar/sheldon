@@ -1,0 +1,133 @@
+{
+  "id": "r98",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (haploinsufficiency[tiab] OR loss of function[tiab] OR loss-of-function[tiab] OR LoF[tiab]) AND (epilepsy[tiab] OR encephalopathy[tiab] OR developmental[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "37 PubMed hits for 'CACNA1A[gene] AND (haploinsufficiency[tiab] OR loss of function[tiab] OR loss-of-function[tiab] OR LoF[tiab]) AND (epilepsy[tiab] OR encephalopathy[tiab] OR developmental[tiab])'; showing 10 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"haploinsufficiency\"[Title/Abstract] OR \"loss-of-function\"[Title/Abstract] OR \"loss-of-function\"[Title/Abstract] OR \"LoF\"[Title/Abstract]) AND (\"epilepsy\"[Title/Abstract] OR \"encephalopathy\"[Title/Abstract] OR \"developmental\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "first_author": "Hommersom MP",
+      "year": "2025",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36938367",
+      "title": "A neurodevelopmental disorder caused by a dysfunctional CACNA1A allele.",
+      "first_author": "Kramer AA",
+      "year": "2023",
+      "journal": "eNeurologicalSci",
+      "doi": "10.1016/j.ensci.2023.100456",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39781574",
+      "title": "Exploring the association between familial hemiplegic migraine genes (CACNA1A, ATP1A2 and SCN1A) with migraine and epilepsy: A UK Biobank exome-wide association study.",
+      "first_author": "Staehr C",
+      "year": "2025",
+      "journal": "Cephalalgia",
+      "doi": "10.1177/03331024241306103",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33985586",
+      "title": "Calcium channelopathies and intellectual disability: a systematic review.",
+      "first_author": "Kessi M",
+      "year": "2021",
+      "journal": "Orphanet J Rare Dis",
+      "doi": "10.1186/s13023-021-01850-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "31066025",
+      "title": "Heterozygous missense variants of SPTBN2 are a frequent cause of congenital cerebellar ataxia.",
+      "first_author": "Nicita F",
+      "year": "2019",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.13562",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20816411",
+      "title": "Biological science of headache channels.",
+      "first_author": "Pietrobon D",
+      "year": "2010",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/S0072-9752(10)97005-X",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25118028",
+      "title": "Malan syndrome: Sotos-like overgrowth with de novo NFIX sequence variants and deletions in six new patients and a review of the literature.",
+      "first_author": "Klaassens M",
+      "year": "2015",
+      "journal": "Eur J Hum Genet",
+      "doi": "10.1038/ejhg.2014.162",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41699918",
+      "title": "Tiered modelling of a CACNA1A D1634N mutation linked to ataxia, epilepsy and cognitive deficits.",
+      "first_author": "Niu J",
+      "year": "2026",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awag066",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

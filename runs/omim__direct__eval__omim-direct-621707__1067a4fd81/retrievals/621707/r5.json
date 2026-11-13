@@ -1,0 +1,467 @@
+{
+  "id": "r5",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (MAGIS OR immunodeficiency OR lymphoproliferation OR autoimmunity OR enteropathy OR EBV OR hypogammaglobulinemia)",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "37 PubMed hits for 'GNAI2[gene] AND (MAGIS OR immunodeficiency OR lymphoproliferation OR autoimmunity OR enteropathy OR EBV OR hypogammaglobulinemia)'; showing 37 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"MAGIS\"[All Fields] OR (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields]) OR (\"lymphoproliferation\"[All Fields] OR \"lymphoproliferations\"[All Fields]) OR (\"autoimmune\"[All Fields] OR \"autoimmunity\"[MeSH Terms] OR \"autoimmunity\"[All Fields] OR \"autoimmunities\"[All Fields] OR \"autoimmunization\"[All Fields] OR \"autoimmunizing\"[All Fields]) OR (\"enteropathies\"[All Fields] OR \"intestinal diseases\"[MeSH Terms] OR (\"intestinal\"[All Fields] AND \"diseases\"[All Fields]) OR \"intestinal diseases\"[All Fields] OR \"enteropathy\"[All Fields]) OR (\"herpesvirus 4, human\"[MeSH Terms] OR \"human herpesvirus 4\"[All Fields] OR \"ebv\"[All Fields]) OR (\"agammaglobulinemia\"[MeSH Terms] OR \"agammaglobulinemia\"[All Fields] OR \"hypogammaglobulinemias\"[All Fields] OR \"hypogammaglobulinaemia\"[All Fields] OR \"hypogammaglobulinemia\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36201743",
+      "title": "Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma.",
+      "first_author": "Thomas N",
+      "year": "2023",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2022016534",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "18598698",
+      "title": "TL1A (TNFSF15) regulates the development of chronic colitis by modulating both T-helper 1 and T-helper 17 activation.",
+      "first_author": "Takedatsu H",
+      "year": "2008",
+      "journal": "Gastroenterology",
+      "doi": "10.1053/j.gastro.2008.04.037",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "30836096",
+      "title": "GNAI1 and GNAI3 Reduce Colitis-Associated Tumorigenesis in Mice by Blocking IL6 Signaling and Down-regulating Expression of GNAI2.",
+      "first_author": "Li ZW",
+      "year": "2019",
+      "journal": "Gastroenterology",
+      "doi": "10.1053/j.gastro.2019.02.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23977324",
+      "title": "The loss of Gnai2 and Gnai3 in B cells eliminates B lymphocyte compartments and leads to a hyper-IgM like syndrome.",
+      "first_author": "Hwang IY",
+      "year": "2013",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0072596",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "10833069",
+      "title": "Absence of GNAI2 codon 179 oncogene mutations in inflammatory bowel disease.",
+      "first_author": "Zhang WJ",
+      "year": "2000",
+      "journal": "Inflamm Bowel Dis",
+      "doi": "10.1097/00054725-200005000-00006",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40145347",
+      "title": "Functional Genomics Using High-Throughput Methods for Salivary Analysis in Sj\u00f6gren's Disease.",
+      "first_author": "Florezi GP",
+      "year": "2025",
+      "journal": "Oral Dis",
+      "doi": "10.1111/odi.15328",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40819057",
+      "title": "A comprehensive in silico and invitro analysis revealed the diagnostic, prognostic and therapeutic potential of GNAI family genes in colon adenocarcinoma (COAD).",
+      "first_author": "Wang B",
+      "year": "2025",
+      "journal": "Hereditas",
+      "doi": "10.1186/s41065-025-00523-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37241967",
+      "title": "Proteomic Signature of Extracellular Vesicles Associated with Colorectal Cancer.",
+      "first_author": "Soloveva N",
+      "year": "2023",
+      "journal": "Molecules",
+      "doi": "10.3390/molecules28104227",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39273699",
+      "title": "Key Disease-Related Genes and Immune Cell Infiltration Landscape in Inflammatory Bowel Disease: A Bioinformatics Investigation.",
+      "first_author": "Alghamdi KS",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25179751",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26854024",
+      "title": "JAK-STAT and G-protein-coupled receptor signaling pathways are frequently altered in epitheliotropic intestinal T-cell lymphoma.",
+      "first_author": "Nairism\u00e4gi ML",
+      "year": "2016",
+      "journal": "Leukemia",
+      "doi": "10.1038/leu.2016.13",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19487293",
+      "title": "Intestinal mucosal inflammation leads to systemic genotoxicity in mice.",
+      "first_author": "Westbrook AM",
+      "year": "2009",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-08-4416",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16924491",
+      "title": "Formation of B and T cell subsets require the cannabinoid receptor CB2.",
+      "first_author": "Ziring D",
+      "year": "2006",
+      "journal": "Immunogenetics",
+      "doi": "10.1007/s00251-006-0138-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "12574334",
+      "title": "B cell developmental requirement for the G alpha i2 gene.",
+      "first_author": "Dalwadi H",
+      "year": "2003",
+      "journal": "J Immunol",
+      "doi": "10.4049/jimmunol.170.4.1707",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "26232433",
+      "title": "B Lymphocyte-Specific Loss of Ric-8A Results in a G\u03b1 Protein Deficit and Severe Humoral Immunodeficiency.",
+      "first_author": "Boularan C",
+      "year": "2015",
+      "journal": "J Immunol",
+      "doi": "10.4049/jimmunol.1500523",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "28315775",
+      "title": "Assessment of histone tail modifications and transcriptional profiling during colon cancer progression reveals a global decrease in H3K4me3 activity.",
+      "first_author": "Triff K",
+      "year": "2017",
+      "journal": "Biochim Biophys Acta Mol Basis Dis",
+      "doi": "10.1016/j.bbadis.2017.03.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "21436315",
+      "title": "Small intestine CD11c+ CD8+ T cells suppress CD4+ T cell-induced immune colitis.",
+      "first_author": "Fujiwara D",
+      "year": "2011",
+      "journal": "Am J Physiol Gastrointest Liver Physiol",
+      "doi": "10.1152/ajpgi.00032.2010",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17490434",
+      "title": "Aberrant T-cell ontogeny and defective thymocyte and colonic T-cell chemotactic migration in colitis-prone Galphai2-deficient mice.",
+      "first_author": "Elgbratt K",
+      "year": "2007",
+      "journal": "Immunology",
+      "doi": "10.1111/j.1365-2567.2007.02629.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30552676",
+      "title": "CXCL2/CXCR2 axis induces cancer stem cell characteristics in CPT-11-resistant LoVo colon cancer cells via G\u03b1i-2 and G\u03b1q/11.",
+      "first_author": "Chen MC",
+      "year": "2019",
+      "journal": "J Cell Physiol",
+      "doi": "10.1002/jcp.27891",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11742190",
+      "title": "Antibody response to dietary and autoantigens in G alpha i2-deficient mice.",
+      "first_author": "Uhlig HH",
+      "year": "2001",
+      "journal": "Eur J Gastroenterol Hepatol",
+      "doi": "10.1097/00042737-200112000-00005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15879107",
+      "title": "Impaired TGF-beta responses in peripheral T cells of G alpha i2-/- mice.",
+      "first_author": "Wu JY",
+      "year": "2005",
+      "journal": "J Immunol",
+      "doi": "10.4049/jimmunol.174.10.6122",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "16052630",
+      "title": "Long-term treatment with anti-alpha 4 integrin antibodies aggravates colitis in G alpha i2-deficient mice.",
+      "first_author": "Bjursten M",
+      "year": "2005",
+      "journal": "Eur J Immunol",
+      "doi": "10.1002/eji.200526022",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22962436",
+      "title": "Interplay between T(h)1 and T(h)17 effector T-cell pathways in the pathogenesis of spontaneous colitis and colon cancer in the G\u03b1i2-deficient mouse.",
+      "first_author": "G\u00f6tlind YY",
+      "year": "2013",
+      "journal": "Int Immunol",
+      "doi": "10.1093/intimm/dxs089",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21482794",
+      "title": "Severity of innate immune-mediated colitis is controlled by the cytokine deficiency-induced colitis susceptibility-1 (Cdcs1) locus.",
+      "first_author": "Ermann J",
+      "year": "2011",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1104234108",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21966415",
+      "title": "CD4+FoxP3+ regulatory T cells from G\u03b1i2-/- mice are functionally active in vitro, but do not prevent colitis.",
+      "first_author": "G\u00f6tlind YY",
+      "year": "2011",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0025073",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18617557",
+      "title": "Colitis immunoregulation by CD8+ T cell requires T cell cytotoxicity and B cell peptide antigen presentation.",
+      "first_author": "McPherson M",
+      "year": "2008",
+      "journal": "Am J Physiol Gastrointest Liver Physiol",
+      "doi": "10.1152/ajpgi.90221.2008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "14565934",
+      "title": "TCR-mediated hyper-responsiveness of autoimmune Galphai2(-/-) mice is an intrinsic na\u00efve CD4(+) T cell disorder selective for the Galphai2 subunit.",
+      "first_author": "Huang TT",
+      "year": "2003",
+      "journal": "Int Immunol",
+      "doi": "10.1093/intimm/dxg135",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "19037851",
+      "title": "Alterations in myeloid dendritic cell innate immune responses in the Galphai2-deficient mouse model of colitis.",
+      "first_author": "Pe\u00f1a JA",
+      "year": "2009",
+      "journal": "Inflamm Bowel Dis",
+      "doi": "10.1002/ibd.20744",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28323866",
+      "title": "Elevated fecal peptidase D at onset of colitis in Galphai2-/- mice, a mouse model of IBD.",
+      "first_author": "Bergemalm D",
+      "year": "2017",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0174275",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "15633125",
+      "title": "A major quantitative trait locus on mouse chromosome 3 is involved in disease susceptibility in different colitis models.",
+      "first_author": "Borm ME",
+      "year": "2005",
+      "journal": "Gastroenterology",
+      "doi": "10.1053/j.gastro.2004.10.044",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11947921",
+      "title": "Identification of candidate genes for Sj\u00f6gren's syndrome using MRL/lpr mouse model of Sj\u00f6gren's syndrome and cDNA microarray analysis.",
+      "first_author": "Azuma T",
+      "year": "2002",
+      "journal": "Immunol Lett",
+      "doi": "10.1016/s0165-2478(01)00344-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "7663509",
+      "title": "Ulcerative colitis and adenocarcinoma of the colon in G alpha i2-deficient mice.",
+      "first_author": "Rudolph U",
+      "year": "1995",
+      "journal": "Nat Genet",
+      "doi": "10.1038/ng0695-143",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "22590596",
+      "title": "A quantitative study of the mechanisms behind thymic atrophy in G\u03b1i2-deficient mice during colitis development.",
+      "first_author": "Elgbratt K",
+      "year": "2012",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0036726",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15684084",
+      "title": "Mesenteric B cells centrally inhibit CD4+ T cell colitis through interaction with regulatory T cell subsets.",
+      "first_author": "Wei B",
+      "year": "2005",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.0409449102",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "18075517",
+      "title": "RIG-I has guts: identification of a role for RIG-I in colitis development.",
+      "first_author": "Solis M",
+      "year": "2007",
+      "journal": "Cell Res",
+      "doi": "10.1038/cr.2007.107",
+      "pubtype": [
+        "Journal Article",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "15644120",
+      "title": "Dietary antigen-specific T-cell responses: switch from an interleukin-10-dominated response in normal mice to a T-helper 1 cytokine profile in Galphai2-deficient mice prior to colitis.",
+      "first_author": "Bjursten M",
+      "year": "2005",
+      "journal": "Scand J Immunol",
+      "doi": "10.1111/j.0300-9475.2005.01535.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

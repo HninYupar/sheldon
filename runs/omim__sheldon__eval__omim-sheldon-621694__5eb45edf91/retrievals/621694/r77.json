@@ -1,0 +1,248 @@
+{
+  "id": "r77",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] OR PI31[tiab] OR (PSMF1 AND parkinsonism) OR (PSMF1 AND Parkinson*[tiab])",
+    "max_results": 20,
+    "sort": "pub_date"
+  },
+  "summary": "96 PubMed hits for 'PSMF1[gene] OR PI31[tiab] OR (PSMF1 AND parkinsonism) OR (PSMF1 AND Parkinson*[tiab])'; showing 20 (PubMed read it as: \"PSMF1\"[All Fields] OR \"PI31\"[Title/Abstract] OR (\"PSMF1\"[All Fields] AND (\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR \"parkinson s\"[All Fields] OR \"parkinsons\"[All Fields] OR \"parkinson\"[All Fields] OR \"parkinsonian disorders\"[MeSH Terms] OR (\"parkinsonian\"[All Fields] AND \"disorders\"[All Fields]) OR \"parkinsonian disorders\"[All Fields] OR \"parkinsonism\"[All Fields] OR \"parkinsonisms\"[All Fields] OR \"parkinsons s\"[All Fields])) OR (\"PSMF1\"[All Fields] AND \"parkinson*\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42983429",
+      "title": "The TNKS/PI31-proteasome axis as a central node in TDP-43 neuropathies.",
+      "first_author": "Bubphachat P",
+      "year": "2026",
+      "journal": "J Biomed Sci",
+      "doi": "10.1186/s12929-026-01296-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42945227",
+      "title": "Transcriptomic Profiling of PBMCs via Bulk RNA-Sequencing in Posner-Schlossman Syndrome Reveals Immune Dysregulation and Altered Viral Response.",
+      "first_author": "Peng SM",
+      "year": "2026",
+      "journal": "Ocul Immunol Inflamm",
+      "doi": "10.1080/09273948.2026.2746986",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "42485378",
+      "title": "Blm10 and PI31 comprise a failsafe mechanism for proteasome inhibition.",
+      "first_author": "Fung D",
+      "year": "2026",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2611708123",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42363684",
+      "title": "FMRP-Mediated Proteasome Regulation: A Novel Mechanism in ALS Pathology.",
+      "first_author": "Majumder P",
+      "year": "2026",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.202600563R",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41796444",
+      "title": "Magical moments in protease biology: proteasome autocatalytic activation and PI31-mediated inhibition.",
+      "first_author": "Rajakumar T",
+      "year": "2026",
+      "journal": "Trends Biochem Sci",
+      "doi": "10.1016/j.tibs.2026.02.003",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "first_author": "Rodriguez JA",
+      "year": "2025",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "40337847",
+      "title": "PI31 is a positive regulator of 20S immunoproteasome assembly.",
+      "first_author": "Wang J",
+      "year": "2025",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.263887",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39868238",
+      "title": "PI31 is a positive regulator of 20S immunoproteasome assembly.",
+      "first_author": "Wang J",
+      "year": "2025",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2025.01.15.633194",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "39621430",
+      "title": "Dynll1-PI31 Interaction Enhances Proteolysis Through the Proteasome, Representing a Novel Therapeutic Target for INF2-Related FSGS.",
+      "first_author": "Williquett J",
+      "year": "2025",
+      "journal": "Kidney360",
+      "doi": "10.34067/KID.0000000659",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39427606",
+      "title": "Exploring a novel four-gene system as a diagnostic and prognostic biomarker for triple-negative breast cancer, using clinical variables.",
+      "first_author": "Ali F",
+      "year": "2024",
+      "journal": "Comput Biol Chem",
+      "doi": "10.1016/j.compbiolchem.2024.108247",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38466799",
+      "title": "Study of an FBXO7 patient mutation reveals Fbxo7 and PI31 co-regulate proteasomes and mitochondria.",
+      "first_author": "Al Rawi S",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17114",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38577872",
+      "title": "Differential Interactions of the Proteasome Inhibitor PI31 with Constitutive and Immuno-20S Proteasomes.",
+      "first_author": "Wang J",
+      "year": "2024",
+      "journal": "Biochemistry",
+      "doi": "10.1021/acs.biochem.3c00707",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38091293",
+      "title": "Rational design of proteasome inhibitors based on the structure of the endogenous inhibitor PI31/Fub1.",
+      "first_author": "Velez B",
+      "year": "2023",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2308417120",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

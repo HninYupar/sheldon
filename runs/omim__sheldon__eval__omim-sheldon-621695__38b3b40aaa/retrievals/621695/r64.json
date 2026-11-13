@@ -1,0 +1,250 @@
+{
+  "id": "r64",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"arthrogryposis multiplex congenita 8\" OR AMC8 OR \"arthrogryposis multiplex congenita, neurogenic type\")",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "484 PubMed hits for '(\"arthrogryposis multiplex congenita 8\" OR AMC8 OR \"arthrogryposis multiplex congenita, neurogenic type\")'; showing 20 (PubMed read it as: ((\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR (\"arthrogryposis\"[All Fields] AND \"multiplex\"[All Fields] AND \"congenita\"[All Fields]) OR \"arthrogryposis multiplex congenita\"[All Fields]) AND \"8\"[All Fields]) OR \"AMC8\"[All Fields] OR \"arthrogryposis multiplex congenita neurogenic type\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "24459070",
+      "title": "Amyoplasia revisited.",
+      "first_author": "Hall JG",
+      "year": "2014",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.36395",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20301516",
+      "title": "Cockayne Syndrome.",
+      "first_author": "Adam MP",
+      "year": "1993",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41300731",
+      "title": "PMP22-Related Neuropathies: A Systematic Review.",
+      "first_author": "Cesaroni CA",
+      "year": "2025",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes16111279",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "3366895",
+      "title": "Arthrogryposis.",
+      "first_author": "Herring JA",
+      "year": "1988",
+      "journal": "J Pediatr Orthop",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35696452",
+      "title": "The gain of function SCN1A disorder spectrum: novel epilepsy phenotypes and therapeutic implications.",
+      "first_author": "Brunklaus A",
+      "year": "2022",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awac210",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40048676",
+      "title": "Genotype-Phenotype Landscape of NALCN and UNC80-Related Disorders.",
+      "first_author": "Parra-D\u00edaz P",
+      "year": "2025",
+      "journal": "Neurology",
+      "doi": "10.1212/WNL.0000000000213429",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37147532",
+      "title": "[Thyroid Eye Disease-Compressive Optic Neuropathy].",
+      "first_author": "Garip Kuebler A",
+      "year": "2023",
+      "journal": "Ophthalmologie",
+      "doi": "10.1007/s00347-023-01865-x",
+      "pubtype": [
+        "Observational Study",
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36757831",
+      "title": "The clinical and genetic spectrum of autosomal-recessive TOR1A-related disorders.",
+      "first_author": "Saffari A",
+      "year": "2023",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad039",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32040062",
+      "title": "Patient-reported Outcomes in Arthrogryposis.",
+      "first_author": "Wall LB",
+      "year": "2020",
+      "journal": "J Pediatr Orthop",
+      "doi": "10.1097/BPO.0000000000001527",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37186601",
+      "title": "The emerging spectrum of fetal acetylcholine receptor antibody-related disorders (FARAD).",
+      "first_author": "Allen NM",
+      "year": "2023",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad153",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39666198",
+      "title": "Literature review of clinical analysis of hereditary neuropathy with liability to pressure palsies.",
+      "first_author": "Chen L",
+      "year": "2024",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-024-12839-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "2797850",
+      "title": "Arthrogryposis multiplex congenita.",
+      "first_author": "Bender LH",
+      "year": "1989",
+      "journal": "Orthop Nurs",
+      "doi": "10.1097/00006416-198909000-00009",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "1157389",
+      "title": "Trisomy 8 syndrome.",
+      "first_author": "Lai CC",
+      "year": "1975",
+      "journal": "Clin Orthop Relat Res",
+      "doi": "",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40580892",
+      "title": "Development of a versatile deep hyperthermia treatment planning tool.",
+      "first_author": "Drizdal T",
+      "year": "2025",
+      "journal": "Phys Med",
+      "doi": "10.1016/j.ejmp.2025.105035",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40219868",
+      "title": "Biallelic Variant, c.644-13_644-9del in UNC50 Is Associated With Congenital Myasthenia Syndrome.",
+      "first_author": "Shravya MS",
+      "year": "2025",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.64086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35068072",
+      "title": "COG6-CDG: Novel variants and novel malformation.",
+      "first_author": "Cirnigliaro L",
+      "year": "2022",
+      "journal": "Birth Defects Res",
+      "doi": "10.1002/bdr2.1981",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38548315",
+      "title": "Subcellular localisation of truncated MAGEL2 proteins: insight into the molecular pathology of Schaaf-Yang syndrome.",
+      "first_author": "Centeno-Pla M",
+      "year": "2024",
+      "journal": "J Med Genet",
+      "doi": "10.1136/jmg-2024-109898",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "4758131",
+      "title": "Arythenoidectomy in children.",
+      "first_author": "Cohen SR",
+      "year": "1973",
+      "journal": "Laryngoscope",
+      "doi": "10.1288/00005537-197308000-00013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28317099",
+      "title": "Mutations in ERGIC1 cause Arthrogryposis multiplex congenita, neuropathic type.",
+      "first_author": "Reinstein E",
+      "year": "2018",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.13018",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33497358",
+      "title": "Dysregulation of the NRG1/ERBB pathway causes a developmental disorder with gastrointestinal dysmotility in humans.",
+      "first_author": "Le TL",
+      "year": "2021",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI145837",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

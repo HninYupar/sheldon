@@ -1,0 +1,12 @@
+{
+  "id": "r59",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"neurodevelopmental disorder with seizures and cerebellar hypoplasia\"[tiab] OR NEDSCH[tiab] OR \"phenotype MIM\"[tiab] OR 621710[tiab]) AND ATG12",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '(\"neurodevelopmental disorder with seizures and cerebellar hypoplasia\"[tiab] OR NEDSCH[tiab] OR \"phenotype MIM\"[tiab] OR 621710[tiab]) AND ATG12'; showing 0 (PubMed read it as: (\"neurodevelopmental disorder with seizures and cerebellar hypoplasia\"[tiab] OR NEDSCH[tiab] OR \"phenotype MIM\"[tiab] OR 621710[tiab]) AND ATG12)",
+  "ok": true,
+  "evidence": []
+}

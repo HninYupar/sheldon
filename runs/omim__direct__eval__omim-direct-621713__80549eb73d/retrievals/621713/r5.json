@@ -1,0 +1,61 @@
+{
+  "id": "r5",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[tiab] AND (mutation OR variant OR biallelic OR homozygous OR compound heterozygous) AND (infertility OR oocyte OR zygote OR embryo OR early embryonic arrest OR fertilization failure)",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "4 PubMed hits for 'TACC3[tiab] AND (mutation OR variant OR biallelic OR homozygous OR compound heterozygous) AND (infertility OR oocyte OR zygote OR embryo OR early embryonic arrest OR fertilization failure)'; showing 4 (PubMed read it as: \"TACC3\"[Title/Abstract] AND (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields] OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) OR (\"bialleleic\"[All Fields] OR \"biallelic\"[All Fields] OR \"biallelically\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields]))) AND (\"infertiles\"[All Fields] OR \"infertilities\"[All Fields] OR \"infertility\"[MeSH Terms] OR \"infertility\"[All Fields] OR \"infertile\"[All Fields] OR (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) OR (\"zygote\"[MeSH Terms] OR \"zygote\"[All Fields] OR \"zygotes\"[All Fields] OR \"zygote s\"[All Fields] OR \"zygotic\"[All Fields] OR \"zygotically\"[All Fields]) OR (\"embryo s\"[All Fields] OR \"embryoes\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryo\"[All Fields] OR \"embryos\"[All Fields]) OR (\"early\"[All Fields] AND (\"embryonal\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryonic\"[All Fields] OR \"embryonically\"[All Fields] OR \"embryonics\"[All Fields]) AND (\"arrestant\"[All Fields] OR \"arrestants\"[All Fields] OR \"arresting\"[All Fields] OR \"arrestment\"[All Fields] OR \"arrests\"[All Fields] OR \"heart arrest\"[MeSH Terms] OR (\"heart\"[All Fields] AND \"arrest\"[All Fields]) OR \"heart arrest\"[All Fields] OR \"arrest\"[All Fields] OR \"arrested\"[All Fields])) OR ((\"fertilisability\"[All Fields] OR \"fertilisable\"[All Fields] OR \"fertilisation\"[All Fields] OR \"fertilization\"[MeSH Terms] OR \"fertilization\"[All Fields] OR \"fertilisations\"[All Fields] OR \"fertilise\"[All Fields] OR \"fertilised\"[All Fields] OR \"fertiliser\"[All Fields] OR \"fertilizers\"[Pharmacological Action] OR \"fertilizers\"[Supplementary Concept] OR \"fertilizers\"[All Fields] OR \"fertilizer\"[All Fields] OR \"fertilizers\"[MeSH Terms] OR \"fertilisers\"[All Fields] OR \"fertilises\"[All Fields] OR \"fertilising\"[All Fields] OR \"fertilizations\"[All Fields] OR \"fertilize\"[All Fields] OR \"fertilized\"[All Fields] OR \"fertilizes\"[All Fields] OR \"fertilizing\"[All Fields]) AND (\"failure\"[All Fields] OR \"failures\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17359303",
+      "title": "TACC3 is required for the proper mitosis of sclerotome mesenchymal cells during formation of the axial skeleton.",
+      "first_author": "Yao R",
+      "year": "2007",
+      "journal": "Cancer Sci",
+      "doi": "10.1111/j.1349-7006.2007.00433.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

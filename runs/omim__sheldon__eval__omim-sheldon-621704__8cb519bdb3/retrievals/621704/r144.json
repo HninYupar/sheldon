@@ -1,0 +1,24 @@
+{
+  "id": "r144",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "BORCS5[gene] AND (preprint[tiab] OR medRxiv[tiab] OR J Clin Invest[jour] OR Journal of Clinical Investigation[jour])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'BORCS5[gene] AND (preprint[tiab] OR medRxiv[tiab] OR J Clin Invest[jour] OR Journal of Clinical Investigation[jour])'; showing 1 (PubMed read it as: \"BORCS5\"[All Fields] AND (\"preprint\"[Title/Abstract] OR \"medRxiv\"[Title/Abstract] OR \"j clin invest\"[Journal] OR \"j clin invest\"[Journal]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42012897",
+      "title": "Pathogenic variants in BORCS5 cause a spectrum of neurodevelopmental and neurodegenerative disorders with lysosomal dysfunction.",
+      "first_author": "Mencacci NE",
+      "year": "2026",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI195336",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

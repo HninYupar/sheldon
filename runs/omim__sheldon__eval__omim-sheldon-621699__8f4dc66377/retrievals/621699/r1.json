@@ -1,0 +1,248 @@
+{
+  "id": "r1",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (immunodeficiency OR phenotype OR patient OR patients OR case report)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "63 PubMed hits for 'SIT1[gene] AND (immunodeficiency OR phenotype OR patient OR patients OR case report)'; showing 20 (PubMed read it as: \"SIT1\"[All Fields] AND (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields] OR (\"phenotype\"[MeSH Terms] OR \"phenotype\"[All Fields] OR \"phenotypes\"[All Fields] OR \"phenotyped\"[All Fields] OR \"phenotypic\"[All Fields] OR \"phenotypical\"[All Fields] OR \"phenotypically\"[All Fields] OR \"phenotyping\"[All Fields] OR \"phenotypings\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"case reports\"[Publication Type] OR \"case report\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19184091",
+      "title": "Kidney amino acid transport.",
+      "first_author": "Verrey F",
+      "year": "2009",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-009-0638-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40873928",
+      "title": "Role of the putative sit1 gene in normal germination of spores and virulence of the Mucor lusitanicus.",
+      "first_author": "V\u00e1g\u00f3 B",
+      "year": "2025",
+      "journal": "Microb Cell",
+      "doi": "10.15698/mic2025.08.856",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36675674",
+      "title": "Discovery and Validation of a SIT1-Related Prognostic Signature Associated with Immune Infiltration in Cutaneous Melanoma.",
+      "first_author": "Jia M",
+      "year": "2022",
+      "journal": "J Pers Med",
+      "doi": "10.3390/jpm13010013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33140827",
+      "title": "ACE2 and gut amino acid transport.",
+      "first_author": "Camargo SMR",
+      "year": "2020",
+      "journal": "Clin Sci (Lond)",
+      "doi": "10.1042/CS20200477",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34969185",
+      "title": "SIT1 transporter as a potential novel target in treatment of COVID-19.",
+      "first_author": "Semiz S",
+      "year": "2021",
+      "journal": "Biomol Concepts",
+      "doi": "10.1515/bmc-2021-0017",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40332667",
+      "title": "Identifying Immune Response Protein Biomarkers in Parkinson's-Related Cognitive Impairment and Depression.",
+      "first_author": "Su Q",
+      "year": "2025",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-025-05022-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30160974",
+      "title": "Intestinal IMINO transporter SIT1 is not expressed in human newborns.",
+      "first_author": "Meier C",
+      "year": "2018",
+      "journal": "Am J Physiol Gastrointest Liver Physiol",
+      "doi": "10.1152/ajpgi.00318.2017",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26929401",
+      "title": "Identification of ferrichrome- and ferrioxamine B-mediated iron uptake by Aspergillus fumigatus.",
+      "first_author": "Park YS",
+      "year": "2016",
+      "journal": "Biochem J",
+      "doi": "10.1042/BCJ20160066",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "8723457",
+      "title": "Ciprofloxacin pharmacokinetics in burn patients.",
+      "first_author": "Garrelts JC",
+      "year": "1996",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.40.5.1153",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42695863",
+      "title": "Identification of Immune Response-Related Proteomic Biomarkers in Moyamoya Disease Using Serum Olink Proteomics.",
+      "first_author": "Zhang Z",
+      "year": "2026",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/acs.jproteome.6c00310",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41033605",
+      "title": "Identification of Distinct Subtypes in Immune Tolerance after Hematopoietic Cell Transplantation Using the Prospective ABLE1.0 Pediatric Study Cohort.",
+      "first_author": "Ng B",
+      "year": "2026",
+      "journal": "Transplant Cell Ther",
+      "doi": "10.1016/j.jtct.2025.09.034",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42838996",
+      "title": "Integrated spatial and single-cell transcriptomics uncover IFI6\u207a regulatory T-cells and SPP1\u207a macrophages immunosuppressive niches in colorectal cancer.",
+      "first_author": "Miroszewska D",
+      "year": "2026",
+      "journal": "Br J Cancer",
+      "doi": "10.1038/s41416-026-03637-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36135634",
+      "title": "GR-2397: Review of the Novel Siderophore-like Antifungal Agent for the Treatment of Invasive Aspergillosis.",
+      "first_author": "Shaw KJ",
+      "year": "2022",
+      "journal": "J Fungi (Basel)",
+      "doi": "10.3390/jof8090909",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24821847",
+      "title": "Congenital transmission of multidrug-resistant tuberculosis.",
+      "first_author": "Espiritu N",
+      "year": "2014",
+      "journal": "Am J Trop Med Hyg",
+      "doi": "10.4269/ajtmh.13-0002",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36010233",
+      "title": "Tuberculosis in Poland: Epidemiological and Molecular Analysis during the COVID-19 Pandemic.",
+      "first_author": "Borkowska-Tatar D",
+      "year": "2022",
+      "journal": "Diagnostics (Basel)",
+      "doi": "10.3390/diagnostics12081883",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38572551",
+      "title": "Endurance training improves oxygen uptake/demand mismatch, metabolic flexibility and recovery in patients with sickle cell disease.",
+      "first_author": "Mougin L",
+      "year": "2024",
+      "journal": "Haematologica",
+      "doi": "10.3324/haematol.2023.284474",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24912522",
+      "title": "Drug resistance and molecular epidemiology of Mycobacterium tuberculosis in Mexico: a systematic review.",
+      "first_author": "Flores-Trevi\u00f1o S",
+      "year": "2014",
+      "journal": "Salud Publica Mex",
+      "doi": "10.21149/spm.v56i1.7324",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    }
+  ]
+}

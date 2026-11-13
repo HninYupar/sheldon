@@ -1,0 +1,255 @@
+{
+  "id": "r28",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "36395215",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "93 'similar' links for PMID 36395215; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "26045437",
+      "title": "Human oocytes. Error-prone chromosome-mediated spindle assembly favors chromosome segregation defects in human oocytes.",
+      "first_author": "Holubcov\u00e1 Z",
+      "year": "2015",
+      "journal": "Science",
+      "doi": "10.1126/science.aaa9529",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32461611",
+      "title": "Prc1-rich kinetochores are required for error-free acentrosomal spindle bipolarization during meiosis I in mouse oocytes.",
+      "first_author": "Yoshida S",
+      "year": "2020",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-020-16488-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20079731",
+      "title": "NEDD1 is crucial for meiotic spindle stability and accurate chromosome segregation in mammalian oocytes.",
+      "first_author": "Ma W",
+      "year": "2010",
+      "journal": "Dev Biol",
+      "doi": "10.1016/j.ydbio.2010.01.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24003142",
+      "title": "Self-assembly and sorting of acentrosomal microtubules by TACC3 facilitate kinetochore capture during the mitotic spindle assembly.",
+      "first_author": "Fu W",
+      "year": "2013",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1312382110",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38413710",
+      "title": "Male meiotic spindle poles are stabilized by TACC3 and cKAP5/chTOG differently from female meiotic or somatic mitotic spindles in mice.",
+      "first_author": "Simerly C",
+      "year": "2024",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-024-55376-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36440837",
+      "title": "Multi-Photon Laser Ablation of Cytoplasmic Microtubule Organizing Centers in Mouse Oocytes.",
+      "first_author": "Londo\u00f1o-V\u00e1squez D",
+      "year": "2022",
+      "journal": "J Vis Exp",
+      "doi": "10.3791/64439",
+      "pubtype": [
+        "Journal Article",
+        "Video-Audio Media",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "17693257",
+      "title": "Self-organization of MTOCs replaces centrosome function during acentrosomal spindle assembly in live mouse oocytes.",
+      "first_author": "Schuh M",
+      "year": "2007",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2007.06.025",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21173113",
+      "title": "HURP permits MTOC sorting for robust meiotic spindle bipolarity, similar to extra centrosome clustering in cancer cells.",
+      "first_author": "Breuer M",
+      "year": "2010",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.201005065",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32865279",
+      "title": "Cdk1 negatively regulates the spindle localization of Prc1 in mouse oocytes.",
+      "first_author": "Nishiyama S",
+      "year": "2020",
+      "journal": "Genes Cells",
+      "doi": "10.1111/gtc.12803",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28177917",
+      "title": "Cytoskeleton-associated protein 5 and clathrin heavy chain binding regulates spindle assembly in mouse oocytes.",
+      "first_author": "Lu A",
+      "year": "2017",
+      "journal": "Oncotarget",
+      "doi": "10.18632/oncotarget.15097",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26485537",
+      "title": "Meiotic Spindle Assessment in Mouse Oocytes by siRNA-mediated Silencing.",
+      "first_author": "Baumann C",
+      "year": "2015",
+      "journal": "J Vis Exp",
+      "doi": "10.3791/53586",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Video-Audio Media"
+      ]
+    },
+    {
+      "pmid": "25658810",
+      "title": "Multiple requirements of PLK1 during mouse oocyte maturation.",
+      "first_author": "Solc P",
+      "year": "2015",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0116783",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20948319",
+      "title": "p38\u03b1 MAPK is a MTOC-associated protein regulating spindle assembly, spindle length and accurate chromosome segregation during mouse oocyte meiotic maturation.",
+      "first_author": "Ou XH",
+      "year": "2010",
+      "journal": "Cell Cycle",
+      "doi": "10.4161/cc.9.20.13389",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25266793",
+      "title": "Depletion of pericentrin in mouse oocytes disrupts microtubule organizing center function and meiotic spindle organization.",
+      "first_author": "Ma W",
+      "year": "2014",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.22422",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "26147444",
+      "title": "A three-step MTOC fragmentation mechanism facilitates bipolar spindle assembly in mouse oocytes.",
+      "first_author": "Clift D",
+      "year": "2015",
+      "journal": "Nat Commun",
+      "doi": "10.1038/ncomms8217",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36732633",
+      "title": "Actin-driven chromosome clustering facilitates fast and complete chromosome capture in mammalian oocytes.",
+      "first_author": "Harasimov K",
+      "year": "2023",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/s41556-022-01082-9",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39172836",
+      "title": "Mechanisms of minor pole-mediated spindle bipolarization in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.ado1022",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30195030",
+      "title": "Nucleoporin35 is a novel microtubule associated protein functioning in oocyte meiotic spindle architecture.",
+      "first_author": "Chen F",
+      "year": "2018",
+      "journal": "Exp Cell Res",
+      "doi": "10.1016/j.yexcr.2018.09.004",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29133801",
+      "title": "Chromosome segregation occurs by microtubule pushing in oocytes.",
+      "first_author": "Laband K",
+      "year": "2017",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-017-01539-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "14499655",
+      "title": "XMAP215, XKCM1, NuMA, and cytoplasmic dynein are required for the assembly and organization of the transient microtubule array during the maturation of Xenopus oocytes.",
+      "first_author": "Becker BE",
+      "year": "2003",
+      "journal": "Dev Biol",
+      "doi": "10.1016/s0012-1606(03)00330-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ]
+}

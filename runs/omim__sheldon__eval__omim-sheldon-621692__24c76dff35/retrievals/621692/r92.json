@@ -1,0 +1,138 @@
+{
+  "id": "r92",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(CACNA1A[gene] AND (\"gain of function\"[tiab] OR GoF[tiab] OR \"gain-of-function\"[tiab] OR missense[tiab])) AND (epilepsy[tiab] OR encephalopathy[tiab] OR patient[tiab] OR case[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "87 PubMed hits for '(CACNA1A[gene] AND (\"gain of function\"[tiab] OR GoF[tiab] OR \"gain-of-function\"[tiab] OR missense[tiab])) AND (epilepsy[tiab] OR encephalopathy[tiab] OR patient[tiab] OR case[tiab])'; showing 10 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"gain-of-function\"[Title/Abstract] OR \"GoF\"[Title/Abstract] OR \"gain-of-function\"[Title/Abstract] OR \"missense\"[Title/Abstract]) AND (\"epilepsy\"[Title/Abstract] OR \"encephalopathy\"[Title/Abstract] OR \"patient\"[Title/Abstract] OR \"case\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "first_author": "El Ghaleb Y",
+      "year": "2021",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38743163",
+      "title": "CACNA1A variant associated with generalized dystonia.",
+      "first_author": "Rinaldi D",
+      "year": "2024",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-024-07592-8",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41370402",
+      "title": "Characterization of the functional and clinical impacts of CACNA1A missense variants found in neurodevelopmental disorders.",
+      "first_author": "Kurganov E",
+      "year": "2025",
+      "journal": "Sci Transl Med",
+      "doi": "10.1126/scitranslmed.adr0024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42094580",
+      "title": "In vivo characterization of a patient CACNA1A variant reveals paradoxical synaptic effects.",
+      "first_author": "Krawchuk MB",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.04.27.721138",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "21492892",
+      "title": "[Hereditary episodic ataxia].",
+      "first_author": "Riant F",
+      "year": "2011",
+      "journal": "Rev Neurol (Paris)",
+      "doi": "10.1016/j.neurol.2010.10.016",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37243399",
+      "title": "Functional characterization of a novel PRRT2 variant found in a Portuguese patient with hemiplegic migraine.",
+      "first_author": "Dias A",
+      "year": "2023",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14379",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28431595",
+      "title": "Novel missense variant of CACNA1A gene: A case report of a family with episodic ataxia type 2.",
+      "first_author": "Siv\u00e1k \u0160",
+      "year": "2017",
+      "journal": "J Neurol Sci",
+      "doi": "10.1016/j.jns.2017.03.008",
+      "pubtype": [
+        "Case Reports",
+        "Letter",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24707016",
+      "title": "Two novel SCN1A mutations identified in families with familial hemiplegic migraine.",
+      "first_author": "Weller CM",
+      "year": "2014",
+      "journal": "Cephalalgia",
+      "doi": "10.1177/0333102414529195",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

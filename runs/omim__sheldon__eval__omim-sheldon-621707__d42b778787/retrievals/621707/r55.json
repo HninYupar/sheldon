@@ -1,0 +1,252 @@
+{
+  "id": "r55",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"GNAI2\"[tiab] AND (germline OR de novo OR activating OR missense) AND (patients OR patient OR phenotype OR syndrome)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "35 PubMed hits for '\"GNAI2\"[tiab] AND (germline OR de novo OR activating OR missense) AND (patients OR patient OR phenotype OR syndrome)'; showing 20 (PubMed read it as: \"GNAI2\"[Title/Abstract] AND (\"germline\"[All Fields] OR \"germlines\"[All Fields] OR \"de novo\"[All Fields] OR (\"activable\"[All Fields] OR \"activate\"[All Fields] OR \"activated\"[All Fields] OR \"activates\"[All Fields] OR \"activating\"[All Fields] OR \"activation\"[All Fields] OR \"activations\"[All Fields] OR \"activator\"[All Fields] OR \"activator s\"[All Fields] OR \"activators\"[All Fields] OR \"active\"[All Fields] OR \"actived\"[All Fields] OR \"actively\"[All Fields] OR \"actives\"[All Fields] OR \"activities\"[All Fields] OR \"activity s\"[All Fields] OR \"activitys\"[All Fields] OR \"exercise\"[MeSH Terms] OR \"exercise\"[All Fields] OR \"activity\"[All Fields]) OR (\"missenses\"[All Fields] OR \"mutation, missense\"[MeSH Terms] OR (\"mutation\"[All Fields] AND \"missense\"[All Fields]) OR \"missense mutation\"[All Fields] OR \"missense\"[All Fields])) AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"phenotype\"[MeSH Terms] OR \"phenotype\"[All Fields] OR \"phenotypes\"[All Fields] OR \"phenotyped\"[All Fields] OR \"phenotypic\"[All Fields] OR \"phenotypical\"[All Fields] OR \"phenotypically\"[All Fields] OR \"phenotyping\"[All Fields] OR \"phenotypings\"[All Fields]) OR (\"syndrom\"[All Fields] OR \"syndromal\"[All Fields] OR \"syndromally\"[All Fields] OR \"syndrome\"[MeSH Terms] OR \"syndrome\"[All Fields] OR \"syndromes\"[All Fields] OR \"syndrome s\"[All Fields] OR \"syndromic\"[All Fields] OR \"syndroms\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34294713",
+      "title": "S-nitrosylation-mediated coupling of G-protein alpha-2 with CXCR5 induces Hippo/YAP-dependent diabetes-accelerated atherosclerosis.",
+      "first_author": "Chao ML",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-24736-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "33531622",
+      "title": "Increased functional coupling of the mu opioid receptor in the anterior insula of depressed individuals.",
+      "first_author": "Lutz PE",
+      "year": "2021",
+      "journal": "Neuropsychopharmacology",
+      "doi": "10.1038/s41386-021-00974-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34322898",
+      "title": "Guanine Nucleotide-Binding Protein G(i) Subunit Alpha 2 Exacerbates NASH Progression by Regulating Peroxiredoxin 1-Related Inflammation and Lipophagy.",
+      "first_author": "Zhang Z",
+      "year": "2021",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32078",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39273699",
+      "title": "Key Disease-Related Genes and Immune Cell Infiltration Landscape in Inflammatory Bowel Disease: A Bioinformatics Investigation.",
+      "first_author": "Alghamdi KS",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25179751",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26854024",
+      "title": "JAK-STAT and G-protein-coupled receptor signaling pathways are frequently altered in epitheliotropic intestinal T-cell lymphoma.",
+      "first_author": "Nairism\u00e4gi ML",
+      "year": "2016",
+      "journal": "Leukemia",
+      "doi": "10.1038/leu.2016.13",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36671532",
+      "title": "Combination Analysis of Ferroptosis and Immune Status Predicts Patients Survival in Breast Invasive Ductal Carcinoma.",
+      "first_author": "Yang Y",
+      "year": "2023",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom13010147",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40792212",
+      "title": "Exploring the biological basis for the identification of different syndromes in ischemic heart failure based on joint multi-omics analysis.",
+      "first_author": "Zhang Y",
+      "year": "2025",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2025.1641422",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "first_author": "Huang X",
+      "year": "2009",
+      "journal": "Med Hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37713293",
+      "title": "Extracellular Vesicles and Endocannabinoid Signaling in Patients with COVID-19.",
+      "first_author": "Brandes F",
+      "year": "2024",
+      "journal": "Cannabis Cannabinoid Res",
+      "doi": "10.1089/can.2023.0040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32856736",
+      "title": "miR-34a is upregulated in AIP-mutated somatotropinomas and promotes octreotide resistance.",
+      "first_author": "Bogner EM",
+      "year": "2020",
+      "journal": "Int J Cancer",
+      "doi": "10.1002/ijc.33268",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40072066",
+      "title": "Finerenone Alleviates Over-Activation of Complement C5a-C5aR1 Axis of Macrophages by Regulating G Protein Subunit Alpha i2 to Improve Diabetic Nephropathy.",
+      "first_author": "Li ZH",
+      "year": "2025",
+      "journal": "Cells",
+      "doi": "10.3390/cells14050337",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40141310",
+      "title": "Plasma Exosomal-Derived SERPINA1 and GNAI2 Downregulation as Potential Diagnostic Biomarkers of Kawasaki Disease with Coronary Artery Aneurysms.",
+      "first_author": "Zheng Y",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms26062668",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30840837",
+      "title": "Guanine nucleotide-binding protein G(i)\u03b12 aggravates hepatic ischemia-reperfusion injury in mice by regulating MLK3 signaling.",
+      "first_author": "Sun Q",
+      "year": "2019",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.201802462R",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27787898",
+      "title": "Role of a heterotrimeric G-protein, Gi2, in the corticogenesis: possible involvement in periventricular nodular heterotopia and intellectual disability.",
+      "first_author": "Hamada N",
+      "year": "2017",
+      "journal": "J Neurochem",
+      "doi": "10.1111/jnc.13878",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30233409",
+      "title": "RXFP1 Receptor Activation by Relaxin-2 Induces Vascular Relaxation in Mice via a G\u03b1(i2)-Protein/PI3K\u00df/\u03b3/Nitric Oxide-Coupled Pathway.",
+      "first_author": "Lian X",
+      "year": "2018",
+      "journal": "Front Physiol",
+      "doi": "10.3389/fphys.2018.01234",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39063192",
+      "title": "MicroRNA-181a Targets GNAI2 and Affects the Proliferation and Induction Ability of Dermal Papilla Cells: The Potential Involvement of the Wnt/\u03b2-Catenin Signaling Pathway.",
+      "first_author": "He M",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25147950",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30836096",
+      "title": "GNAI1 and GNAI3 Reduce Colitis-Associated Tumorigenesis in Mice by Blocking IL6 Signaling and Down-regulating Expression of GNAI2.",
+      "first_author": "Li ZW",
+      "year": "2019",
+      "journal": "Gastroenterology",
+      "doi": "10.1053/j.gastro.2019.02.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

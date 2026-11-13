@@ -1,0 +1,12 @@
+{
+  "id": "r3",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (congenital contracture* OR fetal akinesia OR arthrogryposis)",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (congenital contracture* OR fetal akinesia OR arthrogryposis)'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (((\"congenital\"[MeSH Subheading] OR \"congenital\"[All Fields] OR \"congenitally\"[All Fields]) AND \"contracture*\"[All Fields]) OR ((\"fetale\"[All Fields] OR \"fetally\"[All Fields] OR \"fetals\"[All Fields] OR \"foetal\"[All Fields] OR \"fetus\"[MeSH Terms] OR \"fetus\"[All Fields] OR \"fetal\"[All Fields]) AND (\"akinesia\"[All Fields] OR \"akinesias\"[All Fields])) OR (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields])))",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,89 @@
+{
+  "id": "r169",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "40956890",
+      "42370079",
+      "42791250"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "authors": [
+        "Rodriguez JA",
+        "Minis A",
+        "Aref R",
+        "Nguyen HHM",
+        "Sun F",
+        "Steller H"
+      ],
+      "year": "2025",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Mice",
+        "Disease Models, Animal",
+        "F-Box Proteins",
+        "Parkinsonian Disorders",
+        "Humans",
+        "Neurons",
+        "Mice, Transgenic",
+        "tau Proteins",
+        "Phosphorylation",
+        "Proteasome Endopeptidase Complex",
+        "Drosophila melanogaster"
+      ],
+      "abstract": "Neurodegenerative diseases present one of the most significant global health challenges. These disorders are defined by the accumulation of abnormal protein aggregates that impair synaptic function and cause progressive neuronal degeneration. Therefore, stimulating protein clearance mechanisms may be neuro-protective. Variants in FBXO7/PARK15 cause Parkinsonian Pyramidal Syndrome, an early-onset parkinsonian neurodegenerative disorder in humans, and inactivation of this gene in mice recapitulates many phenotypes seen in patients. The proteasome regulator PI31 is a direct binding partner of Fbxo7 and promotes local protein degradation at synapses by mediating fast proteasome transport in neurites. PI31 protein levels are reduced when the function of Fbxo7 is impaired. Here we show that restoring PI31 levels in Fbxo7 mutant fly and mouse strains prevents neuronal degeneration and significantly improves neuronal function, health, and lifespan. Notably, Fbxo7 inactivation in mouse neurons causes hyperphosphorylation of tau, and this was suppressed by transgenic expression of PI31. Our results demonstrate that PI31 is a crucial biological target through which Fbxo7 deficiency drives pathology. Therefore, targeting the PI31-pathway may represent a promising therapeutic approach for treating neurodegenerative disorders."
+    },
+    {
+      "pmid": "42370079",
+      "title": "Molecular mechanisms in rare proteasomopathies.",
+      "authors": [
+        "Wolfgramm S",
+        "Alvarez FL",
+        "Thiel FG",
+        "Wendlandt M",
+        "Kr\u00fcger E"
+      ],
+      "year": "2026",
+      "journal": "EULAR rheumatology open",
+      "doi": "10.1016/j.ero.2025.12.005",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [],
+      "abstract": "Proteasomopathies comprise rare interferonopathy-related syndromes caused by genetic defects in proteasomal subunits or their assembly factors resulting in failed proteasome biogenesis and/or function. The concomitant proteasome impairment leads to imbalanced protein homeostasis by dysfunctional ubiquitin-mediated protein degradation. Two distinct clinical phenotypes have been characterised in proteasomopathies so far: (i) proteasome-associated autoinflammatory syndromes and (ii) proteasome-associated neurodevelopmental disorders. Despite these differences, both syndromes show molecular similarities with protein aggregation, activated stress responses, metabolic imbalance and dysregulated type I interferon signalling. Diagnostics and clinical management are complex even if genetic information is available. Here, we integrate the current knowledge of mammalian proteasome biogenesis with structural modelling of known proteasomopathy-causing variants and discuss the innovations of structural modelling to accelerate diagnosis."
+    },
+    {
+      "pmid": "42791250",
+      "title": "Reply to: Data from the ROPAD study corroborate an association between ITSN1 loss-of-function variants and Parkinson's disease.",
+      "authors": [
+        "Cogan G",
+        "Tesson C",
+        "Welment L",
+        "Clot F",
+        "LeGuern E",
+        "Lanore A",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "NPJ Parkinson's disease",
+      "doi": "10.1038/s41531-026-01470-0",
+      "pubtype": [
+        "Letter"
+      ],
+      "mesh": [],
+      "abstract": ""
+    }
+  ]
+}

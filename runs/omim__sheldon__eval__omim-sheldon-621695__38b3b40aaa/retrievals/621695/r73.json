@@ -1,0 +1,12 @@
+{
+  "id": "r73",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"arthrogryposis multiplex congenita\"[tiab] OR AMC8[tiab] OR \"neurogenic type\"[tiab]) AND PSMF1[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '(\"arthrogryposis multiplex congenita\"[tiab] OR AMC8[tiab] OR \"neurogenic type\"[tiab]) AND PSMF1[tiab]'; showing 0 (PubMed read it as: (\"arthrogryposis multiplex congenita\"[Title/Abstract] OR \"AMC8\"[Title/Abstract] OR \"neurogenic type\"[Title/Abstract]) AND \"PSMF1\"[Title/Abstract])",
+  "ok": true,
+  "evidence": []
+}

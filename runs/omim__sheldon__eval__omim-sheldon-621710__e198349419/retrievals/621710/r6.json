@@ -1,0 +1,258 @@
+{
+  "id": "r6",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (fibroblast OR autophagy OR zebrafish OR HeLa OR functional)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1405 PubMed hits for 'ATG12[gene] AND (fibroblast OR autophagy OR zebrafish OR HeLa OR functional)'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields] OR (\"autophagies\"[All Fields] OR \"autophagy\"[MeSH Terms] OR \"autophagy\"[All Fields] OR \"autophagy s\"[All Fields]) OR (\"zebrafish\"[MeSH Terms] OR \"zebrafish\"[All Fields] OR \"zebrafishes\"[All Fields] OR \"zebrafish s\"[All Fields]) OR \"HeLa\"[All Fields] OR (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39087410",
+      "title": "ZDHHC7-mediated S-palmitoylation of ATG16L1 facilitates LC3 lipidation and autophagosome formation.",
+      "first_author": "Wei F",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2386915",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36541703",
+      "title": "PEX13 prevents pexophagy by regulating ubiquitinated PEX5 and peroxisomal ROS.",
+      "first_author": "Demers ND",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2160566",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21175768",
+      "title": "Autophagy basics.",
+      "first_author": "Tanida I",
+      "year": "2011",
+      "journal": "Microbiol Immunol",
+      "doi": "10.1111/j.1348-0421.2010.00271.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37039556",
+      "title": "NR3C1/Glucocorticoid receptor activation promotes pancreatic \u03b2-cell autophagy overload in response to glucolipotoxicity.",
+      "first_author": "Wu T",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2023.2200625",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39675054",
+      "title": "Endogenous interactomes of MFN1 and MFN2 provide novel insights into interorganelle communication and autophagy.",
+      "first_author": "Gordaliza-Alaguero I",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2440843",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40641404",
+      "title": "ATG16L1 membrane recruitment in autophagy.",
+      "first_author": "Wei F",
+      "year": "2025",
+      "journal": "Crit Rev Biochem Mol Biol",
+      "doi": "10.1080/10409238.2025.2521321",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37758522",
+      "title": "Structural view on autophagosome formation.",
+      "first_author": "Noda NN",
+      "year": "2024",
+      "journal": "FEBS Lett",
+      "doi": "10.1002/1873-3468.14742",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38387504",
+      "title": "Disrupting circadian control of autophagy induces podocyte injury and proteinuria.",
+      "first_author": "Wang L",
+      "year": "2024",
+      "journal": "Kidney Int",
+      "doi": "10.1016/j.kint.2024.01.035",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40221132",
+      "title": "The Role of WIPI2, ATG16L1 and ATG12-ATG5 in Selective and Nonselective Autophagy.",
+      "first_author": "Campisi D",
+      "year": "2025",
+      "journal": "J Mol Biol",
+      "doi": "10.1016/j.jmb.2025.169138",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25998418",
+      "title": "ATG12-ATG3 connects basal autophagy and late endosome function.",
+      "first_author": "Murrow L",
+      "year": "2015",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2015.1040976",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28229934",
+      "title": "Novel and functional ATG12 gene variants in sporadic Parkinson's disease.",
+      "first_author": "Li Y",
+      "year": "2017",
+      "journal": "Neurosci Lett",
+      "doi": "10.1016/j.neulet.2017.02.028",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34836490",
+      "title": "HYPK coordinates degradation of polyneddylated proteins by autophagy.",
+      "first_author": "Ghosh DK",
+      "year": "2022",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1997053",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34066497",
+      "title": "Functional Analysis of Autophagy-Related Gene ATG12 in Potato Dry Rot Fungus Fusarium oxysporum.",
+      "first_author": "Khalid AR",
+      "year": "2021",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms22094932",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31901645",
+      "title": "The ATG conjugation systems in autophagy.",
+      "first_author": "Mizushima N",
+      "year": "2020",
+      "journal": "Curr Opin Cell Biol",
+      "doi": "10.1016/j.ceb.2019.12.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23337627",
+      "title": "Non-autophagic roles of autophagy-related proteins.",
+      "first_author": "Subramani S",
+      "year": "2013",
+      "journal": "EMBO Rep",
+      "doi": "10.1038/embor.2012.220",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42141163",
+      "title": "Atg7-Atg12 conjugation and autophagy are negatively regulated by the disordered region of Atg12.",
+      "first_author": "Popelka H",
+      "year": "2026",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-026-10269-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22257882",
+      "title": "Molecules and their functions in autophagy.",
+      "first_author": "Pyo JO",
+      "year": "2012",
+      "journal": "Exp Mol Med",
+      "doi": "10.3858/emm.2012.44.2.029",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40957983",
+      "title": "Phase separation promotes Atg8 lipidation and vesicle condensation for autophagy progression.",
+      "first_author": "Fujioka Y",
+      "year": "2025",
+      "journal": "Nat Struct Mol Biol",
+      "doi": "10.1038/s41594-025-01678-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

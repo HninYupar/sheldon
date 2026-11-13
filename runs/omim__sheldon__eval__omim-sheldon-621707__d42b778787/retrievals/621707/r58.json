@@ -1,0 +1,259 @@
+{
+  "id": "r58",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (MAGIS[tiab] OR syndrome[tiab] OR phenotype[tiab] OR \"de novo\"[tiab] OR activating[tiab] OR missense[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "59 PubMed hits for 'GNAI2[gene] AND (MAGIS[tiab] OR syndrome[tiab] OR phenotype[tiab] OR \"de novo\"[tiab] OR activating[tiab] OR missense[tiab])'; showing 20 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"MAGIS\"[Title/Abstract] OR \"syndrome\"[Title/Abstract] OR \"phenotype\"[Title/Abstract] OR \"de novo\"[Title/Abstract] OR \"activating\"[Title/Abstract] OR \"missense\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34294713",
+      "title": "S-nitrosylation-mediated coupling of G-protein alpha-2 with CXCR5 induces Hippo/YAP-dependent diabetes-accelerated atherosclerosis.",
+      "first_author": "Chao ML",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-24736-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41632920",
+      "title": "Hepatic GPR75 exacerbates MASH through GNAI2-dependent signaling.",
+      "first_author": "Yang X",
+      "year": "2026",
+      "journal": "Hepatology",
+      "doi": "10.1097/HEP.0000000000001706",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "first_author": "Huang X",
+      "year": "2009",
+      "journal": "Med Hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "9779986",
+      "title": "Regulation of cell proliferation by G proteins.",
+      "first_author": "Dhanasekaran N",
+      "year": "1998",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1202242",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41226691",
+      "title": "G\u03b1(i2) Signaling Regulates Neonatal Respiratory Adaptation.",
+      "first_author": "Leiss V",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms262110655",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19797231",
+      "title": "Oligocone trichromacy: clinical and molecular genetic investigations.",
+      "first_author": "Andersen MK",
+      "year": "2010",
+      "journal": "Invest Ophthalmol Vis Sci",
+      "doi": "10.1167/iovs.09-3988",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26854024",
+      "title": "JAK-STAT and G-protein-coupled receptor signaling pathways are frequently altered in epitheliotropic intestinal T-cell lymphoma.",
+      "first_author": "Nairism\u00e4gi ML",
+      "year": "2016",
+      "journal": "Leukemia",
+      "doi": "10.1038/leu.2016.13",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21317923",
+      "title": "Molecular basis of a novel oncogenic mutation in GNAO1.",
+      "first_author": "Garcia-Marcos M",
+      "year": "2011",
+      "journal": "Oncogene",
+      "doi": "10.1038/onc.2010.645",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "9915816",
+      "title": "Galphai is not required for chemotaxis mediated by Gi-coupled receptors.",
+      "first_author": "Neptune ER",
+      "year": "1999",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.274.5.2824",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "23977324",
+      "title": "The loss of Gnai2 and Gnai3 in B cells eliminates B lymphocyte compartments and leads to a hyper-IgM like syndrome.",
+      "first_author": "Hwang IY",
+      "year": "2013",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0072596",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "25016959",
+      "title": "Par3-mInsc and G\u03b1i3 cooperate to promote oriented epidermal cell divisions through LGN.",
+      "first_author": "Williams SE",
+      "year": "2014",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/ncb3001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40792212",
+      "title": "Exploring the biological basis for the identification of different syndromes in ischemic heart failure based on joint multi-omics analysis.",
+      "first_author": "Zhang Y",
+      "year": "2025",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2025.1641422",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "16943428",
+      "title": "Pleiotropic phenotype of a genomic knock-in of an RGS-insensitive G184S Gnai2 allele.",
+      "first_author": "Huang X",
+      "year": "2006",
+      "journal": "Mol Cell Biol",
+      "doi": "10.1128/MCB.00314-06",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17848806",
+      "title": "Inhibition of basic secretagogue-induced signaling in mast cells by cell permeable G alpha i-derived peptides.",
+      "first_author": "Shefler I",
+      "year": "2008",
+      "journal": "Int Arch Allergy Immunol",
+      "doi": "10.1159/000108138",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "10951580",
+      "title": "G2A is an oncogenic G protein-coupled receptor.",
+      "first_author": "Zohn IE",
+      "year": "2000",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1203731",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "10476970",
+      "title": "Activation of the ERK/MAPK pathway by an isoform of rap1GAP associated with G alpha(i).",
+      "first_author": "Mochizuki N",
+      "year": "1999",
+      "journal": "Nature",
+      "doi": "10.1038/23738",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "10706729",
+      "title": "The coupling of 5-oxo-eicosanoid receptors to heterotrimeric G proteins.",
+      "first_author": "O'Flaherty JT",
+      "year": "2000",
+      "journal": "J Immunol",
+      "doi": "10.4049/jimmunol.164.6.3345",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    }
+  ]
+}

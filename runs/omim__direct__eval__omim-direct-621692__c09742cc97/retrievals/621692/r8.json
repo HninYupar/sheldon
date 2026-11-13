@@ -1,0 +1,254 @@
+{
+  "id": "r8",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "39474298",
+      "35722745",
+      "23934111",
+      "35041321",
+      "40184228",
+      "39096015",
+      "33704440"
+    ]
+  },
+  "summary": "fetched 7 of 7 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39474298",
+      "title": "Epileptic Encephalopathy due to CACNA1A Variant: A Case Report and Diagnostic Challenges from Resource-Limited Settings.",
+      "authors": [
+        "Chipongo H",
+        "Chaki S",
+        "Mclarty R"
+      ],
+      "year": "2024",
+      "journal": "Case reports in neurology",
+      "doi": "10.1159/000540799",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "INTRODUCTION: Epilepsy is one of the most common neurological disorders present in sub-Saharan Africa and most of these cases are underdiagnosed due to a lack of resources. Epileptic encephalopathies are a broad spectrum of seizure disorders characterized by epileptic activity itself impairing cognitive and behavioral function more than what is expected from the underlying pathology alone. Epileptic encephalopathy resulting from the CACNA1A variant is extremely challenging to treat and prognosis is poor if prompt diagnosis is not made.\nCASE PRESENTATION: This is a 7-year-old male patient of African descent with a history of recurrent seizures since infancy. He has been kept on several anticonvulsants without success to control seizure attacks. The patient had more than three attacks in a single month despite being on anticonvulsants. EEG (electro-encephalography) was done and genetic studies showed a diagnosis consistent with CACNA1A variant-associated epileptic encephalopathy. Anticonvulsants were revised and a combination of new medications as suggested by current guidelines was initiated, and the patient is followed up closely on a monthly basis.\nCONCLUSION: Despite being challenging to treat epileptic encephalopathies associated with CACNA1A variants all patients initiated with antiepileptic therapy should be followed closely and monitored for control of seizure attacks. If EEG alone does not point out the diagnosis, appropriate investigations such as genetic studies should be considered. Early diagnosis is crucial for the prognosis of such kind of cases, especially in resource-limited settings where diagnostic equipments are scarce. All clinicians in these areas should have a high suspicion index in pediatric patients with recurrent seizure attacks to rule out epileptic encephalopathies."
+    },
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "authors": [
+        "Lipman AR",
+        "Fan X",
+        "Shen Y",
+        "Chung WK"
+      ],
+      "year": "2022",
+      "journal": "Clinical genetics",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Autism Spectrum Disorder",
+        "Calcium Channels",
+        "Humans",
+        "Nystagmus, Pathologic",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Pathogenic variants in the CACNA1A gene have been associated with episodic ataxia type 2, familial hemiplegic migraine, and spinocerebellar ataxia 6. With increasing use of clinical genetic testing, associations have expanded to include developmental delay, epilepsy, paroxysmal dystonia, and neuropsychiatric disorders. We report 47 individuals with 33 unique likely pathogenic or pathogenic CACNA1A variants. A machine learning method, funNCion, was used to predict loss-of-function (LoF)/gain-of-function (GoF) impact of genetic variants, and a heuristic severity score was designed to analyze genotype/phenotype correlations. Commonly reported phenotypes include developmental delay/intellectual disability (96%), hemiplegic migraines (36%), episodic ataxia type 2 (32%), epilepsy (55%), autism spectrum disorder (23%), and paroxysmal tonic upward gaze (36%). Severity score was significantly higher for predicted GoF variants, variants in the S5/S6 helices, and the recurrent p.Val1392Met variant. Seizures/status epilepticus were correlated with GoF and were more frequent in those with the p.Val1392Met variant. Our findings demonstrate a breadth of disease severity in CACNA1A-related disease and suggest that the clinical phenotypic heterogeneity likely reflects diverse molecular phenotypes. A better understanding of the natural history of CACNA1A-related disease and genotype/phenotype correlations will help inform prognosis and prepare for future clinical trials."
+    },
+    {
+      "pmid": "23934111",
+      "title": "De novo mutations in epileptic encephalopathies.",
+      "authors": [
+        "Epi4K Consortium",
+        "Epilepsy Phenome/Genome Project",
+        "Allen AS",
+        "Berkovic SF",
+        "Cossette P",
+        "Delanty N",
+        "et al."
+      ],
+      "year": "2013",
+      "journal": "Nature",
+      "doi": "10.1038/nature12439",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, American Recovery and Reinvestment Act",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Child Development Disorders, Pervasive",
+        "Cohort Studies",
+        "Exome",
+        "Female",
+        "Fragile X Messenger Ribonucleoprotein 1",
+        "Genetic Predisposition to Disease",
+        "Humans",
+        "Infant",
+        "Intellectual Disability",
+        "Lennox Gastaut Syndrome",
+        "Male",
+        "Mutation",
+        "Mutation Rate",
+        "N-Acetylglucosaminyltransferases",
+        "Probability",
+        "Receptors, GABA-A",
+        "Spasms, Infantile"
+      ],
+      "abstract": "Epileptic encephalopathies are a devastating group of severe childhood epilepsy disorders for which the cause is often unknown. Here we report a screen for de novo mutations in patients with two classical epileptic encephalopathies: infantile spasms (n = 149) and Lennox-Gastaut syndrome (n = 115). We sequenced the exomes of 264 probands, and their parents, and confirmed 329 de novo mutations. A likelihood analysis showed a significant excess of de novo mutations in the \u223c4,000 genes that are the most intolerant to functional genetic variation in the human population (P = 2.9\u2009\u00d7\u200910(-3)). Among these are GABRB3, with de novo mutations in four patients, and ALG13, with the same de novo mutation in two patients; both genes show clear statistical evidence of association with epileptic encephalopathy. Given the relevant site-specific mutation rates, the probabilities of these outcomes occurring by chance are P = 4.1\u2009\u00d7\u200910(-10) and P = 7.8\u2009\u00d7\u200910(-12), respectively. Other genes with de novo mutations in this cohort include CACNA1A, CHD2, FLNA, GABRA1, GRIN1, GRIN2B, HNRNPU, IQSEC2, MTOR and NEDD4L. Finally, we show that the de novo mutations observed are enriched in specific gene sets including genes regulated by the fragile X protein (P\u2009<\u200910(-8)), as has been reported previously for autism spectrum disorders."
+    },
+    {
+      "pmid": "35041321",
+      "title": "[Diversity of CACNA1A-related disorders].",
+      "authors": [
+        "Rudenskaya GE",
+        "Sermyagina IG",
+        "Chukhrova AL",
+        "Dadali EL",
+        "Lozier ER",
+        "Shchagina OA"
+      ],
+      "year": "2021",
+      "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+      "doi": "10.17116/jnevro2021121121106",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh": [
+        "Adult",
+        "Calcium Channels",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Humans",
+        "Male",
+        "Migraine with Aura",
+        "Mutation",
+        "Pedigree",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Four cases of autosomal dominant CNS disorders related to CACNA1A mutations and detected by massive parallel sequencing are reported: a non-familial case of episodic ataxia type 2 (EA2) with the previously reported mutation c.269_270insA (p.Tyr90Ter) in a 35-year-old man; familial hemiplegic migraine type 1 (FHM1) in a girl aged 3 years 10 months and her mother aged 38 yrs with a novel mutation 1829C>T (p.Ser610Phe), members of a family with 4 patients and incomplete penetrance; developmental and epileptic encephalopathy 42 (DEE42) in a 9-year-old girl and a 5-year-old boy from different families with the identical de novo mutation c.2137G>A (p.Ala713Thr) reported earlier. Clinical and genetic characteristics are analyzed compared to literature."
+    },
+    {
+      "pmid": "40184228",
+      "title": "Protective effect of CACNA1A deficiency in oligogenic refractory epilepsy with CACNA1A-CELSR2 digenic mutations.",
+      "authors": [
+        "Liu CQ",
+        "Sun MZ",
+        "Lin YM",
+        "Zhang XX",
+        "Huang RN",
+        "He MF",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Epilepsia",
+      "doi": "10.1111/epi.18390",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh": [
+        "Animals",
+        "Drug Resistant Epilepsy",
+        "Calcium Channels",
+        "Humans",
+        "Mutation",
+        "Male",
+        "Animals, Genetically Modified",
+        "Female",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "OBJECTIVE: The vast majority of refractory epilepsy cases have a complex oligogenic/polygenic origin, which presents a challenge to precision medicine in individual patients. Nonetheless, the high workload and lack of effective guidelines have limited the number of in-depth animal studies.\nMETHODS: Whole-exon sequencing identified a case with refractory epilepsy caused by a combination of two rare and de novo heterozygous variants in CACNA1A and CELSR2, respectively. Polygenic mutation flies were established and logistic regression were applied to study the gene-gene interaction and quantify the seizure-risk weight of epilepsy-associated genes in a polygenic background. In addition, calcium imaging, pharmacology, and transgenic rescue experiments were used to explore the mechanism and the precision medicine strategy for this model.\nRESULTS: Seizure-like activity was mitigated in the Cacna1a-Celsr2 digenic knockdown flies, whereas it was aggravated in the Cacna1a knockin-Celsr2 knockdown flies, and all relevant monogenic mutation flies showed seizures. Logistic regression suggested that the Cacna1a deficiency provided a protective effect against seizures in Celsr2 knockdown flies. The severe seizures from Cacna1a knockin-Celsr2 knockdown, the genotype mimicking that of the patient, can be completely rescued by inhibiting the calcium channel via genetic (Cacna1a knockdown) or pharmacologic (pregabalin) treatment during a limited period of development. Calcium imaging results suggested a synaptic cleft balance mechanism for the protective effect of CACNA1A deficiency in the polygenic background.\nSIGNIFICANCE: CACNA1A presented multiple effects on epileptogenesis in diverse genetic backgrounds and provided an effective preclinical approach to clarify the net impact of polygenic variants for designing a precisive medicine strategy against refractory epilepsy."
+    },
+    {
+      "pmid": "39096015",
+      "title": "Solving the Etiology of Developmental and Epileptic Encephalopathy with Spike-Wave Activation in Sleep (D/EE-SWAS).",
+      "authors": [
+        "Viswanathan S",
+        "Oliver KL",
+        "Regan BM",
+        "Schneider AL",
+        "Myers CT",
+        "Mehaffey MG",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Annals of neurology",
+      "doi": "10.1002/ana.27041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Female",
+        "Male",
+        "Child, Preschool",
+        "Child",
+        "Infant",
+        "Spasms, Infantile",
+        "Adolescent",
+        "Electroencephalography",
+        "Sleep",
+        "Cohort Studies",
+        "Phenotype",
+        "Adult",
+        "Young Adult"
+      ],
+      "abstract": "OBJECTIVE: To understand the etiological landscape and phenotypic differences between 2 developmental and epileptic encephalopathy (DEE) syndromes: DEE with spike-wave activation in sleep (DEE-SWAS) and epileptic encephalopathy with spike-wave activation in sleep (EE-SWAS).\nMETHODS: All patients fulfilled International League Against Epilepsy (ILAE) DEE-SWAS or EE-SWAS criteria with a Core cohort (n\u2009=\u200991) drawn from our Epilepsy Genetics research program, together with 10 etiologically solved patients referred by collaborators in the Expanded cohort (n\u2009=\u2009101). Detailed phenotyping and analysis of molecular genetic results were performed. We compared the phenotypic features of individuals with DEE-SWAS and EE-SWAS. Brain-specific gene co-expression analysis was performed for D/EE-SWAS genes.\nRESULTS: We identified the etiology in 42/91 (46%) patients in our Core cohort, including 29/44 (66%) with DEE-SWAS and 13/47 (28%) with EE-SWAS. A genetic etiology was identified in 31/91 (34%). D/EE-SWAS genes were highly co-expressed in brain, highlighting the importance of channelopathies and transcriptional regulators. Structural etiologies were found in 12/91 (13%) individuals. We identified 10 novel D/EE-SWAS genes with a range of functions: ATP1A2, CACNA1A, FOXP1, GRIN1, KCNMA1, KCNQ3, PPFIA3, PUF60, SETD1B, and ZBTB18, and 2 novel copy number variants, 17p11.2 duplication and 5q22 deletion. Although developmental regression patterns were similar in both syndromes, DEE-SWAS was associated with a longer duration of epilepsy and poorer intellectual outcome than EE-SWAS.\nINTERPRETATION: DEE-SWAS and EE-SWAS have highly heterogeneous genetic and structural etiologies. Phenotypic analysis highlights valuable clinical differences between DEE-SWAS and EE-SWAS which inform clinical care and prognostic counseling. Our etiological findings pave the way for the development of precision therapies. ANN NEUROL 2024;96:932-943."
+    },
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "authors": [
+        "El Ghaleb Y",
+        "Schneeberger PE",
+        "Fern\u00e1ndez-Quintero ML",
+        "Geisler SM",
+        "Pelizzari S",
+        "Polstra AM",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "Brain : a journal of neurology",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Adult",
+        "Animals",
+        "Brain",
+        "Calcium Channels",
+        "Child",
+        "Computer Simulation",
+        "Female",
+        "Gain of Function Mutation",
+        "Genetic Predisposition to Disease",
+        "Humans",
+        "Ion Channel Gating",
+        "Male",
+        "Mice",
+        "Middle Aged",
+        "Models, Molecular",
+        "Models, Neurological",
+        "Mutation, Missense",
+        "Neurodevelopmental Disorders",
+        "Neurons",
+        "Pedigree",
+        "Protein Conformation",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "T-type calcium channels (Cav3.1 to Cav3.3) regulate low-threshold calcium spikes, burst firing and rhythmic oscillations of neurons and are involved in sensory processing, sleep, and hormone and neurotransmitter release. Here, we examined four heterozygous missense variants in CACNA1I, encoding the Cav3.3 channel, in patients with variable neurodevelopmental phenotypes. The p.(Ile860Met) variant, affecting a residue in the putative channel gate at the cytoplasmic end of the IIS6 segment, was identified in three family members with variable cognitive impairment. The de novo p.(Ile860Asn) variant, changing the same amino acid residue, was detected in a patient with severe developmental delay and seizures. In two additional individuals with global developmental delay, hypotonia, and epilepsy, the variants p.(Ile1306Thr) and p.(Met1425Ile), substituting residues at the cytoplasmic ends of IIIS5 and IIIS6, respectively, were found. Because structure modelling indicated that the amino acid substitutions differentially affect the mobility of the channel gate, we analysed possible effects on Cav3.3 channel function using patch-clamp analysis in HEK293T cells. The mutations resulted in slowed kinetics of current activation, inactivation, and deactivation, and in hyperpolarizing shifts of the voltage-dependence of activation and inactivation, with Cav3.3-I860N showing the strongest and Cav3.3-I860M the weakest effect. Structure modelling suggests that by introducing stabilizing hydrogen bonds the mutations slow the kinetics of the channel gate and cause the gain-of-function effect in Cav3.3 channels. The gating defects left-shifted and increased the window currents, resulting in increased calcium influx during repetitive action potentials and even at resting membrane potentials. Thus, calcium toxicity in neurons expressing the Cav3.3 variants is one likely cause of the neurodevelopmental phenotype. Computer modelling of thalamic reticular nuclei neurons indicated that the altered gating properties of the Cav3.3 disease variants lower the threshold and increase the duration and frequency of action potential firing. Expressing the Cav3.3-I860N/M mutants in mouse chromaffin cells shifted the mode of firing from low-threshold spikes and rebound burst firing with wild-type Cav3.3 to slow oscillations with Cav3.3-I860N and an intermediate firing mode with Cav3.3-I860M, respectively. Such neuronal hyper-excitability could explain seizures in the patient with the p.(Ile860A"
+    }
+  ]
+}

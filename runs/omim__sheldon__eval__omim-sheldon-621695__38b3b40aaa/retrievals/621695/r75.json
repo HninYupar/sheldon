@@ -1,0 +1,12 @@
+{
+  "id": "r75",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (arthrogryposis[tiab] OR contracture*[tiab] OR congenital contracture*[tiab] OR fetal akinesia[tiab] OR arthrogryposis multiplex congenita[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (arthrogryposis[tiab] OR contracture*[tiab] OR congenital contracture*[tiab] OR fetal akinesia[tiab] OR arthrogryposis multiplex congenita[tiab])'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"arthrogryposis\"[Title/Abstract] OR \"contracture*\"[Title/Abstract] OR \"congenital contracture*\"[Title/Abstract] OR \"fetal akinesia\"[Title/Abstract] OR \"arthrogryposis multiplex congenita\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": []
+}

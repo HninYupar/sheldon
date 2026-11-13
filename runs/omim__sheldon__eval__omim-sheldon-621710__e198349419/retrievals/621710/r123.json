@@ -1,0 +1,37 @@
+{
+  "id": "r123",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "41895291",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "2 'cited_by' links for PMID 41895291; showing 2",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42886282",
+      "title": "Rewiring autophagy to target cutaneous wound healing: investigation of molecular mechanisms to therapeutic interventions.",
+      "first_author": "Nayak K",
+      "year": "2026",
+      "journal": "Mol Biol Rep",
+      "doi": "10.1007/s11033-026-12938-w",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42642022",
+      "title": "A Contemporary Pathomechanistic Nosology of Inherited Lysosomal Disorders.",
+      "first_author": "McCarron EP",
+      "year": "2026",
+      "journal": "J Inherit Metab Dis",
+      "doi": "10.1002/jimd.70245",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

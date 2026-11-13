@@ -1,0 +1,12 @@
+{
+  "id": "r2",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"arthrogryposis multiplex congenita 8\" OR AMC8 OR \"neurogenic arthrogryposis\" OR \"neurogenic type\") AND PSMF1",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '(\"arthrogryposis multiplex congenita 8\" OR AMC8 OR \"neurogenic arthrogryposis\" OR \"neurogenic type\") AND PSMF1'; showing 0 (PubMed read it as: (((\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR (\"arthrogryposis\"[All Fields] AND \"multiplex\"[All Fields] AND \"congenita\"[All Fields]) OR \"arthrogryposis multiplex congenita\"[All Fields]) AND \"8\"[All Fields]) OR \"AMC8\"[All Fields] OR \"neurogenic arthrogryposis\"[All Fields] OR \"neurogenic type\"[All Fields]) AND \"PSMF1\"[All Fields])",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,281 @@
+{
+  "id": "r149",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "31367875",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "143 'similar' links for PMID 31367875; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "25138333",
+      "title": "Sustained care intervention and postdischarge smoking cessation among hospitalized adults: a randomized clinical trial.",
+      "first_author": "Rigotti NA",
+      "year": "2014",
+      "journal": "JAMA",
+      "doi": "10.1001/jama.2014.9237",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "27194545",
+      "title": "Impact of Telephone-Based Care Coordination on Use of Cessation Medications Posthospital Discharge: A Randomized Controlled Trial.",
+      "first_author": "Tague C",
+      "year": "2017",
+      "journal": "Nicotine Tob Res",
+      "doi": "10.1093/ntr/ntw138",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25956257",
+      "title": "Comparative and cost effectiveness of telemedicine versus telephone counseling for smoking cessation.",
+      "first_author": "Richter KP",
+      "year": "2015",
+      "journal": "J Med Internet Res",
+      "doi": "10.2196/jmir.3975",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "22852832",
+      "title": "Comparative effectiveness of post-discharge interventions for hospitalized smokers: study protocol for a randomized controlled trial.",
+      "first_author": "Japuntich SJ",
+      "year": "2012",
+      "journal": "Trials",
+      "doi": "10.1186/1745-6215-13-124",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "27647060",
+      "title": "A Post-Discharge Smoking-Cessation Intervention for Hospital Patients: Helping Hand 2 Randomized Clinical Trial.",
+      "first_author": "Rigotti NA",
+      "year": "2016",
+      "journal": "Am J Prev Med",
+      "doi": "10.1016/j.amepre.2016.04.005",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "22853197",
+      "title": "Nicotine patches and quitline counseling to help hospitalized smokers stay quit: study protocol for a randomized controlled trial.",
+      "first_author": "Cummins S",
+      "year": "2012",
+      "journal": "Trials",
+      "doi": "10.1186/1745-6215-13-128",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35759282",
+      "title": "Comparative Effectiveness of Postdischarge Smoking Cessation Interventions for Hospital Patients: The Helping HAND 4 Randomized Clinical Trial.",
+      "first_author": "Rigotti NA",
+      "year": "2022",
+      "journal": "JAMA Intern Med",
+      "doi": "10.1001/jamainternmed.2022.2300",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "28616847",
+      "title": "Interactive Voice Response Calls to Promote Smoking Cessation after Hospital Discharge: Pooled Analysis of Two Randomized Clinical Trials.",
+      "first_author": "Rigotti NA",
+      "year": "2017",
+      "journal": "J Gen Intern Med",
+      "doi": "10.1007/s11606-017-4085-z",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ]
+    },
+    {
+      "pmid": "32299470",
+      "title": "Comparative effectiveness of post-discharge strategies for hospitalized smokers: Study protocol for the Helping HAND 4 randomized controlled trial.",
+      "first_author": "Rigotti NA",
+      "year": "2020",
+      "journal": "Trials",
+      "doi": "10.1186/s13063-020-04257-7",
+      "pubtype": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25879193",
+      "title": "Comparative Effectiveness of Post-Discharge Strategies for Hospitalized Smokers: study protocol for the Helping HAND 2 randomized controlled trial.",
+      "first_author": "Reid ZZ",
+      "year": "2015",
+      "journal": "BMC Public Health",
+      "doi": "10.1186/s12889-015-1484-0",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "29800420",
+      "title": "Automated Telephone Follow-up for Smoking Cessation in Smokers With Coronary Heart Disease: A Randomized Controlled Trial.",
+      "first_author": "Reid RD",
+      "year": "2019",
+      "journal": "Nicotine Tob Res",
+      "doi": "10.1093/ntr/nty108",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27882838",
+      "title": "A Pragmatic Randomized Trial Comparing Telephone-Based Enhanced Pharmacy Care and Usual Care to Support Smoking Cessation.",
+      "first_author": "Gong J",
+      "year": "2016",
+      "journal": "J Manag Care Spec Pharm",
+      "doi": "10.18553/jmcp.2016.22.12.1417",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Pragmatic Clinical Trial",
+        "Randomized Controlled Trial"
+      ]
+    },
+    {
+      "pmid": "31240811",
+      "title": "Enhanced smoking cessation support for newly abstinent smokers discharged from hospital (the Hospital to Home trial): a randomized controlled trial.",
+      "first_author": "Thorley R",
+      "year": "2019",
+      "journal": "Addiction",
+      "doi": "10.1111/add.14720",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19349629",
+      "title": "Effect of varying levels of disease management on smoking cessation: a randomized trial.",
+      "first_author": "Ellerbeck EF",
+      "year": "2009",
+      "journal": "Ann Intern Med",
+      "doi": "10.7326/0003-4819-150-7-200904070-00003",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "22394386",
+      "title": "Population-based tobacco treatment: study design of a randomized controlled trial.",
+      "first_author": "Fu SS",
+      "year": "2012",
+      "journal": "BMC Public Health",
+      "doi": "10.1186/1471-2458-12-159",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "30137529",
+      "title": "An Experimental Feasibility Study of a Hybrid Telephone Counseling/Text Messaging Intervention for Post-Discharge Cessation Support Among Hospitalized Smokers in Brazil.",
+      "first_author": "Cruvinel E",
+      "year": "2019",
+      "journal": "Nicotine Tob Res",
+      "doi": "10.1093/ntr/nty165",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23497630",
+      "title": "Telephone care coordination for smokers in VA mental health clinics: protocol for a hybrid type-2 effectiveness-implementation trial.",
+      "first_author": "Rogers E",
+      "year": "2013",
+      "journal": "Addict Sci Clin Pract",
+      "doi": "10.1186/1940-0640-8-7",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "26711163",
+      "title": "Telephone Smoking-Cessation Counseling for Smokers in Mental Health Clinics: A Patient-Randomized Controlled Trial.",
+      "first_author": "Rogers ES",
+      "year": "2016",
+      "journal": "Am J Prev Med",
+      "doi": "10.1016/j.amepre.2015.10.004",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "33048154",
+      "title": "Effect of Sustained Smoking Cessation Counseling and Provision of Medication vs Shorter-term Counseling and Medication Advice on Smoking Abstinence in Patients Recently Diagnosed With Cancer: A Randomized Clinical Trial.",
+      "first_author": "Park ER",
+      "year": "2020",
+      "journal": "JAMA",
+      "doi": "10.1001/jama.2020.14581",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24716466",
+      "title": "Proactive tobacco treatment for low income smokers: study protocol of a randomized controlled trial.",
+      "first_author": "Fu SS",
+      "year": "2014",
+      "journal": "BMC Public Health",
+      "doi": "10.1186/1471-2458-14-337",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

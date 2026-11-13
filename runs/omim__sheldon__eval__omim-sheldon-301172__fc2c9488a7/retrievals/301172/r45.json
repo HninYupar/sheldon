@@ -1,0 +1,258 @@
+{
+  "id": "r45",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "9335498",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "103 'similar' links for PMID 9335498; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "16854439",
+      "title": "Distributed and interactive brain mechanisms during emotion face perception: evidence from functional neuroimaging.",
+      "first_author": "Vuilleumier P",
+      "year": "2007",
+      "journal": "Neuropsychologia",
+      "doi": "10.1016/j.neuropsychologia.2006.06.003",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "17826596",
+      "title": "The neuroanatomic basis of facial perception and variable facial discrimination ability: implications for orthodontics.",
+      "first_author": "Masella RS",
+      "year": "2007",
+      "journal": "Am J Orthod Dentofacial Orthop",
+      "doi": "10.1016/j.ajodo.2006.04.031",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20223254",
+      "title": "Involvement of the parietal cortex in perceptual learning (Eureka effect): an interference approach using rTMS.",
+      "first_author": "Giovannelli F",
+      "year": "2010",
+      "journal": "Neuropsychologia",
+      "doi": "10.1016/j.neuropsychologia.2010.02.031",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20026140",
+      "title": "When seeing depends on knowing: adults with Autism Spectrum Conditions show diminished top-down processes in the visual perception of degraded faces but not degraded objects.",
+      "first_author": "Loth E",
+      "year": "2010",
+      "journal": "Neuropsychologia",
+      "doi": "10.1016/j.neuropsychologia.2009.12.023",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11304083",
+      "title": "Activation reduction in anterior temporal cortices during repeated recognition of faces of personal acquaintances.",
+      "first_author": "Sugiura M",
+      "year": "2001",
+      "journal": "Neuroimage",
+      "doi": "10.1006/nimg.2001.0747",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16507300",
+      "title": "Attentional modulation of repetition attenuation is anatomically dissociable for scenes and faces.",
+      "first_author": "Yi DJ",
+      "year": "2006",
+      "journal": "Brain Res",
+      "doi": "10.1016/j.brainres.2006.01.090",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18702593",
+      "title": "N250 ERP correlates of the acquisition of face representations across different images.",
+      "first_author": "Kaufmann JM",
+      "year": "2009",
+      "journal": "J Cogn Neurosci",
+      "doi": "10.1162/jocn.2009.21080",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16844722",
+      "title": "The sightless view: neural correlates of occluded objects.",
+      "first_author": "Hulme OJ",
+      "year": "2007",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhl031",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "9740764",
+      "title": "Brain regions involved in the perception of gaze: a PET study.",
+      "first_author": "Wicker B",
+      "year": "1998",
+      "journal": "Neuroimage",
+      "doi": "10.1006/nimg.1998.0357",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19015371",
+      "title": "Object representations for multiple visual categories overlap in lateral occipital and medial fusiform cortex.",
+      "first_author": "Pourtois G",
+      "year": "2009",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhn210",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11506651",
+      "title": "Neural mechanisms of visual attention: object-based selection of a region in space.",
+      "first_author": "Arrington CM",
+      "year": "2000",
+      "journal": "J Cogn Neurosci",
+      "doi": "10.1162/089892900563975",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "17651008",
+      "title": "Mirror neuron and theory of mind mechanisms involved in face-to-face interactions: a functional magnetic resonance imaging approach to empathy.",
+      "first_author": "Schulte-R\u00fcther M",
+      "year": "2007",
+      "journal": "J Cogn Neurosci",
+      "doi": "10.1162/jocn.2007.19.8.1354",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15921900",
+      "title": "Differential activation of object-selective visual areas by passive viewing of pictures and words.",
+      "first_author": "Reinholz J",
+      "year": "2005",
+      "journal": "Brain Res Cogn Brain Res",
+      "doi": "10.1016/j.cogbrainres.2005.04.009",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18456517",
+      "title": "Perceiving and naming actions and objects.",
+      "first_author": "Liljestr\u00f6m M",
+      "year": "2008",
+      "journal": "Neuroimage",
+      "doi": "10.1016/j.neuroimage.2008.03.016",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20156567",
+      "title": "Extracting the internal representation of faces from human brain activity: an analogue to reverse correlation.",
+      "first_author": "Hansen BC",
+      "year": "2010",
+      "journal": "Neuroimage",
+      "doi": "10.1016/j.neuroimage.2010.02.021",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15528090",
+      "title": "Distinct representations for facial identity and changeable aspects of faces in the human temporal lobe.",
+      "first_author": "Andrews TJ",
+      "year": "2004",
+      "journal": "Neuroimage",
+      "doi": "10.1016/j.neuroimage.2004.07.060",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18777560",
+      "title": "Associations evoked during memory encoding recruit the context-network.",
+      "first_author": "Peters J",
+      "year": "2009",
+      "journal": "Hippocampus",
+      "doi": "10.1002/hipo.20490",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18674625",
+      "title": "Visual mental imagery and perception produce opposite adaptation effects on early brain potentials.",
+      "first_author": "Ganis G",
+      "year": "2008",
+      "journal": "Neuroimage",
+      "doi": "10.1016/j.neuroimage.2008.07.004",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18823255",
+      "title": "Functional specialization and convergence in the occipito-temporal cortex supporting haptic and visual identification of human faces and body parts: an fMRI study.",
+      "first_author": "Kitada R",
+      "year": "2009",
+      "journal": "J Cogn Neurosci",
+      "doi": "10.1162/jocn.2009.21115",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "1348133",
+      "title": "Organization and functions of cells responsive to faces in the temporal cortex.",
+      "first_author": "Perrett DI",
+      "year": "1992",
+      "journal": "Philos Trans R Soc Lond B Biol Sci",
+      "doi": "10.1098/rstb.1992.0003",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

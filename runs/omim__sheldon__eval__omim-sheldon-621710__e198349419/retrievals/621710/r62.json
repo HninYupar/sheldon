@@ -1,0 +1,82 @@
+{
+  "id": "r62",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[tiab] AND (variant OR mutation OR homozygous OR compound heterozygous OR c. OR p.) AND (seizures OR cerebellar hypoplasia OR neurodevelopmental)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "6 PubMed hits for 'ATG12[tiab] AND (variant OR mutation OR homozygous OR compound heterozygous OR c. OR p.) AND (seizures OR cerebellar hypoplasia OR neurodevelopmental)'; showing 6 (PubMed read it as: \"ATG12\"[Title/Abstract] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields] OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields])) OR \"c\"[All Fields] OR \"p\"[All Fields]) AND (\"seizural\"[All Fields] OR \"seizure s\"[All Fields] OR \"seizured\"[All Fields] OR \"seizures\"[MeSH Terms] OR \"seizures\"[All Fields] OR \"seizure\"[All Fields] OR \"seizuring\"[All Fields] OR (\"cerebellar hypoplasia\"[Supplementary Concept] OR \"cerebellar hypoplasia\"[All Fields]) OR (\"neurodevelopment\"[MeSH Terms] OR \"neurodevelopment\"[All Fields] OR \"neurodevelopmental\"[All Fields] OR \"neurodevelopmentally\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31678999",
+      "title": "Electroconvulsive Seizures Induce Autophagy by Activating the AMPK Signaling Pathway in the Rat Frontal Cortex.",
+      "first_author": "Kim SH",
+      "year": "2020",
+      "journal": "Int J Neuropsychopharmacol",
+      "doi": "10.1093/ijnp/pyz055",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28685385",
+      "title": "Exclusive Activation of Caspase-3 in Mossy Fibers and Altered Dynamics of Autophagy Markers in the Mice Hippocampus upon Status Epilepticus Induced by Kainic Acid.",
+      "first_author": "Rami A",
+      "year": "2018",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-017-0665-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39472694",
+      "title": "Gene-based burden tests of rare germline variants identify six cancer susceptibility genes.",
+      "first_author": "Ivarsdottir EV",
+      "year": "2024",
+      "journal": "Nat Genet",
+      "doi": "10.1038/s41588-024-01966-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29808547",
+      "title": "MiR-181b inhibits P38/JNK signaling pathway to attenuate autophagy and apoptosis in juvenile rats with kainic acid-induced epilepsy via targeting TLR4.",
+      "first_author": "Wang L",
+      "year": "2019",
+      "journal": "CNS Neurosci Ther",
+      "doi": "10.1111/cns.12991",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

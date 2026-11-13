@@ -1,0 +1,248 @@
+{
+  "id": "r153",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "35977808",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "20 'cited_by' links for PMID 35977808; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42293750",
+      "title": "Functional analysis of genes enriched in male reproductive organs: validation via fertility assessment of 14 knockout mouse lines.",
+      "first_author": "Takemoto K",
+      "year": "2026",
+      "journal": "Front Cell Dev Biol",
+      "doi": "10.3389/fcell.2026.1851315",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42281945",
+      "title": "Towards precision medicine for systemic lupus erythematosus and neuropsychiatric manifestations.",
+      "first_author": "de Aquino BM",
+      "year": "2025",
+      "journal": "Expert Rev Precis Med Drug Dev",
+      "doi": "10.1080/23808993.2025.2560307",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41410901",
+      "title": "Juvenile-onset Systemic Lupus Erythematosus: Recent Advances in Pathogenesis and Treatment.",
+      "first_author": "Natoli V",
+      "year": "2025",
+      "journal": "Curr Rheumatol Rep",
+      "doi": "10.1007/s11926-025-01207-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41088181",
+      "title": "Three intronic variants altering RNA splicing were identified in the CLCN5 gene by minigene assay.",
+      "first_author": "Qiao D",
+      "year": "2025",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-025-02230-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40654372",
+      "title": "Advancements in CRISPR/Cas systems for disease treatment.",
+      "first_author": "Xu Y",
+      "year": "2025",
+      "journal": "Acta Pharm Sin B",
+      "doi": "10.1016/j.apsb.2025.05.007",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40535747",
+      "title": "Expression and clinical significance of the p53/SAT1/ALOX15 ferroptosis-associated proteins in sinonasal inverted papilloma.",
+      "first_author": "Li DY",
+      "year": "2025",
+      "journal": "World J Otorhinolaryngol Head Neck Surg",
+      "doi": "10.1002/wjo2.213",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40471835",
+      "title": "Recent insights into the role of innate immunity in lupus.",
+      "first_author": "Robinson LA",
+      "year": "2025",
+      "journal": "Hum Mol Genet",
+      "doi": "10.1093/hmg/ddaf066",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "40386946",
+      "title": "Trio Whole Exome Sequencing in Chinese Childhood-Onset Lupus Reveals Novel Candidate Genes.",
+      "first_author": "Ma J",
+      "year": "2025",
+      "journal": "Arthritis Rheumatol",
+      "doi": "10.1002/art.43243",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39660463",
+      "title": "Genetic and epigenetic factors shape phenotypes and outcomes in systemic lupus erythematosus - focus on juvenile-onset systemic lupus erythematosus.",
+      "first_author": "Charras A",
+      "year": "2025",
+      "journal": "Curr Opin Rheumatol",
+      "doi": "10.1097/BOR.0000000000001072",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39337408",
+      "title": "Effect of Spermidine on Endothelial Function in Systemic Lupus Erythematosus Mice.",
+      "first_author": "Kim H",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25189920",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39232240",
+      "title": "Systemic lupus erythematosus genetics: insights into pathogenesis and implications for therapy.",
+      "first_author": "Ghodke-Puranik Y",
+      "year": "2024",
+      "journal": "Nat Rev Rheumatol",
+      "doi": "10.1038/s41584-024-01152-2",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39060650",
+      "title": "A TNIP1-driven systemic autoimmune disorder with elevated IgG4.",
+      "first_author": "Medhavy A",
+      "year": "2024",
+      "journal": "Nat Immunol",
+      "doi": "10.1038/s41590-024-01902-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39009839",
+      "title": "The immunology of systemic lupus erythematosus.",
+      "first_author": "Tsokos GC",
+      "year": "2024",
+      "journal": "Nat Immunol",
+      "doi": "10.1038/s41590-024-01898-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38970732",
+      "title": "LASSO-derived nomogram for early identification of pediatric monogenic lupus.",
+      "first_author": "Zhang TY",
+      "year": "2024",
+      "journal": "World J Pediatr",
+      "doi": "10.1007/s12519-024-00817-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38730385",
+      "title": "The landscape of transcriptional profiles in human oocytes with different chromatin configurations.",
+      "first_author": "Zhang YR",
+      "year": "2024",
+      "journal": "J Ovarian Res",
+      "doi": "10.1186/s13048-024-01431-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38619739",
+      "title": "Mendelian Causes of Autoimmunity: the Lupus Phenotype.",
+      "first_author": "Tusseau M",
+      "year": "2024",
+      "journal": "J Clin Immunol",
+      "doi": "10.1007/s10875-024-01696-8",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38464525",
+      "title": "Investigating the causal relationship and potential shared diagnostic genes between primary biliary cholangitis and systemic lupus erythematosus using bidirectional Mendelian randomization and transcriptomic analyses.",
+      "first_author": "Tao T",
+      "year": "2024",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2024.1270401",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38089440",
+      "title": "Metabolism of Polyamines and Kidney Disease: A Promising Therapeutic Target.",
+      "first_author": "Luo D",
+      "year": "2023",
+      "journal": "Kidney Dis (Basel)",
+      "doi": "10.1159/000533296",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37638017",
+      "title": "Childhood-onset systemic lupus erythematosus: characteristics and the prospect of glucocorticoid pulse therapy.",
+      "first_author": "Pan L",
+      "year": "2023",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2023.1128754",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37438615",
+      "title": "Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants.",
+      "first_author": "Vinuesa CG",
+      "year": "2023",
+      "journal": "Nat Rev Nephrol",
+      "doi": "10.1038/s41581-023-00732-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

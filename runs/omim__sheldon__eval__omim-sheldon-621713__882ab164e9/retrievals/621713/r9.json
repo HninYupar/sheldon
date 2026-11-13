@@ -1,0 +1,249 @@
+{
+  "id": "r9",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3 AND (oocyte OR zygote OR embryo OR meiotic OR maturation arrest OR infertility OR female infertility)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "47 PubMed hits for 'TACC3 AND (oocyte OR zygote OR embryo OR meiotic OR maturation arrest OR infertility OR female infertility)'; showing 20 (PubMed read it as: \"TACC3\"[All Fields] AND (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields] OR (\"zygote\"[MeSH Terms] OR \"zygote\"[All Fields] OR \"zygotes\"[All Fields] OR \"zygote s\"[All Fields] OR \"zygotic\"[All Fields] OR \"zygotically\"[All Fields]) OR (\"embryo s\"[All Fields] OR \"embryoes\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryo\"[All Fields] OR \"embryos\"[All Fields]) OR (\"meiotic\"[All Fields] OR \"meiotically\"[All Fields]) OR ((\"maturate\"[All Fields] OR \"maturated\"[All Fields] OR \"maturating\"[All Fields] OR \"maturation\"[All Fields] OR \"maturational\"[All Fields] OR \"maturations\"[All Fields] OR \"maturative\"[All Fields] OR \"mature\"[All Fields] OR \"matured\"[All Fields] OR \"maturer\"[All Fields] OR \"maturers\"[All Fields] OR \"matures\"[All Fields] OR \"maturing\"[All Fields] OR \"maturities\"[All Fields] OR \"maturity\"[All Fields]) AND (\"arrestant\"[All Fields] OR \"arrestants\"[All Fields] OR \"arresting\"[All Fields] OR \"arrestment\"[All Fields] OR \"arrests\"[All Fields] OR \"heart arrest\"[MeSH Terms] OR (\"heart\"[All Fields] AND \"arrest\"[All Fields]) OR \"heart arrest\"[All Fields] OR \"arrest\"[All Fields] OR \"arrested\"[All Fields])) OR (\"infertiles\"[All Fields] OR \"infertilities\"[All Fields] OR \"infertility\"[MeSH Terms] OR \"infertility\"[All Fields] OR \"infertile\"[All Fields]) OR (\"infertility, female\"[MeSH Terms] OR (\"infertility\"[All Fields] AND \"female\"[All Fields]) OR \"female infertility\"[All Fields] OR (\"female\"[All Fields] AND \"infertility\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "first_author": "So C",
+      "year": "2019",
+      "journal": "Science",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40903356",
+      "title": "The mechanisms of MTOCs maturation in human and mouse oocytes.",
+      "first_author": "Gu H",
+      "year": "2025",
+      "journal": "Sci Bull (Beijing)",
+      "doi": "10.1016/j.scib.2025.08.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38413710",
+      "title": "Male meiotic spindle poles are stabilized by TACC3 and cKAP5/chTOG differently from female meiotic or somatic mitotic spindles in mice.",
+      "first_author": "Simerly C",
+      "year": "2024",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-024-55376-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36739938",
+      "title": "Cobalt chloride exposure disturbs spindle assembly and decreases mouse oocyte development potential.",
+      "first_author": "Zhao SC",
+      "year": "2023",
+      "journal": "Toxicology",
+      "doi": "10.1016/j.tox.2023.153450",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35576634",
+      "title": "TPX2 deficiency leads to spindle abnormity and meiotic impairment in porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Theriogenology",
+      "doi": "10.1016/j.theriogenology.2022.04.031",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26168150",
+      "title": "TACC3 Is Important for Correct Progression of Meiosis in Bovine Oocytes.",
+      "first_author": "Mahdipour M",
+      "year": "2015",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0132591",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37745348",
+      "title": "Reviving immunogenic cell death upon targeting TACC3 enhances T-DM1 response in HER2-positive breast cancer.",
+      "first_author": "Gedik ME",
+      "year": "2023",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2023.09.12.557273",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17044029",
+      "title": "Proteomic profiling of murine oocyte maturation.",
+      "first_author": "Vitale AM",
+      "year": "2007",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.20648",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12237944",
+      "title": "TACC3 expression and localization in the murine egg and ovary.",
+      "first_author": "Hao Z",
+      "year": "2002",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.90012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "41107451",
+      "title": "Meiotic progression in multinuclear mouse spermatocytes without the spindle pole clustering motor protein KIFC1 or cytokinesis forms single-cell late-stage spermatids.",
+      "first_author": "Simerly C",
+      "year": "2025",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-025-20463-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33901174",
+      "title": "Aurora kinase A is essential for meiosis in mouse oocytes.",
+      "first_author": "Blengini CS",
+      "year": "2021",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1009327",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27572091",
+      "title": "Knockdown of TACC3 inhibits trophoblast cell migration and invasion through the PI3K/Akt signaling pathway.",
+      "first_author": "Zhu X",
+      "year": "2016",
+      "journal": "Mol Med Rep",
+      "doi": "10.3892/mmr.2016.5659",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36674642",
+      "title": "PAK1 Is Involved in the Spindle Assembly during the First Meiotic Division in Porcine Oocytes.",
+      "first_author": "Peng L",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms24021123",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12389629",
+      "title": "AINT/ERIC/TACC: an expanding family of proteins with C-terminal coiled coil domains.",
+      "first_author": "Lappin TR",
+      "year": "2002",
+      "journal": "Leuk Lymphoma",
+      "doi": "10.1080/1042819022386644",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "12711550",
+      "title": "TACC3 expression is tightly regulated during early differentiation.",
+      "first_author": "Sadek CM",
+      "year": "2003",
+      "journal": "Gene Expr Patterns",
+      "doi": "10.1016/s1567-133x(02)00066-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12642624",
+      "title": "Aint/Tacc3 is highly expressed in proliferating mouse tissues during development, spermatogenesis, and oogenesis.",
+      "first_author": "Aitola M",
+      "year": "2003",
+      "journal": "J Histochem Cytochem",
+      "doi": "10.1177/002215540305100407",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

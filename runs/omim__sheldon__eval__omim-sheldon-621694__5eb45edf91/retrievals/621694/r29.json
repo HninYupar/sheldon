@@ -1,0 +1,181 @@
+{
+  "id": "r29",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"PSMF1\"[All Fields] OR \"PI31\"[tiab]) AND (fibroblasts[MeSH Terms] OR fibroblasts[tiab] OR mitochondria[MeSH Terms] OR mitochondrial[tiab] OR Drosophila[MeSH Terms] OR mice[MeSH Terms]) AND (patient OR patients OR disease OR disorder OR Parkinson* OR neurodegeneration)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "14 PubMed hits for '(\"PSMF1\"[All Fields] OR \"PI31\"[tiab]) AND (fibroblasts[MeSH Terms] OR fibroblasts[tiab] OR mitochondria[MeSH Terms] OR mitochondrial[tiab] OR Drosophila[MeSH Terms] OR mice[MeSH Terms]) AND (patient OR patients OR disease OR disorder OR Parkinson* OR neurodegeneration)'; showing 14 (PubMed read it as: (\"PSMF1\"[All Fields] OR \"PI31\"[Title/Abstract]) AND (\"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[Title/Abstract] OR \"mitochondria\"[MeSH Terms] OR \"mitochondrial\"[Title/Abstract] OR \"drosophila\"[MeSH Terms] OR \"mice\"[MeSH Terms]) AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"disease\"[MeSH Terms] OR \"disease\"[All Fields] OR \"diseases\"[All Fields] OR \"disease s\"[All Fields] OR \"diseased\"[All Fields]) OR (\"disease\"[MeSH Terms] OR \"disease\"[All Fields] OR \"disorder\"[All Fields] OR \"disorders\"[All Fields] OR \"disorder s\"[All Fields] OR \"disordes\"[All Fields]) OR \"parkinson*\"[All Fields] OR (\"nerve degeneration\"[MeSH Terms] OR (\"nerve\"[All Fields] AND \"degeneration\"[All Fields]) OR \"nerve degeneration\"[All Fields] OR \"neurodegeneration\"[All Fields] OR \"neurodegenerating\"[All Fields] OR \"neurodegenerations\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "23622245",
+      "title": "Proteasome regulation by ADP-ribosylation.",
+      "first_author": "Cho-Park PF",
+      "year": "2013",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2013.03.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "first_author": "Rodriguez JA",
+      "year": "2025",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27936908",
+      "title": "The FBXO7 homologue nutcracker and binding partner PI31 in Drosophila melanogaster models of Parkinson's disease.",
+      "first_author": "Merzetti EM",
+      "year": "2017",
+      "journal": "Genome",
+      "doi": "10.1139/gen-2016-0087",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38466799",
+      "title": "Study of an FBXO7 patient mutation reveals Fbxo7 and PI31 co-regulate proteasomes and mitochondria.",
+      "first_author": "Al Rawi S",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17114",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42363684",
+      "title": "FMRP-Mediated Proteasome Regulation: A Novel Mechanism in ALS Pathology.",
+      "first_author": "Majumder P",
+      "year": "2026",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.202600563R",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24107298",
+      "title": "Beyond ubiquitination: the atypical functions of Fbxo7 and other F-box proteins.",
+      "first_author": "Nelson DE",
+      "year": "2013",
+      "journal": "Open Biol",
+      "doi": "10.1098/rsob.130131",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31327739",
+      "title": "PI31 Is an Adaptor Protein for Proteasome Transport in Axons and Required for Synaptic Development.",
+      "first_author": "Liu K",
+      "year": "2019",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2019.06.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32856318",
+      "title": "PIK3R2/Pik3r2 Activating Mutations Result in Brain Overgrowth and EEG Changes.",
+      "first_author": "Shi X",
+      "year": "2020",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.25890",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12548580",
+      "title": "Receptor activator of NF-kappaB ligand, macrophage inflammatory protein-1alpha, and the proteasome: novel therapeutic targets in myeloma.",
+      "first_author": "Oyajobi BO",
+      "year": "2003",
+      "journal": "Cancer",
+      "doi": "10.1002/cncr.11133",
+      "pubtype": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

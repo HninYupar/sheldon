@@ -1,0 +1,36 @@
+{
+  "id": "r136",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND (variant OR mutation OR pedigree OR family OR segregation OR homozygous OR compound heterozygous) AND (arthrogryposis OR contractures OR neuromuscular)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'PSMF1[tiab] AND (variant OR mutation OR pedigree OR family OR segregation OR homozygous OR compound heterozygous) AND (arthrogryposis OR contractures OR neuromuscular)'; showing 2 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields] OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"pedigree\"[MeSH Terms] OR \"pedigree\"[All Fields] OR \"pedigrees\"[All Fields] OR \"pedigree s\"[All Fields] OR \"pedigreed\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"segregant\"[All Fields] OR \"segregants\"[All Fields] OR \"segregate\"[All Fields] OR \"segregated\"[All Fields] OR \"segregates\"[All Fields] OR \"segregating\"[All Fields] OR \"segregational\"[All Fields] OR \"segregative\"[All Fields] OR \"social segregation\"[MeSH Terms] OR (\"social\"[All Fields] AND \"segregation\"[All Fields]) OR \"social segregation\"[All Fields] OR \"segregation\"[All Fields] OR \"segregations\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields]))) AND (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields] OR (\"contractural\"[All Fields] OR \"contracture\"[MeSH Terms] OR \"contracture\"[All Fields] OR \"contractures\"[All Fields] OR \"contractured\"[All Fields]) OR \"neuromuscular\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

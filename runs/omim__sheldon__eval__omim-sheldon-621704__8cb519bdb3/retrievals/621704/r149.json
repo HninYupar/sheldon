@@ -1,0 +1,48 @@
+{
+  "id": "r149",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "40621786"
+    ]
+  },
+  "summary": "fetched 1 of 1 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40621786",
+      "title": "Neuroaxonal Dystrophy With Osteopetrosis Associated With a Novel Biallelic Nonsense Homozygous Variant in BORCS5.",
+      "authors": [
+        "Fisher Y",
+        "Greenberg O",
+        "Shannon P",
+        "Staines A",
+        "McGivern B",
+        "Napier MP",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "American journal of medical genetics. Part A",
+      "doi": "10.1002/ajmg.a.64164",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh": [
+        "Humans",
+        "Osteopetrosis",
+        "Homozygote",
+        "Female",
+        "Codon, Nonsense",
+        "Male",
+        "Neuroaxonal Dystrophies",
+        "Pedigree",
+        "Consanguinity",
+        "Phenotype",
+        "Alleles",
+        "Exome Sequencing"
+      ],
+      "abstract": "Neuroaxonal dystrophy (NAD) with osteopetrosis syndrome (OMIM # 600329) was first reported in a consanguineous Moroccan Jewish family. However, to date, no genetic variant has been linked to this disease. We report on sibs, born to consanguineous Pakistani parents identified prenatally with cerebral ventriculomegaly and agenesis of the corpus callosum, and autopsies done on both showed similar abnormalities, including facial dysmorphism, osteopetrosis, and neuropathologic findings consistent with NAD. Trio exome sequencing identified a homozygous c.283 C>T; p.(Arg95Ter) variant in exon 3 of the BORCS5 gene (NM_058169.4) in each of the couple's fetuses, and each of the parents was heterozygous for this variant. Interestingly, one of the affected fetuses was also homozygous for a biallelic missense VUS variant in SCYL2 (NM_017988.5) c.902G>A; p. Arg301His, heterozygous in parents. However, the autopsy findings on the two sibs were identical, raising the possibility that this SCYL2 homozygote variant did not contribute to the phenotype."
+    }
+  ]
+}

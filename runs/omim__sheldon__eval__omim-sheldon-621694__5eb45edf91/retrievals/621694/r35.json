@@ -1,0 +1,178 @@
+{
+  "id": "r35",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41986367",
+      "39148840",
+      "42649079",
+      "41253044",
+      "40956890",
+      "42282567"
+    ]
+  },
+  "summary": "fetched 6 of 6 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "authors": [
+        "Magrinelli F",
+        "Tesson C",
+        "Angelova PR",
+        "Rodriguez JA",
+        "Scardamaglia A",
+        "O'Callaghan B",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Parkinsonian Disorders",
+        "Female",
+        "Mice",
+        "Male",
+        "Pedigree",
+        "Phenotype",
+        "Mitochondria",
+        "Disease Models, Animal",
+        "Parkinson Disease",
+        "Fibroblasts",
+        "Membrane Potential, Mitochondrial",
+        "Drosophila melanogaster"
+      ],
+      "abstract": "Dissecting biological pathways highlighted by Mendelian gene discovery has provided critical insights into the pathogenesis of Parkinson's disease (PD) and neurodegeneration. This approach ultimately catalyzes the identification of potential biomarkers and therapeutic targets. Here we identify PSMF1 as a gene implicated in parkinsonism and childhood neurodegeneration. We find that biallelic PSMF1 missense and loss-of-function variants co-segregate with phenotypes from early-onset PD to perinatal lethality with neurological manifestations across 18 pedigrees with 25 affected subjects, showing clear genotype-phenotype correlation. PSMF1 encodes the proteasome regulator PSMF1/hPI31, a highly conserved, ubiquitously expressed partner of the 20S proteasome and neurodegeneration-associated F-box-O 7 and valosin-containing proteins. We demonstrate that PSMF1 variants may affect proteasomal abundance and assembly, and are associated with alterations of mitochondrial membrane potential, respiration, dynamics and mitophagy in patient-derived fibroblasts. Furthermore, Drosophila and mouse models of PI31 loss of function exhibit age-dependent motor impairment, as well as brain-wide mitochondrial membrane depolarization and dopaminergic neurodegeneration in aged flies, and diffuse gliosis in mice. Collectively, our findings unequivocally link defective PSMF1/hPI31 to early-onset parkinsonism and neurodegeneration, and suggest proteasomal and mitochondrial dysfunction as pathogenic contributors."
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "authors": [
+        "Magrinelli F",
+        "Tesson C",
+        "Angelova PR",
+        "Rodriguez JA",
+        "Scardamaglia A",
+        "O'Callaghan B",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh": [],
+      "abstract": "Dissecting biological pathways highlighted by Mendelian gene discovery has provided critical insights into the pathogenesis of Parkinson's disease (PD) and neurodegeneration. This approach ultimately catalyzes the identification of potential biomarkers and therapeutic targets. Here, we identify PSMF1 as a novel gene implicated in parkinsonism and childhood neurodegeneration. We find that biallelic PSMF1 missense and loss-of-function variants co-segregate with phenotypes from early-onset PD to perinatal lethality with neurological manifestations across 17 pedigrees with 24 affected subjects, showing clear genotype-phenotype correlation. PSMF1 encodes the proteasome regulator PSMF1/PI31, a highly conserved, ubiquitously expressed partner of the 20S proteasome and neurodegeneration-associated F-box-O 7 and valosin-containing proteins. We demonstrate that PSMF1 variants impair mitochondrial membrane potential, dynamics and mitophagy, and may affect proteasomal abundance and assembly in patient-derived fibroblasts. Furthermore, Drosophila and mouse models of PSMF1 loss of function exhibit age-dependent motor impairment, as well as brain-wide mitochondrial membrane depolarization and dopaminergic neurodegeneration in aged flies, and diffuse gliosis in mice. Collectively, our findings unequivocally link defective PSMF1 to early-onset parkinsonism and neurodegeneration, and suggest proteasomal and mitochondrial dysfunction as mechanistic contributors."
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "authors": [
+        "Gabbert C",
+        "Much C",
+        "Wengh\u00f6fer A",
+        "Fienemann A",
+        "Schaake S",
+        "L\u00fcth T",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ],
+      "mesh": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "authors": [
+        "Cogan G",
+        "Lesage S",
+        "Brice A"
+      ],
+      "year": "2025",
+      "journal": "Current opinion in neurobiology",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Humans",
+        "Parkinson Disease",
+        "Mutation",
+        "Age of Onset",
+        "Genes, Recessive",
+        "Ubiquitin-Protein Ligases"
+      ],
+      "abstract": "Early-onset Parkinson's disease (EOPD) is usually defined as Parkinson's disease (PD) occurring before the age of 40-50 years. Unlike late-onset PD, EOPD is often due to pathogenic mutations in autosomal recessive genes. Two phenotypes can be distinguished: typical EOPD, which progresses slowly (PRKN, PINK1 and DJ-1), and atypical PD, often associated with additional symptoms (ATP13A2, FBXO7, DNAJC6, VPS13C, SYNJ1, PLA2G6). In this review, we will highlight recent advances and remaining challenges. The frequency of causal genetic mutations and the genotype-phenotype landscape of PRKN-associated PD has been refined. Long-read sequencing has solved several undiagnosed cases with a single PRKN mutation. Five new genes have been reported to contribute to EOPD associated with various neurological signs (PTPA, DAGLB, PSMF1, EPG5, SGIP1). Small molecules targeting PRKN dysfunctions are expected to enter clinical trials in the coming years, paving the way for targeted therapies in EOPD."
+    },
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "authors": [
+        "Rodriguez JA",
+        "Minis A",
+        "Aref R",
+        "Nguyen HHM",
+        "Sun F",
+        "Steller H"
+      ],
+      "year": "2025",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Mice",
+        "Disease Models, Animal",
+        "F-Box Proteins",
+        "Parkinsonian Disorders",
+        "Humans",
+        "Neurons",
+        "Mice, Transgenic",
+        "tau Proteins",
+        "Phosphorylation",
+        "Proteasome Endopeptidase Complex",
+        "Drosophila melanogaster"
+      ],
+      "abstract": "Neurodegenerative diseases present one of the most significant global health challenges. These disorders are defined by the accumulation of abnormal protein aggregates that impair synaptic function and cause progressive neuronal degeneration. Therefore, stimulating protein clearance mechanisms may be neuro-protective. Variants in FBXO7/PARK15 cause Parkinsonian Pyramidal Syndrome, an early-onset parkinsonian neurodegenerative disorder in humans, and inactivation of this gene in mice recapitulates many phenotypes seen in patients. The proteasome regulator PI31 is a direct binding partner of Fbxo7 and promotes local protein degradation at synapses by mediating fast proteasome transport in neurites. PI31 protein levels are reduced when the function of Fbxo7 is impaired. Here we show that restoring PI31 levels in Fbxo7 mutant fly and mouse strains prevents neuronal degeneration and significantly improves neuronal function, health, and lifespan. Notably, Fbxo7 inactivation in mouse neurons causes hyperphosphorylation of tau, and this was suppressed by transgenic expression of PI31. Our results demonstrate that PI31 is a crucial biological target through which Fbxo7 deficiency drives pathology. Therefore, targeting the PI31-pathway may represent a promising therapeutic approach for treating neurodegenerative disorders."
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "authors": [
+        "Adolf F",
+        "Goodall EA",
+        "Singh E",
+        "von Gronau S",
+        "Perez EF",
+        "Fung D",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "bioRxiv : the preprint server for biology",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh": [],
+      "abstract": "FBXO7 and PI31 variants are linked to rare Parkinsonian syndromes, implicating their dysfunction in neurodegeneration. We define how both engage each other and regulate the proteasome 20S core particle (CP). In cells, each can associate independently with the proteasome, with multiple domains in FBXO7 contributing. Utilizing cryo-EM we visualized how FBXO7's C-terminal domain engages multiple subunits within the CP interior, blocking the \u03b25 peptidase activity. In contrast, we visualized PI31 engagement of all three catalytic sites within the 20S CP, revealing the previously unknown structural basis for \u03b21 inhibition. Furthermore, we establish how disease-associated variants impact both FBXO7 and PI31 function, including disruption of proteasome inhibition and SKP1-FBXO7-PI31 complex assembly. These results establish an unexpected function for FBXO7, providing a mechanistic basis for investigation of its role in proteasome regulation in Parkinson's disease."
+    }
+  ]
+}

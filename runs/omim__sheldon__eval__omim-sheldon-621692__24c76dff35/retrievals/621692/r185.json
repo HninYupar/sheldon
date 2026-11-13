@@ -1,0 +1,103 @@
+{
+  "id": "r185",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "34102571",
+      "33790770",
+      "33349592"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "authors": [
+        "Le Roux M",
+        "Barth M",
+        "Gueden S",
+        "Desbordes de Cepoy P",
+        "Aeby A",
+        "Vilain C",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Calcium Channels",
+        "Child, Preschool",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Male",
+        "Seizures",
+        "Spinocerebellar Ataxias",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "CACNA1A pathogenic mutations are involved in various neurological phenotypes including episodic ataxia (EA2), spinocerebellar ataxia (SCA6), and familial hemiplegic migraine (FHM1). Epilepsy is poorly documented. We studied 18 patients (10 males) carrying de novo or inherited CACNA1A mutations, with median age of 2,5 years at epilepsy onset. Eight mutations were novel. Two variants known leading to gain of function (GOF) were found in 5 patients. Five other patients had non-sense variants leading to loss of function (LOF). Seizures were most often revealed by either status epilepticus (SE) (n\u00a0=\u00a08), eventually triggered by fever (n\u00a0=\u00a05), or absences/behavioural arrests (n\u00a0=\u00a07). Non-epileptic paroxysmal events were frequent and consisted in recurrent hemiplegic accesses (n\u00a0=\u00a09), jitteriness in the neonatal period (n\u00a0=\u00a06), and ocular paroxysmal events (n\u00a0=\u00a09). Most of the patients had early permanent cerebellar dysfunction (n\u00a0=\u00a016) and early moderate to severe global developmental delay (GDD)/intellectual deficiency (ID) (n\u00a0=\u00a017). MRI was often abnormal, with cerebellar (n\u00a0=\u00a08) and/or cerebral (n\u00a0=\u00a06) atrophy. Stroke-like occurred in 2 cases. Some antiepileptic drugs including topiramate, levetiracetam, lamotrigine and valproate were effective on seizures. Acetazolamide and calcium channel blockers were often effective when used. More than half of the patients had refractory epilepsy. CACNA1A mutation should be evoked in front of 2 main electro-clinical phenotypes that are associated with permanent cerebellar dysfunction and moderate to severe GDD/ID. The first one, found in all 5 patients with GOF variants, is characterized by intractable seizures, early and recurrent SE and hemiplegic accesses. The second, less severe, found in 5 patients with LOF variants, is characterized by refractory early onset absence seizures."
+    },
+    {
+      "pmid": "33790770",
+      "title": "R1352Q CACNA1A Variant in a Patient with Sporadic Hemiplegic Migraine, Ataxia, Seizures and Cerebral Oedema: A Case Report.",
+      "authors": [
+        "Stubberud A",
+        "O'Connor E",
+        "Tronvik E",
+        "Houlden H",
+        "Matharu M"
+      ],
+      "year": "2021",
+      "journal": "Case reports in neurology",
+      "doi": "10.1159/000512275",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Mutations in the CACNA1A gene show a wide range of neurological phenotypes including hemiplegic migraine, ataxia, mental retardation and epilepsy. In some cases, hemiplegic migraine attacks can be triggered by minor head trauma and culminate in encephalopathy and cerebral oedema. A 37-year-old male without a family history of complex migraine experienced hemiplegic migraine attacks from childhood. The attacks were usually triggered by minor head trauma, and on several occasions complicated with encephalopathy and cerebral oedema. Genetic testing of the proband and unaffected parents revealed a de novo heterozygous nucleotide missense mutation in exon 25 of the CACNA1A gene (c.4055G>A, p.R1352Q). The R1352Q CACNA1A variant shares the phenotype with other described CACNA1A mutations and highlights the interesting association of trauma as a precipitant for hemiplegic migraine. Subjects with early-onset sporadic hemiplegic migraine triggered by minor head injury or associated with seizures, ataxia or episodes of encephalopathy should be screened for mutations. These patients should also be advised to avoid activities that may result in head trauma, and anticonvulsants should be considered as prophylactic migraine therapy."
+    },
+    {
+      "pmid": "33349592",
+      "title": "Clinical phenotypes of infantile onset CACNA1A-related disorder.",
+      "authors": [
+        "Gur-Hartman T",
+        "Berkowitz O",
+        "Yosovich K",
+        "Roubertie A",
+        "Zanni G",
+        "Macaya A",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+      "doi": "10.1016/j.ejpn.2020.10.004",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh": [
+        "Calcium Channels",
+        "Cerebellar Ataxia",
+        "Child",
+        "Cognition Disorders",
+        "Dystonia",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Infant",
+        "Male",
+        "Phenotype",
+        "Retrospective Studies",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "BACKGROUND: CACNA1A-related disorders present with persistent progressive and non-progressive cerebellar ataxia and paroxysmal events: epileptic seizures and non-epileptic attacks. These phenotypes overlap and co-exist in the majority of patients.\nOBJECTIVE: To describe phenotypes in infantile onset CACNA1A-related disorder and to explore intra-familial variations and genotype-phenotype correlations.\nMATERIAL AND METHODS: This study was a multicenter international collaboration. A retrospective chart review of CACNA1A patients was performed. Clinical, radiological, and genetic data were collected and analyzed in 47 patients with infantile-onset disorder.\nRESULTS: Paroxysmal non-epileptic events (PNEE) were observed in 68% of infants, with paroxysmal tonic upward gaze (PTU) noticed in 47% of infants. Congenital cerebellar ataxia (CCA) was diagnosed in 51% of patients including four patients with developmental delay and only one neurological sign. PNEEs were found in 63% of patients at follow-up, with episodic ataxia (EA) in 40% of the sample. Cerebellar ataxia was found in 58% of the patients at follow-up. Four patients had epilepsy in infancy and nine in childhood. Seven infants had febrile convulsions, three of which developed epilepsy later; all three patients had CCA. Cognitive difficulties were demonstrated in 70% of the children. Cerebellar atrophy was found in only one infant but was depicted in 64% of MRIs after age two.\nCONCLUSIONS: Nearly all of the infants had CCA, PNEE or both. Cognitive difficulties were frequent and appeared to be associated with CCA. Epilepsy was more frequent after age two. Febrile convulsions in association with CCA may indicate risk of epilepsy in later childhood. Brain MRI was normal in infancy. There were no genotype-phenotype correlations found."
+    }
+  ]
+}

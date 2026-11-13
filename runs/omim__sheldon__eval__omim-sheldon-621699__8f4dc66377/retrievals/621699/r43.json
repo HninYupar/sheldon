@@ -1,0 +1,137 @@
+{
+  "id": "r43",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (patient OR patients OR case OR cohort OR family OR families)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "75 PubMed hits for 'SIT1[gene] AND (patient OR patients OR case OR cohort OR family OR families)'; showing 10 (PubMed read it as: \"SIT1\"[All Fields] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"ieee int conf automation sci eng case\"[Journal] OR \"case phila\"[Journal] OR \"case\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27183719",
+      "title": "[MOLECULAR CHARACTERISTICS OF THE MULTIDRUG-RESISTANT MYCOBACTERIUM TUBERCULOSIS STRAINS IN THE NORTHWEST RUSSIA].",
+      "first_author": "Vyazovaya AA",
+      "year": "2016",
+      "journal": "Mol Gen Mikrobiol Virusol",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30160974",
+      "title": "Intestinal IMINO transporter SIT1 is not expressed in human newborns.",
+      "first_author": "Meier C",
+      "year": "2018",
+      "journal": "Am J Physiol Gastrointest Liver Physiol",
+      "doi": "10.1152/ajpgi.00318.2017",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39159813",
+      "title": "Cryo-EM structure of ACE2-SIT1 in complex with tiagabine.",
+      "first_author": "Br\u00f6er A",
+      "year": "2024",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2024.107687",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "8723457",
+      "title": "Ciprofloxacin pharmacokinetics in burn patients.",
+      "first_author": "Garrelts JC",
+      "year": "1996",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.40.5.1153",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16622594",
+      "title": "Transport of L-proline, L-proline-containing peptides and related drugs at mammalian epithelial cell membranes.",
+      "first_author": "Brandsch M",
+      "year": "2006",
+      "journal": "Amino Acids",
+      "doi": "10.1007/s00726-006-0307-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42459881",
+      "title": "A hospital-based genomic analysis reveals predominance of ST215 Mycobacterium tuberculosis with low drug resistance.",
+      "first_author": "Yang M",
+      "year": "2026",
+      "journal": "Front Microbiol",
+      "doi": "10.3389/fmicb.2026.1871161",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12793843",
+      "title": "Pharmacokinetics and pharmacodynamics of intravenous levofloxacin in patients with early-onset ventilator-associated pneumonia.",
+      "first_author": "Pea F",
+      "year": "2003",
+      "journal": "Clin Pharmacokinet",
+      "doi": "10.2165/00003088-200342060-00008",
+      "pubtype": [
+        "Clinical Trial",
+        "Clinical Trial, Phase I",
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "r52",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"NDOABA2\" OR \"neurodegeneration, infantile-onset, with optic atrophy and structural brain abnormalities 2\" OR \"optic atrophy\" AND BORCS5) AND (fibroblast OR zebrafish OR rescue OR knockdown)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for '(\"NDOABA2\" OR \"neurodegeneration, infantile-onset, with optic atrophy and structural brain abnormalities 2\" OR \"optic atrophy\" AND BORCS5) AND (fibroblast OR zebrafish OR rescue OR knockdown)'; showing 2 (PubMed read it as: (((\"nerve degeneration\"[MeSH Terms] OR (\"nerve\"[All Fields] AND \"degeneration\"[All Fields]) OR \"nerve degeneration\"[All Fields] OR \"neurodegeneration\"[All Fields] OR \"neurodegenerating\"[All Fields] OR \"neurodegenerations\"[All Fields]) AND \"infantile onset\"[All Fields] AND (\"optic atrophy\"[MeSH Terms] OR (\"optic\"[All Fields] AND \"atrophy\"[All Fields]) OR \"optic atrophy\"[All Fields]) AND (\"structural\"[All Fields] OR \"structurally\"[All Fields] OR \"structurals\"[All Fields] OR \"structuration\"[All Fields] OR \"structurations\"[All Fields] OR \"structure\"[All Fields] OR \"structure s\"[All Fields] OR \"structured\"[All Fields] OR \"structures\"[All Fields] OR \"structuring\"[All Fields]) AND (\"brain\"[MeSH Terms] OR \"brain\"[All Fields] OR \"brains\"[All Fields] OR \"brain s\"[All Fields]) AND (\"abnormal\"[All Fields] OR \"abnormalities\"[MeSH Subheading] OR \"abnormalities\"[All Fields] OR \"congenital abnormalities\"[MeSH Terms] OR (\"congenital\"[All Fields] AND \"abnormalities\"[All Fields]) OR \"congenital abnormalities\"[All Fields] OR \"abnormality\"[All Fields] OR \"abnormally\"[All Fields] OR \"abnormals\"[All Fields] OR \"abnormities\"[All Fields] OR \"abnormity\"[All Fields]) AND \"2\"[All Fields]) OR \"optic atrophy\"[All Fields]) AND \"BORCS5\"[All Fields] AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields] OR (\"zebrafish\"[MeSH Terms] OR \"zebrafish\"[All Fields] OR \"zebrafishes\"[All Fields] OR \"zebrafish s\"[All Fields]) OR (\"rescue\"[All Fields] OR \"rescued\"[All Fields] OR \"rescues\"[All Fields] OR \"rescuing\"[All Fields]) OR (\"knockdown\"[All Fields] OR \"knockdowned\"[All Fields] OR \"knockdowns\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40385417",
+      "title": "Pathogenic variants in BORCS5 Cause a Spectrum of Neurodevelopmental and Neurodegenerative Disorders with Lysosomal Dysfunction.",
+      "first_author": "Mencacci NE",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2025.04.30.25326597",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42012897",
+      "title": "Pathogenic variants in BORCS5 cause a spectrum of neurodevelopmental and neurodegenerative disorders with lysosomal dysfunction.",
+      "first_author": "Mencacci NE",
+      "year": "2026",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI195336",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "r200",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(CACNA1A[gene]) AND (\"neuronal excitability\"[tiab] OR electrophysiology[tiab] OR patch clamp[tiab] OR \"CaV2.1\"[tiab]) AND (\"Thr501Met\"[tiab] OR T501M[tiab] OR \"c.1502C>T\"[tiab] OR \"p.Thr501Met\"[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '(CACNA1A[gene]) AND (\"neuronal excitability\"[tiab] OR electrophysiology[tiab] OR patch clamp[tiab] OR \"CaV2.1\"[tiab]) AND (\"Thr501Met\"[tiab] OR T501M[tiab] OR \"c.1502C>T\"[tiab] OR \"p.Thr501Met\"[tiab])'; showing 0 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"neuronal excitability\"[Title/Abstract] OR \"electrophysiology\"[Title/Abstract] OR \"patch clamp\"[Title/Abstract] OR \"CaV2.1\"[Title/Abstract]) AND (\"Thr501Met\"[Title/Abstract] OR \"p.Thr501Met\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": []
+}

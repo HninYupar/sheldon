@@ -1,0 +1,181 @@
+{
+  "id": "r34",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "34102571",
+      "41370402",
+      "30185235",
+      "35722745",
+      "40111503"
+    ]
+  },
+  "summary": "fetched 5 of 5 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "authors": [
+        "Le Roux M",
+        "Barth M",
+        "Gueden S",
+        "Desbordes de Cepoy P",
+        "Aeby A",
+        "Vilain C",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Calcium Channels",
+        "Child, Preschool",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Male",
+        "Seizures",
+        "Spinocerebellar Ataxias",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "CACNA1A pathogenic mutations are involved in various neurological phenotypes including episodic ataxia (EA2), spinocerebellar ataxia (SCA6), and familial hemiplegic migraine (FHM1). Epilepsy is poorly documented. We studied 18 patients (10 males) carrying de novo or inherited CACNA1A mutations, with median age of 2,5 years at epilepsy onset. Eight mutations were novel. Two variants known leading to gain of function (GOF) were found in 5 patients. Five other patients had non-sense variants leading to loss of function (LOF). Seizures were most often revealed by either status epilepticus (SE) (n\u00a0=\u00a08), eventually triggered by fever (n\u00a0=\u00a05), or absences/behavioural arrests (n\u00a0=\u00a07). Non-epileptic paroxysmal events were frequent and consisted in recurrent hemiplegic accesses (n\u00a0=\u00a09), jitteriness in the neonatal period (n\u00a0=\u00a06), and ocular paroxysmal events (n\u00a0=\u00a09). Most of the patients had early permanent cerebellar dysfunction (n\u00a0=\u00a016) and early moderate to severe global developmental delay (GDD)/intellectual deficiency (ID) (n\u00a0=\u00a017). MRI was often abnormal, with cerebellar (n\u00a0=\u00a08) and/or cerebral (n\u00a0=\u00a06) atrophy. Stroke-like occurred in 2 cases. Some antiepileptic drugs including topiramate, levetiracetam, lamotrigine and valproate were effective on seizures. Acetazolamide and calcium channel blockers were often effective when used. More than half of the patients had refractory epilepsy. CACNA1A mutation should be evoked in front of 2 main electro-clinical phenotypes that are associated with permanent cerebellar dysfunction and moderate to severe GDD/ID. The first one, found in all 5 patients with GOF variants, is characterized by intractable seizures, early and recurrent SE and hemiplegic accesses. The second, less severe, found in 5 patients with LOF variants, is characterized by refractory early onset absence seizures."
+    },
+    {
+      "pmid": "41370402",
+      "title": "Characterization of the functional and clinical impacts of CACNA1A missense variants found in neurodevelopmental disorders.",
+      "authors": [
+        "Kurganov E",
+        "Cui L",
+        "Budnik N",
+        "Chen S",
+        "Olivares E",
+        "Baez-Nieto D",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Science translational medicine",
+      "doi": "10.1126/scitranslmed.adr0024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Mutation, Missense",
+        "Neurodevelopmental Disorders",
+        "Neurons",
+        "Calcium Channels, N-Type",
+        "Calcium Channels",
+        "Induced Pluripotent Stem Cells"
+      ],
+      "abstract": "CACNA1A encodes the \u03b11A subunit of the CaV2.1 voltage-gated calcium channel essential for neuronal excitability, neurotransmitter release, and calcium signaling in neurons. Pathogenic CACNA1A variants are linked to diverse neurological and developmental disorders, including hemiplegic migraine, epilepsy, developmental delay, and ataxia. However, the contribution of CACNA1A variants to neurodevelopmental disorders has been less well established. Clinical heterogeneity and the complex impact of missense variants on channel function have made genotype-phenotype relationships difficult to resolve. Here, we characterized the biophysical properties of 42 de novo CACNA1A missense variants identified in a neurodevelopmental disorder cohort of over 31,000 individuals, alongside eight common variants from the general population. All but one de novo variant altered biophysical properties of the CaV2.1 channel, with 50% abolishing measurable currents. Among variants with detectable currents, nearly half disrupted voltage-dependent gating, whereas common variants had no measurable effect. Similar results were obtained using representative variants in the presence of \u03b23 or \u03b24 auxiliary subunits. The expression of two selected variants in CACNA1A-knockdown hiPSC-derived neurons confirmed similar functional alterations in human neurons. Simulations using the NEURON model of a Purkinje neuron demonstrated that these biophysical changes profoundly affected excitability. Coupling functional data with AlphaMissense predictions, we found that CaV2.1 missense variants contribute to the risk for developmental epileptic encephalopathy. Finally, correlating clinical features with molecular consequences of each variant revealed meaningful associations between specific channel dysfunctions and distinct clinical outcomes. These findings provide insights into CACNA1A molecular pathology and highlight the potential for precision medicine treatment of CACNA1A-associated disorders."
+    },
+    {
+      "pmid": "30185235",
+      "title": "Novel and de novo mutations in pediatric refractory epilepsy.",
+      "authors": [
+        "Liu J",
+        "Tong L",
+        "Song S",
+        "Niu Y",
+        "Li J",
+        "Wu X",
+        "et al."
+      ],
+      "year": "2018",
+      "journal": "Molecular brain",
+      "doi": "10.1186/s13041-018-0392-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Adolescent",
+        "Child",
+        "Child, Preschool",
+        "Epilepsies, Myoclonic",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Infant",
+        "Infant, Newborn",
+        "Male",
+        "Mutation",
+        "NAV1.1 Voltage-Gated Sodium Channel"
+      ],
+      "abstract": "Pediatric refractory epilepsy is a broad phenotypic spectrum with great genetic heterogeneity. Next-generation sequencing (NGS) combined with Sanger sequencing could help to understand the genetic diversity and underlying disease mechanisms in pediatric epilepsy. Here, we report sequencing results from a cohort of 172 refractory epilepsy patients aged 0-14\u00a0years. The pathogenicity of identified variants was evaluated in accordance with the American College of Medical Genetics and Genomics (ACMG) criteria. We identified 43 pathogenic or likely pathogenic variants in 40 patients (23.3%). Among these variants, 74.4% mutations (32/43) were de novo and 60.5% mutations (26/43) were novel. Patients with onset age of seizures \u226412\u00a0months had higher yields of deleterious variants compared to those with onset age of seizures >\u200912\u00a0months (P\u00a0=\u20090.006). Variants in ion channel genes accounted for the greatest functional gene category (55.8%), with SCN1A coming first (16/43). 81.25% (13/16) of SCN1A mutations were de novo and 68.8% (11/16) were novel in Dravet syndrome. Pathogenic or likely pathogenic variants were found in the KCNQ2, STXBP1, SCN2A genes in Ohtahara syndrome. Novel deleterious variants were also found in West syndrome, Doose syndrome and glucose transporter type 1 deficiency syndrome patients. One de novo MECP2 mutation were found in a Rett syndrome patient. TSC1/TSC2 variants were found in 60% patients with tuberous sclerosis complex patients. Other novel mutations detected in unclassified epilepsy patients involve the SCN8A, CACNA1A, GABRB3, GABRA1, IQSEC2, TSC1, VRK2, ATP1A2, PCDH19, SLC9A6 and CHD2 genes. Our study provides novel insights into the genetic origins of pediatric epilepsy and represents a starting-point for further investigations into the molecular pathophysiology of pediatric epilepsy that could eventually lead to better treatments."
+    },
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "authors": [
+        "Lipman AR",
+        "Fan X",
+        "Shen Y",
+        "Chung WK"
+      ],
+      "year": "2022",
+      "journal": "Clinical genetics",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Autism Spectrum Disorder",
+        "Calcium Channels",
+        "Humans",
+        "Nystagmus, Pathologic",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Pathogenic variants in the CACNA1A gene have been associated with episodic ataxia type 2, familial hemiplegic migraine, and spinocerebellar ataxia 6. With increasing use of clinical genetic testing, associations have expanded to include developmental delay, epilepsy, paroxysmal dystonia, and neuropsychiatric disorders. We report 47 individuals with 33 unique likely pathogenic or pathogenic CACNA1A variants. A machine learning method, funNCion, was used to predict loss-of-function (LoF)/gain-of-function (GoF) impact of genetic variants, and a heuristic severity score was designed to analyze genotype/phenotype correlations. Commonly reported phenotypes include developmental delay/intellectual disability (96%), hemiplegic migraines (36%), episodic ataxia type 2 (32%), epilepsy (55%), autism spectrum disorder (23%), and paroxysmal tonic upward gaze (36%). Severity score was significantly higher for predicted GoF variants, variants in the S5/S6 helices, and the recurrent p.Val1392Met variant. Seizures/status epilepticus were correlated with GoF and were more frequent in those with the p.Val1392Met variant. Our findings demonstrate a breadth of disease severity in CACNA1A-related disease and suggest that the clinical phenotypic heterogeneity likely reflects diverse molecular phenotypes. A better understanding of the natural history of CACNA1A-related disease and genotype/phenotype correlations will help inform prognosis and prepare for future clinical trials."
+    },
+    {
+      "pmid": "40111503",
+      "title": "Phenotypic variability in cases with CACNA1A mutation.",
+      "authors": [
+        "Bozkaya-Yilmaz S",
+        "Olgac-Dundar N",
+        "Aliyeva N",
+        "Ersen A",
+        "Gencpinar P",
+        "Gungor M",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "European journal of pediatrics",
+      "doi": "10.1007/s00431-025-06062-3",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh": [
+        "Humans",
+        "Male",
+        "Phenotype",
+        "Female",
+        "Child",
+        "Child, Preschool",
+        "Mutation",
+        "Adolescent",
+        "Turkey",
+        "Infant",
+        "Calcium Channels",
+        "Epilepsy",
+        "Adult",
+        "Young Adult",
+        "Neurodevelopmental Disorders",
+        "Migraine Disorders",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "UNLABELLED: The purpose of this study was to enhance understanding of CACNA1A gene variants by elucidating the clinical profiles of patients with different variants. The overlapping features and varying phenotypic characteristics of these neurological disorders pose challenges for clinicians. A data collection form was utilized to gather clinical features, examination details, and treatment information associated with CACNA1A variants. Thirty-one patients were included in the study from 11 different clinics in Turkey. Cases were assessed by comparing their information with existing literature. The study initially included 32 patients from 29 families, with 31 patients meeting the inclusion criteria. Clinical manifestations ranged from congenital onset hypotonia to motor seizures. Within the group of patients, 87% were diagnosed with epilepsy, 61% had neurodevelopmental defects, 32% experienced ataxia, 22% had eye movement problems, 16% suffered from migraines, and 13% had recurrent encephalopathy. Thirty percent of individuals exhibited cerebellar atrophy. A subset of individuals exhibited various forms of cognitive impairment and different kinds of ataxia.\nCONCLUSION: CACNA1A variants can lead to structural and functional abnormalities in the Cav2.1 channels, resulting in paroxysmal and/or chronic clinical presentations. The overlapping phenotypes and variable features among family members suggest the influence of environmental factors and modifier genes. A thorough understanding of the range of phenotypic variants and the difficulties encountered by medical professionals is essential for precise diagnosis and efficient treatment approaches in various neurological conditions. Additional research is necessary to clarify the underlying mechanisms that contribute to the various presentations of these variants.\nWHAT IS KNOWN: \u2022 Variants in the CACNA1A gene disrupt calcium signaling, thereby impacting fundamental developmental processes such as neuronal differentiation, migration, and synapse formation. \u2022 Variants in the CACNA1A can lead to neurodevelopmental disorders characterized by intellectual disability, learning difficulties, memory challenges, and problems in social interaction.\nWHAT IS NEW: \u2022 Instances of intrafamilial variability in CACNA1A variants have been identified, with differing clinical manifestations exhibited by affected family members. \u2022 Incomplete penetrance is a phenomenon that may occur, as neurodevelopmental or neuropsychiatric finding"
+    }
+  ]
+}

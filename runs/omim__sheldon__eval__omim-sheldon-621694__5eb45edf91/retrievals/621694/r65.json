@@ -1,0 +1,243 @@
+{
+  "id": "r65",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"PSMF1\"[tiab] AND (proteasome OR ubiquitin OR axon OR synapse OR mitochondrial OR fibroblast OR Drosophila OR mouse)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "19 PubMed hits for '\"PSMF1\"[tiab] AND (proteasome OR ubiquitin OR axon OR synapse OR mitochondrial OR fibroblast OR Drosophila OR mouse)'; showing 19 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"proteasomal\"[All Fields] OR \"proteasomally\"[All Fields] OR \"proteasome endopeptidase complex\"[Supplementary Concept] OR \"proteasome endopeptidase complex\"[All Fields] OR \"proteasome\"[All Fields] OR \"proteasome endopeptidase complex\"[MeSH Terms] OR (\"proteasome\"[All Fields] AND \"endopeptidase\"[All Fields] AND \"complex\"[All Fields]) OR \"proteasomes\"[All Fields] OR \"proteasome s\"[All Fields] OR \"proteasomic\"[All Fields] OR (\"ubiquitin\"[Supplementary Concept] OR \"ubiquitin\"[All Fields] OR \"ubiquitin\"[MeSH Terms] OR \"ubiquitinated\"[All Fields] OR \"ubiquitin s\"[All Fields] OR \"ubiquitinate\"[All Fields] OR \"ubiquitinates\"[All Fields] OR \"ubiquitinating\"[All Fields] OR \"ubiquitination\"[MeSH Terms] OR \"ubiquitination\"[All Fields] OR \"ubiquitinations\"[All Fields] OR \"ubiquitine\"[All Fields] OR \"ubiquitinization\"[All Fields] OR \"ubiquitinized\"[All Fields] OR \"ubiquitins\"[Supplementary Concept] OR \"ubiquitins\"[All Fields] OR \"ubiquitins\"[MeSH Terms]) OR (\"axons\"[MeSH Terms] OR \"axons\"[All Fields] OR \"axon\"[All Fields]) OR (\"synapse s\"[All Fields] OR \"synapsed\"[All Fields] OR \"synapses\"[MeSH Terms] OR \"synapses\"[All Fields] OR \"synapse\"[All Fields] OR \"synapsing\"[All Fields]) OR (\"mitochondria\"[MeSH Terms] OR \"mitochondria\"[All Fields] OR \"mitochondrial\"[All Fields] OR \"mitochondrially\"[All Fields] OR \"mitochondrials\"[All Fields]) OR (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields]) OR (\"drosophila\"[MeSH Terms] OR \"drosophila\"[All Fields] OR \"drosophilas\"[All Fields] OR \"drosophila s\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "25785312",
+      "title": "Proteomics analysis of EV71-infected cells reveals the involvement of host protein NEDD4L in EV71 replication.",
+      "first_author": "Kuo RL",
+      "year": "2015",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/pr501199h",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "39427606",
+      "title": "Exploring a novel four-gene system as a diagnostic and prognostic biomarker for triple-negative breast cancer, using clinical variables.",
+      "first_author": "Ali F",
+      "year": "2024",
+      "journal": "Comput Biol Chem",
+      "doi": "10.1016/j.compbiolchem.2024.108247",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33226164",
+      "title": "Characterisation of sperm piRNAs and their correlation with semen quality traits in swine.",
+      "first_author": "Ablondi M",
+      "year": "2021",
+      "journal": "Anim Genet",
+      "doi": "10.1111/age.13022",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33651148",
+      "title": "Potentially functional variants of ERAP1, PSMF1 and NCF2 in the MHC-I-related pathway predict non-small cell lung cancer survival.",
+      "first_author": "Yang S",
+      "year": "2021",
+      "journal": "Cancer Immunol Immunother",
+      "doi": "10.1007/s00262-021-02877-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "first_author": "Li X",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "first_author": "Clemen CS",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28031328",
+      "title": "Interactome Analysis Reveals a Novel Role for RAD6 in the Regulation of Proteasome Activity and Localization in Response to DNA Damage.",
+      "first_author": "An H",
+      "year": "2017",
+      "journal": "Mol Cell Biol",
+      "doi": "10.1128/MCB.00419-16",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "1447206",
+      "title": "Two related genes encoding extremely hydrophobic proteins suppress a lethal mutation in the yeast mitochondrial processing enhancing protein.",
+      "first_author": "West AH",
+      "year": "1992",
+      "journal": "J Biol Chem",
+      "doi": "",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "22362029",
+      "title": "Fub1p, a novel protein isolated by boundary screening, binds the proteasome complex.",
+      "first_author": "Hatanaka A",
+      "year": "2011",
+      "journal": "Genes Genet Syst",
+      "doi": "10.1266/ggs.86.305",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33009551",
+      "title": "Genome-Wide Association Analysis of Neonatal White Matter Microstructure.",
+      "first_author": "Zhang J",
+      "year": "2021",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhaa266",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "18702538",
+      "title": "Proteomic analysis of testis biopsies in men treated with injectable testosterone undecanoate alone or in combination with oral levonorgestrel as potential male contraceptive.",
+      "first_author": "Cui Y",
+      "year": "2008",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/pr800259t",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42945227",
+      "title": "Transcriptomic Profiling of PBMCs via Bulk RNA-Sequencing in Posner-Schlossman Syndrome Reveals Immune Dysregulation and Altered Viral Response.",
+      "first_author": "Peng SM",
+      "year": "2026",
+      "journal": "Ocul Immunol Inflamm",
+      "doi": "10.1080/09273948.2026.2746986",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21944250",
+      "title": "A replication study of genome-wide CNV association for hepatic biomarkers identifies nine genes associated with liver function.",
+      "first_author": "Kim HY",
+      "year": "2011",
+      "journal": "BMB Rep",
+      "doi": "10.5483/bmbrep.2011.44.9.578",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

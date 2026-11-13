@@ -1,0 +1,253 @@
+{
+  "id": "r148",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (oocyte OR oocyte maturation OR zygote OR embryo OR embryonic OR infertility OR female infertility OR arrest)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "77 PubMed hits for 'TACC3[gene] AND (oocyte OR oocyte maturation OR zygote OR embryo OR embryonic OR infertility OR female infertility OR arrest)'; showing 20 (PubMed read it as: \"TACC3\"[All Fields] AND (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields] OR ((\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) AND (\"maturate\"[All Fields] OR \"maturated\"[All Fields] OR \"maturating\"[All Fields] OR \"maturation\"[All Fields] OR \"maturational\"[All Fields] OR \"maturations\"[All Fields] OR \"maturative\"[All Fields] OR \"mature\"[All Fields] OR \"matured\"[All Fields] OR \"maturer\"[All Fields] OR \"maturers\"[All Fields] OR \"matures\"[All Fields] OR \"maturing\"[All Fields] OR \"maturities\"[All Fields] OR \"maturity\"[All Fields])) OR (\"zygote\"[MeSH Terms] OR \"zygote\"[All Fields] OR \"zygotes\"[All Fields] OR \"zygote s\"[All Fields] OR \"zygotic\"[All Fields] OR \"zygotically\"[All Fields]) OR (\"embryo s\"[All Fields] OR \"embryoes\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryo\"[All Fields] OR \"embryos\"[All Fields]) OR (\"embryonal\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryonic\"[All Fields] OR \"embryonically\"[All Fields] OR \"embryonics\"[All Fields]) OR (\"infertiles\"[All Fields] OR \"infertilities\"[All Fields] OR \"infertility\"[MeSH Terms] OR \"infertility\"[All Fields] OR \"infertile\"[All Fields]) OR (\"infertility, female\"[MeSH Terms] OR (\"infertility\"[All Fields] AND \"female\"[All Fields]) OR \"female infertility\"[All Fields] OR (\"female\"[All Fields] AND \"infertility\"[All Fields])) OR (\"arrestant\"[All Fields] OR \"arrestants\"[All Fields] OR \"arresting\"[All Fields] OR \"arrestment\"[All Fields] OR \"arrests\"[All Fields] OR \"heart arrest\"[MeSH Terms] OR (\"heart\"[All Fields] AND \"arrest\"[All Fields]) OR \"heart arrest\"[All Fields] OR \"arrest\"[All Fields] OR \"arrested\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "first_author": "So C",
+      "year": "2019",
+      "journal": "Science",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35930054",
+      "title": "Effects of Ran-GTP/importin \u03b2 inhibition on the meiotic division of porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Histochem Cell Biol",
+      "doi": "10.1007/s00418-022-02134-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38012214",
+      "title": "Knockdown of TACC3 inhibits tumor cell proliferation and increases chemosensitivity in pancreatic cancer.",
+      "first_author": "Shi S",
+      "year": "2023",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-023-06313-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31987043",
+      "title": "FGFR3 signaling and function in triple negative breast cancer.",
+      "first_author": "Chew NJ",
+      "year": "2020",
+      "journal": "Cell Commun Signal",
+      "doi": "10.1186/s12964-019-0486-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41279925",
+      "title": "The scaffold protein PRR14L links the PP2A-TACC3 axis to mitotic fidelity and sensitivity to MPS1 inhibition.",
+      "first_author": "Liu AZ",
+      "year": "2025",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2025.11.04.686150",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "36864125",
+      "title": "Targeting TACC3 represents a novel vulnerability in highly aggressive breast cancers with centrosome amplification.",
+      "first_author": "Saatci O",
+      "year": "2023",
+      "journal": "Cell Death Differ",
+      "doi": "10.1038/s41418-023-01140-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18756265",
+      "title": "Dissecting the role of Aurora A during spindle assembly.",
+      "first_author": "Sardon T",
+      "year": "2008",
+      "journal": "EMBO J",
+      "doi": "10.1038/emboj.2008.173",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35576634",
+      "title": "TPX2 deficiency leads to spindle abnormity and meiotic impairment in porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Theriogenology",
+      "doi": "10.1016/j.theriogenology.2022.04.031",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32217742",
+      "title": "A Highly Potent TACC3 Inhibitor as a Novel Anticancer Drug Candidate.",
+      "first_author": "Akbulut O",
+      "year": "2020",
+      "journal": "Mol Cancer Ther",
+      "doi": "10.1158/1535-7163.MCT-19-0957",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40903356",
+      "title": "The mechanisms of MTOCs maturation in human and mouse oocytes.",
+      "first_author": "Gu H",
+      "year": "2025",
+      "journal": "Sci Bull (Beijing)",
+      "doi": "10.1016/j.scib.2025.08.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12569123",
+      "title": "The ch-TOG/XMAP215 protein is essential for spindle pole organization in human somatic cells.",
+      "first_author": "Gergely F",
+      "year": "2003",
+      "journal": "Genes Dev",
+      "doi": "10.1101/gad.245603",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11847113",
+      "title": "The centrosomal protein TACC3 is essential for hematopoietic stem cell function and genetically interfaces with p53-regulated apoptosis.",
+      "first_author": "Piekorz RP",
+      "year": "2002",
+      "journal": "EMBO J",
+      "doi": "10.1093/emboj/21.4.653",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "15788567",
+      "title": "The Xenopus TACC homologue, maskin, functions in mitotic spindle assembly.",
+      "first_author": "O'Brien LL",
+      "year": "2005",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.e04-10-0926",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "33901174",
+      "title": "Aurora kinase A is essential for meiosis in mouse oocytes.",
+      "first_author": "Blengini CS",
+      "year": "2021",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1009327",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15687499",
+      "title": "Phosphorylation of maskin by Aurora-A participates in the control of sequential protein synthesis during Xenopus laevis oocyte maturation.",
+      "first_author": "Pascreau G",
+      "year": "2005",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M410584200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37341435",
+      "title": "TACC3 is an independent prognostic marker, and knockdown of TACC3 enhances the efficacy of CDK1 inhibitor RO3306 in liver cancer cells.",
+      "first_author": "Guo E",
+      "year": "2023",
+      "journal": "J Biochem Mol Toxicol",
+      "doi": "10.1002/jbt.23402",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17599038",
+      "title": "TACC3 depletion sensitizes to paclitaxel-induced cell death and overrides p21WAF-mediated cell cycle arrest.",
+      "first_author": "Schneider L",
+      "year": "2008",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1210628",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

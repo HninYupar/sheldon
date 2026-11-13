@@ -1,0 +1,256 @@
+{
+  "id": "r138",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (review[pt] OR autophagy[tiab] OR mechanistic[tiab] OR functional[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1352 PubMed hits for 'ATG12[gene] AND (review[pt] OR autophagy[tiab] OR mechanistic[tiab] OR functional[tiab])'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"review\"[Publication Type] OR \"autophagy\"[Title/Abstract] OR \"mechanistic\"[Title/Abstract] OR \"functional\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31969156",
+      "title": "Autophagy and autophagy-related proteins in cancer.",
+      "first_author": "Li X",
+      "year": "2020",
+      "journal": "Mol Cancer",
+      "doi": "10.1186/s12943-020-1138-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21175768",
+      "title": "Autophagy basics.",
+      "first_author": "Tanida I",
+      "year": "2011",
+      "journal": "Microbiol Immunol",
+      "doi": "10.1111/j.1348-0421.2010.00271.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35222638",
+      "title": "Deficient Autophagy in Microglia Aggravates Repeated Social Defeat Stress-Induced Social Avoidance.",
+      "first_author": "Sakai M",
+      "year": "2022",
+      "journal": "Neural Plast",
+      "doi": "10.1155/2022/7503553",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33172335",
+      "title": "AMPK-induced autophagy as a key regulator of cell migration.",
+      "first_author": "Bressan C",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1848120",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "40641404",
+      "title": "ATG16L1 membrane recruitment in autophagy.",
+      "first_author": "Wei F",
+      "year": "2025",
+      "journal": "Crit Rev Biochem Mol Biol",
+      "doi": "10.1080/10409238.2025.2521321",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33033362",
+      "title": "Macrophage scavenger receptor 1 controls Chikungunya virus infection through autophagy in mice.",
+      "first_author": "Yang L",
+      "year": "2020",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-020-01285-6",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31901645",
+      "title": "The ATG conjugation systems in autophagy.",
+      "first_author": "Mizushima N",
+      "year": "2020",
+      "journal": "Curr Opin Cell Biol",
+      "doi": "10.1016/j.ceb.2019.12.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31690182",
+      "title": "Allosteric regulation through a switch element in the autophagy E2, Atg3.",
+      "first_author": "Qiu Y",
+      "year": "2020",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2019.1688550",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35322852",
+      "title": "Microwave radiation induces neuronal autophagy through miR-30a-5p/AMPK\u03b12 signal pathway.",
+      "first_author": "Hao Y",
+      "year": "2022",
+      "journal": "Biosci Rep",
+      "doi": "10.1042/BSR20212584",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40763565",
+      "title": "Targeting the ATG12-ATG3 protein-protein interaction: From structural insights to therapeutic opportunities in autophagy modulation.",
+      "first_author": "Kamel EM",
+      "year": "2025",
+      "journal": "Pathol Res Pract",
+      "doi": "10.1016/j.prp.2025.156156",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37432567",
+      "title": "Zinc Oxide Nanoparticles Trigger Autophagy in the Human Multiple Myeloma Cell Line RPMI8226: an In Vitro Study.",
+      "first_author": "Li Z",
+      "year": "2024",
+      "journal": "Biol Trace Elem Res",
+      "doi": "10.1007/s12011-023-03737-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39988583",
+      "title": "Targeting NLRC5 in cardiomyocytes protects postinfarction cardiac injury by enhancing autophagy flux through the CAVIN1/CAV1 axis.",
+      "first_author": "Gu L",
+      "year": "2025",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-025-07755-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40395522",
+      "title": "ATG5 is dispensable for ATG8ylation of cellular proteins.",
+      "first_author": "Ketteler R",
+      "year": "2024",
+      "journal": "Autophagy Rep",
+      "doi": "10.1080/27694127.2024.2392450",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39227990",
+      "title": "The roles and mechanisms of endoplasmic reticulum stress-mediated autophagy in animal viral infections.",
+      "first_author": "Chen L",
+      "year": "2024",
+      "journal": "Vet Res",
+      "doi": "10.1186/s13567-024-01360-4",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30765325",
+      "title": "miR-221/222-Mediated Inhibition of Autophagy Promotes Dexamethasone Resistance in Multiple Myeloma.",
+      "first_author": "Xu J",
+      "year": "2019",
+      "journal": "Mol Ther",
+      "doi": "10.1016/j.ymthe.2019.01.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33022940",
+      "title": "Ubiquitin-Like Modifiers: Emerging Regulators of Protozoan Parasites.",
+      "first_author": "Karpiyevich M",
+      "year": "2020",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom10101403",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39851549",
+      "title": "Discovery of Evolutionary Loss of the Ubiquitin-like Autophagy-Related ATG12 System in a Lineage of Apicomplexa.",
+      "first_author": "Lin XX",
+      "year": "2025",
+      "journal": "Cells",
+      "doi": "10.3390/cells14020121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37866664",
+      "title": "circ_SIRT1 upregulates ATG12 to facilitate Imatinib resistance in CML through interacting with EIF4A3.",
+      "first_author": "Zhang R",
+      "year": "2024",
+      "journal": "Gene",
+      "doi": "10.1016/j.gene.2023.147917",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29492791",
+      "title": "Involvement of the autophagic pathway in the progression of AMD-like retinopathy in senescence-accelerated OXYS rats.",
+      "first_author": "Kozhevnikova OS",
+      "year": "2018",
+      "journal": "Biogerontology",
+      "doi": "10.1007/s10522-018-9751-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40395294",
+      "title": "Venetoclax inhibits autophagy in chronic lymphocytic leukemia cells.",
+      "first_author": "Chen Y",
+      "year": "2023",
+      "journal": "Autophagy Rep",
+      "doi": "10.1080/27694127.2023.2169518",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

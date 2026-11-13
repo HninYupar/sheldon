@@ -1,0 +1,253 @@
+{
+  "id": "r118",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "42649079",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "99 'similar' links for PMID 42649079; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "35640906",
+      "title": "Heterozygous PRKN mutations are common but do not increase the risk of Parkinson's disease.",
+      "first_author": "Zhu W",
+      "year": "2022",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab456",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32613234",
+      "title": "The role of genetics in Parkinson's disease: a large cohort study in Chinese mainland population.",
+      "first_author": "Zhao Y",
+      "year": "2020",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awaa167",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38853950",
+      "title": "Are rare heterozygous SYNJ1 variants associated with Parkinson's disease?",
+      "first_author": "Senkevich K",
+      "year": "2024",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.05.29.24307986",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41058593",
+      "title": "Large-scale genetic characterization of Parkinson's disease in the African and African admixed populations.",
+      "first_author": "Ak\u00e7imen F",
+      "year": "2026",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awaf379",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31324919",
+      "title": "Genetic analysis of Mendelian mutations in a large UK population-based Parkinson's disease study.",
+      "first_author": "Tan MMX",
+      "year": "2019",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awz191",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32970363",
+      "title": "Analysis of Heterozygous PRKN Variants and Copy-Number Variations in Parkinson's Disease.",
+      "first_author": "Yu E",
+      "year": "2021",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.28299",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33029617",
+      "title": "Mitochondrial damage-associated inflammation highlights biomarkers in PRKN/PINK1 parkinsonism.",
+      "first_author": "Borsche M",
+      "year": "2020",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awaa246",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32870915",
+      "title": "A genetic analysis of a Spanish population with early onset Parkinson's disease.",
+      "first_author": "Cristina TP",
+      "year": "2020",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0238098",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39973502",
+      "title": "Rethinking 'rare' PINK1 Parkinson's disease: A meta-analysis of geographical prevalence, phenotypic diversity, and \u03b1-synuclein pathology.",
+      "first_author": "Yin EP",
+      "year": "2025",
+      "journal": "J Parkinsons Dis",
+      "doi": "10.1177/1877718X241304814",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40192014",
+      "title": "Biallelic Variants in EPG5 Gene Are Associated with Parkinson's Disease.",
+      "first_author": "Sun QY",
+      "year": "2025",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.27242",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22934315",
+      "title": "CSF1R-Related Disorder.",
+      "first_author": "Adam MP",
+      "year": "1993",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33571872",
+      "title": "Compound heterozygous variants in Wiskott-Aldrich syndrome like (WASL) gene segregating in a family with early onset Parkinson's disease.",
+      "first_author": "Kumar S",
+      "year": "2021",
+      "journal": "Parkinsonism Relat Disord",
+      "doi": "10.1016/j.parkreldis.2021.02.001",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39455605",
+      "title": "Are rare heterozygous SYNJ1 variants associated with Parkinson's disease?",
+      "first_author": "Senkevich K",
+      "year": "2024",
+      "journal": "NPJ Parkinsons Dis",
+      "doi": "10.1038/s41531-024-00809-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41798285",
+      "title": "The genetic architecture of Parkinson's disease in Mexico: a systematic review.",
+      "first_author": "Arias-Carri\u00f3n O",
+      "year": "2026",
+      "journal": "Front Aging Neurosci",
+      "doi": "10.3389/fnagi.2026.1709246",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "42282179",
+      "title": "A genome-wide association study of young onset Parkinson's disease in European ancestry.",
+      "first_author": "Lie IH",
+      "year": "2026",
+      "journal": "medRxiv",
+      "doi": "10.64898/2026.06.03.26354799",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "40244389",
+      "title": "Identification of DAGLB variants in Japanese early-onset Parkinson's disease.",
+      "first_author": "Luo Y",
+      "year": "2025",
+      "journal": "J Neural Transm (Vienna)",
+      "doi": "10.1007/s00702-025-02926-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40884420",
+      "title": "Compound Heterozygous Structural Variants in Cases with Unsolved PRKN-Associated Parkinson's Disease.",
+      "first_author": "Fant A",
+      "year": "2025",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70027",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42463407",
+      "title": "Biallelic hexose-6-phosphate dehydrogenase variants cause mitochondrial dysfunction underlying Parkinson's disease.",
+      "first_author": "Zhao M",
+      "year": "2026",
+      "journal": "Sci Bull (Beijing)",
+      "doi": "10.1016/j.scib.2026.07.038",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

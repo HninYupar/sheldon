@@ -1,0 +1,12 @@
+{
+  "id": "r5",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"arthrogryposis multiplex congenita\"[tiab] OR arthrogryposis[tiab]) AND PSMF1[tiab]",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '(\"arthrogryposis multiplex congenita\"[tiab] OR arthrogryposis[tiab]) AND PSMF1[tiab]'; showing 0 (PubMed read it as: (\"arthrogryposis multiplex congenita\"[Title/Abstract] OR \"arthrogryposis\"[Title/Abstract]) AND \"PSMF1\"[Title/Abstract])",
+  "ok": true,
+  "evidence": []
+}

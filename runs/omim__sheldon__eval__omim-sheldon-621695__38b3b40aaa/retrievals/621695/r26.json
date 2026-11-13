@@ -1,0 +1,49 @@
+{
+  "id": "r26",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (congenital OR fetal OR prenatal OR perinatal OR contracture OR contractures OR akinesia)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for 'PSMF1[gene] AND (congenital OR fetal OR prenatal OR perinatal OR contracture OR contractures OR akinesia)'; showing 3 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"congenital\"[MeSH Subheading] OR \"congenital\"[All Fields] OR \"congenitally\"[All Fields] OR (\"fetale\"[All Fields] OR \"fetally\"[All Fields] OR \"fetals\"[All Fields] OR \"foetal\"[All Fields] OR \"fetus\"[MeSH Terms] OR \"fetus\"[All Fields] OR \"fetal\"[All Fields]) OR (\"prenatal\"[All Fields] OR \"prenatally\"[All Fields] OR \"prenatals\"[All Fields]) OR (\"perinatal\"[All Fields] OR \"perinatally\"[All Fields] OR \"perinatals\"[All Fields]) OR (\"contractural\"[All Fields] OR \"contracture\"[MeSH Terms] OR \"contracture\"[All Fields] OR \"contractures\"[All Fields] OR \"contractured\"[All Fields]) OR (\"contractural\"[All Fields] OR \"contracture\"[MeSH Terms] OR \"contracture\"[All Fields] OR \"contractures\"[All Fields] OR \"contractured\"[All Fields]) OR (\"akinesia\"[All Fields] OR \"akinesias\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    }
+  ]
+}

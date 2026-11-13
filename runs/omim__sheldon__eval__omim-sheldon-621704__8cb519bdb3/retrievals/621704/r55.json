@@ -1,0 +1,94 @@
+{
+  "id": "r55",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "BORCS5[gene] AND (\"neuroaxonal dystrophy\" OR osteopetrosis OR lysosomal OR neurodevelopmental OR neurodegenerative)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "7 PubMed hits for 'BORCS5[gene] AND (\"neuroaxonal dystrophy\" OR osteopetrosis OR lysosomal OR neurodevelopmental OR neurodegenerative)'; showing 7 (PubMed read it as: \"BORCS5\"[All Fields] AND (\"neuroaxonal dystrophy\"[All Fields] OR (\"osteopetrosis\"[MeSH Terms] OR \"osteopetrosis\"[All Fields] OR \"osteopetroses\"[All Fields]) OR (\"lysosomal\"[All Fields] OR \"lysosomally\"[All Fields] OR \"lysosomes\"[MeSH Terms] OR \"lysosomes\"[All Fields] OR \"lysosome\"[All Fields]) OR (\"neurodevelopment\"[MeSH Terms] OR \"neurodevelopment\"[All Fields] OR \"neurodevelopmental\"[All Fields] OR \"neurodevelopmentally\"[All Fields]) OR (\"neurodegenerative\"[All Fields] OR \"neurodegeneratives\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36717601",
+      "title": "BORC complex specific components and Kinesin-1 mediate autophagy evasion by the autophagy-resistant Mycobacterium tuberculosis Beijing strain.",
+      "first_author": "Tunganuntarat J",
+      "year": "2023",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-023-28983-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40385417",
+      "title": "Pathogenic variants in BORCS5 Cause a Spectrum of Neurodevelopmental and Neurodegenerative Disorders with Lysosomal Dysfunction.",
+      "first_author": "Mencacci NE",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2025.04.30.25326597",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42012897",
+      "title": "Pathogenic variants in BORCS5 cause a spectrum of neurodevelopmental and neurodegenerative disorders with lysosomal dysfunction.",
+      "first_author": "Mencacci NE",
+      "year": "2026",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI195336",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40621786",
+      "title": "Neuroaxonal Dystrophy With Osteopetrosis Associated With a Novel Biallelic Nonsense Homozygous Variant in BORCS5.",
+      "first_author": "Fisher Y",
+      "year": "2025",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.64164",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "39740668",
+      "title": "The structure and assembly of the hetero-octameric BLOC-one-related complex.",
+      "first_author": "Ge X",
+      "year": "2025",
+      "journal": "Structure",
+      "doi": "10.1016/j.str.2024.12.001",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41557793",
+      "title": "BORC assemblies integrate BLOC-1 subunits to diversify endosomal trafficking functions.",
+      "first_author": "de Araujo MEG",
+      "year": "2026",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2515691123",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42827379",
+      "title": "A Novel BORCS5 Loss-Of-Function Variant in a Patient With a Rare Neurodevelopmental Disorder.",
+      "first_author": "Mahmood A",
+      "year": "2026",
+      "journal": "Int J Dev Neurosci",
+      "doi": "10.1002/jdn.70182",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    }
+  ]
+}

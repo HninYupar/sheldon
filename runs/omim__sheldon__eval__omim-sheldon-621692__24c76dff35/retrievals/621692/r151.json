@@ -1,0 +1,258 @@
+{
+  "id": "r151",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (c.5018dupG OR 5018dupG OR frameshift OR truncating) AND functional",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "52 PubMed hits for 'CACNA1A[gene] AND (c.5018dupG OR 5018dupG OR frameshift OR truncating) AND functional'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"5018dupG\"[All Fields] OR (\"frameshift mutation\"[MeSH Terms] OR (\"frameshift\"[All Fields] AND \"mutation\"[All Fields]) OR \"frameshift mutation\"[All Fields] OR \"frameshift\"[All Fields] OR \"frameshifted\"[All Fields] OR \"frameshifter\"[All Fields] OR \"frameshifting\"[All Fields] OR \"frameshifts\"[All Fields]) OR (\"truncate\"[All Fields] OR \"truncated\"[All Fields] OR \"truncates\"[All Fields] OR \"truncating\"[All Fields] OR \"truncation\"[All Fields] OR \"truncations\"[All Fields])) AND (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "12736095",
+      "title": "A novel insertion mutation of acetazolamide-responsive episodic ataxia in a Japanese family.",
+      "first_author": "Matsuyama Z",
+      "year": "2003",
+      "journal": "J Neurol Sci",
+      "doi": "10.1016/s0022-510x(03)00008-x",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11719255",
+      "title": "Spinocerebellar ataxia type 6: channelopathy or glutamine repeat disorder?",
+      "first_author": "Frontali M",
+      "year": "2001",
+      "journal": "Brain Res Bull",
+      "doi": "10.1016/s0361-9230(01)00574-3",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35837781",
+      "title": "Clinical features and CACNA1A gene mutation in a family with episodic ataxia type 2.",
+      "first_author": "Xu Y",
+      "year": "2022",
+      "journal": "Zhong Nan Da Xue Xue Bao Yi Xue Ban",
+      "doi": "10.11817/j.issn.1672-7347.2022.210650",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33985586",
+      "title": "Calcium channelopathies and intellectual disability: a systematic review.",
+      "first_author": "Kessi M",
+      "year": "2021",
+      "journal": "Orphanet J Rare Dis",
+      "doi": "10.1186/s13023-021-01850-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "29497979",
+      "title": "A Novel Frameshift CACNA1A Mutation Causing Episodic Ataxia Type 2.",
+      "first_author": "Balck A",
+      "year": "2018",
+      "journal": "Cerebellum",
+      "doi": "10.1007/s12311-018-0931-8",
+      "pubtype": [
+        "Case Reports",
+        "Editorial",
+        "Video-Audio Media"
+      ]
+    },
+    {
+      "pmid": "10987655",
+      "title": "Detection of a novel missense mutation and second recurrent mutation in the CACNA1A gene in individuals with EA-2 and FHM.",
+      "first_author": "Friend KL",
+      "year": "1999",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s004390051099",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25118028",
+      "title": "Malan syndrome: Sotos-like overgrowth with de novo NFIX sequence variants and deletions in six new patients and a review of the literature.",
+      "first_author": "Klaassens M",
+      "year": "2015",
+      "journal": "Eur J Hum Genet",
+      "doi": "10.1038/ejhg.2014.162",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "15710862",
+      "title": "Two novel CACNA1A gene mutations associated with episodic ataxia type 2 and interictal dystonia.",
+      "first_author": "Spacey SD",
+      "year": "2005",
+      "journal": "Arch Neurol",
+      "doi": "10.1001/archneur.62.2.314",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32626992",
+      "title": "An elongated tract of polyQ in the carboxyl\u2011terminus of human \u03b11A calcium channel induces cell apoptosis by nuclear translocation.",
+      "first_author": "Sun J",
+      "year": "2020",
+      "journal": "Oncol Rep",
+      "doi": "10.3892/or.2020.7592",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20129625",
+      "title": "Identification of novel and recurrent CACNA1A gene mutations in fifteen patients with episodic ataxia type 2.",
+      "first_author": "Mantuano E",
+      "year": "2010",
+      "journal": "J Neurol Sci",
+      "doi": "10.1016/j.jns.2010.01.010",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32888184",
+      "title": "Progressive Ataxia with Hemiplegic Migraines: a Phenotype of CACNA1A Missense Mutations, Not CAG Repeat Expansions.",
+      "first_author": "Duque KR",
+      "year": "2021",
+      "journal": "Cerebellum",
+      "doi": "10.1007/s12311-020-01185-9",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12420090",
+      "title": "Episodic ataxia type 2. Three novel truncating mutations and one novel missense mutation in the CACNA1A gene.",
+      "first_author": "van den Maagdenberg AM",
+      "year": "2002",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-002-0860-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24046065",
+      "title": "Novel CACNA1A mutation(s) associated with slow saccade velocities.",
+      "first_author": "Kipfer S",
+      "year": "2013",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-013-7099-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34263451",
+      "title": "Genotype-phenotype correlation of CACNA1A variants in children with epilepsy.",
+      "first_author": "Niu X",
+      "year": "2022",
+      "journal": "Dev Med Child Neurol",
+      "doi": "10.1111/dmcn.14985",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21440913",
+      "title": "Dramatically different levels of Cacna1a gene expression between pre-weaning wild type and leaner mice.",
+      "first_author": "Veneziano L",
+      "year": "2011",
+      "journal": "J Neurol Sci",
+      "doi": "10.1016/j.jns.2011.03.010",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25468264",
+      "title": "Novel frameshift mutation in the CACNA1A gene causing a mixed phenotype of episodic ataxia and familiar hemiplegic migraine.",
+      "first_author": "Kinder S",
+      "year": "2015",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2014.10.005",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25566820",
+      "title": "A novel frameshift mutation in FGF14 causes an autosomal dominant episodic ataxia.",
+      "first_author": "Choquet K",
+      "year": "2015",
+      "journal": "Neurogenetics",
+      "doi": "10.1007/s10048-014-0436-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41781521",
+      "title": "Intellectual disability and structural defects of the CaV2.1 channel in episodic ataxia type 2: correlation using an AI prediction model.",
+      "first_author": "Kim HJ",
+      "year": "2026",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-026-13731-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36063114",
+      "title": "Biallelic CACNA1A variants: Review of literature and report of a child with drug-resistant epilepsy and developmental delay.",
+      "first_author": "Wong-Spracklen VMY",
+      "year": "2022",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.62960",
+      "pubtype": [
+        "Case Reports",
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "11355155",
+      "title": "Sporadic late onset paroxysmal cerebellar ataxia in four unrelated patients: a new disease?",
+      "first_author": "Julien J",
+      "year": "2001",
+      "journal": "J Neurol",
+      "doi": "10.1007/s004150170228",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    }
+  ]
+}

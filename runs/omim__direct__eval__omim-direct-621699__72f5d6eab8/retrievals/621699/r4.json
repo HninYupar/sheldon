@@ -1,0 +1,111 @@
+{
+  "id": "r4",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[tiab] AND (combined immunodeficiency OR immunodeficiency OR deficiency)",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "8 PubMed hits for 'SIT1[tiab] AND (combined immunodeficiency OR immunodeficiency OR deficiency)'; showing 8 (PubMed read it as: \"SIT1\"[Title/Abstract] AND (((\"combinable\"[All Fields] OR \"combinated\"[All Fields] OR \"combination\"[All Fields] OR \"combinational\"[All Fields] OR \"combinations\"[All Fields] OR \"combinative\"[All Fields] OR \"combine\"[All Fields] OR \"combined\"[All Fields] OR \"combines\"[All Fields] OR \"combining\"[All Fields]) AND (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields])) OR (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields]) OR (\"deficiences\"[All Fields] OR \"deficiencies\"[All Fields] OR \"deficiency\"[MeSH Subheading] OR \"deficiency\"[All Fields] OR \"deficient\"[All Fields] OR \"deficients\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33140827",
+      "title": "ACE2 and gut amino acid transport.",
+      "first_author": "Camargo SMR",
+      "year": "2020",
+      "journal": "Clin Sci (Lond)",
+      "doi": "10.1042/CS20200477",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41142409",
+      "title": "Mechanisms involved in aminoacidurias: impacts of genetic and environmental factors.",
+      "first_author": "Ajayi JA",
+      "year": "2025",
+      "journal": "Curr Res Physiol",
+      "doi": "10.1016/j.crphys.2025.100168",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "22790597",
+      "title": "Defective intestinal amino acid absorption in Ace2 null mice.",
+      "first_author": "Singer D",
+      "year": "2012",
+      "journal": "Am J Physiol Gastrointest Liver Physiol",
+      "doi": "10.1152/ajpgi.00140.2012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11850263",
+      "title": "Relationship between chloroquine toxicity and iron acquisition in Saccharomyces cerevisiae.",
+      "first_author": "Emerson LR",
+      "year": "2002",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.46.3.787-796.2002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "21445236",
+      "title": "Host iron withholding demands siderophore utilization for Candida glabrata to survive macrophage killing.",
+      "first_author": "Nevitt T",
+      "year": "2011",
+      "journal": "PLoS Pathog",
+      "doi": "10.1371/journal.ppat.1001322",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28715216",
+      "title": "Long-Term Effect of a Leonardite Iron Humate Improving Fe Nutrition As Revealed in Silico, in Vivo, and in Field Experiments.",
+      "first_author": "Cieschi MT",
+      "year": "2017",
+      "journal": "J Agric Food Chem",
+      "doi": "10.1021/acs.jafc.7b01804",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19333719",
+      "title": "L-Proline transport into renal OK epithelial cells: a second renal proline transport system is induced by amino acid deprivation.",
+      "first_author": "Nickel A",
+      "year": "2010",
+      "journal": "Amino Acids",
+      "doi": "10.1007/s00726-009-0280-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "r192",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (R1352Q OR \"c.4055G>A\" OR \"p.Arg1352Gln\" OR \"Arg1352Gln\")",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'CACNA1A[gene] AND (R1352Q OR \"c.4055G>A\" OR \"p.Arg1352Gln\" OR \"Arg1352Gln\")'; showing 2 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND \"R1352Q\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33425808",
+      "title": "CACNA1A Gene Variants in Eight Chinese Patients With a Wide Range of Phenotypes.",
+      "first_author": "Zhang L",
+      "year": "2020",
+      "journal": "Front Pediatr",
+      "doi": "10.3389/fped.2020.577544",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33790770",
+      "title": "R1352Q CACNA1A Variant in a Patient with Sporadic Hemiplegic Migraine, Ataxia, Seizures and Cerebral Oedema: A Case Report.",
+      "first_author": "Stubberud A",
+      "year": "2021",
+      "journal": "Case Rep Neurol",
+      "doi": "10.1159/000512275",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    }
+  ]
+}

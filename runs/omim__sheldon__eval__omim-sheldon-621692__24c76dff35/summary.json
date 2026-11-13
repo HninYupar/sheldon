@@ -1,0 +1,46 @@
+{
+  "run_id": "omim__sheldon__eval__omim-sheldon-621692__24c76dff35",
+  "benchmark": "omim",
+  "method": "sheldon",
+  "split": "eval",
+  "model": "gpt-5.4-mini",
+  "tag": "omim-sheldon-621692",
+  "n": 1,
+  "score": 0.0,
+  "stderr": 0.0,
+  "metrics": {
+    "n_found": 7.0,
+    "n_gold": 4.0,
+    "n_gold_with_pmid": 4.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "scored": 1.0
+  },
+  "errors": 0,
+  "mean_rounds": 4.0,
+  "usage": {
+    "calls": 123,
+    "input_tokens": 397398,
+    "output_tokens": 33970,
+    "cache_read_tokens": 411648,
+    "cache_write_tokens": 0,
+    "cost_usd": 0.481787
+  },
+  "cost_per_task": 0.48179,
+  "cost_usd": 0.4818,
+  "billed_usd": 0.4818,
+  "calls_per_task": 123.0,
+  "wall_s": 308.5,
+  "concurrency": 8,
+  "latency_mean_s": 308.5,
+  "latency_p50_s": 308.5,
+  "latency_p90_s": 308.5,
+  "started_at": "2026-11-12T09:15:11+00:00",
+  "finished_at": "2026-11-12T09:20:19+00:00",
+  "cache": {
+    "hits": 0,
+    "misses": 123
+  },
+  "git_sha": "7fbf027",
+  "config_hash": "24c76dff35"
+}

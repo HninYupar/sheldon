@@ -1,0 +1,26 @@
+{
+  "id": "r40",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (epilepsy OR epileptic encephalopathy OR developmental delay OR neurodevelopmental) AND (case report[pt] OR cohort[pt] OR clinical trial[pt])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'CACNA1A[gene] AND (epilepsy OR epileptic encephalopathy OR developmental delay OR neurodevelopmental) AND (case report[pt] OR cohort[pt] OR clinical trial[pt])'; showing 1 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields] OR ((\"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epileptic\"[All Fields] OR \"epileptics\"[All Fields] OR \"epileptic s\"[All Fields] OR \"epileptical\"[All Fields] OR \"epileptization\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields])) OR ((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"delay\"[All Fields] OR \"delayed\"[All Fields] OR \"delaying\"[All Fields] OR \"delays\"[All Fields])) OR (\"neurodevelopment\"[MeSH Terms] OR \"neurodevelopment\"[All Fields] OR \"neurodevelopmental\"[All Fields] OR \"neurodevelopmentally\"[All Fields])) AND \"clinical trial\"[Publication Type])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "25877686",
+      "title": "Genomic analysis identifies candidate pathogenic variants in 9 of 18 patients with unexplained West syndrome.",
+      "first_author": "Hino-Fukuyo N",
+      "year": "2015",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-015-1553-6",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

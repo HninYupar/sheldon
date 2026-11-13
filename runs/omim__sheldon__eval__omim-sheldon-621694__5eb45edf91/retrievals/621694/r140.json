@@ -1,0 +1,48 @@
+{
+  "id": "r140",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"autosomal recessive early-onset Parkinson*\"[tiab] OR \"AR-EOPD\"[tiab] OR \"early-onset parkinson*\"[tiab] AND PSMF1[gene]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for '\"autosomal recessive early-onset Parkinson*\"[tiab] OR \"AR-EOPD\"[tiab] OR \"early-onset parkinson*\"[tiab] AND PSMF1[gene]'; showing 3 (PubMed read it as: (\"autosomal recessive early onset parkinson*\"[Title/Abstract] OR \"AR-EOPD\"[Title/Abstract] OR \"early onset parkinson*\"[Title/Abstract]) AND \"PSMF1\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

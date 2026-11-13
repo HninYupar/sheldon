@@ -1,0 +1,12 @@
+{
+  "id": "r17",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder\"[tiab]",
+    "max_results": 5,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder\"[tiab]'; showing 0 (PubMed read it as: \"Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder\"[tiab])",
+  "ok": true,
+  "evidence": []
+}

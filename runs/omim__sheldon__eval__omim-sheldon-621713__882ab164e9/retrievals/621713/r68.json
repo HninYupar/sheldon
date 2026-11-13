@@ -1,0 +1,49 @@
+{
+  "id": "r68",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Oocyte maturation arrest\" TACC3 OR \"zygote arrest\" TACC3 OR \"embryo maturation arrest\" TACC3",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for '\"Oocyte maturation arrest\" TACC3 OR \"zygote arrest\" TACC3 OR \"embryo maturation arrest\" TACC3'; showing 3 (PubMed read it as: ((((\"Oocyte maturation arrest\"[All Fields] AND \"TACC3\"[All Fields]) OR \"zygote arrest\"[All Fields]) AND \"TACC3\"[All Fields]) OR \"embryo maturation arrest\"[All Fields]) AND \"TACC3\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

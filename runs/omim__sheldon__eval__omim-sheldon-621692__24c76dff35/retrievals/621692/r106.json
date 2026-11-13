@@ -1,0 +1,176 @@
+{
+  "id": "r106",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "39460936",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "14 'cited_by' links for PMID 39460936; showing 14",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42883790",
+      "title": "Combined Bioinformatic Analysis and RNA Sequencing Uncover Key Tinnitus-Related Molecules in the Cingulate Gyrus.",
+      "first_author": "Jin Y",
+      "year": "2026",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms27198543",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42827760",
+      "title": "Data-driven burst shape analysis for functional phenotyping of neuronal cultures.",
+      "first_author": "Sch\u00e4fer TJ",
+      "year": "2026",
+      "journal": "iScience",
+      "doi": "10.1016/j.isci.2026.117499",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42389067",
+      "title": "Epilepsy: Epidemiology, Molecular Pathogenesis, and Clinical Management.",
+      "first_author": "Liu J",
+      "year": "2026",
+      "journal": "MedComm (2020)",
+      "doi": "10.1002/mco2.70837",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42010670",
+      "title": "Nitric oxide inhibition ameliorates cortical proteomic changes in the Cntnap2(-/-) and Shank3(\u03944-22) mouse models of autism spectrum disorder.",
+      "first_author": "Bazbaz W",
+      "year": "2026",
+      "journal": "Mol Autism",
+      "doi": "10.1186/s13229-026-00716-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "41751990",
+      "title": "Candidate Key Proteins in Thalamo-Amygdala Signaling in Tinnitus: A Bioinformatics Study.",
+      "first_author": "Gross J",
+      "year": "2026",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms27041854",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41699918",
+      "title": "Tiered modelling of a CACNA1A D1634N mutation linked to ataxia, epilepsy and cognitive deficits.",
+      "first_author": "Niu J",
+      "year": "2026",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awag066",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41576935",
+      "title": "Human neuronal networks on micro-electrode arrays as a tool to assess genotype-phenotype correlation in CACNA1A-related disorders.",
+      "first_author": "Hommersom MP",
+      "year": "2026",
+      "journal": "Stem Cell Reports",
+      "doi": "10.1016/j.stemcr.2025.102783",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41477056",
+      "title": "Traditional Chinese medicine on epilepsy: focus on N-methyl-D-aspartate receptors and \u03b1-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptors.",
+      "first_author": "Chen S",
+      "year": "2025",
+      "journal": "Med Rev (2021)",
+      "doi": "10.1515/mr-2025-0041",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41316396",
+      "title": "M(6)A modification mediates CACNA1A stability to drive the progression of ovarian cancer by inhibiting ferroptosis.",
+      "first_author": "Gong X",
+      "year": "2025",
+      "journal": "J Ovarian Res",
+      "doi": "10.1186/s13048-025-01907-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41169271",
+      "title": "Dissociable effects of medication on visual-vestibular brain excitability by visual motion stimuli in episodic ataxia type 2.",
+      "first_author": "von der Gablentz J",
+      "year": "2025",
+      "journal": "Brain Commun",
+      "doi": "10.1093/braincomms/fcaf400",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40394269",
+      "title": "Automated inference of disease mechanisms in patient-hiPSC-derived neuronal networks.",
+      "first_author": "Doorn N",
+      "year": "2025",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-025-08209-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40342369",
+      "title": "Dietary and lifestyle interventions for the management of hereditary ataxias.",
+      "first_author": "Yang W",
+      "year": "2025",
+      "journal": "Front Nutr",
+      "doi": "10.3389/fnut.2025.1548821",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39260466",
+      "title": "A Computational Account of the Development and Evolution of Psychotic Symptoms.",
+      "first_author": "Powers A",
+      "year": "2025",
+      "journal": "Biol Psychiatry",
+      "doi": "10.1016/j.biopsych.2024.08.026",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38699166",
+      "title": "A computational account of the development and evolution of psychotic symptoms.",
+      "first_author": "Powers A",
+      "year": "2024",
+      "journal": "ArXiv",
+      "doi": "",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ]
+    }
+  ]
+}

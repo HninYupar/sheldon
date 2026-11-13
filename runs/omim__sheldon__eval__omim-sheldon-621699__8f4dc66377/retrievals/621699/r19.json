@@ -1,0 +1,251 @@
+{
+  "id": "r19",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (immunodeficien* OR autoimmune OR infection OR patient OR family OR variant OR mutation)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "119 PubMed hits for 'SIT1[gene] AND (immunodeficien* OR autoimmune OR infection OR patient OR family OR variant OR mutation)'; showing 20 (PubMed read it as: \"SIT1\"[All Fields] AND (\"immunodeficien*\"[All Fields] OR (\"autoimmune\"[All Fields] OR \"autoimmunity\"[MeSH Terms] OR \"autoimmunity\"[All Fields] OR \"autoimmunities\"[All Fields] OR \"autoimmunization\"[All Fields] OR \"autoimmunizing\"[All Fields]) OR (\"infect\"[All Fields] OR \"infectability\"[All Fields] OR \"infectable\"[All Fields] OR \"infectant\"[All Fields] OR \"infectants\"[All Fields] OR \"infected\"[All Fields] OR \"infecteds\"[All Fields] OR \"infectibility\"[All Fields] OR \"infectible\"[All Fields] OR \"infecting\"[All Fields] OR \"infection s\"[All Fields] OR \"infections\"[MeSH Terms] OR \"infections\"[All Fields] OR \"infection\"[All Fields] OR \"infective\"[All Fields] OR \"infectiveness\"[All Fields] OR \"infectives\"[All Fields] OR \"infectivities\"[All Fields] OR \"infects\"[All Fields] OR \"pathogenicity\"[MeSH Subheading] OR \"pathogenicity\"[All Fields] OR \"infectivity\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36384914",
+      "title": "Structures of ACE2-SIT1 recognized by Omicron variants of SARS-CoV-2.",
+      "first_author": "Shen Y",
+      "year": "2022",
+      "journal": "Cell Discov",
+      "doi": "10.1038/s41421-022-00488-x",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38951531",
+      "title": "Structure and function of the SIT1 proline transporter in complex with the COVID-19 receptor ACE2.",
+      "first_author": "Li HZ",
+      "year": "2024",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-024-48921-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42459881",
+      "title": "A hospital-based genomic analysis reveals predominance of ST215 Mycobacterium tuberculosis with low drug resistance.",
+      "first_author": "Yang M",
+      "year": "2026",
+      "journal": "Front Microbiol",
+      "doi": "10.3389/fmicb.2026.1871161",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39159813",
+      "title": "Cryo-EM structure of ACE2-SIT1 in complex with tiagabine.",
+      "first_author": "Br\u00f6er A",
+      "year": "2024",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2024.107687",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19184091",
+      "title": "Kidney amino acid transport.",
+      "first_author": "Verrey F",
+      "year": "2009",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-009-0638-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41142409",
+      "title": "Mechanisms involved in aminoacidurias: impacts of genetic and environmental factors.",
+      "first_author": "Ajayi JA",
+      "year": "2025",
+      "journal": "Curr Res Physiol",
+      "doi": "10.1016/j.crphys.2025.100168",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40873928",
+      "title": "Role of the putative sit1 gene in normal germination of spores and virulence of the Mucor lusitanicus.",
+      "first_author": "V\u00e1g\u00f3 B",
+      "year": "2025",
+      "journal": "Microb Cell",
+      "doi": "10.15698/mic2025.08.856",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32330146",
+      "title": "Genetic profiling of Mycobacterium tuberculosis revealed \"modern\" Beijing strains linked to MDR-TB from Southwestern Colombia.",
+      "first_author": "Nieto Ramirez LM",
+      "year": "2020",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0224908",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36675674",
+      "title": "Discovery and Validation of a SIT1-Related Prognostic Signature Associated with Immune Infiltration in Cutaneous Melanoma.",
+      "first_author": "Jia M",
+      "year": "2022",
+      "journal": "J Pers Med",
+      "doi": "10.3390/jpm13010013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33140827",
+      "title": "ACE2 and gut amino acid transport.",
+      "first_author": "Camargo SMR",
+      "year": "2020",
+      "journal": "Clin Sci (Lond)",
+      "doi": "10.1042/CS20200477",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34969185",
+      "title": "SIT1 transporter as a potential novel target in treatment of COVID-19.",
+      "first_author": "Semiz S",
+      "year": "2021",
+      "journal": "Biomol Concepts",
+      "doi": "10.1515/bmc-2021-0017",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41609499",
+      "title": "The siderophore transporter Sit1 is involved in the uptake of caspofungin by Candida albicans.",
+      "first_author": "Pedras A",
+      "year": "2026",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/aac.01236-25",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24912522",
+      "title": "Drug resistance and molecular epidemiology of Mycobacterium tuberculosis in Mexico: a systematic review.",
+      "first_author": "Flores-Trevi\u00f1o S",
+      "year": "2014",
+      "journal": "Salud Publica Mex",
+      "doi": "10.21149/spm.v56i1.7324",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "17185532",
+      "title": "The iron- and cAMP-regulated gene SIT1 influences ferrioxamine B utilization, melanization and cell wall structure in Cryptococcus neoformans.",
+      "first_author": "Tangen KL",
+      "year": "2007",
+      "journal": "Microbiology (Reading)",
+      "doi": "10.1099/mic.0.2006/000927-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21445236",
+      "title": "Host iron withholding demands siderophore utilization for Candida glabrata to survive macrophage killing.",
+      "first_author": "Nevitt T",
+      "year": "2011",
+      "journal": "PLoS Pathog",
+      "doi": "10.1371/journal.ppat.1001322",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34575806",
+      "title": "The Siderophore Transporters Sit1 and Sit2 Are Essential for Utilization of Ferrichrome-, Ferrioxamine- and Coprogen-Type Siderophores in Aspergillus fumigatus.",
+      "first_author": "Aguiar M",
+      "year": "2021",
+      "journal": "J Fungi (Basel)",
+      "doi": "10.3390/jof7090768",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "15632147",
+      "title": "Identification of mammalian proline transporter SIT1 (SLC6A20) with characteristics of classical system imino.",
+      "first_author": "Takanaga H",
+      "year": "2005",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M413027200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ]
+}

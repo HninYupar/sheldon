@@ -1,0 +1,124 @@
+{
+  "id": "r46",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41986367",
+      "39148840",
+      "41729706",
+      "42353834"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "authors": [
+        "Magrinelli F",
+        "Tesson C",
+        "Angelova PR",
+        "Rodriguez JA",
+        "Scardamaglia A",
+        "O'Callaghan B",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Humans",
+        "Proteasome Endopeptidase Complex",
+        "Parkinsonian Disorders",
+        "Female",
+        "Mice",
+        "Male",
+        "Pedigree",
+        "Phenotype",
+        "Mitochondria",
+        "Disease Models, Animal",
+        "Parkinson Disease",
+        "Fibroblasts",
+        "Membrane Potential, Mitochondrial",
+        "Drosophila melanogaster"
+      ],
+      "abstract": "Dissecting biological pathways highlighted by Mendelian gene discovery has provided critical insights into the pathogenesis of Parkinson's disease (PD) and neurodegeneration. This approach ultimately catalyzes the identification of potential biomarkers and therapeutic targets. Here we identify PSMF1 as a gene implicated in parkinsonism and childhood neurodegeneration. We find that biallelic PSMF1 missense and loss-of-function variants co-segregate with phenotypes from early-onset PD to perinatal lethality with neurological manifestations across 18 pedigrees with 25 affected subjects, showing clear genotype-phenotype correlation. PSMF1 encodes the proteasome regulator PSMF1/hPI31, a highly conserved, ubiquitously expressed partner of the 20S proteasome and neurodegeneration-associated F-box-O 7 and valosin-containing proteins. We demonstrate that PSMF1 variants may affect proteasomal abundance and assembly, and are associated with alterations of mitochondrial membrane potential, respiration, dynamics and mitophagy in patient-derived fibroblasts. Furthermore, Drosophila and mouse models of PI31 loss of function exhibit age-dependent motor impairment, as well as brain-wide mitochondrial membrane depolarization and dopaminergic neurodegeneration in aged flies, and diffuse gliosis in mice. Collectively, our findings unequivocally link defective PSMF1/hPI31 to early-onset parkinsonism and neurodegeneration, and suggest proteasomal and mitochondrial dysfunction as pathogenic contributors."
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "authors": [
+        "Magrinelli F",
+        "Tesson C",
+        "Angelova PR",
+        "Rodriguez JA",
+        "Scardamaglia A",
+        "O'Callaghan B",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "mesh": [],
+      "abstract": "Dissecting biological pathways highlighted by Mendelian gene discovery has provided critical insights into the pathogenesis of Parkinson's disease (PD) and neurodegeneration. This approach ultimately catalyzes the identification of potential biomarkers and therapeutic targets. Here, we identify PSMF1 as a novel gene implicated in parkinsonism and childhood neurodegeneration. We find that biallelic PSMF1 missense and loss-of-function variants co-segregate with phenotypes from early-onset PD to perinatal lethality with neurological manifestations across 17 pedigrees with 24 affected subjects, showing clear genotype-phenotype correlation. PSMF1 encodes the proteasome regulator PSMF1/PI31, a highly conserved, ubiquitously expressed partner of the 20S proteasome and neurodegeneration-associated F-box-O 7 and valosin-containing proteins. We demonstrate that PSMF1 variants impair mitochondrial membrane potential, dynamics and mitophagy, and may affect proteasomal abundance and assembly in patient-derived fibroblasts. Furthermore, Drosophila and mouse models of PSMF1 loss of function exhibit age-dependent motor impairment, as well as brain-wide mitochondrial membrane depolarization and dopaminergic neurodegeneration in aged flies, and diffuse gliosis in mice. Collectively, our findings unequivocally link defective PSMF1 to early-onset parkinsonism and neurodegeneration, and suggest proteasomal and mitochondrial dysfunction as mechanistic contributors."
+    },
+    {
+      "pmid": "41729706",
+      "title": "Genetic Bases of Arthrogryposis Multiplex Congenita.",
+      "authors": [
+        "Melki J"
+      ],
+      "year": "2026",
+      "journal": "Annual review of genomics and human genetics",
+      "doi": "10.1146/annurev-genom-120324-031410",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Humans",
+        "Arthrogryposis",
+        "Mutation",
+        "Muscle, Skeletal",
+        "Phenotype",
+        "Genes, Recessive",
+        "Genetic Heterogeneity"
+      ],
+      "abstract": "Arthrogryposis multiplex congenita (AMC) is characterized by congenital joint contractures in two or more body areas resulting from reduced or absent fetal movements. AMC exhibits marked phenotypic and genetic heterogeneity, as it is a symptom rather than a disease and may be part of a large number of unrelated conditions. Despite advances in genomic approaches and the increasing number of newly identified genes, disease-gene identification was achieved in fewer than half of cases in several reports, including in a French cohort of 367 AMC patients. The most frequent cause of AMC in these reports was a primary involvement of skeletal muscle. In the French cohort, the most frequent mode of inheritance was autosomal recessive (68.3%); in autosomal dominant or X-linked form, a high proportion of de novo variants (24%) was observed, indicating that this mechanism plays a prominent part in this developmental condition. Accurate genetic diagnosis is critical for more tailored management of AMC and possibly other organ involvement."
+    },
+    {
+      "pmid": "42353834",
+      "title": "Arthrogryposis Multiplex Congenita: Comprehensive Review from a Neuromuscular Standpoint.",
+      "authors": [
+        "Seneor DD",
+        "Barile JP",
+        "Mendes PM",
+        "Orsini M",
+        "Silva EMWD",
+        "Farias IB",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Genes",
+      "doi": "10.3390/genes17060675",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Humans",
+        "Arthrogryposis"
+      ],
+      "abstract": "Arthrogryposis multiplex congenita (AMC) is a diverse group of conditions characterized by multiple joint contractures. Although individually rare, these disorders are estimated to affect 1 in 3000-5000 live births. Their common pathophysiological mechanism is fetal akinesia, a sustained reduction of fetal movement that may arise from intrinsic disturbances-such as central nervous system malformations, motor neuronopathies, neuropathies, neuromuscular junction defects, congenital myopathies, muscular dystrophies, or metabolic diseases-or from extrinsic factors including uterine constraint, maternal illness, infections, or toxic exposures. Reduced fetal motion leads to relatively uniform clinical manifestations, known as the fetal akinesia deformation sequence (FADS), which is characterized by craniofacial anomalies, pulmonary hypoplasia, growth restriction, and contractures. Currently, AMC is classified by clinical features, such as distal arthrogryposis or lethal congenital contracture syndromes. However, advances in molecular genetics have shown wide variability among conditions classified into the same category. Prognosis is widely variable, ranging from lethal perinatal forms to non-progressive mild conditions. This review discusses AMC etiologies from a topographic standpoint, considering the different levels of the motor system involved, by combining current clinical, genetic, and pathophysiological information."
+    }
+  ]
+}

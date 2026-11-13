@@ -1,0 +1,12 @@
+{
+  "id": "r151",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "40796344",
+    "relation": "references",
+    "max_results": 20
+  },
+  "summary": "0 'references' links for PMID 40796344; showing 0",
+  "ok": true,
+  "evidence": []
+}

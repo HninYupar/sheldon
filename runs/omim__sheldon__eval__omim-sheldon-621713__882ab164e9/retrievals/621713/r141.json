@@ -1,0 +1,256 @@
+{
+  "id": "r141",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (oocyte OR oocyte maturation OR zygote OR embryo OR infertility OR recurrent pregnancy loss OR female infertility OR spindle)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "135 PubMed hits for 'TACC3[gene] AND (oocyte OR oocyte maturation OR zygote OR embryo OR infertility OR recurrent pregnancy loss OR female infertility OR spindle)'; showing 20 (PubMed read it as: \"TACC3\"[All Fields] AND (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields] OR ((\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) AND (\"maturate\"[All Fields] OR \"maturated\"[All Fields] OR \"maturating\"[All Fields] OR \"maturation\"[All Fields] OR \"maturational\"[All Fields] OR \"maturations\"[All Fields] OR \"maturative\"[All Fields] OR \"mature\"[All Fields] OR \"matured\"[All Fields] OR \"maturer\"[All Fields] OR \"maturers\"[All Fields] OR \"matures\"[All Fields] OR \"maturing\"[All Fields] OR \"maturities\"[All Fields] OR \"maturity\"[All Fields])) OR (\"zygote\"[MeSH Terms] OR \"zygote\"[All Fields] OR \"zygotes\"[All Fields] OR \"zygote s\"[All Fields] OR \"zygotic\"[All Fields] OR \"zygotically\"[All Fields]) OR (\"embryo s\"[All Fields] OR \"embryoes\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryo\"[All Fields] OR \"embryos\"[All Fields]) OR (\"infertiles\"[All Fields] OR \"infertilities\"[All Fields] OR \"infertility\"[MeSH Terms] OR \"infertility\"[All Fields] OR \"infertile\"[All Fields]) OR (\"abortion, habitual\"[MeSH Terms] OR (\"abortion\"[All Fields] AND \"habitual\"[All Fields]) OR \"habitual abortion\"[All Fields] OR (\"recurrent\"[All Fields] AND \"pregnancy\"[All Fields] AND \"loss\"[All Fields]) OR \"recurrent pregnancy loss\"[All Fields]) OR (\"infertility, female\"[MeSH Terms] OR (\"infertility\"[All Fields] AND \"female\"[All Fields]) OR \"female infertility\"[All Fields] OR (\"female\"[All Fields] AND \"infertility\"[All Fields])) OR (\"spindle\"[All Fields] OR \"spindle s\"[All Fields] OR \"spindled\"[All Fields] OR \"spindles\"[All Fields] OR \"spindling\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38319231",
+      "title": "Targeting TACC3 Induces Immunogenic Cell Death and Enhances T-DM1 Response in HER2-Positive Breast Cancer.",
+      "first_author": "Gedik ME",
+      "year": "2024",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-23-2812",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "first_author": "So C",
+      "year": "2019",
+      "journal": "Science",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35930054",
+      "title": "Effects of Ran-GTP/importin \u03b2 inhibition on the meiotic division of porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Histochem Cell Biol",
+      "doi": "10.1007/s00418-022-02134-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33318147",
+      "title": "Satellite cell expansion is mediated by P-eIF2\u03b1-dependent Tacc3 translation.",
+      "first_author": "Fujita R",
+      "year": "2021",
+      "journal": "Development",
+      "doi": "10.1242/dev.194480",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25971232",
+      "title": "Solution NMR assignment of the cryptic sixth TOG domain of mini spindles.",
+      "first_author": "Burgess SG",
+      "year": "2015",
+      "journal": "Biomol NMR Assign",
+      "doi": "10.1007/s12104-015-9620-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38012214",
+      "title": "Knockdown of TACC3 inhibits tumor cell proliferation and increases chemosensitivity in pancreatic cancer.",
+      "first_author": "Shi S",
+      "year": "2023",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-023-06313-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33901174",
+      "title": "Aurora kinase A is essential for meiosis in mouse oocytes.",
+      "first_author": "Blengini CS",
+      "year": "2021",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1009327",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18508920",
+      "title": "Xenopus TACC3/maskin is not required for microtubule stability but is required for anchoring microtubules at the centrosome.",
+      "first_author": "Albee AJ",
+      "year": "2008",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.e07-11-1204",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "38197196",
+      "title": "TACC3: a multi-functional protein promoting cancer cell survival and aggressiveness.",
+      "first_author": "Saatci O",
+      "year": "2023",
+      "journal": "Cell Cycle",
+      "doi": "10.1080/15384101.2024.2302243",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "42498517",
+      "title": "The Secret (Mitotic) Life of Clathrin.",
+      "first_author": "Royle SJ",
+      "year": "2026",
+      "journal": "Traffic",
+      "doi": "10.1111/tra.70047",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "17057251",
+      "title": "Phosphorylation of maskin by Aurora-A is regulated by RanGTP and importin beta.",
+      "first_author": "Albee AJ",
+      "year": "2006",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M607203200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "36739938",
+      "title": "Cobalt chloride exposure disturbs spindle assembly and decreases mouse oocyte development potential.",
+      "first_author": "Zhao SC",
+      "year": "2023",
+      "journal": "Toxicology",
+      "doi": "10.1016/j.tox.2023.153450",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18756265",
+      "title": "Dissecting the role of Aurora A during spindle assembly.",
+      "first_author": "Sardon T",
+      "year": "2008",
+      "journal": "EMBO J",
+      "doi": "10.1038/emboj.2008.173",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35576634",
+      "title": "TPX2 deficiency leads to spindle abnormity and meiotic impairment in porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Theriogenology",
+      "doi": "10.1016/j.theriogenology.2022.04.031",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32217742",
+      "title": "A Highly Potent TACC3 Inhibitor as a Novel Anticancer Drug Candidate.",
+      "first_author": "Akbulut O",
+      "year": "2020",
+      "journal": "Mol Cancer Ther",
+      "doi": "10.1158/1535-7163.MCT-19-0957",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28745816",
+      "title": "The role of TACC3 in mitotic spindle organization.",
+      "first_author": "Ding ZM",
+      "year": "2017",
+      "journal": "Cytoskeleton (Hoboken)",
+      "doi": "10.1002/cm.21388",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40903356",
+      "title": "The mechanisms of MTOCs maturation in human and mouse oocytes.",
+      "first_author": "Gu H",
+      "year": "2025",
+      "journal": "Sci Bull (Beijing)",
+      "doi": "10.1016/j.scib.2025.08.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12569123",
+      "title": "The ch-TOG/XMAP215 protein is essential for spindle pole organization in human somatic cells.",
+      "first_author": "Gergely F",
+      "year": "2003",
+      "journal": "Genes Dev",
+      "doi": "10.1101/gad.245603",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24419151",
+      "title": "Aurora A: working from dawn to dusk in mitosis.",
+      "first_author": "Lioutas A",
+      "year": "2014",
+      "journal": "Cell Cycle",
+      "doi": "10.4161/cc.27781",
+      "pubtype": [
+        "Editorial",
+        "Comment"
+      ]
+    }
+  ]
+}

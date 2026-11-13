@@ -1,0 +1,94 @@
+{
+  "id": "r176",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND (parkinson* OR neurodegeneration OR movement disorder OR cognitive decline)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "7 PubMed hits for 'PSMF1[tiab] AND (parkinson* OR neurodegeneration OR movement disorder OR cognitive decline)'; showing 7 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"parkinson*\"[All Fields] OR (\"nerve degeneration\"[MeSH Terms] OR (\"nerve\"[All Fields] AND \"degeneration\"[All Fields]) OR \"nerve degeneration\"[All Fields] OR \"neurodegeneration\"[All Fields] OR \"neurodegenerating\"[All Fields] OR \"neurodegenerations\"[All Fields]) OR (\"movement disorders\"[MeSH Terms] OR (\"movement\"[All Fields] AND \"disorders\"[All Fields]) OR \"movement disorders\"[All Fields] OR (\"movement\"[All Fields] AND \"disorder\"[All Fields]) OR \"movement disorder\"[All Fields]) OR (\"cognitive dysfunction\"[MeSH Terms] OR (\"cognitive\"[All Fields] AND \"dysfunction\"[All Fields]) OR \"cognitive dysfunction\"[All Fields] OR (\"cognitive\"[All Fields] AND \"decline\"[All Fields]) OR \"cognitive decline\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "first_author": "Clemen CS",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

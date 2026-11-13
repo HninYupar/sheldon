@@ -1,0 +1,12 @@
+{
+  "id": "r3",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"MIM 621707\" OR \"621707\"[tiab] OR \"encephalopathy\"[tiab] OR \"hypotonia\"[tiab] AND GNAI2",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"MIM 621707\" OR \"621707\"[tiab] OR \"encephalopathy\"[tiab] OR \"hypotonia\"[tiab] AND GNAI2'; showing 0 (PubMed read it as: ((\"mim\"[All Fields] AND \"621707\"[All Fields]) OR \"encephalopathy\"[Title/Abstract] OR \"hypotonia\"[Title/Abstract]) AND (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]))",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,260 @@
+{
+  "id": "r38",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (cohort OR series OR multicenter OR patient OR patients) AND (epilepsy OR encephalopathy OR developmental)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "471 PubMed hits for 'CACNA1A[gene] AND (cohort OR series OR multicenter OR patient OR patients) AND (epilepsy OR encephalopathy OR developmental)'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields] OR (\"serie\"[All Fields] OR \"series\"[All Fields]) OR (\"multicenter\"[All Fields] OR \"multicentered\"[All Fields] OR \"multicenters\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields])) AND (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields] OR (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields]) OR (\"developmental\"[All Fields] OR \"developmentally\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38307656",
+      "title": "Hemiplegic migraine.",
+      "first_author": "de Boer I",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-12-823357-3.00015-X",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39174245",
+      "title": "Familial hemiplegic migraine.",
+      "first_author": "Villar-Martinez MD",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-323-90820-7.00007-0",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "23934111",
+      "title": "De novo mutations in epileptic encephalopathies.",
+      "first_author": "Epi4K Consortium",
+      "year": "2013",
+      "journal": "Nature",
+      "doi": "10.1038/nature12439",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, American Recovery and Reinvestment Act",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39096015",
+      "title": "Solving the Etiology of Developmental and Epileptic Encephalopathy with Spike-Wave Activation in Sleep (D/EE-SWAS).",
+      "first_author": "Viswanathan S",
+      "year": "2024",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.27041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35115687",
+      "title": "Genome-wide analysis of 102,084 migraine cases identifies 123 risk loci and subtype-specific risk alleles.",
+      "first_author": "Hautakangas H",
+      "year": "2022",
+      "journal": "Nat Genet",
+      "doi": "10.1038/s41588-021-00990-0",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40111503",
+      "title": "Phenotypic variability in cases with CACNA1A mutation.",
+      "first_author": "Bozkaya-Yilmaz S",
+      "year": "2025",
+      "journal": "Eur J Pediatr",
+      "doi": "10.1007/s00431-025-06062-3",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "29482223",
+      "title": "Efficacy of Exome-Targeted Capture Sequencing to Detect Mutations in Known Cerebellar Ataxia Genes.",
+      "first_author": "Coutelier M",
+      "year": "2018",
+      "journal": "JAMA Neurol",
+      "doi": "10.1001/jamaneurol.2017.5121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39637130",
+      "title": "Attention-Deficit Disorders and Epilepsy.",
+      "first_author": "Noebels JL",
+      "year": "2024",
+      "journal": "",
+      "doi": "10.1093/med/9780197549469.003.0058",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "first_author": "El Ghaleb Y",
+      "year": "2021",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16100538",
+      "title": "[Episodic ataxias].",
+      "first_author": "Herrmann A",
+      "year": "2005",
+      "journal": "Tidsskr Nor Laegeforen",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42650055",
+      "title": "Genomic Sequencing in Neonatal Encephalopathy and Suspected Hypoxic-Ischaemic Encephalopathy: A Systematic Review.",
+      "first_author": "Colacurci D",
+      "year": "2026",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes17080862",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "40826382",
+      "title": "Unveiling migraine subtype heterogeneity and risk loci: integrated genome-wide association study and single-cell transcriptomics discovery.",
+      "first_author": "Wei S",
+      "year": "2025",
+      "journal": "J Headache Pain",
+      "doi": "10.1186/s10194-025-02128-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41370402",
+      "title": "Characterization of the functional and clinical impacts of CACNA1A missense variants found in neurodevelopmental disorders.",
+      "first_author": "Kurganov E",
+      "year": "2025",
+      "journal": "Sci Transl Med",
+      "doi": "10.1126/scitranslmed.adr0024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38043972",
+      "title": "Pathophysiology of migraine aura.",
+      "first_author": "Sanchez Del Rio M",
+      "year": "2023",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-12-823356-6.00016-0",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19455354",
+      "title": "Molecular genetics of migraine.",
+      "first_author": "de Vries B",
+      "year": "2009",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-009-0684-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41775907",
+      "title": "Genotype and Age at Onset Drive Vermis Atrophy in CACNA1A- and GAA-FGF14-related Ataxias.",
+      "first_author": "Indelicato E",
+      "year": "2026",
+      "journal": "Cerebellum",
+      "doi": "10.1007/s12311-026-01966-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38632549",
+      "title": "The Brain Gene Registry: a data snapshot.",
+      "first_author": "Baldridge D",
+      "year": "2024",
+      "journal": "J Neurodev Disord",
+      "doi": "10.1186/s11689-024-09530-3",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38681507",
+      "title": "Clinical and Genetic Characterization of a Cohort of Brazilian Patients With Congenital Ataxia.",
+      "first_author": "Raslan IR",
+      "year": "2024",
+      "journal": "Neurol Genet",
+      "doi": "10.1212/NXG.0000000000200153",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21492892",
+      "title": "[Hereditary episodic ataxia].",
+      "first_author": "Riant F",
+      "year": "2011",
+      "journal": "Rev Neurol (Paris)",
+      "doi": "10.1016/j.neurol.2010.10.016",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

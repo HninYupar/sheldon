@@ -1,0 +1,24 @@
+{
+  "id": "r15",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"cerebellar hypoplasia\"[tiab] AND ATG12[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '\"cerebellar hypoplasia\"[tiab] AND ATG12[tiab]'; showing 1 (PubMed read it as: \"cerebellar hypoplasia\"[Title/Abstract] AND \"ATG12\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

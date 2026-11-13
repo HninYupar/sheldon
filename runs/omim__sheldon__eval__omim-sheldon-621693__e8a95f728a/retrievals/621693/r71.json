@@ -1,0 +1,86 @@
+{
+  "id": "r71",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "42649079",
+      "41253044",
+      "38708447"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "authors": [
+        "Gabbert C",
+        "Much C",
+        "Wengh\u00f6fer A",
+        "Fienemann A",
+        "Schaake S",
+        "L\u00fcth T",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ],
+      "mesh": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "authors": [
+        "Cogan G",
+        "Lesage S",
+        "Brice A"
+      ],
+      "year": "2025",
+      "journal": "Current opinion in neurobiology",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Humans",
+        "Parkinson Disease",
+        "Mutation",
+        "Age of Onset",
+        "Genes, Recessive",
+        "Ubiquitin-Protein Ligases"
+      ],
+      "abstract": "Early-onset Parkinson's disease (EOPD) is usually defined as Parkinson's disease (PD) occurring before the age of 40-50 years. Unlike late-onset PD, EOPD is often due to pathogenic mutations in autosomal recessive genes. Two phenotypes can be distinguished: typical EOPD, which progresses slowly (PRKN, PINK1 and DJ-1), and atypical PD, often associated with additional symptoms (ATP13A2, FBXO7, DNAJC6, VPS13C, SYNJ1, PLA2G6). In this review, we will highlight recent advances and remaining challenges. The frequency of causal genetic mutations and the genotype-phenotype landscape of PRKN-associated PD has been refined. Long-read sequencing has solved several undiagnosed cases with a single PRKN mutation. Five new genes have been reported to contribute to EOPD associated with various neurological signs (PTPA, DAGLB, PSMF1, EPG5, SGIP1). Small molecules targeting PRKN dysfunctions are expected to enter clinical trials in the coming years, paving the way for targeted therapies in EOPD."
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "authors": [
+        "Navarro E",
+        "Esteras N"
+      ],
+      "year": "2024",
+      "journal": "The FEBS journal",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Parkinson Disease",
+        "Proteasome Endopeptidase Complex",
+        "F-Box Proteins",
+        "Mitochondria",
+        "Mutation",
+        "Mitophagy",
+        "Ubiquitination"
+      ],
+      "abstract": "Around 10% of Parkinson's disease (PD) cases are associated with mutations in various genes, including FBXO7, which encodes the substrate-recognition component for the Skp1-Cullin-F-box (SCF) class of ubiquitin E3 ligases that target proteins for proteasomal degradation. In their recent study, Al Rawi et\u00a0al. characterized a new mutation in FBXO7, L250P, in a pediatric patient. Their findings reveal that the L250P mutation abolishes Fbxo7 interaction with the proteasome regulator, proteasome inhibitor 31kD (PI31), affecting proteasomal activity and the ubiquitination of some of the ligase's targets. Furthermore, the authors show that this previously undescribed mutation impairs mitochondrial function and mitophagy, emphasizing the importance of mitochondrial and proteasomal dysfunction in PD pathogenesis."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "r140",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41895291",
+      "34313536",
+      "39087410"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "authors": [
+        "Lambton J",
+        "Asano S",
+        "Huang Y",
+        "Suomi F",
+        "Eguchi T",
+        "Petree C",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "American journal of human genetics",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Autophagy",
+        "Autophagy-Related Protein 12",
+        "Female",
+        "Zebrafish",
+        "Male",
+        "Animals",
+        "HeLa Cells",
+        "Alleles",
+        "Pedigree",
+        "Child",
+        "Child, Preschool",
+        "Neurodevelopmental Disorders",
+        "Autophagy-Related Protein 5",
+        "Fibroblasts",
+        "Adolescent",
+        "Autophagy-Related Protein 7",
+        "Phenotype"
+      ],
+      "abstract": "Autophagy is an essential developmental and homeostatic process, defined by the endolysosomal degradation of intracellular components and pathogens. Dysfunctional autophagy is implicated in complex human disease, yet reports of congenital autophagy disorders were considered exceedingly rare until the recent report of several unrelated families with bi-allelic variants in the core autophagy effector ATG7, complementing the report of two individuals harboring ATG5 variants. We now report six affected individuals from five families with bi-allelic ATG12 variants with complex neurological phenotypes overlapping those seen in individuals with pathogenic variants in ATG5 and ATG7: developmental delay, intellectual disability, congenital ataxia, hypotonia, and seizures with cerebellar vermis hypoplasia evident on neuroradiological imaging. Structural modeling implicated a potential disruption of the ATG12-ATG5-ATG16N-ATG3 complex. Biochemical analyses of primary fibroblasts confirmed the loss of stable ATG12-ATG5 conjugate in one family and altered autophagic flux in one unrelated family. The HaloTag processing assay in HeLa cells demonstrated a decrease in ATG12-ATG5 conjugate and reduced autophagic flux in response to starvation. Complementation studies demonstrated that equivalent missense atg12 variants were unable to fully recover the biochemical defect in atg12-null yeast, with microscopy analysis demonstrating a reduced delivery of autophagy substrates to the yeast's degradative compartment. Zebrafish studies confirmed that Atg12 is required for normal growth, brain development, and neural function. Collectively, our findings underscore the pivotal role of autophagy in maintaining human neural integrity, emphasize an emerging group of congenital autophagy disorders, and expand our understanding of adaptive homeostasis in human health and disease."
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "authors": [
+        "Collier JJ",
+        "Ol\u00e1hov\u00e1 M",
+        "McWilliams TG",
+        "Taylor RW"
+      ],
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Autophagy",
+        "Autophagy-Related Protein 5",
+        "Autophagy-Related Protein 7",
+        "Fibroblasts",
+        "Humans",
+        "Mice",
+        "Nervous System",
+        "Proteins"
+      ],
+      "abstract": "ATG7 drives macroautophagy, hereafter \"autophagy\", by generating ATG12-ATG5 conjugates and lipidating Atg8 homologs including LC3. A pioneering body of work has defined the requirement of ATG7 for survival in mice and shown that neural-specific atg7 deletion causes neurodegeneration, but it has not been ascertained whether human life is compatible with ATG7 dysfunction. Recently, we defined the importance of ATG7 in human physiology by identifying twelve patients from five families harboring pathogenic, biallelic ATG7 variants causing a neurodevelopmental disorder. Patient fibroblasts show undetectable or severely diminished ATG7 protein levels, and biochemical assessment via autophagic flux and long-lived protein degradation assays demonstrated that attenuated autophagy underpins the pathology. Confirming the pathogenicity of patient variants, mouse cells expressing mutated ATG7 are unable to rescue LC3/Atg8 lipidation to wild-type levels. Our work defines mutated ATG7 as an important cause of human neurological disease and expands our understanding of autophagy in longevity and human health. We demonstrated that in certain circumstances, human survival with relatively mild phenotypes is possible even with undetectable levels of a nonredundant core autophagy protein."
+    },
+    {
+      "pmid": "39087410",
+      "title": "ZDHHC7-mediated S-palmitoylation of ATG16L1 facilitates LC3 lipidation and autophagosome formation.",
+      "authors": [
+        "Wei F",
+        "Wang Y",
+        "Yao J",
+        "Mei L",
+        "Huang X",
+        "Kong H",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2386915",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Autophagy-Related Proteins",
+        "Autophagosomes",
+        "Lipoylation",
+        "Microtubule-Associated Proteins",
+        "Autophagy",
+        "Acyltransferases",
+        "HeLa Cells",
+        "HEK293 Cells",
+        "Acetyltransferases"
+      ],
+      "abstract": "Macroautophagy/autophagy is a fundamental cellular catabolic process that delivers cytoplasmic components into double-membrane vesicles called autophagosomes, which then fuse with lysosomes and their contents are degraded. Autophagy recycles cytoplasmic components, including misfolded proteins, dysfunctional organelles and even microbial invaders, thereby playing an essential role in development, immunity and cell death. Autophagosome formation is the main step in autophagy, which is governed by a set of ATG (autophagy related) proteins. ATG16L1 interacts with ATG12-ATG5 conjugate to form an ATG12-ATG5-ATG16L1 complex. The complex acts as a ubiquitin-like E3 ligase that catalyzes the lipidation of MAP1LC3/LC3 (microtubule associated protein 1 light chain 3), which is crucial for autophagosome formation. In the present study, we found that ATG16L1 was subject to S-palmitoylation on cysteine 153, which was catalyzed by ZDHHC7 (zinc finger DHHC-type palmitoyltransferase 7). We observed that re-expressing ATG16L1 but not the S-palmitoylation-deficient mutant ATG16L1C153S rescued a defect in the lipidation of LC3 and the formation of autophagosomes in ATG16L1-KO (knockout) HeLa cells. Furthermore, increasing ATG16L1 S-palmitoylation by ZDHHC7 expression promoted the production of LC3-II, whereas reducing ATG16L1 S-palmitoylation by ZDHHC7 deletion inhibited the LC3 lipidation process and autophagosome formation. Mechanistically, the addition of a hydrophobic 16-carbon palmitoyl group on Cys153 residue of ATG16L1 enhances the formation of ATG16L1-WIPI2B complex and ATG16L1-RAB33B complex on phagophore, thereby facilitating the LC3 lipidation process and autophagosome formation. In conclusion, S-palmitoylation of ATG16L1 is essential for the lipidation process of LC3 and the formation of autophagosomes. Our research uncovers a new regulatory mechanism of ATG16L1 function in autophagy.Abbreviation: ABE: acyl-biotin exchange; ATG: autophagy related; Baf-A1: bafilomycin A1; 2-BP: 2-bromopalmitate; CCD: coiled-coil domain; co-IP: co-immunoprecipitation; CQ: chloroquine; EBSS: Earle's balanced salt solution; HAM: hydroxylamine; KO: knockout; MAP1LC3/LC3: microtubule associated protein 1 light chain 3; NP-40: Nonidet P-40; PBS: phosphate-buffered saline; PE: phosphatidylethanolamine; PtdIns3K-C1: class III phosphatidylinositol 3-kinase complex I; PTM: post-translational modification; RAB33B: RAB33B, member RAS oncogene family; RB1CC1/FIP200: RB1 inducible coiled-coil 1"
+    }
+  ]
+}

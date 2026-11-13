@@ -1,0 +1,260 @@
+{
+  "id": "r17",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND oocyte OR oocytes OR meiotic spindle",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "117358 PubMed hits for 'TACC3[gene] AND oocyte OR oocytes OR meiotic spindle'; showing 20 (PubMed read it as: (\"TACC3\"[All Fields] AND (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields])) OR (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) OR (\"spindle apparatus\"[MeSH Terms] OR (\"spindle\"[All Fields] AND \"apparatus\"[All Fields]) OR \"spindle apparatus\"[All Fields] OR (\"meiotic\"[All Fields] AND \"spindle\"[All Fields]) OR \"meiotic spindle\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Science",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "first_author": "So C",
+      "year": "2019",
+      "journal": "Science",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "26970614",
+      "title": "Oocyte Meiotic Spindle Assembly and Function.",
+      "first_author": "Severson AF",
+      "year": "2016",
+      "journal": "Curr Top Dev Biol",
+      "doi": "10.1016/bs.ctdb.2015.11.031",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "22927361",
+      "title": "Polar body cytokinesis.",
+      "first_author": "Maddox AS",
+      "year": "2012",
+      "journal": "Cytoskeleton (Hoboken)",
+      "doi": "10.1002/cm.21064",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30028643",
+      "title": "Assembly and Positioning of the Oocyte Meiotic Spindle.",
+      "first_author": "Mogessie B",
+      "year": "2018",
+      "journal": "Annu Rev Cell Dev Biol",
+      "doi": "10.1146/annurev-cellbio-100616-060553",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29957206",
+      "title": "Combining microscopy and biochemistry to study meiotic spindle assembly in Drosophila oocytes.",
+      "first_author": "Rom\u00e9 P",
+      "year": "2018",
+      "journal": "Methods Cell Biol",
+      "doi": "10.1016/bs.mcb.2018.03.026",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27879467",
+      "title": "Meiotic spindle assembly and chromosome segregation in oocytes.",
+      "first_author": "Bennabi I",
+      "year": "2016",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.201607062",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34836784",
+      "title": "Tubulin post-translational modifications in meiosis.",
+      "first_author": "Akera T",
+      "year": "2023",
+      "journal": "Semin Cell Dev Biol",
+      "doi": "10.1016/j.semcdb.2021.11.014",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "41047934",
+      "title": "Identification of locally activated spindle-associated proteins in oocytes uncovers a phosphatase-driven mechanism.",
+      "first_author": "Wan X",
+      "year": "2025",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.264161",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27837282",
+      "title": "The chromosomal basis of meiotic acentrosomal spindle assembly and function in oocytes.",
+      "first_author": "Radford SJ",
+      "year": "2017",
+      "journal": "Chromosoma",
+      "doi": "10.1007/s00412-016-0618-1",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38240347",
+      "title": "RNF20 Regulates Oocyte Meiotic Spindle Assembly by Recruiting TPM3 to Centromeres and Spindle Poles.",
+      "first_author": "Wang L",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202306986",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29342242",
+      "title": "Meiotic spindle formation in mammalian oocytes: implications for human infertility.",
+      "first_author": "Namgoong S",
+      "year": "2018",
+      "journal": "Biol Reprod",
+      "doi": "10.1093/biolre/iox145",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36207289",
+      "title": "Meiotic defects in human oocytes: Potential causes and clinical implications.",
+      "first_author": "Wu T",
+      "year": "2022",
+      "journal": "Bioessays",
+      "doi": "10.1002/bies.202200135",
+      "pubtype": [
+        "Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37305966",
+      "title": "PARP12 regulates mouse oocyte meiotic maturation.",
+      "first_author": "Cao G",
+      "year": "2023",
+      "journal": "J Cell Physiol",
+      "doi": "10.1002/jcp.31037",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37992207",
+      "title": "NUSAP1 regulates mouse oocyte meiotic maturation.",
+      "first_author": "Yu L",
+      "year": "2023",
+      "journal": "J Cell Biochem",
+      "doi": "10.1002/jcb.30498",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29411912",
+      "title": "Meeting the meiotic challenge: Specializations in mammalian oocyte spindle formation.",
+      "first_author": "Severance AL",
+      "year": "2018",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.22967",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35576634",
+      "title": "TPX2 deficiency leads to spindle abnormity and meiotic impairment in porcine oocytes.",
+      "first_author": "He Y",
+      "year": "2022",
+      "journal": "Theriogenology",
+      "doi": "10.1016/j.theriogenology.2022.04.031",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40903356",
+      "title": "The mechanisms of MTOCs maturation in human and mouse oocytes.",
+      "first_author": "Gu H",
+      "year": "2025",
+      "journal": "Sci Bull (Beijing)",
+      "doi": "10.1016/j.scib.2025.08.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

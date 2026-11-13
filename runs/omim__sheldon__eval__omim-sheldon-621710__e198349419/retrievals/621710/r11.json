@@ -1,0 +1,137 @@
+{
+  "id": "r11",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"neurodevelopmental disorder with seizures and cerebellar hypoplasia\"[tiab] OR NEDSCH[tiab] OR ATG12[gene]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1414 PubMed hits for '\"neurodevelopmental disorder with seizures and cerebellar hypoplasia\"[tiab] OR NEDSCH[tiab] OR ATG12[gene]'; showing 10 (PubMed read it as: \"ATG12\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "25747593",
+      "title": "Mechanisms of Autophagy.",
+      "first_author": "Noda NN",
+      "year": "2015",
+      "journal": "Annu Rev Biophys",
+      "doi": "10.1146/annurev-biophys-060414-034248",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37409490",
+      "title": "TECPR1 conjugates LC3 to damaged endomembranes upon detection of sphingomyelin exposure.",
+      "first_author": "Boyle KB",
+      "year": "2023",
+      "journal": "EMBO J",
+      "doi": "10.15252/embj.2022113012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21068544",
+      "title": "ATG12-ATG3 and mitochondria.",
+      "first_author": "Radoshevich L",
+      "year": "2011",
+      "journal": "Autophagy",
+      "doi": "10.4161/auto.7.1.13998",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37238603",
+      "title": "The Ubiquitin-like Proteins of Saccharomyces cerevisiae.",
+      "first_author": "Sengupta S",
+      "year": "2023",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom13050734",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37409525",
+      "title": "TECPR1 is activated by damage-induced sphingomyelin exposure to mediate noncanonical\u00a0autophagy.",
+      "first_author": "Kaur N",
+      "year": "2023",
+      "journal": "EMBO J",
+      "doi": "10.15252/embj.2022113105",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40641404",
+      "title": "ATG16L1 membrane recruitment in autophagy.",
+      "first_author": "Wei F",
+      "year": "2025",
+      "journal": "Crit Rev Biochem Mol Biol",
+      "doi": "10.1080/10409238.2025.2521321",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31901645",
+      "title": "The ATG conjugation systems in autophagy.",
+      "first_author": "Mizushima N",
+      "year": "2020",
+      "journal": "Curr Opin Cell Biol",
+      "doi": "10.1016/j.ceb.2019.12.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37381828",
+      "title": "An ATG12-ATG5-TECPR1 E3-like complex regulates\u00a0unconventional LC3 lipidation at damaged lysosomes.",
+      "first_author": "Corkery DP",
+      "year": "2023",
+      "journal": "EMBO Rep",
+      "doi": "10.15252/embr.202356841",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35322852",
+      "title": "Microwave radiation induces neuronal autophagy through miR-30a-5p/AMPK\u03b12 signal pathway.",
+      "first_author": "Hao Y",
+      "year": "2022",
+      "journal": "Biosci Rep",
+      "doi": "10.1042/BSR20212584",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37872727",
+      "title": "ATG12-ATG5-TECPR1: an alternative E3-like complex utilized during the cellular response to lysosomal membrane damage.",
+      "first_author": "Corkery DP",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2023.2267414",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

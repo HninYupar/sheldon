@@ -1,0 +1,12 @@
+{
+  "id": "r142",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"proteasome regulator PSMF1\"[tiab] OR \"PSMF1 variants\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"proteasome regulator PSMF1\"[tiab] OR \"PSMF1 variants\"[tiab]'; showing 0 (PubMed read it as: \"proteasome regulator PSMF1\"[tiab] OR \"PSMF1 variants\"[tiab])",
+  "ok": true,
+  "evidence": []
+}

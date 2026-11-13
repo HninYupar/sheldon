@@ -1,0 +1,112 @@
+{
+  "id": "r108",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "33425808",
+      "37555011",
+      "32336275",
+      "38681799"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33425808",
+      "title": "CACNA1A Gene Variants in Eight Chinese Patients With a Wide Range of Phenotypes.",
+      "authors": [
+        "Zhang L",
+        "Wen Y",
+        "Zhang Q",
+        "Chen Y",
+        "Wang J",
+        "Shi K",
+        "et al."
+      ],
+      "year": "2020",
+      "journal": "Frontiers in pediatrics",
+      "doi": "10.3389/fped.2020.577544",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Background: The CACNA1A gene encodes the voltage-dependent P/Q-type calcium channel subunit alpha-1A, which is widely expressed throughout the CNS. The biological roles of the P/Q channel are diverse and the phenotypic spectrum caused by CACNA1A mutations is wide. The aim of this study is to demonstrate its phenotypic diversity and analyze the genotype-phenotype correlations in a cohort of Chinese patients. Methods: Patients with hemiplegic migraine, cerebellar ataxia, developmental delay, or epilepsy without known causes were tested by trios whole-exome sequencing. Patients with pathogenic CACNA1A gene variants were recruited. The clinical information of the patients was collected, and the association between the genotype and the phenotype was investigated. Results: In total, eight patients (six females and two males) were found to have CACNA1A gene variants. All the variants were de novo including six missense variants and one frameshift variant. Four de novo missense variants were found in five patients located in the S4, S5, or S6 transmembrane segments of Domain II and III (p.R1352Q, p.G701V, p.A713T, p.V1393M). All of them were correlated with severe phenotypes, including three with sporadic hemiplegic migraine type 1 and epilepsy, and two with developmental and epileptic encephalopathy. The other two missense variants, p.Y62C and p.F1814L, located in the cytoplasmic side of the N-terminus and C-terminus, respectively. The variant p.Y62C was associated with severe hemiconvulsion-hemiplegia-epilepsy syndrome, and p.F1814L was associated with relatively mild phenotypes. All the missense variants were speculated as gain-of-function (GOF) mutations. The only frameshift variant, p.Q681Rfs*100, a lose-of-function (LOF) mutation, was found in a patient with episodic ataxia type 2. Meanwhile, all the patients had developmental delay ranging from mild to severe, as well as cerebellar ataxia including one with congenital ataxia, one with episodic ataxia, and six with non-progressive ataxia. Conclusions: CACNA1A variants could lead to a wide spectrum of neurological disorders including epileptic or non-epileptic paroxysmal events, cerebellar ataxia, and developmental delay. The variants could be both GOF and LOF mutations. There appeared to be some correlations between genotypes and phenotypes."
+    },
+    {
+      "pmid": "37555011",
+      "title": "The genotype-phenotype correlations of the CACNA1A-related neurodevelopmental disorders: a small case series and literature reviews.",
+      "authors": [
+        "Kessi M",
+        "Chen B",
+        "Pang N",
+        "Yang L",
+        "Peng J",
+        "He F",
+        "et al."
+      ],
+      "year": "2023",
+      "journal": "Frontiers in molecular neuroscience",
+      "doi": "10.3389/fnmol.2023.1222321",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "BACKGROUND: Genotype-phenotype correlations of the CACNA1A-related neurodevelopmental disorders such as global developmental delay (GDD)/intellectual disability (ID), epileptic encephalopathy (EE), and autism spectrum disorder (ASD) are unknown. We aimed to summarize genotype-phenotype correlations and potential treatment for CACNA1A-related neurodevelopmental disorders.\nMETHODS: Six children diagnosed with CACNA1A-related neurodevelopmental disorders at Xiangya Hospital, Central South University from April 2018 to July 2021 were enrolled. The PubMed database was systematically searched for all reported patients with CACNA1A-related neurodevelopmental disorders until February 2023. Thereafter, we divided patients into several groups for comparison.\nRESULTS: Six patients were recruited from our hospital. Three cases presented with epilepsy, five with GDD/ID, five with ataxia, and two with ASD. The variants included p.G701R, p.R279C, p.D1644N, p.Y62C, p.L1422Sfs*8, and p. R1664Q [two gain-of-function (GOF) and four loss-of-function (LOF) variants]. About 187 individuals with GDD/ID harboring 123 variants were found (case series plus data from literature). Of those 123 variants, p.A713T and p.R1664* were recurrent, 37 were LOF, and 7 were GOF. GOF variants were linked with severe-profound GDD/ID while LOF variants were associated with mild-moderate GDD/ID (p =\u20090.001). The p.A713T variant correlated with severe-profound GDD/ID (p =\u20090.003). A total of 130 epileptic patients harboring 83 variants were identified. The epileptic manifestations included status epilepticus (n =\u200964), provoked seizures (n =\u200949), focal seizures (n =\u200937), EE (n =\u200929), absence seizures (n =\u200926), and myoclonic seizures (n =\u200910). About 49 (42.20%) patients had controlled seizures while 67 (57.80%) individuals remained with refractory seizures. Status epilepticus correlated with variants located on S4, S5, and S6 (p =\u20090.000). Among the 83 epilepsy-related variants, 23 were recurrent, 32 were LOF, and 11 were GOF. Status epilepticus was linked with GOF variants (p =\u20090.000). LOF variants were associated with absence seizures (p =\u20090.000). Six patients died at an early age (3\u2009months to \u22645\u2009years). We found 18 children with ASD. Thirteen variants including recurrent ones were identified in those 18 cases. GOF changes were more linked to ASD.\nCONCLUSION: The p.A713T variant is linked with severe-profound GDD/ID. More than half of CACNA1A-related epilepsy is refractory. The most common epileptic ma"
+    },
+    {
+      "pmid": "32336275",
+      "title": "Two distinct phenotypes, hemiplegic migraine and episodic Ataxia type 2, caused by a novel common CACNA1A variant.",
+      "authors": [
+        "Nardello R",
+        "Plicato G",
+        "Mangano GD",
+        "Gennaro E",
+        "Mangano S",
+        "Brighina F",
+        "et al."
+      ],
+      "year": "2020",
+      "journal": "BMC neurology",
+      "doi": "10.1186/s12883-020-01704-5",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Calcium Channels",
+        "Child",
+        "Family",
+        "Humans",
+        "Male",
+        "Migraine with Aura",
+        "Mutation, Missense",
+        "Nystagmus, Pathologic",
+        "Phenotype",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "BACKGROUND: To investigate the genetic and environmental factors responsible for phenotype variability in a family carrying a novel CACNA1A missense mutation. Mutations in the CACNA1A gene were identified as responsible for at least three autosomal dominant disorders: FHM1 (Familial Hemiplegic Migraine), EA2 (Episodic Ataxia type 2), and SCA6 (Spinocerebellar Ataxia type 6). Overlapping clinical features within individuals of some families sharing the same CACNA1A mutation are not infrequent. Conversely, reports with distinct phenotypes within the same family associated with a common CACNA1A mutation are very rare.\nCASE PRESENTATION: A clinical, molecular, neuroradiological, neuropsychological, and neurophysiological study was carried out in proband and his carrier mother. The new heterozygous missense variant c.4262G\u2009>\u2009A (p.Arg1421Gln) in the CACNA1A gene was detected in the two affected family members. The proband showed a complex clinical presentation characterized by developmental delay, poor motor coordination, hemiplegic migraine attacks, behavioral dysregulation, and EEG abnormalities. The mother showed typical episodic ataxia attacks during infancy with no other comorbidities and mild cerebellar signs at present neurological evaluation.\nCONCLUSIONS: The proband and his mother exhibit two distinct clinical phenotypes. It can be hypothesized that other unknown modifying genes and/or environmental factors may cooperate to generate the wide intrafamilial variability."
+    },
+    {
+      "pmid": "38681799",
+      "title": "Developing a pathway to clinical trials for CACNA1A-related epilepsies: A patient organization perspective.",
+      "authors": [
+        "Fox PM",
+        "Malepati S",
+        "Manaster L",
+        "Rossignol E",
+        "Noebels JL"
+      ],
+      "year": "2024",
+      "journal": "Therapeutic advances in rare disease",
+      "doi": "10.1177/26330040241245725",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [],
+      "abstract": "CACNA1A-related disorders are rare neurodevelopmental disorders linked to variants in the CACNA1A gene. This gene encodes the \u03b11 subunit of the P/Q-type calcium channel Cav2.1, which is globally expressed in the brain and crucial for fast synaptic neurotransmission. The broad spectrum of CACNA1A-related neurological disorders includes developmental and epileptic encephalopathies, familial hemiplegic migraine type 1, episodic ataxia type 2, spinocerebellar ataxia type 6, together with unclassified presentations with developmental delay, ataxia, intellectual disability, autism spectrum disorder, and language impairment. The severity of each disorder is also highly variable. The spectrum of CACNA1A-related seizures is broad across both loss-of-function and gain-of-function variants and includes absence seizures, focal seizures with altered consciousness, generalized tonic-clonic seizures, tonic seizures, status epilepticus, and infantile spasms. Furthermore, over half of CACNA1A-related epilepsies are refractory to current therapies. To date, almost 1700 CACNA1A variants have been reported in ClinVar, with over 400 listed as Pathogenic or Likely Pathogenic, but with limited-to-no clinical or functional data. Robust genotype-phenotype studies and impacts of variants on protein structure and function have also yet to be established. As a result, there are few definitive treatment options for CACNA1A-related epilepsies. The CACNA1A Foundation has set out to change the landscape of available and effective treatments and improve the quality of life for those living with CACNA1A-related disorders, including epilepsy. Established in March 2020, the Foundation has built a robust preclinical toolbox that includes patient-derived induced pluripotent stem cells and novel disease models, launched clinical trial readiness initiatives, and organized a global CACNA1A Research Network. This Research Network is currently composed of over 60 scientists and clinicians committed to collaborating to accelerate the path to CACNA1A-specific treatments and one\u2009day, a cure."
+    }
+  ]
+}

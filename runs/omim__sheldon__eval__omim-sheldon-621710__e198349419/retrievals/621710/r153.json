@@ -1,0 +1,241 @@
+{
+  "id": "r153",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (fibroblast OR HeLa OR zebrafish) AND (rescue OR complementation OR reconstitution OR correction OR restored OR rescue experiment)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "19 PubMed hits for 'ATG12[gene] AND (fibroblast OR HeLa OR zebrafish) AND (rescue OR complementation OR reconstitution OR correction OR restored OR rescue experiment)'; showing 19 (PubMed read it as: \"ATG12\"[All Fields] AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields] OR \"HeLa\"[All Fields] OR (\"zebrafish\"[MeSH Terms] OR \"zebrafish\"[All Fields] OR \"zebrafishes\"[All Fields] OR \"zebrafish s\"[All Fields])) AND (\"rescue\"[All Fields] OR \"rescued\"[All Fields] OR \"rescues\"[All Fields] OR \"rescuing\"[All Fields] OR (\"complementable\"[All Fields] OR \"complementation\"[All Fields] OR \"complementations\"[All Fields] OR \"complemention\"[All Fields]) OR (\"reconstitute\"[All Fields] OR \"reconstituted\"[All Fields] OR \"reconstitutes\"[All Fields] OR \"reconstituting\"[All Fields] OR \"reconstitution\"[All Fields] OR \"reconstitutional\"[All Fields] OR \"reconstitutions\"[All Fields] OR \"reconstitutive\"[All Fields]) OR (\"correct\"[All Fields] OR \"correctability\"[All Fields] OR \"correctable\"[All Fields] OR \"corrected\"[All Fields] OR \"correctible\"[All Fields] OR \"correcting\"[All Fields] OR \"correction\"[All Fields] OR \"corrections\"[All Fields] OR \"corrective\"[All Fields] OR \"correctives\"[All Fields] OR \"correctness\"[All Fields] OR \"corrects\"[All Fields]) OR (\"restorability\"[All Fields] OR \"restorable\"[All Fields] OR \"restorated\"[All Fields] OR \"restoration\"[All Fields] OR \"restoration s\"[All Fields] OR \"restorations\"[All Fields] OR \"restorative\"[All Fields] OR \"restoratives\"[All Fields] OR \"restore\"[All Fields] OR \"restored\"[All Fields] OR \"restores\"[All Fields] OR \"restoring\"[All Fields]) OR ((\"rescue\"[All Fields] OR \"rescued\"[All Fields] OR \"rescues\"[All Fields] OR \"rescuing\"[All Fields]) AND (\"experiment\"[All Fields] OR \"experiment s\"[All Fields] OR \"experiments\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39087410",
+      "title": "ZDHHC7-mediated S-palmitoylation of ATG16L1 facilitates LC3 lipidation and autophagosome formation.",
+      "first_author": "Wei F",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2386915",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34505572",
+      "title": "Structural basis for membrane recruitment of ATG16L1 by WIPI2 in autophagy.",
+      "first_author": "Strong LM",
+      "year": "2021",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.70372",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "27879200",
+      "title": "Mechanism of cargo-directed Atg8 conjugation during selective autophagy.",
+      "first_author": "Fracchiolla D",
+      "year": "2016",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.18544",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25578879",
+      "title": "PI(5)P regulates autophagosome biogenesis.",
+      "first_author": "Vicinanza M",
+      "year": "2015",
+      "journal": "Mol Cell",
+      "doi": "10.1016/j.molcel.2014.12.007",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21858089",
+      "title": "Autophagy impairment induces premature senescence in primary human fibroblasts.",
+      "first_author": "Kang HT",
+      "year": "2011",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0023367",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33730050",
+      "title": "Reduction of WDR81 impairs autophagic clearance of aggregated proteins and cell viability in neurodegenerative phenotypes.",
+      "first_author": "Liu X",
+      "year": "2021",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1009415",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Retracted Publication"
+      ]
+    },
+    {
+      "pmid": "22170151",
+      "title": "The FAP motif within human ATG7, an autophagy-related E1-like enzyme, is essential for the E2-substrate reaction of LC3 lipidation.",
+      "first_author": "Tanida I",
+      "year": "2012",
+      "journal": "Autophagy",
+      "doi": "10.4161/auto.8.1.18339",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37254370",
+      "title": "Coffee prevents IQ-induced liver damage by regulating oxidative stress, inflammation, endoplasmic reticulum stress, autophagy, apoptosis, and the MAPK/NF-\u03baB signaling pathway in zebrafish.",
+      "first_author": "Li D",
+      "year": "2023",
+      "journal": "Food Res Int",
+      "doi": "10.1016/j.foodres.2023.112946",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31874152",
+      "title": "RAB18 Loss Interferes With Lipid Droplet Catabolism and Provokes Autophagy Network Adaptations.",
+      "first_author": "Bekbulat F",
+      "year": "2020",
+      "journal": "J Mol Biol",
+      "doi": "10.1016/j.jmb.2019.12.031",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31337282",
+      "title": "A Liver-Specific Thyromimetic, VK2809, Decreases Hepatosteatosis in Glycogen Storage Disease Type Ia.",
+      "first_author": "Zhou J",
+      "year": "2019",
+      "journal": "Thyroid",
+      "doi": "10.1089/thy.2019.0007",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16963840",
+      "title": "Stimulation of ATG12-ATG5 conjugation by ribonucleic acid.",
+      "first_author": "Shao Y",
+      "year": "2007",
+      "journal": "Autophagy",
+      "doi": "10.4161/auto.3270",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27629560",
+      "title": "PRNP/prion protein regulates the secretion of exosomes modulating CAV1/caveolin-1-suppressed autophagy.",
+      "first_author": "Dias MV",
+      "year": "2016",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2016.1226735",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34768788",
+      "title": "Curcumin Alleviates the Senescence of Canine Bone Marrow Mesenchymal Stem Cells during In Vitro Expansion by Activating the Autophagy Pathway.",
+      "first_author": "Deng J",
+      "year": "2021",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms222111356",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33783314",
+      "title": "The BAX-binding protein MOAP1 associates with LC3 and promotes closure of the phagophore.",
+      "first_author": "Chang HC",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1896157",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26491898",
+      "title": "FGFR3/fibroblast growth factor receptor 3 inhibits autophagy through decreasing the ATG12-ATG5 conjugate, leading to the delay of cartilage development in achondroplasia.",
+      "first_author": "Wang X",
+      "year": "2015",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2015.1091551",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34439521",
+      "title": "Astaxanthin Inhibits Autophagic Cell Death Induced by Bisphenol A in Human Dermal Fibroblasts.",
+      "first_author": "Lim SR",
+      "year": "2021",
+      "journal": "Antioxidants (Basel)",
+      "doi": "10.3390/antiox10081273",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25550510",
+      "title": "Inhibition of soluble epoxide hydrolase modulates inflammation and autophagy in obese adipose tissue and liver: role for omega-3 epoxides.",
+      "first_author": "L\u00f3pez-Vicario C",
+      "year": "2015",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1422590112",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

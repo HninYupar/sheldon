@@ -1,0 +1,169 @@
+{
+  "id": "r84",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[tiab] AND (MAGIS syndrome[tiab] OR immunodeficiency[tiab] OR growth hormone[tiab] OR developmental delay[tiab] OR hypopituitarism[tiab] OR endocrine[tiab] OR skeletal[tiab] OR neurologic[tiab] OR case report[pt])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "13 PubMed hits for 'GNAI2[tiab] AND (MAGIS syndrome[tiab] OR immunodeficiency[tiab] OR growth hormone[tiab] OR developmental delay[tiab] OR hypopituitarism[tiab] OR endocrine[tiab] OR skeletal[tiab] OR neurologic[tiab] OR case report[pt])'; showing 13 (PubMed read it as: \"GNAI2\"[Title/Abstract] AND (\"magis syndrome\"[Title/Abstract] OR \"immunodeficiency\"[Title/Abstract] OR \"growth hormone\"[Title/Abstract] OR \"developmental delay\"[Title/Abstract] OR \"hypopituitarism\"[Title/Abstract] OR \"endocrine\"[Title/Abstract] OR \"skeletal\"[Title/Abstract] OR \"neurologic\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "10833069",
+      "title": "Absence of GNAI2 codon 179 oncogene mutations in inflammatory bowel disease.",
+      "first_author": "Zhang WJ",
+      "year": "2000",
+      "journal": "Inflamm Bowel Dis",
+      "doi": "10.1097/00054725-200005000-00006",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32856736",
+      "title": "miR-34a is upregulated in AIP-mutated somatotropinomas and promotes octreotide resistance.",
+      "first_author": "Bogner EM",
+      "year": "2020",
+      "journal": "Int J Cancer",
+      "doi": "10.1002/ijc.33268",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38373483",
+      "title": "Investigating neuropathological changes and underlying neurobiological mechanisms in the early stages of primary blast-induced traumatic brain injury: Insights from a rat model.",
+      "first_author": "Zhu X",
+      "year": "2024",
+      "journal": "Exp Neurol",
+      "doi": "10.1016/j.expneurol.2024.114731",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39883012",
+      "title": "RNA G-quadruplex structure-based PROTACs for targeted DHX36 protein degradation and gene activity modulation in mammalian cells.",
+      "first_author": "Zhang K",
+      "year": "2025",
+      "journal": "Nucleic Acids Res",
+      "doi": "10.1093/nar/gkaf039",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16943428",
+      "title": "Pleiotropic phenotype of a genomic knock-in of an RGS-insensitive G184S Gnai2 allele.",
+      "first_author": "Huang X",
+      "year": "2006",
+      "journal": "Mol Cell Biol",
+      "doi": "10.1128/MCB.00314-06",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25291362",
+      "title": "Mutation analysis of inhibitory guanine nucleotide binding protein alpha (GNAI) loci in young and familial pituitary adenomas.",
+      "first_author": "Demir H",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0109897",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17928396",
+      "title": "Resistance to diet-induced obesity and improved insulin sensitivity in mice with a regulator of G protein signaling-insensitive G184S Gnai2 allele.",
+      "first_author": "Huang X",
+      "year": "2008",
+      "journal": "Diabetes",
+      "doi": "10.2337/db07-0599",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36794322",
+      "title": "The identification and validation of target genes of IGFBP3 protein in sheep skeletal muscle cells.",
+      "first_author": "Wang S",
+      "year": "2023",
+      "journal": "Anim Biotechnol",
+      "doi": "10.1080/10495398.2023.2174875",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19169048",
+      "title": "Non-functioning pituitary adenomas infrequently harbor G-protein gene mutations.",
+      "first_author": "Ruggeri RM",
+      "year": "2008",
+      "journal": "J Endocrinol Invest",
+      "doi": "10.1007/BF03345630",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34413292",
+      "title": "Translational control by DHX36 binding to 5'UTR G-quadruplex is essential for muscle stem-cell regenerative functions.",
+      "first_author": "Chen X",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-25170-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11158006",
+      "title": "Study of the multiple endocrine neoplasia type 1, growth hormone-releasing hormone receptor, Gs alpha, and Gi2 alpha genes in isolated familial acromegaly.",
+      "first_author": "Jorge BH",
+      "year": "2001",
+      "journal": "J Clin Endocrinol Metab",
+      "doi": "10.1210/jcem.86.2.7218",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    }
+  ]
+}

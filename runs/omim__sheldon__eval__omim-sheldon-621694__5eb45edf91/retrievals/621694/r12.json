@@ -1,0 +1,257 @@
+{
+  "id": "r12",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] OR PI31[tiab] OR \"parkinsonism\"[tiab] OR \"neurodegeneration\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "97560 PubMed hits for 'PSMF1[gene] OR PI31[tiab] OR \"parkinsonism\"[tiab] OR \"neurodegeneration\"[tiab]'; showing 20 (PubMed read it as: \"PSMF1\"[All Fields] OR \"PI31\"[Title/Abstract] OR \"parkinsonism\"[Title/Abstract] OR \"neurodegeneration\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "37426656",
+      "title": "Inflammation in multiple system atrophy.",
+      "first_author": "Le\u0144ska-Mieciek M",
+      "year": "2023",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2023.1214677",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12785748",
+      "title": "Childhood dystonia.",
+      "first_author": "Uc EY",
+      "year": "2003",
+      "journal": "Semin Pediatr Neurol",
+      "doi": "10.1016/s1071-9091(02)00010-4",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30742061",
+      "title": "MAPT mutations, tauopathy, and mechanisms of neurodegeneration.",
+      "first_author": "Strang KH",
+      "year": "2019",
+      "journal": "Lab Invest",
+      "doi": "10.1038/s41374-019-0197-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20945553",
+      "title": "DCTN1-Related Neurodegeneration.",
+      "first_author": "Adam MP",
+      "year": "1993",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34711421",
+      "title": "Parkinsonism and ataxia.",
+      "first_author": "Franco G",
+      "year": "2022",
+      "journal": "J Neurol Sci",
+      "doi": "10.1016/j.jns.2021.120020",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29656343",
+      "title": "Lateralisation in Parkinson disease.",
+      "first_author": "Riederer P",
+      "year": "2018",
+      "journal": "Cell Tissue Res",
+      "doi": "10.1007/s00441-018-2832-z",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37066326",
+      "title": "High-resolution structure of mammalian PI31\u00e2\u20ac\"20S proteasome complex reveals mechanism of proteasome inhibition.",
+      "first_author": "Hsu HC",
+      "year": "2023",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2023.04.03.535455",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37236357",
+      "title": "\u0397igh-resolution structure of mammalian PI31-20S proteasome complex reveals mechanism of proteasome inhibition.",
+      "first_author": "Hsu HC",
+      "year": "2023",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2023.104862",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28359667",
+      "title": "Mitochondrial membrane protein-associated neurodegeneration.",
+      "first_author": "Deutschl\u00e4nder A",
+      "year": "2017",
+      "journal": "Parkinsonism Relat Disord",
+      "doi": "10.1016/j.parkreldis.2017.03.014",
+      "pubtype": [
+        "Editorial",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "31359936",
+      "title": "Neurodegeneration with Brain Iron Accumulation.",
+      "first_author": "Batla A",
+      "year": "2019",
+      "journal": "Ann Indian Acad Neurol",
+      "doi": "10.4103/aian.AIAN_481_18",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38574438",
+      "title": "Delayed levodopa-responsive parkinsonism following acute midbrain injury.",
+      "first_author": "Friedman-Korn T",
+      "year": "2024",
+      "journal": "J Neurol Sci",
+      "doi": "10.1016/j.jns.2024.122983",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30409261",
+      "title": "Structural Imaging in Atypical Parkinsonism.",
+      "first_author": "Heim B",
+      "year": "2018",
+      "journal": "Int Rev Neurobiol",
+      "doi": "10.1016/bs.irn.2018.08.010",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40337847",
+      "title": "PI31 is a positive regulator of 20S immunoproteasome assembly.",
+      "first_author": "Wang J",
+      "year": "2025",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.263887",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39021328",
+      "title": "Clonic Perseveration in Neurodegenerative Parkinsonism.",
+      "first_author": "Abkur T",
+      "year": "2024",
+      "journal": "Mov Disord Clin Pract",
+      "doi": "10.1002/mdc3.14168",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23622245",
+      "title": "Proteasome regulation by ADP-ribosylation.",
+      "first_author": "Cho-Park PF",
+      "year": "2013",
+      "journal": "Cell",
+      "doi": "10.1016/j.cell.2013.03.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12849210",
+      "title": "Genes and parkinsonism.",
+      "first_author": "Hardy J",
+      "year": "2003",
+      "journal": "Lancet Neurol",
+      "doi": "10.1016/s1474-4422(03)00350-8",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "28256436",
+      "title": "Parkinsonian-Pyramidal syndromes: A systematic review.",
+      "first_author": "Tranchant C",
+      "year": "2017",
+      "journal": "Parkinsonism Relat Disord",
+      "doi": "10.1016/j.parkreldis.2017.02.025",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "24575447",
+      "title": "Mitochondrial Membrane Protein-Associated Neurodegeneration.",
+      "first_author": "Adam MP",
+      "year": "1993",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38577872",
+      "title": "Differential Interactions of the Proteasome Inhibitor PI31 with Constitutive and Immuno-20S Proteasomes.",
+      "first_author": "Wang J",
+      "year": "2024",
+      "journal": "Biochemistry",
+      "doi": "10.1021/acs.biochem.3c00707",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

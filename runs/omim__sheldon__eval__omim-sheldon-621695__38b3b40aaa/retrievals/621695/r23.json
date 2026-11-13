@@ -1,0 +1,12 @@
+{
+  "id": "r23",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (arthrogryposis[tiab] OR arthrogryposis multiplex congenita[tiab] OR AMC8[tiab] OR neurogenic[tiab] OR congenital contractures[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (arthrogryposis[tiab] OR arthrogryposis multiplex congenita[tiab] OR AMC8[tiab] OR neurogenic[tiab] OR congenital contractures[tiab])'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"arthrogryposis\"[Title/Abstract] OR \"arthrogryposis multiplex congenita\"[Title/Abstract] OR \"AMC8\"[Title/Abstract] OR \"neurogenic\"[Title/Abstract] OR \"congenital contractures\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": []
+}

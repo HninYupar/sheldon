@@ -1,0 +1,36 @@
+{
+  "id": "r48",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "BORCS5[gene] AND fibroblast",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'BORCS5[gene] AND fibroblast'; showing 2 (PubMed read it as: \"BORCS5\"[All Fields] AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31488873",
+      "title": "Newly identified LMO3-BORCS5 fusion oncogene in Ewing sarcoma at relapse is a driver of tumor progression.",
+      "first_author": "Dupain C",
+      "year": "2019",
+      "journal": "Oncogene",
+      "doi": "10.1038/s41388-019-0914-3",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31222839",
+      "title": "Identification of candidates for driver oncogenes in scirrhous-type gastric cancer cell lines.",
+      "first_author": "Sai E",
+      "year": "2019",
+      "journal": "Cancer Sci",
+      "doi": "10.1111/cas.14111",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

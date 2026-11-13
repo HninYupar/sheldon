@@ -1,0 +1,89 @@
+{
+  "id": "r102",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (patient-derived OR iPSC OR induced pluripotent stem cell OR neuron OR neurons OR neuronal)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "6 PubMed hits for 'PSMF1[gene] AND (patient-derived OR iPSC OR induced pluripotent stem cell OR neuron OR neurons OR neuronal)'; showing 6 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"patient-derived\"[All Fields] OR (\"induced pluripotent stem cells\"[MeSH Terms] OR (\"induced\"[All Fields] AND \"pluripotent\"[All Fields] AND \"stem\"[All Fields] AND \"cells\"[All Fields]) OR \"induced pluripotent stem cells\"[All Fields] OR \"ipsc\"[All Fields]) OR (\"induced pluripotent stem cells\"[MeSH Terms] OR (\"induced\"[All Fields] AND \"pluripotent\"[All Fields] AND \"stem\"[All Fields] AND \"cells\"[All Fields]) OR \"induced pluripotent stem cells\"[All Fields] OR (\"induced\"[All Fields] AND \"pluripotent\"[All Fields] AND \"stem\"[All Fields] AND \"cell\"[All Fields]) OR \"induced pluripotent stem cell\"[All Fields]) OR (\"neuron s\"[All Fields] OR \"neuronal\"[All Fields] OR \"neuronally\"[All Fields] OR \"neuronals\"[All Fields] OR \"neurone s\"[All Fields] OR \"neurones\"[All Fields] OR \"neuronic\"[All Fields] OR \"neurons\"[MeSH Terms] OR \"neurons\"[All Fields] OR \"neuron\"[All Fields] OR \"neurone\"[All Fields]) OR (\"neuron s\"[All Fields] OR \"neuronal\"[All Fields] OR \"neuronally\"[All Fields] OR \"neuronals\"[All Fields] OR \"neurone s\"[All Fields] OR \"neurones\"[All Fields] OR \"neuronic\"[All Fields] OR \"neurons\"[MeSH Terms] OR \"neurons\"[All Fields] OR \"neuron\"[All Fields] OR \"neurone\"[All Fields]) OR (\"neuron s\"[All Fields] OR \"neuronal\"[All Fields] OR \"neuronally\"[All Fields] OR \"neuronals\"[All Fields] OR \"neurone s\"[All Fields] OR \"neurones\"[All Fields] OR \"neuronic\"[All Fields] OR \"neurons\"[MeSH Terms] OR \"neurons\"[All Fields] OR \"neuron\"[All Fields] OR \"neurone\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31327739",
+      "title": "PI31 Is an Adaptor Protein for Proteasome Transport in Axons and Required for Synaptic Development.",
+      "first_author": "Liu K",
+      "year": "2019",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2019.06.009",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33009551",
+      "title": "Genome-Wide Association Analysis of Neonatal White Matter Microstructure.",
+      "first_author": "Zhang J",
+      "year": "2021",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhaa266",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ]
+}

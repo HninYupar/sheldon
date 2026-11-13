@@ -1,0 +1,48 @@
+{
+  "id": "r80",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "39871066",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "3 'cited_by' links for PMID 39871066; showing 3",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41999479",
+      "title": "Current gene panels for female infertility: gaps between evidence and clinical application.",
+      "first_author": "Nemati SM",
+      "year": "2026",
+      "journal": "J Assist Reprod Genet",
+      "doi": "10.1007/s10815-026-03860-y",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41683532",
+      "title": "Fatty Acid Amide Hydrolase Signaling and Ovarian Disorders: From Molecular Mechanism to Clinical Significance.",
+      "first_author": "Lin Q",
+      "year": "2026",
+      "journal": "Molecules",
+      "doi": "10.3390/molecules31030556",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41566502",
+      "title": "Novel LHX8 variants associated with distinctive oocyte morphological abnormalities and maturation arrest in primary infertility.",
+      "first_author": "Sako Y",
+      "year": "2026",
+      "journal": "J Ovarian Res",
+      "doi": "10.1186/s13048-026-01978-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

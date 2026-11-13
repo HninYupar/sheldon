@@ -1,0 +1,259 @@
+{
+  "id": "r71",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "41895291",
+    "relation": "references",
+    "max_results": 20
+  },
+  "summary": "55 'references' links for PMID 41895291; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40245862",
+      "title": "Bi-allelic pathogenic variants in TRMT1 disrupt tRNA modification and induce a neurodevelopmental disorder.",
+      "first_author": "Efthymiou S",
+      "year": "2025",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2025.03.015",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40103232",
+      "title": "Optimizing gRNA selection for high-penetrance F0 CRISPR screening for interrogating disease gene function.",
+      "first_author": "Lin SJ",
+      "year": "2025",
+      "journal": "Nucleic Acids Res",
+      "doi": "10.1093/nar/gkaf180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39864255",
+      "title": "Autophagic flux measurement: Cargo degradation versus generation of degradation products.",
+      "first_author": "Mizushima N",
+      "year": "2025",
+      "journal": "Curr Opin Cell Biol",
+      "doi": "10.1016/j.ceb.2025.102463",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39367235",
+      "title": "Longitudinal autophagy profiling of the mammalian brain reveals sustained mitophagy throughout healthy aging.",
+      "first_author": "Rappe A",
+      "year": "2024",
+      "journal": "EMBO J",
+      "doi": "10.1038/s44318-024-00241-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37951597",
+      "title": "Bi-allelic ACBD6 variants lead to a neurodevelopmental syndrome with progressive and complex movement disorders.",
+      "first_author": "Kaiyrzhanov R",
+      "year": "2024",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad380",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37364041",
+      "title": "Comprehensive analysis of autophagic functions of WIPI family proteins and their implications for the pathogenesis of \u03b2-propeller associated neurodegeneration.",
+      "first_author": "Shimizu T",
+      "year": "2023",
+      "journal": "Hum Mol Genet",
+      "doi": "10.1093/hmg/ddad096",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35938926",
+      "title": "A pulse-chasable reporter processing assay for mammalian autophagic flux with HaloTag.",
+      "first_author": "Yim WW",
+      "year": "2022",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.78923",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34996966",
+      "title": "Robust LC3B lipidation analysis by precisely adjusting autophagic flux.",
+      "first_author": "Liebl MP",
+      "year": "2022",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-021-03875-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34725936",
+      "title": "Emerging roles of ATG7 in human health and disease.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "EMBO Mol Med",
+      "doi": "10.15252/emmm.202114824",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "34161705",
+      "title": "Developmental Consequences of Defective ATG7-Mediated Autophagy in Humans.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "N Engl J Med",
+      "doi": "10.1056/NEJMoa1915722",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33237286",
+      "title": "UniProt: the universal protein knowledgebase in 2021.",
+      "first_author": "UniProt Consortium",
+      "year": "2021",
+      "journal": "Nucleic Acids Res",
+      "doi": "10.1093/nar/gkaa1100",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "32720330",
+      "title": "Fitting a naturally scaled point system to the ACMG/AMP variant classification guidelines.",
+      "first_author": "Tavtigian SV",
+      "year": "2020",
+      "journal": "Hum Mutat",
+      "doi": "10.1002/humu.24088",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32461654",
+      "title": "The mutational constraint spectrum quantified from variation in 141,456 humans.",
+      "first_author": "Karczewski KJ",
+      "year": "2020",
+      "journal": "Nature",
+      "doi": "10.1038/s41586-020-2308-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31901645",
+      "title": "The ATG conjugation systems in autophagy.",
+      "first_author": "Mizushima N",
+      "year": "2020",
+      "journal": "Curr Opin Cell Biol",
+      "doi": "10.1016/j.ceb.2019.12.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31900427",
+      "title": "Autophagy and disease: unanswered questions.",
+      "first_author": "Yang Y",
+      "year": "2020",
+      "journal": "Cell Death Differ",
+      "doi": "10.1038/s41418-019-0480-9",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30654583",
+      "title": "Autophagy in Chronic Kidney Diseases.",
+      "first_author": "Lin TA",
+      "year": "2019",
+      "journal": "Cells",
+      "doi": "10.3390/cells8010061",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30610706",
+      "title": "Measurement of Bulk Autophagy by a Cargo Sequestration Assay.",
+      "first_author": "Engedal N",
+      "year": "2019",
+      "journal": "Methods Mol Biol",
+      "doi": "10.1007/978-1-4939-8873-0_20",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30102280",
+      "title": "The Lactate Dehydrogenase Sequestration Assay - A Simple and Reliable Method to Determine Bulk Autophagic Sequestration Activity in Mammalian Cells.",
+      "first_author": "Luhr M",
+      "year": "2018",
+      "journal": "J Vis Exp",
+      "doi": "10.3791/57971",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Video-Audio Media"
+      ]
+    },
+    {
+      "pmid": "29343805",
+      "title": "Biallelic variants in KIF14 cause intellectual disability with microcephaly.",
+      "first_author": "Makrythanasis P",
+      "year": "2018",
+      "journal": "Eur J Hum Genet",
+      "doi": "10.1038/s41431-017-0088-9",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28596378",
+      "title": "Molecular definitions of autophagy and related processes.",
+      "first_author": "Galluzzi L",
+      "year": "2017",
+      "journal": "EMBO J",
+      "doi": "10.15252/embj.201796697",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

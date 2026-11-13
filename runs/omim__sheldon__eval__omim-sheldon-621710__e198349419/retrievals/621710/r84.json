@@ -1,0 +1,252 @@
+{
+  "id": "r84",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "35914984",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "89 'similar' links for PMID 35914984; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31929161",
+      "title": "Loss of Functional Dentition is Associated with Cognitive Impairment.",
+      "first_author": "Han JH",
+      "year": "2020",
+      "journal": "J Alzheimers Dis",
+      "doi": "10.3233/JAD-190971",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25803052",
+      "title": "Association between tooth loss and cognitive function among 3063 Chinese older adults: a community-based study.",
+      "first_author": "Luo J",
+      "year": "2015",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0120986",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38061876",
+      "title": "[Research progress in the association between tooth loss and cognitive decline in the elderly population].",
+      "first_author": "Lu XZ",
+      "year": "2023",
+      "journal": "Zhonghua Kou Qiang Yi Xue Za Zhi",
+      "doi": "10.3760/cma.j.cn112144-20230821-00101",
+      "pubtype": [
+        "Review",
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33164225",
+      "title": "Oral dysfunctions and cognitive impairment/dementia.",
+      "first_author": "Nakamura T",
+      "year": "2021",
+      "journal": "J Neurosci Res",
+      "doi": "10.1002/jnr.24745",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29609079",
+      "title": "Tooth loss is associated with accelerated cognitive decline and volumetric brain differences: a population-based study.",
+      "first_author": "Dintica CS",
+      "year": "2018",
+      "journal": "Neurobiol Aging",
+      "doi": "10.1016/j.neurobiolaging.2018.03.003",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34495870",
+      "title": "Association between tooth loss rate and risk of mild cognitive impairment in older adults: a population-based longitudinal study.",
+      "first_author": "Xu S",
+      "year": "2021",
+      "journal": "Aging (Albany NY)",
+      "doi": "10.18632/aging.203504",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35831211",
+      "title": "Differences in Brain Volume by Tooth Loss and Cognitive Function in Older Japanese Adults.",
+      "first_author": "Matsuyama Y",
+      "year": "2022",
+      "journal": "Am J Geriatr Psychiatry",
+      "doi": "10.1016/j.jagp.2022.06.005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24923929",
+      "title": "Largest study of its kind connects tooth loss with heart disease.",
+      "first_author": "",
+      "year": "2014",
+      "journal": "Br Dent J",
+      "doi": "10.1038/sj.bdj.2014.470",
+      "pubtype": [
+        "News"
+      ]
+    },
+    {
+      "pmid": "25407512",
+      "title": "Tooth loss is associated with severe cognitive impairment among older people: findings from a population-based study in Brazil.",
+      "first_author": "Peres MA",
+      "year": "2015",
+      "journal": "Aging Ment Health",
+      "doi": "10.1080/13607863.2014.977770",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32170642",
+      "title": "Association between tooth loss and gray matter volume in cognitive impairment.",
+      "first_author": "Lin CS",
+      "year": "2020",
+      "journal": "Brain Imaging Behav",
+      "doi": "10.1007/s11682-020-00267-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25362033",
+      "title": "Association between tooth loss and the development of mild memory impairment in the elderly: the Fujiwara-kyo Study.",
+      "first_author": "Okamoto N",
+      "year": "2015",
+      "journal": "J Alzheimers Dis",
+      "doi": "10.3233/JAD-141665",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25523131",
+      "title": "Tooth loss associated with physical and cognitive decline in older adults.",
+      "first_author": "Tsakos G",
+      "year": "2015",
+      "journal": "J Am Geriatr Soc",
+      "doi": "10.1111/jgs.13190",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19538327",
+      "title": "Tooth loss and cognitive impairment.",
+      "first_author": "Grabe HJ",
+      "year": "2009",
+      "journal": "J Clin Periodontol",
+      "doi": "10.1111/j.1600-051X.2009.01426.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32842351",
+      "title": "[Research progress in relationship between tooth loss and Alzheimer's disease].",
+      "first_author": "Wang KR",
+      "year": "2020",
+      "journal": "Zhonghua Kou Qiang Yi Xue Za Zhi",
+      "doi": "10.3760/cma.j.cn112144-20191110-00400",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25495425",
+      "title": "Multiple tooth loss is associated with vascular cognitive impairment in subjects with acute ischemic stroke.",
+      "first_author": "Zhu J",
+      "year": "2015",
+      "journal": "J Periodontal Res",
+      "doi": "10.1111/jre.12251",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23035667",
+      "title": "Chewing ability and tooth loss: association with cognitive impairment in an elderly population study.",
+      "first_author": "Lexomboon D",
+      "year": "2012",
+      "journal": "J Am Geriatr Soc",
+      "doi": "10.1111/j.1532-5415.2012.04154.x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20840004",
+      "title": "Edentulism associated with obesity: a study of four national surveys of 16 416 Swedes aged 55&#x2013;84 years.",
+      "first_author": "\u00d6sterberg T",
+      "year": "2010",
+      "journal": "Acta Odontol Scand",
+      "doi": "10.3109/00016357.2010.514721",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30626824",
+      "title": "Tooth Loss-associated Cognitive Impairment in the Elderly: A Community-based Study in Japan.",
+      "first_author": "Kato H",
+      "year": "2019",
+      "journal": "Intern Med",
+      "doi": "10.2169/internalmedicine.1896-18",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21143439",
+      "title": "Patterns of tooth loss in older adults with and without dementia: a retrospective study based on a Minnesota cohort.",
+      "first_author": "Chen X",
+      "year": "2010",
+      "journal": "J Am Geriatr Soc",
+      "doi": "10.1111/j.1532-5415.2010.03192.x",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25684327",
+      "title": "Decision-making deficits associated with disrupted synchronization between basolateral amygdala and anterior cingulate cortex in rats after tooth loss.",
+      "first_author": "Xu X",
+      "year": "2015",
+      "journal": "Prog Neuropsychopharmacol Biol Psychiatry",
+      "doi": "10.1016/j.pnpbp.2015.02.002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

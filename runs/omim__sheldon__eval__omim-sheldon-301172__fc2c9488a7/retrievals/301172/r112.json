@@ -1,0 +1,263 @@
+{
+  "id": "r112",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SLEB19 OR \"systemic lupus erythematosus 19\" OR \"SAT1 deficiency\"",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "21 PubMed hits for 'SLEB19 OR \"systemic lupus erythematosus 19\" OR \"SAT1 deficiency\"'; showing 21 (PubMed read it as: ((\"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields] OR (\"systemic\"[All Fields] AND \"lupus\"[All Fields] AND \"erythematosus\"[All Fields])) AND \"19 lond\"[Journal]) OR (\"sat1\"[All Fields] AND (\"deficiences\"[All Fields] OR \"deficiencies\"[All Fields] OR \"deficiency\"[MeSH Subheading] OR \"deficiency\"[All Fields] OR \"deficient\"[All Fields] OR \"deficients\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39073262",
+      "title": "Autophagy Deficiency Induced by SAT1 Potentiates Tumor Progression in Triple-Negative Breast Cancer.",
+      "first_author": "Tian W",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202309903",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24717514",
+      "title": "Nicotinamide N-methyltransferase knockdown protects against diet-induced obesity.",
+      "first_author": "Kraus D",
+      "year": "2014",
+      "journal": "Nature",
+      "doi": "10.1038/nature13198",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37848037",
+      "title": "Polyamine metabolism controls B-to-Z DNA transition to orchestrate DNA sensor cGAS activity.",
+      "first_author": "Zhao C",
+      "year": "2023",
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2023.09.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32376874",
+      "title": "Chemical activation of SAT1 corrects diet-induced metabolic syndrome.",
+      "first_author": "Castoldi F",
+      "year": "2020",
+      "journal": "Cell Death Differ",
+      "doi": "10.1038/s41418-020-0550-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41388741",
+      "title": "HDAC1 dysregulation promotes pro-inflammatory microglial activation and aggravates post-stroke neuroinflammation.",
+      "first_author": "Chen JS",
+      "year": "2025",
+      "journal": "Ann Med",
+      "doi": "10.1080/07853890.2025.2597624",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42222888",
+      "title": "Polyamine sequestration of 2'3'-cGAMP constrains intercellular transmission and STING engagement to subvert antitumor immunity.",
+      "first_author": "Ma Y",
+      "year": "2026",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI201460",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32544364",
+      "title": "Triethylenetetramine (trientine): a caloric restriction mimetic with a new mode of action.",
+      "first_author": "Pietrocola F",
+      "year": "2020",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1778293",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22517357",
+      "title": "Sat1 is dispensable for active oxalate secretion in mouse duodenum.",
+      "first_author": "Ko N",
+      "year": "2012",
+      "journal": "Am J Physiol Cell Physiol",
+      "doi": "10.1152/ajpcell.00385.2011",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38473716",
+      "title": "Effects of Spermine Synthase Deficiency in Mesenchymal Stromal Cells Are Rescued by Upstream Inhibition of Ornithine Decarboxylase.",
+      "first_author": "Cressman A",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25052463",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39261649",
+      "title": "Trained immunity of intestinal tuft cells during infancy enhances host defense against enteroviral infections in mice.",
+      "first_author": "Chen D",
+      "year": "2024",
+      "journal": "EMBO Mol Med",
+      "doi": "10.1038/s44321-024-00128-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40361259",
+      "title": "PPAR\u03b3 is a potential therapeutic target for radiation enteritis via suppressing ferroptosis, mediated by the GAPDH/glycosylation axis.",
+      "first_author": "Zeng X",
+      "year": "2025",
+      "journal": "Br J Pharmacol",
+      "doi": "10.1111/bph.70045",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32152280",
+      "title": "The X-linked trichothiodystrophy-causing gene RNF113A links the spliceosome to cell survival upon DNA damage.",
+      "first_author": "Shostak K",
+      "year": "2020",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-020-15003-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28192541",
+      "title": "Immune-driven alterations in mucin sulphation is an important mediator of Trichuris muris helminth expulsion.",
+      "first_author": "Hasnain SZ",
+      "year": "2017",
+      "journal": "PLoS Pathog",
+      "doi": "10.1371/journal.ppat.1006218",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24250268",
+      "title": "Human SLC26A1 gene variants: a pilot study.",
+      "first_author": "Dawson PA",
+      "year": "2013",
+      "journal": "ScientificWorldJournal",
+      "doi": "10.1155/2013/541710",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33054763",
+      "title": "Ablation of polyamine catabolic enzymes provokes Purkinje cell damage, neuroinflammation, and severe ataxia.",
+      "first_author": "Zahedi K",
+      "year": "2020",
+      "journal": "J Neuroinflammation",
+      "doi": "10.1186/s12974-020-01955-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23463324",
+      "title": "Efficient gene targeting in a Candida guilliermondii non-homologous end-joining pathway-deficient strain.",
+      "first_author": "Foureau E",
+      "year": "2013",
+      "journal": "Biotechnol Lett",
+      "doi": "10.1007/s10529-013-1169-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35107385",
+      "title": "The sat1 Gene Is Required for the Growth and Virulence of the Human Pathogenic Fungus Aspergillus fumigatus.",
+      "first_author": "Wei Y",
+      "year": "2022",
+      "journal": "Microbiol Spectr",
+      "doi": "10.1128/spectrum.01558-21",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19473115",
+      "title": "Spermine analogue-regulated expression of spermidine/spermine N1-acetyltransferase and its effects on depletion of intracellular polyamine pools in mouse fetal fibroblasts.",
+      "first_author": "Uimari A",
+      "year": "2009",
+      "journal": "Biochem J",
+      "doi": "10.1042/BJ20090411",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17071331",
+      "title": "SLC26 chloride/base exchangers in the kidney in health and disease.",
+      "first_author": "Soleimani M",
+      "year": "2006",
+      "journal": "Semin Nephrol",
+      "doi": "10.1016/j.semnephrol.2006.07.005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "22328364",
+      "title": "Gene deletion in Candida albicans wild-type strains using the SAT1-flipping strategy.",
+      "first_author": "Sasse C",
+      "year": "2012",
+      "journal": "Methods Mol Biol",
+      "doi": "10.1007/978-1-61779-539-8_1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17009297",
+      "title": "New pFA-cassettes for PCR-based gene manipulation in Candida albicans.",
+      "first_author": "Schaub Y",
+      "year": "2006",
+      "journal": "J Basic Microbiol",
+      "doi": "10.1002/jobm.200510133",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

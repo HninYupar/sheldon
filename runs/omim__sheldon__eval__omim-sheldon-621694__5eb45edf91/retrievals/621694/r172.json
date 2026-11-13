@@ -1,0 +1,185 @@
+{
+  "id": "r172",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] OR PI31[tiab] AND (review[pt] OR systematic[sb] OR synthesis[tiab] OR overview[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "14 PubMed hits for 'PSMF1[gene] OR PI31[tiab] AND (review[pt] OR systematic[sb] OR synthesis[tiab] OR overview[tiab])'; showing 14 (PubMed read it as: (\"PSMF1\"[All Fields] OR \"PI31\"[Title/Abstract]) AND (\"review\"[Publication Type] OR \"systematic\"[Filter] OR \"synthesis\"[Title/Abstract] OR \"overview\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "16250896",
+      "title": "Proteasomes.",
+      "first_author": "Dahlmann B",
+      "year": "2005",
+      "journal": "Essays Biochem",
+      "doi": "10.1042/EB0410031",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32274753",
+      "title": "The Proteasome System in Health and Disease.",
+      "first_author": "Coux O",
+      "year": "2020",
+      "journal": "Adv Exp Med Biol",
+      "doi": "10.1007/978-3-030-38266-7_3",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "10363639",
+      "title": "The proteasome-dependent proteolytic system.",
+      "first_author": "Tanahashi N",
+      "year": "1999",
+      "journal": "Mol Biol Rep",
+      "doi": "10.1023/a:1006909522731",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31754024",
+      "title": "The proteasome regulator PI31 is required for protein homeostasis, synapse maintenance, and neuronal survival in mice.",
+      "first_author": "Minis A",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1911921116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41796444",
+      "title": "Magical moments in protease biology: proteasome autocatalytic activation and PI31-mediated inhibition.",
+      "first_author": "Rajakumar T",
+      "year": "2026",
+      "journal": "Trends Biochem Sci",
+      "doi": "10.1016/j.tibs.2026.02.003",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "15571818",
+      "title": "The proteasome and MHC class I antigen processing.",
+      "first_author": "Kloetzel PM",
+      "year": "2004",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbamcr.2004.10.004",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33322065",
+      "title": "Using an Untargeted Metabolomics Approach to Identify Salivary Metabolites in Women with Breast Cancer.",
+      "first_author": "Xavier Assad D",
+      "year": "2020",
+      "journal": "Metabolites",
+      "doi": "10.3390/metabo10120506",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "14566967",
+      "title": "Role of nitric oxide, reactive oxygen species, and p38 MAP kinase in the regulation of human chondrocyte apoptosis.",
+      "first_author": "K\u00fchn K",
+      "year": "2003",
+      "journal": "J Cell Physiol",
+      "doi": "10.1002/jcp.10372",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "22252971",
+      "title": "Biological effects of the plant-derived polyphenol resveratrol in human articular cartilage and chondrosarcoma cells.",
+      "first_author": "Im HJ",
+      "year": "2012",
+      "journal": "J Cell Physiol",
+      "doi": "10.1002/jcp.24049",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "24107298",
+      "title": "Beyond ubiquitination: the atypical functions of Fbxo7 and other F-box proteins.",
+      "first_author": "Nelson DE",
+      "year": "2013",
+      "journal": "Open Biol",
+      "doi": "10.1098/rsob.130131",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21105124",
+      "title": "Advanced or metastatic pancreatic cancer: molecular targeted therapies.",
+      "first_author": "Bayraktar S",
+      "year": "2010",
+      "journal": "Mt Sinai J Med",
+      "doi": "10.1002/msj.20217",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "15952303",
+      "title": "[Genetic analysis and individualized therapy for diffuse glioma].",
+      "first_author": "Watanabe T",
+      "year": "2005",
+      "journal": "No Shinkei Geka",
+      "doi": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

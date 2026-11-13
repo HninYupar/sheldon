@@ -1,0 +1,91 @@
+{
+  "id": "r81",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41253044",
+      "42649079",
+      "42983429"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "authors": [
+        "Cogan G",
+        "Lesage S",
+        "Brice A"
+      ],
+      "year": "2025",
+      "journal": "Current opinion in neurobiology",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Humans",
+        "Parkinson Disease",
+        "Mutation",
+        "Age of Onset",
+        "Genes, Recessive",
+        "Ubiquitin-Protein Ligases"
+      ],
+      "abstract": "Early-onset Parkinson's disease (EOPD) is usually defined as Parkinson's disease (PD) occurring before the age of 40-50 years. Unlike late-onset PD, EOPD is often due to pathogenic mutations in autosomal recessive genes. Two phenotypes can be distinguished: typical EOPD, which progresses slowly (PRKN, PINK1 and DJ-1), and atypical PD, often associated with additional symptoms (ATP13A2, FBXO7, DNAJC6, VPS13C, SYNJ1, PLA2G6). In this review, we will highlight recent advances and remaining challenges. The frequency of causal genetic mutations and the genotype-phenotype landscape of PRKN-associated PD has been refined. Long-read sequencing has solved several undiagnosed cases with a single PRKN mutation. Five new genes have been reported to contribute to EOPD associated with various neurological signs (PTPA, DAGLB, PSMF1, EPG5, SGIP1). Small molecules targeting PRKN dysfunctions are expected to enter clinical trials in the coming years, paving the way for targeted therapies in EOPD."
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "authors": [
+        "Gabbert C",
+        "Much C",
+        "Wengh\u00f6fer A",
+        "Fienemann A",
+        "Schaake S",
+        "L\u00fcth T",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ],
+      "mesh": [],
+      "abstract": ""
+    },
+    {
+      "pmid": "42983429",
+      "title": "The TNKS/PI31-proteasome axis as a central node in TDP-43 neuropathies.",
+      "authors": [
+        "Bubphachat P",
+        "Majumder P",
+        "Wang IF",
+        "Huang JK",
+        "Kao TJ",
+        "Lee YC",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Journal of biomedical science",
+      "doi": "10.1186/s12929-026-01296-1",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Proteasome Endopeptidase Complex",
+        "Mice",
+        "DNA-Binding Proteins",
+        "Tankyrases",
+        "Humans",
+        "Mice, Transgenic",
+        "TDP-43 Proteinopathies"
+      ],
+      "abstract": "BACKGROUND: Pathological aggregation of Tar DNA-binding protein 43 (TDP-43) and disruption of neuronal protein homeostasis are defining features of amyotrophic lateral sclerosis (ALS), frontotemporal lobar degeneration (FTLD), and related TDP-43 proteinopathies. Efficient axonal transport of proteasomes is essential for maintaining local protein quality control in neurons. Proteasome inhibitor 31 (PI31) regulates both 26S proteasome assembly and dynein-mediated transport of 20S proteasomes. Although Tankyrase 1/2 (TNKS)-mediated ADP-ribosylation of PI31 promotes 26S proteasome assembly, its role in proteasome transport and its contribution to TDP-43 pathology remain unclear.\nMETHODS: Live-cell imaging was performed to examine 20S proteasome transport in primary cortical and motor neurons from wild-type and Prp-TDP-43A315T transgenic mice. Protein interactions among TDP-43, TNKS, and PI31 were analyzed by immunoprecipitation and F\u00f6rster resonance energy transfer (FRET). Insoluble protein accumulation and colocalization were assessed by RIPA/urea fractionation, Western blotting, and immunofluorescence. Proteasome assembly and activity were evaluated using native gel electrophoresis and a 20S proteasome-specific fluorogenic substrate. TDP-43 aggregation was examined by semi-denaturing detergent agarose gel electrophoresis (SDD-AGE).\nRESULTS: In cell models expressing TDP-43-FL, TDP-43-A315T, or TDP-25 and in Prp-TDP-43A315T transgenic mice, pathological TDP-43 species formed distinct aggregates, ranging from oligomers to prominent cytoplasmic aggregates, yet all reduced proteasome activity, impaired axonal proteasome transport, and caused the accumulation of polyubiquitinated proteins, PI31, 20S proteasomes, and TDP-43 in the proximal axon and cell body. Pathological TDP-43 sequestered TNKS and proteasome components into insoluble fractions, thereby limiting the availability of free and soluble TNKS for interaction with PI31 and subsequent PI31 ADP-ribosylation, ultimately impairing 19S/20S proteasome assembly. Notably, disruption of the TNKS-PI31 interaction or inhibition of TNKS activity recapitulated the proteasome dysfunction induced by pathological TDP-43, supporting a role for the aberrant TNKS-TDP-43 interaction and consequent impairment of TNKS-mediated PI31 ADP-ribosylation in TNKS/PI31/proteasome axis dysfunction.\nCONCLUSIONS: Pathological TDP-43 disrupts proteasome function by impairing the TNKS/PI31/proteasome axis, suggesting that this axis may r"
+    }
+  ]
+}

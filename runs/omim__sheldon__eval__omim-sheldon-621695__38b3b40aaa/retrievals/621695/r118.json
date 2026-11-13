@@ -1,0 +1,39 @@
+{
+  "id": "r118",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND human[tiab] AND patient*[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'PSMF1[gene] AND human[tiab] AND patient*[tiab]'; showing 2 (PubMed read it as: \"PSMF1\"[All Fields] AND \"human\"[Title/Abstract] AND \"patient*\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32856318",
+      "title": "PIK3R2/Pik3r2 Activating Mutations Result in Brain Overgrowth and EEG Changes.",
+      "first_author": "Shi X",
+      "year": "2020",
+      "journal": "Ann Neurol",
+      "doi": "10.1002/ana.25890",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

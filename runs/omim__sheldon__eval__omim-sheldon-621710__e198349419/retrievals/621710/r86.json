@@ -1,0 +1,165 @@
+{
+  "id": "r86",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (seizures OR cerebellar hypoplasia OR neurodevelopmental disorder OR developmental delay)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "13 PubMed hits for 'ATG12[gene] AND (seizures OR cerebellar hypoplasia OR neurodevelopmental disorder OR developmental delay)'; showing 13 (PubMed read it as: \"ATG12\"[All Fields] AND (\"seizural\"[All Fields] OR \"seizure s\"[All Fields] OR \"seizured\"[All Fields] OR \"seizures\"[MeSH Terms] OR \"seizures\"[All Fields] OR \"seizure\"[All Fields] OR \"seizuring\"[All Fields] OR (\"cerebellar hypoplasia\"[Supplementary Concept] OR \"cerebellar hypoplasia\"[All Fields]) OR (\"neurodevelopmental disorders\"[MeSH Terms] OR (\"neurodevelopmental\"[All Fields] AND \"disorders\"[All Fields]) OR \"neurodevelopmental disorders\"[All Fields] OR (\"neurodevelopmental\"[All Fields] AND \"disorder\"[All Fields]) OR \"neurodevelopmental disorder\"[All Fields]) OR ((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"delay\"[All Fields] OR \"delayed\"[All Fields] OR \"delaying\"[All Fields] OR \"delays\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "28685385",
+      "title": "Exclusive Activation of Caspase-3 in Mossy Fibers and Altered Dynamics of Autophagy Markers in the Mice Hippocampus upon Status Epilepticus Induced by Kainic Acid.",
+      "first_author": "Rami A",
+      "year": "2018",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-017-0665-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39472694",
+      "title": "Gene-based burden tests of rare germline variants identify six cancer susceptibility genes.",
+      "first_author": "Ivarsdottir EV",
+      "year": "2024",
+      "journal": "Nat Genet",
+      "doi": "10.1038/s41588-024-01966-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31678999",
+      "title": "Electroconvulsive Seizures Induce Autophagy by Activating the AMPK Signaling Pathway in the Rat Frontal Cortex.",
+      "first_author": "Kim SH",
+      "year": "2020",
+      "journal": "Int J Neuropsychopharmacol",
+      "doi": "10.1093/ijnp/pyz055",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29467720",
+      "title": "The Steroid Hormone 20-Hydroxyecdysone Regulates the Conjugation of Autophagy-Related Proteins 12 and 5 in a Concentration and Time-Dependent Manner to Promote Insect Midgut Programmed Cell Death.",
+      "first_author": "Li YB",
+      "year": "2018",
+      "journal": "Front Endocrinol (Lausanne)",
+      "doi": "10.3389/fendo.2018.00028",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24316174",
+      "title": "Electroconvulsive seizures enhance autophagy signaling in rat hippocampus.",
+      "first_author": "Otabe H",
+      "year": "2014",
+      "journal": "Prog Neuropsychopharmacol Biol Psychiatry",
+      "doi": "10.1016/j.pnpbp.2013.11.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26812546",
+      "title": "Mutation in ATG5 reduces autophagy and leads to ataxia with developmental delay.",
+      "first_author": "Kim M",
+      "year": "2016",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.12245",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27777042",
+      "title": "The steroid hormone 20-hydroxyecdysone promotes switching from autophagy to apoptosis by increasing intracellular calcium levels.",
+      "first_author": "Li YB",
+      "year": "2016",
+      "journal": "Insect Biochem Mol Biol",
+      "doi": "10.1016/j.ibmb.2016.10.004",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29808547",
+      "title": "MiR-181b inhibits P38/JNK signaling pathway to attenuate autophagy and apoptosis in juvenile rats with kainic acid-induced epilepsy via targeting TLR4.",
+      "first_author": "Wang L",
+      "year": "2019",
+      "journal": "CNS Neurosci Ther",
+      "doi": "10.1111/cns.12991",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17223264",
+      "title": "Kainic acid induces early and transient autophagic stress in mouse hippocampus.",
+      "first_author": "Shacka JJ",
+      "year": "2007",
+      "journal": "Neurosci Lett",
+      "doi": "10.1016/j.neulet.2006.12.025",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26738731",
+      "title": "Cannabidiol Post-Treatment Alleviates Rat Epileptic-Related Behaviors and Activates Hippocampal Cell Autophagy Pathway Along with Antioxidant Defense in Chronic Phase of Pilocarpine-Induced Seizure.",
+      "first_author": "Hosseinzadeh M",
+      "year": "2016",
+      "journal": "J Mol Neurosci",
+      "doi": "10.1007/s12031-015-0703-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27107699",
+      "title": "FoxO3a-mediated autophagy is down-regulated in the laforin deficient mice, an animal model for Lafora progressive myoclonus epilepsy.",
+      "first_author": "Jain N",
+      "year": "2016",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2016.04.094",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

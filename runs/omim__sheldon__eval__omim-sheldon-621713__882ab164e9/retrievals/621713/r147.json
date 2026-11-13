@@ -1,0 +1,232 @@
+{
+  "id": "r147",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (infertility OR oocyte OR embryo OR zygote) AND (patients[tiab] OR family[tiab] OR case[tiab] OR cohort[tiab] OR mutation[tiab] OR variant[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "18 PubMed hits for 'TACC3[gene] AND (infertility OR oocyte OR embryo OR zygote) AND (patients[tiab] OR family[tiab] OR case[tiab] OR cohort[tiab] OR mutation[tiab] OR variant[tiab])'; showing 18 (PubMed read it as: \"TACC3\"[All Fields] AND (\"infertiles\"[All Fields] OR \"infertilities\"[All Fields] OR \"infertility\"[MeSH Terms] OR \"infertility\"[All Fields] OR \"infertile\"[All Fields] OR (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) OR (\"embryo s\"[All Fields] OR \"embryoes\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryo\"[All Fields] OR \"embryos\"[All Fields]) OR (\"zygote\"[MeSH Terms] OR \"zygote\"[All Fields] OR \"zygotes\"[All Fields] OR \"zygote s\"[All Fields] OR \"zygotic\"[All Fields] OR \"zygotically\"[All Fields])) AND (\"patients\"[Title/Abstract] OR \"family\"[Title/Abstract] OR \"case\"[Title/Abstract] OR \"cohort\"[Title/Abstract] OR \"mutation\"[Title/Abstract] OR \"variant\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15788567",
+      "title": "The Xenopus TACC homologue, maskin, functions in mitotic spindle assembly.",
+      "first_author": "O'Brien LL",
+      "year": "2005",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.e04-10-0926",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "36674642",
+      "title": "PAK1 Is Involved in the Spindle Assembly during the First Meiotic Division in Porcine Oocytes.",
+      "first_author": "Peng L",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms24021123",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "16107707",
+      "title": "Differential phosphorylation controls Maskin association with eukaryotic translation initiation factor 4E and localization on the mitotic apparatus.",
+      "first_author": "Barnard DC",
+      "year": "2005",
+      "journal": "Mol Cell Biol",
+      "doi": "10.1128/MCB.25.17.7605-7615.2005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "27991556",
+      "title": "KIF2A regulates the spindle assembly and the metaphase I-anaphase I transition in mouse oocyte.",
+      "first_author": "Chen MH",
+      "year": "2016",
+      "journal": "Sci Rep",
+      "doi": "10.1038/srep39337",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22842144",
+      "title": "DOCK7 interacts with TACC3 to regulate interkinetic nuclear migration and cortical neurogenesis.",
+      "first_author": "Yang YT",
+      "year": "2012",
+      "journal": "Nat Neurosci",
+      "doi": "10.1038/nn.3171",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "12237944",
+      "title": "TACC3 expression and localization in the murine egg and ovary.",
+      "first_author": "Hao Z",
+      "year": "2002",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.90012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "12569123",
+      "title": "The ch-TOG/XMAP215 protein is essential for spindle pole organization in human somatic cells.",
+      "first_author": "Gergely F",
+      "year": "2003",
+      "journal": "Genes Dev",
+      "doi": "10.1101/gad.245603",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27572091",
+      "title": "Knockdown of TACC3 inhibits trophoblast cell migration and invasion through the PI3K/Akt signaling pathway.",
+      "first_author": "Zhu X",
+      "year": "2016",
+      "journal": "Mol Med Rep",
+      "doi": "10.3892/mmr.2016.5659",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12389629",
+      "title": "AINT/ERIC/TACC: an expanding family of proteins with C-terminal coiled coil domains.",
+      "first_author": "Lappin TR",
+      "year": "2002",
+      "journal": "Leuk Lymphoma",
+      "doi": "10.1080/1042819022386644",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "12642624",
+      "title": "Aint/Tacc3 is highly expressed in proliferating mouse tissues during development, spermatogenesis, and oogenesis.",
+      "first_author": "Aitola M",
+      "year": "2003",
+      "journal": "J Histochem Cytochem",
+      "doi": "10.1177/002215540305100407",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17359303",
+      "title": "TACC3 is required for the proper mitosis of sclerotome mesenchymal cells during formation of the axial skeleton.",
+      "first_author": "Yao R",
+      "year": "2007",
+      "journal": "Cancer Sci",
+      "doi": "10.1111/j.1349-7006.2007.00433.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25187649",
+      "title": "TACC3 is a microtubule plus end-tracking protein that promotes axon elongation and also regulates microtubule plus end dynamics in multiple embryonic cell types.",
+      "first_author": "Nwagbara BU",
+      "year": "2014",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.E14-06-1121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "27559128",
+      "title": "Xenopus TACC2 is a microtubule plus end-tracking protein that can promote microtubule polymerization during embryonic development.",
+      "first_author": "Rutherford EL",
+      "year": "2016",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.E16-03-0198",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "16172207",
+      "title": "Function and regulation of Maskin, a TACC family protein, in microtubule growth during mitosis.",
+      "first_author": "Peset I",
+      "year": "2005",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.200504037",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11121038",
+      "title": "The TACC domain identifies a family of centrosomal proteins that can interact with microtubules.",
+      "first_author": "Gergely F",
+      "year": "2000",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.97.26.14352",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ]
+}

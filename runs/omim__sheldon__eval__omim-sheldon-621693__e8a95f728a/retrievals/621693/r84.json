@@ -1,0 +1,36 @@
+{
+  "id": "r84",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND variant AND (cohort OR exome OR panel OR sequencing)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'PSMF1[gene] AND variant AND (cohort OR exome OR panel OR sequencing)'; showing 2 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) AND (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields] OR (\"exome\"[MeSH Terms] OR \"exome\"[All Fields] OR \"exomes\"[All Fields] OR \"exomic\"[All Fields]) OR (\"panel\"[All Fields] OR \"panel s\"[All Fields] OR \"panels\"[All Fields]) OR (\"base sequence\"[MeSH Terms] OR (\"base\"[All Fields] AND \"sequence\"[All Fields]) OR \"base sequence\"[All Fields] OR \"sequence\"[All Fields] OR \"sequences\"[All Fields] OR \"sequence analysis\"[MeSH Terms] OR (\"sequence\"[All Fields] AND \"analysis\"[All Fields]) OR \"sequence analysis\"[All Fields] OR \"sequencing\"[All Fields] OR \"sequence s\"[All Fields] OR \"sequenceable\"[All Fields] OR \"sequenced\"[All Fields] OR \"sequenceing\"[All Fields] OR \"sequencer\"[All Fields] OR \"sequencers\"[All Fields] OR \"sequencies\"[All Fields] OR \"sequencings\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "31585107",
+      "title": "A Rare Variant Nonparametric Linkage Method for Nuclear and Extended Pedigrees with Application to Late-Onset Alzheimer Disease via WGS Data.",
+      "first_author": "Zhao L",
+      "year": "2019",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2019.09.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "id": "r4",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] OR \"proteasome inhibitor subunit 1\"[tiab] OR \"omegasome\"[tiab]",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "92 PubMed hits for 'PSMF1[tiab] OR \"proteasome inhibitor subunit 1\"[tiab] OR \"omegasome\"[tiab]'; showing 50 (PubMed read it as: \"PSMF1\"[Title/Abstract] OR \"omegasome\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "37722386",
+      "title": "ATPase-regulated autophagosome biogenesis.",
+      "first_author": "N\u00e4hse V",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2023.2255967",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28933638",
+      "title": "Autophagy pathway: Cellular and molecular mechanisms.",
+      "first_author": "Yu L",
+      "year": "2018",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2017.1378838",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37422481",
+      "title": "ATPase activity of DFCP1 controls selective autophagy.",
+      "first_author": "N\u00e4hse V",
+      "year": "2023",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-023-39641-9",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31293035",
+      "title": "DFCP1 associates with lipid droplets.",
+      "first_author": "Gao G",
+      "year": "2019",
+      "journal": "Cell Biol Int",
+      "doi": "10.1002/cbin.11199",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41880641",
+      "title": "The Human Autophagy Core Complexes.",
+      "first_author": "Hurley JH",
+      "year": "2026",
+      "journal": "Annu Rev Biochem",
+      "doi": "10.1146/annurev-biochem-072425-030036",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "24991833",
+      "title": "Coronavirus NSP6 restricts autophagosome expansion.",
+      "first_author": "Cottam EM",
+      "year": "2014",
+      "journal": "Autophagy",
+      "doi": "10.4161/auto.29309",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "32079445",
+      "title": "Macroautophagy is repressed during mitosis - seeing is believing.",
+      "first_author": "Odle RI",
+      "year": "2020",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1725405",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36917659",
+      "title": "In situ snapshots along a mammalian selective autophagy pathway.",
+      "first_author": "Li M",
+      "year": "2023",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2221712120",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33930785",
+      "title": "Membrane supply and remodeling during autophagosome biogenesis.",
+      "first_author": "G\u00f3mez-S\u00e1nchez R",
+      "year": "2021",
+      "journal": "Curr Opin Cell Biol",
+      "doi": "10.1016/j.ceb.2021.02.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30766969",
+      "title": "The rod-shaped ATG2A-WIPI4 complex tethers membranes in vitro.",
+      "first_author": "Otomo T",
+      "year": "2018",
+      "journal": "Contact (Thousand Oaks)",
+      "doi": "10.1177/2515256418819936",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "39392358",
+      "title": "Biogenesis of omegasomes and autophagosomes in mammalian autophagy.",
+      "first_author": "Norell PN",
+      "year": "2024",
+      "journal": "Biochem Soc Trans",
+      "doi": "10.1042/BST20240015",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34616872",
+      "title": "TFG: a novel regulator of ULK1-dependent autophagy.",
+      "first_author": "Cecconi F",
+      "year": "2021",
+      "journal": "Mol Cell Oncol",
+      "doi": "10.1080/23723556.2021.1945895",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36231043",
+      "title": "Morphology of Phagophore Precursors by Correlative Light-Electron Microscopy.",
+      "first_author": "Gudmundsson SR",
+      "year": "2022",
+      "journal": "Cells",
+      "doi": "10.3390/cells11193080",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35807355",
+      "title": "Prognostic Ability of Enhancer RNAs in Metastasis of Non-Small Cell Lung Cancer.",
+      "first_author": "Liu J",
+      "year": "2022",
+      "journal": "Molecules",
+      "doi": "10.3390/molecules27134108",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38724256",
+      "title": "Omegasomes control formation, expansion, and closure of autophagosomes.",
+      "first_author": "N\u00e4hse V",
+      "year": "2024",
+      "journal": "Bioessays",
+      "doi": "10.1002/bies.202400038",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25785312",
+      "title": "Proteomics analysis of EV71-infected cells reveals the involvement of host protein NEDD4L in EV71 replication.",
+      "first_author": "Kuo RL",
+      "year": "2015",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/pr501199h",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29766811",
+      "title": "P2X7 Receptor-Associated Programmed Cell Death in the Pathophysiology of Hemorrhagic Stroke.",
+      "first_author": "Zhao H",
+      "year": "2018",
+      "journal": "Curr Neuropharmacol",
+      "doi": "10.2174/1570159X16666180516094500",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40644301",
+      "title": "ER-endosome contacts generate a local environment promoting phagophore formation.",
+      "first_author": "Da Gra\u00e7a J",
+      "year": "2025",
+      "journal": "Cell Rep",
+      "doi": "10.1016/j.celrep.2025.115993",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25714487",
+      "title": "Ultrastructural relationship of the phagophore with surrounding organelles.",
+      "first_author": "Biazik J",
+      "year": "2015",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2015.1017178",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31603532",
+      "title": "Hijacking intracellular membranes to feed autophagosomal growth.",
+      "first_author": "Staiano L",
+      "year": "2019",
+      "journal": "FEBS Lett",
+      "doi": "10.1002/1873-3468.13637",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "27973739",
+      "title": "Phosphatidylinositol-3-phosphate in the regulation of autophagy membrane dynamics.",
+      "first_author": "Nascimbeni AC",
+      "year": "2017",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.13987",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38596406",
+      "title": "Abemaciclib and Vacuolin-1 decrease aggregate-prone TDP-43 accumulation by accelerating autophagic flux.",
+      "first_author": "Tanaka Y",
+      "year": "2024",
+      "journal": "Biochem Biophys Rep",
+      "doi": "10.1016/j.bbrep.2024.101705",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39128005",
+      "title": "Sigma-1 receptor recruits LC3 mRNA to ER-associated omegasomes to promote localized LC3 translation enabling functional autophagy.",
+      "first_author": "Knupp J",
+      "year": "2024",
+      "journal": "Cell Rep",
+      "doi": "10.1016/j.celrep.2024.114619",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "31353311",
+      "title": "Selective Autophagy of Mitochondria on a Ubiquitin-Endoplasmic-Reticulum Platform.",
+      "first_author": "Zachari M",
+      "year": "2019",
+      "journal": "Dev Cell",
+      "doi": "10.1016/j.devcel.2019.06.016",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20855506",
+      "title": "\u03b1-Synuclein impairs macroautophagy: implications for Parkinson's disease.",
+      "first_author": "Winslow AR",
+      "year": "2010",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.201003122",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25876663",
+      "title": "Cellular localization and tissue distribution of endogenous DFCP1 protein.",
+      "first_author": "Nanao T",
+      "year": "2015",
+      "journal": "Biomed Res",
+      "doi": "10.2220/biomedres.36.121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37625816",
+      "title": "Novel insights into autophagosome biogenesis revealed by cryo-electron tomography.",
+      "first_author": "Eskelinen EL",
+      "year": "2024",
+      "journal": "FEBS Lett",
+      "doi": "10.1002/1873-3468.14726",
+      "pubtype": [
+        "Review",
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "35704470",
+      "title": "Lysosome docking to WIPI1 rings and ER-connected phagophores occurs during DNAJB12- and GABARAP-dependent selective autophagy of misfolded P23H-rhodopsin.",
+      "first_author": "Kennedy A",
+      "year": "2022",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.E21-10-0505",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23159909",
+      "title": "Why just eat in, when you can also eat out?",
+      "first_author": "Klionsky DJ",
+      "year": "2013",
+      "journal": "Autophagy",
+      "doi": "10.4161/auto.22915",
+      "pubtype": [
+        "Editorial"
+      ]
+    },
+    {
+      "pmid": "28904211",
+      "title": "Zonda is a novel early component of the autophagy pathway in Drosophila.",
+      "first_author": "Melani M",
+      "year": "2017",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.E16-11-0767",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34447998",
+      "title": "Direct observation of aggregate-triggered selective autophagy in human cells.",
+      "first_author": "Janssen AFJ",
+      "year": "2021",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.258824",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27551461",
+      "title": "ALS-associated mutant FUS inhibits macroautophagy which is restored by overexpression of Rab1.",
+      "first_author": "Soo KY",
+      "year": "2015",
+      "journal": "Cell Death Discov",
+      "doi": "10.1038/cddiscovery.2015.30",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25629784",
+      "title": "WIPI2B links PtdIns3P to LC3 lipidation through binding ATG16L1.",
+      "first_author": "Dooley HC",
+      "year": "2015",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2014.996029",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24591649",
+      "title": "A cluster of thin tubular structures mediates transformation of the endoplasmic reticulum to autophagic isolation membrane.",
+      "first_author": "Uemura T",
+      "year": "2014",
+      "journal": "Mol Cell Biol",
+      "doi": "10.1128/MCB.01327-13",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32775488",
+      "title": "Identification and Characterization of the Copy Number Dosage-Sensitive Genes in Colorectal Cancer.",
+      "first_author": "Chang Z",
+      "year": "2020",
+      "journal": "Mol Ther Methods Clin Dev",
+      "doi": "10.1016/j.omtm.2020.06.020",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30610699",
+      "title": "Improved Electron Microscopy Fixation Methods for Tracking Autophagy-Associated Membranes in Cultured Mammalian Cells.",
+      "first_author": "Arai R",
+      "year": "2019",
+      "journal": "Methods Mol Biol",
+      "doi": "10.1007/978-1-4939-8873-0_13",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29125853",
+      "title": "Whole-genome DNA methylation characteristics in pediatric precursor B cell acute lymphoblastic leukemia (BCP ALL).",
+      "first_author": "Chaber R",
+      "year": "2017",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0187422",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31455131",
+      "title": "Autophagic paintings: In the frontier of art and science.",
+      "first_author": "Valko A",
+      "year": "2019",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2019.1659618",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33651148",
+      "title": "Potentially functional variants of ERAP1, PSMF1 and NCF2 in the MHC-I-related pathway predict non-small cell lung cancer survival.",
+      "first_author": "Yang S",
+      "year": "2021",
+      "journal": "Cancer Immunol Immunother",
+      "doi": "10.1007/s00262-021-02877-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30814505",
+      "title": "Omegasome-proximal PtdIns(4,5)P(2) couples F-actin mediated mitoaggregate disassembly with autophagosome formation during mitophagy.",
+      "first_author": "Hsieh CW",
+      "year": "2019",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-019-08924-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33942992",
+      "title": "Genomic analysis of host gene responses to cerebral Plasmodium falciparum malaria.",
+      "first_author": "Li K",
+      "year": "2021",
+      "journal": "Immun Inflamm Dis",
+      "doi": "10.1002/iid3.436",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22882764",
+      "title": "P2X7 receptor regulation of non-classical secretion from immune effector cells.",
+      "first_author": "Dubyak GR",
+      "year": "2012",
+      "journal": "Cell Microbiol",
+      "doi": "10.1111/cmi.12001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38722513",
+      "title": "C9orf72-Associated Dipeptide Repeat Expansions Perturb ER-Golgi Vesicular Trafficking, Inducing Golgi Fragmentation and ER Stress, in ALS/FTD.",
+      "first_author": "Sultana J",
+      "year": "2024",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-024-04187-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24770418",
+      "title": "Molecular and cellular roles of PI31 (PSMF1) protein in regulation of proteasome function.",
+      "first_author": "Li X",
+      "year": "2014",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M114.561183",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34328055",
+      "title": "A Dictyostelium model for BPAN disease reveals a functional relationship between the WDR45/WIPI4 homolog Wdr45l and Vmp1 in the regulation of autophagy-associated PtdIns3P and ER stress.",
+      "first_author": "Tornero-\u00c9cija A",
+      "year": "2022",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953262",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "r40",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(SAT1[gene] OR SLEB19[tiab] OR \"systemic lupus erythematosus 19\"[tiab] OR lupus[tiab] OR SLE[tiab] OR monogenic lupus[tiab] OR early-onset SLE[tiab]) AND (SAT1[tiab] OR spermidine/spermine N1-acetyltransferase[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "663 PubMed hits for '(SAT1[gene] OR SLEB19[tiab] OR \"systemic lupus erythematosus 19\"[tiab] OR lupus[tiab] OR SLE[tiab] OR monogenic lupus[tiab] OR early-onset SLE[tiab]) AND (SAT1[tiab] OR spermidine/spermine N1-acetyltransferase[tiab])'; showing 10 (PubMed read it as: (\"SAT1\"[All Fields] OR \"lupus\"[Title/Abstract] OR \"SLE\"[Title/Abstract] OR \"monogenic lupus\"[Title/Abstract] OR \"early onset sle\"[Title/Abstract]) AND (\"SAT1\"[Title/Abstract] OR \"spermidine spermine n1 acetyltransferase\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39689813",
+      "title": "Foot-and-mouth disease in Asia.",
+      "first_author": "Rahman MA",
+      "year": "2025",
+      "journal": "Virus Res",
+      "doi": "10.1016/j.virusres.2024.199514",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39073262",
+      "title": "Autophagy Deficiency Induced by SAT1 Potentiates Tumor Progression in Triple-Negative Breast Cancer.",
+      "first_author": "Tian W",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202309903",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40460833",
+      "title": "Efflux of N1-acetylspermidine from hepatoma fosters macrophage-mediated immune suppression to dampen immunotherapeutic efficacy.",
+      "first_author": "Liu ZY",
+      "year": "2025",
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2025.05.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38547055",
+      "title": "The MUC1-HIF-1\u03b1 signaling axis regulates pancreatic cancer pathogenesis through polyamine metabolism remodeling.",
+      "first_author": "Murthy D",
+      "year": "2024",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2315509121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "27698118",
+      "title": "Activation of SAT1 engages polyamine metabolism with p53-mediated ferroptotic responses.",
+      "first_author": "Ou Y",
+      "year": "2016",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1607152113",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39614665",
+      "title": "The central role of creatine and polyamines in fetal growth restriction.",
+      "first_author": "Di Giorgio E",
+      "year": "2024",
+      "journal": "FASEB J",
+      "doi": "10.1096/fj.202401946R",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38429478",
+      "title": "Cancer-associated fibroblast-derived acetate promotes pancreatic cancer development by altering polyamine metabolism via the ACSS2-SP1-SAT1 axis.",
+      "first_author": "Murthy D",
+      "year": "2024",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/s41556-024-01372-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39457099",
+      "title": "SAT1/ALOX15 Signaling Pathway Is Involved in Ferroptosis After Skeletal Muscle Contusion.",
+      "first_author": "Yang H",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms252011317",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39521235",
+      "title": "Identification of a lactylation-related gene signature as the novel biomarkers for early diagnosis of acute myocardial infarction.",
+      "first_author": "Zhu D",
+      "year": "2024",
+      "journal": "Int J Biol Macromol",
+      "doi": "10.1016/j.ijbiomac.2024.137431",
+      "pubtype": [
+        "Journal Article",
+        "Retracted Publication"
+      ]
+    },
+    {
+      "pmid": "36963394",
+      "title": "Urea cycle activation triggered by host-microbiota maladaptation driving colorectal tumorigenesis.",
+      "first_author": "Chen H",
+      "year": "2023",
+      "journal": "Cell Metab",
+      "doi": "10.1016/j.cmet.2023.03.003",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

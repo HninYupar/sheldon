@@ -1,0 +1,24 @@
+{
+  "id": "r119",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"PSMF1 Variants in a German Parkinson's Disease Cohort\"[tiab] OR 42649079[pmid]",
+    "max_results": 5,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '\"PSMF1 Variants in a German Parkinson\\'s Disease Cohort\"[tiab] OR 42649079[pmid]'; showing 1 (PubMed read it as: 42649079[UID])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    }
+  ]
+}

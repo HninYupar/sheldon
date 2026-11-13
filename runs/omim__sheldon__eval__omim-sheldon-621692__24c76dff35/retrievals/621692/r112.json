@@ -1,0 +1,255 @@
+{
+  "id": "r112",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (missense OR variant OR mutation) AND (iPSC OR neurons OR electrophysiology OR functional OR patch clamp OR excitability)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "878 PubMed hits for 'CACNA1A[gene] AND (missense OR variant OR mutation) AND (iPSC OR neurons OR electrophysiology OR functional OR patch clamp OR excitability)'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"missenses\"[All Fields] OR \"mutation, missense\"[MeSH Terms] OR (\"mutation\"[All Fields] AND \"missense\"[All Fields]) OR \"missense mutation\"[All Fields] OR \"missense\"[All Fields] OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields])) AND (\"induced pluripotent stem cells\"[MeSH Terms] OR (\"induced\"[All Fields] AND \"pluripotent\"[All Fields] AND \"stem\"[All Fields] AND \"cells\"[All Fields]) OR \"induced pluripotent stem cells\"[All Fields] OR \"ipsc\"[All Fields] OR (\"neuron s\"[All Fields] OR \"neuronal\"[All Fields] OR \"neuronally\"[All Fields] OR \"neuronals\"[All Fields] OR \"neurone s\"[All Fields] OR \"neurones\"[All Fields] OR \"neuronic\"[All Fields] OR \"neurons\"[MeSH Terms] OR \"neurons\"[All Fields] OR \"neuron\"[All Fields] OR \"neurone\"[All Fields]) OR (\"electrophysiology\"[MeSH Terms] OR \"electrophysiology\"[All Fields]) OR (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms]) OR ((\"patch\"[All Fields] OR \"patch s\"[All Fields] OR \"patche\"[All Fields] OR \"patches\"[All Fields] OR \"patching\"[All Fields] OR \"patchs\"[All Fields]) AND (\"clamp\"[All Fields] OR \"clamped\"[All Fields] OR \"clamps\"[All Fields] OR \"constriction\"[MeSH Terms] OR \"constriction\"[All Fields] OR \"clamping\"[All Fields] OR \"clampings\"[All Fields])) OR (\"excit\"[All Fields] OR \"excitabilities\"[All Fields] OR \"excitability\"[All Fields] OR \"excitable\"[All Fields] OR \"excitated\"[All Fields] OR \"excitation\"[All Fields] OR \"excitations\"[All Fields] OR \"excite\"[All Fields] OR \"excited\"[All Fields] OR \"exciter\"[All Fields] OR \"exciters\"[All Fields] OR \"excites\"[All Fields] OR \"excition\"[All Fields] OR \"excitions\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36592223",
+      "title": "CACNA1A-Related Channelopathies: Clinical Manifestations and Treatment Options.",
+      "first_author": "Indelicato E",
+      "year": "2023",
+      "journal": "Handb Exp Pharmacol",
+      "doi": "10.1007/164_2022_625",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39174245",
+      "title": "Familial hemiplegic migraine.",
+      "first_author": "Villar-Martinez MD",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-323-90820-7.00007-0",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32430436",
+      "title": "Diagnostic and therapeutic aspects of hemiplegic migraine.",
+      "first_author": "Di Stefano V",
+      "year": "2020",
+      "journal": "J Neurol Neurosurg Psychiatry",
+      "doi": "10.1136/jnnp-2020-322850",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39174244",
+      "title": "The episodic ataxias.",
+      "first_author": "Graves TD",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-323-90820-7.00012-4",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "16100538",
+      "title": "[Episodic ataxias].",
+      "first_author": "Herrmann A",
+      "year": "2005",
+      "journal": "Tidsskr Nor Laegeforen",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "17395138",
+      "title": "Familial hemiplegic migraine.",
+      "first_author": "Pietrobon D",
+      "year": "2007",
+      "journal": "Neurotherapeutics",
+      "doi": "10.1016/j.nurt.2007.01.008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40111503",
+      "title": "Phenotypic variability in cases with CACNA1A mutation.",
+      "first_author": "Bozkaya-Yilmaz S",
+      "year": "2025",
+      "journal": "Eur J Pediatr",
+      "doi": "10.1007/s00431-025-06062-3",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "first_author": "El Ghaleb Y",
+      "year": "2021",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29482223",
+      "title": "Efficacy of Exome-Targeted Capture Sequencing to Detect Mutations in Known Cerebellar Ataxia Genes.",
+      "first_author": "Coutelier M",
+      "year": "2018",
+      "journal": "JAMA Neurol",
+      "doi": "10.1001/jamaneurol.2017.5121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "first_author": "Hommersom MP",
+      "year": "2025",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "11814735",
+      "title": "Wide clinical variability in a family with a CACNA1A T666m mutation: hemiplegic migraine, coma, and progressive ataxia.",
+      "first_author": "Wada T",
+      "year": "2002",
+      "journal": "Pediatr Neurol",
+      "doi": "10.1016/s0887-8994(01)00371-x",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25789438",
+      "title": "From migraine genes to mechanisms.",
+      "first_author": "Tolner EA",
+      "year": "2015",
+      "journal": "Pain",
+      "doi": "10.1097/01.j.pain.0000460346.00213.16",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38743163",
+      "title": "CACNA1A variant associated with generalized dystonia.",
+      "first_author": "Rinaldi D",
+      "year": "2024",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-024-07592-8",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20816412",
+      "title": "Genetics of headaches.",
+      "first_author": "Van Den Maagdenberg AM",
+      "year": "2010",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/S0072-9752(10)97006-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17395137",
+      "title": "Episodic ataxia type 2.",
+      "first_author": "Strupp M",
+      "year": "2007",
+      "journal": "Neurotherapeutics",
+      "doi": "10.1016/j.nurt.2007.01.014",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39152783",
+      "title": "Genetic profiles of multiple system atrophy revealed by exome sequencing, long-read sequencing and spinocerebellar ataxia repeat expansion analysis.",
+      "first_author": "Li XY",
+      "year": "2024",
+      "journal": "Eur J Neurol",
+      "doi": "10.1111/ene.16441",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17119788",
+      "title": "Mutation analysis of CACNA1A and ATP1A2 genes in Brazilian FHM families.",
+      "first_author": "Lopes LR",
+      "year": "2006",
+      "journal": "Arq Neuropsiquiatr",
+      "doi": "10.1590/s0004-282x2006000400001",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41370402",
+      "title": "Characterization of the functional and clinical impacts of CACNA1A missense variants found in neurodevelopmental disorders.",
+      "first_author": "Kurganov E",
+      "year": "2025",
+      "journal": "Sci Transl Med",
+      "doi": "10.1126/scitranslmed.adr0024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31226929",
+      "title": "Advances in genetics of migraine.",
+      "first_author": "Sutherland HG",
+      "year": "2019",
+      "journal": "J Headache Pain",
+      "doi": "10.1186/s10194-019-1017-9",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31800012",
+      "title": "Adult loss of Cacna1a in mice recapitulates childhood absence epilepsy by distinct thalamic bursting mechanisms.",
+      "first_author": "Miao QL",
+      "year": "2020",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awz365",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Video-Audio Media"
+      ]
+    }
+  ]
+}

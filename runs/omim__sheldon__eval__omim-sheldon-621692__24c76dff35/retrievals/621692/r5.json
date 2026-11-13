@@ -1,0 +1,244 @@
+{
+  "id": "r5",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "34102571",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "43 'cited_by' links for PMID 34102571; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42553611",
+      "title": "A novel CACNA1E mutation (c.1256G > A) was identified in a Chinese patient with epilepsy and congenital heart disease.",
+      "first_author": "Pan J",
+      "year": "2026",
+      "journal": "Front Med (Lausanne)",
+      "doi": "10.3389/fmed.2026.1865188",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42523816",
+      "title": "Moving in Tandem: Epilepsy-Dyskinesia Syndromes.",
+      "first_author": "Widdess-Walsh P",
+      "year": "2026",
+      "journal": "Epilepsy Curr",
+      "doi": "10.1177/15357597261471340",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42428507",
+      "title": "Ethnopharmacological relevance of Chinese medicinal materials and natural products in epilepsy: a critical multi-target review integrating neurons, glia and inflammatory signaling.",
+      "first_author": "Yan S",
+      "year": "2026",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2026.1819195",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42067833",
+      "title": "CACNA1A c.5610del in a three-generation family: epilepsy with ataxia/migraine.",
+      "first_author": "Long Z",
+      "year": "2026",
+      "journal": "BMC Neurol",
+      "doi": "10.1186/s12883-026-04944-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41912906",
+      "title": "Heterogeneity of monogenic epilepsy in loci, phenotypes, and treatment approaches.",
+      "first_author": "Saad AK",
+      "year": "2026",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-026-08936-2",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41576935",
+      "title": "Human neuronal networks on micro-electrode arrays as a tool to assess genotype-phenotype correlation in CACNA1A-related disorders.",
+      "first_author": "Hommersom MP",
+      "year": "2026",
+      "journal": "Stem Cell Reports",
+      "doi": "10.1016/j.stemcr.2025.102783",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41456028",
+      "title": "Mitochondrial and lysosomal dysfunctions might be involved in the pathogenesis of the CACNA1A-related neurodevelopmental disorders according to in vitro studies.",
+      "first_author": "Kessi M",
+      "year": "2025",
+      "journal": "Biol Res",
+      "doi": "10.1186/s40659-025-00655-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41415379",
+      "title": "P/Q-type voltage-gated calcium channels regulate calcium signaling and developmental myelination in oligodendrocyte lineage cells.",
+      "first_author": "Piller M",
+      "year": "2025",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2025.12.12.694003",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41131961",
+      "title": "Adjunctive acetazolamide for drug-resistant seizures in SLC6A1-related neurodevelopmental disorder: An\u00a0exploratory case series.",
+      "first_author": "Melikishvili G",
+      "year": "2025",
+      "journal": "Epilepsia Open",
+      "doi": "10.1002/epi4.70155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40826761",
+      "title": "Familial hemiplegic migraine due to CACNA1A and PNKD mutations in epilepsy with forced normalization: A case report.",
+      "first_author": "Arritola-Uriarte A",
+      "year": "2025",
+      "journal": "Medicine (Baltimore)",
+      "doi": "10.1097/MD.0000000000041844",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "40783473",
+      "title": "Role of hippocampus in epileptogenesis: new insights in the cross-talks between the underlying mechanisms.",
+      "first_author": "Hussein MAM",
+      "year": "2026",
+      "journal": "Acta Neurol Belg",
+      "doi": "10.1007/s13760-025-02857-1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40703772",
+      "title": "Prolonged apnea in a boy with epilepsy and a novel gain-of-function missense CACNA1A variant indicating SUDEP risk.",
+      "first_author": "Pelizzari S",
+      "year": "2025",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2025.1582548",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40534755",
+      "title": "Evaluation, Diagnosis, and Treatment of Concomitant Movement Disorders in Genetic Epilepsies.",
+      "first_author": "Garris J",
+      "year": "2025",
+      "journal": "Epilepsy Curr",
+      "doi": "10.1177/15357597251323917",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40310132",
+      "title": "Precision Therapeutics in Lennox-Gastaut Syndrome: Targeting Molecular Pathophysiology in a Developmental and Epileptic Encephalopathy.",
+      "first_author": "Samanta D",
+      "year": "2025",
+      "journal": "Children (Basel)",
+      "doi": "10.3390/children12040481",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40192341",
+      "title": "Embracing the future: Neonatal screening for epileptic syndromes.",
+      "first_author": "Nabbout R",
+      "year": "2025",
+      "journal": "Epilepsia",
+      "doi": "10.1111/epi.18285",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39763636",
+      "title": "A Longitudinal Exploration of CACNA1A-Related Hemiplegic Migraine in Children Using Electronic Medical Records.",
+      "first_author": "Schaare D",
+      "year": "2025",
+      "journal": "Neurol Genet",
+      "doi": "10.1212/NXG.0000000000200228",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39570184",
+      "title": "Exome sequencing in Nigerian children with early-onset epilepsy syndromes.",
+      "first_author": "Ademuwagun IA",
+      "year": "2025",
+      "journal": "Epilepsia Open",
+      "doi": "10.1002/epi4.13106",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39440617",
+      "title": "Clinical trials for Lennox-Gastaut syndrome: Challenges and priorities.",
+      "first_author": "Knowles JK",
+      "year": "2024",
+      "journal": "Ann Clin Transl Neurol",
+      "doi": "10.1002/acn3.52211",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39237642",
+      "title": "Developmental and epileptic encephalopathies.",
+      "first_author": "Scheffer IE",
+      "year": "2024",
+      "journal": "Nat Rev Dis Primers",
+      "doi": "10.1038/s41572-024-00546-6",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39227335",
+      "title": "Genetic Diagnosis in Neonatal Encephalopathy With Hypoxic Brain Damage Using Targeted Gene Panel Sequencing.",
+      "first_author": "Lee S",
+      "year": "2024",
+      "journal": "J Clin Neurol",
+      "doi": "10.3988/jcn.2023.0500",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

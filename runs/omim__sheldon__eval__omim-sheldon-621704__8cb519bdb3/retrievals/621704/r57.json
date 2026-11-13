@@ -1,0 +1,12 @@
+{
+  "id": "r57",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "BORCS5[gene] AND fibroblast[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'BORCS5[gene] AND fibroblast[tiab]'; showing 0 (PubMed read it as: \"BORCS5\"[All Fields] AND \"fibroblast\"[Title/Abstract])",
+  "ok": true,
+  "evidence": []
+}

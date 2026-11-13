@@ -1,0 +1,133 @@
+{
+  "id": "r102",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PARK27[tiab] OR \"Parkinson disease 27\"[tiab] OR \"autosomal recessive early-onset Parkinson disease\"[tiab]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "75 PubMed hits for 'PARK27[tiab] OR \"Parkinson disease 27\"[tiab] OR \"autosomal recessive early-onset Parkinson disease\"[tiab]'; showing 10 (PubMed read it as: \"autosomal recessive early-onset Parkinson disease\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34933320",
+      "title": "Activation mechanism of PINK1.",
+      "first_author": "Gan ZY",
+      "year": "2022",
+      "journal": "Nature",
+      "doi": "10.1038/s41586-021-04340-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35124661",
+      "title": "Early-Onset Parkinson's Disease and Brain Iron Accumulation Caused by a Novel Homozygous DJ-1 Mutation.",
+      "first_author": "Lin RR",
+      "year": "2022",
+      "journal": "J Parkinsons Dis",
+      "doi": "10.3233/JPD-213033",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38416681",
+      "title": "Tom20 gates PINK1 activity and mediates its tethering of the TOM and TIM23 translocases upon mitochondrial stress.",
+      "first_author": "Eldeeb MA",
+      "year": "2024",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2313540121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35988816",
+      "title": "DJ-1 inhibits glutathione degradation by downregulating CHAC1 expression in astrocytes.",
+      "first_author": "Ge Y",
+      "year": "2022",
+      "journal": "Neurosci Res",
+      "doi": "10.1016/j.neures.2022.08.006",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33888730",
+      "title": "BRCA1 degradation in response to mitochondrial damage in breast cancer cells.",
+      "first_author": "Miyahara K",
+      "year": "2021",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-021-87698-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31767755",
+      "title": "DJ-1 regulates the integrity and function of ER-mitochondria association through interaction with IP3R3-Grp75-VDAC1.",
+      "first_author": "Liu Y",
+      "year": "2019",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1906565116",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30242232",
+      "title": "Parkin-dependent regulation of the MCU complex component MICU1.",
+      "first_author": "Matteucci A",
+      "year": "2018",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-018-32551-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29234155",
+      "title": "Analysis of neuronal phosphoproteome reveals PINK1 regulation of BAD function and cell death.",
+      "first_author": "Wan H",
+      "year": "2018",
+      "journal": "Cell Death Differ",
+      "doi": "10.1038/s41418-017-0027-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26911690",
+      "title": "Parkin Modulates Endosomal Organization and Function of the Endo-Lysosomal Pathway.",
+      "first_author": "Song P",
+      "year": "2016",
+      "journal": "J Neurosci",
+      "doi": "10.1523/JNEUROSCI.2569-15.2016",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

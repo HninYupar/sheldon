@@ -1,0 +1,172 @@
+{
+  "id": "r34",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "38263665",
+      "36379578",
+      "38739464",
+      "30008451",
+      "30707351"
+    ]
+  },
+  "summary": "fetched 5 of 5 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38263665",
+      "title": "Contribution of rare and predicted pathogenic gene variants to childhood-onset lupus: a large, genetic panel analysis of British and French cohorts.",
+      "authors": [
+        "Belot A",
+        "Rice GI",
+        "Omarjee SO",
+        "Rouchon Q",
+        "Smith EMD",
+        "Moreews M",
+        "et al."
+      ],
+      "year": "2020",
+      "journal": "The Lancet. Rheumatology",
+      "doi": "10.1016/S2665-9913(19)30142-0",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "BACKGROUND: Systemic lupus erythematosus (SLE) is a rare immunological disorder and genetic factors are considered important in its causation. Monogenic lupus has been associated with around 30 genotypes in humans and 60 in mice, while genome-wide association studies have identified more than 90 risk loci. We aimed to analyse the contribution of rare and predicted pathogenic gene variants in a population of unselected cases of childhood-onset SLE.\nMETHODS: For this genetic panel analysis we designed a next-generation sequencing panel comprising 147 genes, including all known lupus-causing genes in humans, and potentially lupus-causing genes identified through GWAS and animal models. We screened 117 probands fulfilling American College of Rheumatology (ACR) criteria for SLE, ascertained through British and French cohorts of childhood-onset SLE, and compared these data with those of 791 ethnically matched controls from the 1000 Genomes Project and 574 controls from the FREX Consortium.\nFINDINGS: After filtering, mendelian genotypes were confirmed in eight probands, involving variants in C1QA, C1QC, C2, DNASE1L3, and IKZF1. Seven additional patients carried heterozygous variants in complement or type I interferon-associated autosomal recessive genes, with decreased concentrations of the encoded proteins C3 and C9 recorded in two patients. Rare variants that were predicted to be damaging were significantly enriched in the childhood-onset SLE cohort compared with controls; 25% of SLE probands versus 5% of controls were identified to harbour at least one rare, predicted damaging variant (p=2\u00b798\u2008\u00d7\u200810-11). Inborn errors of immunity were estimated to account for 7% of cases of childhood-onset SLE, with defects in innate immunity representing the main monogenic contribution.\nINTERPRETATION: An accumulation of rare variants that are predicted to be damaging in SLE-associated genes might contribute to disease expression and clinical heterogeneity.\nFUNDING: European Research Council."
+    },
+    {
+      "pmid": "36379578",
+      "title": "Genome-Wide Sequencing Identified Rare Genetic Variants for Childhood-Onset Monogenic Lupus.",
+      "authors": [
+        "Misztal MC",
+        "Liao F",
+        "Couse M",
+        "Cao J",
+        "Dominguez D",
+        "Lau L",
+        "et al."
+      ],
+      "year": "2023",
+      "journal": "The Journal of rheumatology",
+      "doi": "10.3899/jrheum.220513",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Child",
+        "Female",
+        "Male",
+        "Lupus Erythematosus, Systemic",
+        "Base Sequence",
+        "Sequence Analysis, DNA",
+        "Exome Sequencing",
+        "Genetic Predisposition to Disease",
+        "Polymorphism, Single Nucleotide"
+      ],
+      "abstract": "OBJECTIVE: Genetics play an important role in systemic lupus erythematosus (SLE) pathogenesis. We calculated the prevalence of rare variants in known monogenic lupus genes among children suspected of monogenic lupus.\nMETHODS: We completed paired-end genome-wide sequencing (whole genome sequencing [WGS] or whole exome sequencing) in patients suspected of monogenic lupus, and focused on 36 monogenic lupus genes. We prioritized rare (minor allele frequency < 1%) exonic, nonsynonymous, and splice variants with predicted pathogenicity classified as deleterious variants (Combined Annotation Dependent Depletion [CADD], PolyPhen2, and Sorting Intolerant From Tolerant [SIFT] scores). Additional filtering restricted to predicted damaging variants by considering reported zygosity. In those with WGS (n = 69), we examined copy number variants (CNVs) > 1 kb in size. We created additive non-HLA and HLA SLE genetic risk scores (GRSs) using common SLE-risk single-nucleotide polymorphisms. We tested the relationship between SLE GRSs and the number of rare variants with multivariate logistic models, adjusted for sex, ancestry, and age of diagnosis.\nRESULTS: The cohort included 71 patients, 80% female, with a mean age at diagnosis of 8.9 (SD 3.2) years. We identified predicted damaging variants in 9 (13%) patients who were significantly younger at diagnosis compared to those without a predicted damaging variant (6.8 [SD 2.1] years vs 9.2 [SD 3.2] years, P = 0.01). We did not identify damaging CNVs. There was no significant association between non-HLA or HLA SLE GRSs and the odds of carrying \u2265 1 rare variant in multivariate analyses.\nCONCLUSION: In a cohort of patients with suspected monogenic lupus who underwent genome-wide sequencing, 13% carried rare predicted damaging variants for monogenic lupus. Additional studies are needed to validate our findings."
+    },
+    {
+      "pmid": "38739464",
+      "title": "Detection of genetic mutations underlying early-onset systemic lupus erythematosus.",
+      "authors": [
+        "Sener S",
+        "Sag E",
+        "Han X",
+        "Bilginer Y",
+        "Zhou Q",
+        "Ozen S"
+      ],
+      "year": "2024",
+      "journal": "Lupus",
+      "doi": "10.1177/09612033241255011",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Lupus Erythematosus, Systemic",
+        "Female",
+        "Male",
+        "Mutation",
+        "Child",
+        "Age of Onset",
+        "Child, Preschool",
+        "Exome Sequencing",
+        "Genetic Predisposition to Disease",
+        "Endodeoxyribonucleases",
+        "Homozygote",
+        "Mitogen-Activated Protein Kinase Phosphatases",
+        "Interferon-Induced Helicase, IFIH1"
+      ],
+      "abstract": "OBJECTIVE: We aimed to investigate the presence of monogenic causes of systemic lupus erythematosus (SLE) in our early-onset SLE patients.\nMETHODS: Fifteen pediatric SLE cases who had early disease onset (\u22646 years) were enrolled in this study. All patients fulfilled the Systemic Lupus International Collaborating Clinics (SLICC) criteria. Genomic DNA was used for whole exome sequencing (WES). Pathogenic variants were confirmed by Sanger sequencing.\nRESULTS: The median age at diagnosis of 15 early-onset SLE patients included in the study was 4 (2-6) years (F/M = 12/3). Significant gene mutations were detected in five of these patients (33.3%). Patients 1 and 2 with homozygous DNASE1L3 mutations [c.320+4_320+7del and G188\u00a0A (c.563\u00a0G>C) variants] had skin involvement and oral ulcers. One of them (patient 1) had arthritis and nephritis, and another (patient 2) had nonscarring alopecia and thrombocytopenia. They are currently clinically inactive but have positive serological findings. Patient 3 with homozygous pathogenic ACP5 mutation [G109\u00a0R (c.325\u00a0G>A) variant] had arthritis, nephritis, short stature, and skeletal dysplasia. Patient 4 with a heterozygote novel IFIH1 mutation [L809\u00a0F (c.2425\u00a0C>T) variant] had skin findings and leukopenia. Patient 5 with novel C1S variant [homozygous C147\u00a0W (c.441\u00a0C>G) variant] had marked skin findings, oral ulcers, nonscarring alopecia, pancytopenia, and low total hemolytic complement CH50 level. All patients have responded to the treatments and have low Systemic Lupus Erythematosus Disease Activity Index (SLEDAI) scores, on therapy.\nCONCLUSION: Genetic causes should be investigated in early-onset SLE, for better management and genetic counseling. On the other hand, multicenter studies may help to further define genotype-phenotype associations."
+    },
+    {
+      "pmid": "30008451",
+      "title": "Whole Exome Sequencing in Early-onset Systemic Lupus Erythematosus.",
+      "authors": [
+        "Batu ED",
+        "Ko\u015fukcu C",
+        "Ta\u015fk\u0131ran E",
+        "Sahin S",
+        "Akman S",
+        "S\u00f6zeri B",
+        "et al."
+      ],
+      "year": "2018",
+      "journal": "The Journal of rheumatology",
+      "doi": "10.3899/jrheum.171358",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Child, Preschool",
+        "Complement C1q",
+        "Female",
+        "Homozygote",
+        "Humans",
+        "Lupus Erythematosus, Systemic",
+        "Male",
+        "Pedigree",
+        "Exome Sequencing"
+      ],
+      "abstract": "OBJECTIVE: Systemic lupus erythematosus (SLE) is a multisystem autoimmune disorder. Early-onset, familial, and/or syndromic SLE may reveal monogenic pathologies. The aim of this study was to examine genetic associations in patients with early-onset or familial SLE.\nMETHODS: We enrolled 7 SLE cases (from different families) with disease onset \u2264 5 years of age and family history consistent with an autosomal recessive inheritance. Whole exome sequencing (WES) was performed in 6 index cases. Suspected variants were confirmed by Sanger sequencing. We did not perform WES in 1 patient who had features similar to the first 3 cases; only the exons of C1QA, C1QB, and C1QC were screened with Sanger sequencing.\nRESULTS: We demonstrated 2 novel and 3 previously reported variants in genes associated with SLE: a homozygous non-sense alteration (c.622C>T/p.Gln208Ter) in C1QA in 2 patients; homozygous non-sense alteration (c.79C>T/p.Gln27Ter) in C1QC in 1 (novel variant); homozygous missense alteration (c.100G>A/p.Gly34Arg) in C1QC in 1; homozygous missense alteration (c.1945G>C/p.Ala649Pro) in C1S in 1 (novel variant); and homozygous frameshift alteration (c.289_290delAC/p.Thr97Ilefs*2) in DNASE1L3 in 1 patient. Further, in 1 patient, we determined a strong candidate variant in HDAC7 (histone decetylase 7).\nCONCLUSION: Five patients had homozygous alterations in genes coding early complement proteins. This may lead to decreased clearance of apoptotic bodies. One patient had DNASE1L3 variant, which functions in the clearance of self-antigens. In 1 patient, we determined a novel gene that may be important in SLE pathogenesis. We suggest that monogenic causes/associations should be sought in early-onset and/or familial SLE."
+    },
+    {
+      "pmid": "30707351",
+      "title": "Whole-genome sequencing identifies complex contributions to genetic risk by variants in genes causing monogenic systemic lupus erythematosus.",
+      "authors": [
+        "Alml\u00f6f JC",
+        "Nystedt S",
+        "Leonard D",
+        "Eloranta ML",
+        "Grosso G",
+        "Sj\u00f6wall C",
+        "et al."
+      ],
+      "year": "2019",
+      "journal": "Human genetics",
+      "doi": "10.1007/s00439-018-01966-7",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Female",
+        "Genome, Human",
+        "Heterozygote",
+        "High-Throughput Nucleotide Sequencing",
+        "Humans",
+        "Lupus Erythematosus, Systemic",
+        "Male",
+        "Middle Aged",
+        "Models, Genetic",
+        "Mutation, Missense",
+        "Predictive Value of Tests",
+        "Risk Factors"
+      ],
+      "abstract": "Systemic lupus erythematosus (SLE, OMIM 152700) is a systemic autoimmune disease with a complex etiology. The mode of inheritance of the genetic risk beyond familial SLE cases is currently unknown. Additionally, the contribution of heterozygous variants in genes known to cause monogenic SLE is not fully understood. Whole-genome sequencing of DNA samples from 71 Swedish patients with SLE and their healthy biological parents was performed to investigate the general genetic risk of SLE using known SLE GWAS risk loci identified using the ImmunoChip, variants in genes associated to monogenic SLE, and the mode of inheritance of SLE risk alleles in these families. A random forest model for predicting genetic risk for SLE showed that the SLE risk variants were mainly inherited from one of the parents. In the 71 patients, we detected a significant enrichment of ultra-rare (\u2009\u2264\u20090.1%) missense and nonsense mutations in 22 genes known to cause monogenic forms of SLE. We identified one previously reported homozygous nonsense mutation in the C1QC (Complement C1q C Chain) gene, which explains the immunodeficiency and severe SLE phenotype of that patient. We also identified seven ultra-rare, coding heterozygous variants in five genes (C1S, DNASE1L3, DNASE1, IFIH1, and RNASEH2A) involved in monogenic SLE. Our findings indicate a complex contribution to the overall genetic risk of SLE by rare variants in genes associated with monogenic forms of SLE. The rare variants were inherited from the other parent than the one who passed on the more common risk variants leading to an increased genetic burden for SLE in the child. Higher frequency SLE risk variants are mostly passed from one of the parents to the offspring affected with SLE. In contrast, the other parent, in seven cases, contributed heterozygous rare variants in genes associated with monogenic forms of SLE, suggesting a larger impact of rare variants in SLE than hitherto reported."
+    }
+  ]
+}

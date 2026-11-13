@@ -1,0 +1,12 @@
+{
+  "id": "r112",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"PSMF1 Variants in a German Parkinson's Disease Cohort\"[title]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"PSMF1 Variants in a German Parkinson\\'s Disease Cohort\"[title]'; showing 0 (PubMed read it as: \"PSMF1 Variants in a German Parkinson's Disease Cohort\"[title])",
+  "ok": true,
+  "evidence": []
+}

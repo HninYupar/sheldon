@@ -1,0 +1,24 @@
+{
+  "id": "r132",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(NEURODEVELOPMENTAL DISORDER WITH SEIZURES AND CEREBELLAR HYPOPLASIA OR NEDSCH OR \"cerebellar hypoplasia\" AND seizures AND ATG12)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '(NEURODEVELOPMENTAL DISORDER WITH SEIZURES AND CEREBELLAR HYPOPLASIA OR NEDSCH OR \"cerebellar hypoplasia\" AND seizures AND ATG12)'; showing 1 (PubMed read it as: (((\"neurodevelopmental disorders\"[MeSH Terms] OR (\"neurodevelopmental\"[All Fields] AND \"disorders\"[All Fields]) OR \"neurodevelopmental disorders\"[All Fields] OR (\"neurodevelopmental\"[All Fields] AND \"disorder\"[All Fields]) OR \"neurodevelopmental disorder\"[All Fields]) AND (\"seizural\"[All Fields] OR \"seizure s\"[All Fields] OR \"seizured\"[All Fields] OR \"seizures\"[MeSH Terms] OR \"seizures\"[All Fields] OR \"seizure\"[All Fields] OR \"seizuring\"[All Fields]) AND (\"cerebellar hypoplasia\"[Supplementary Concept] OR \"cerebellar hypoplasia\"[All Fields])) OR \"cerebellar hypoplasia\"[All Fields]) AND (\"seizural\"[All Fields] OR \"seizure s\"[All Fields] OR \"seizured\"[All Fields] OR \"seizures\"[MeSH Terms] OR \"seizures\"[All Fields] OR \"seizure\"[All Fields] OR \"seizuring\"[All Fields]) AND \"ATG12\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

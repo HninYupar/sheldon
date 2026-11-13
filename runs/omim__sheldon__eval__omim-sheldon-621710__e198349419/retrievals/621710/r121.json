@@ -1,0 +1,253 @@
+{
+  "id": "r121",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (fibroblast*[tiab] OR patient-derived[tiab] OR complementation[tiab] OR rescue[tiab] OR autophagy[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1328 PubMed hits for 'ATG12[gene] AND (fibroblast*[tiab] OR patient-derived[tiab] OR complementation[tiab] OR rescue[tiab] OR autophagy[tiab])'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"fibroblast*\"[Title/Abstract] OR \"patient-derived\"[Title/Abstract] OR \"complementation\"[Title/Abstract] OR \"rescue\"[Title/Abstract] OR \"autophagy\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31969156",
+      "title": "Autophagy and autophagy-related proteins in cancer.",
+      "first_author": "Li X",
+      "year": "2020",
+      "journal": "Mol Cancer",
+      "doi": "10.1186/s12943-020-1138-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35222638",
+      "title": "Deficient Autophagy in Microglia Aggravates Repeated Social Defeat Stress-Induced Social Avoidance.",
+      "first_author": "Sakai M",
+      "year": "2022",
+      "journal": "Neural Plast",
+      "doi": "10.1155/2022/7503553",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37409490",
+      "title": "TECPR1 conjugates LC3 to damaged endomembranes upon detection of sphingomyelin exposure.",
+      "first_author": "Boyle KB",
+      "year": "2023",
+      "journal": "EMBO J",
+      "doi": "10.15252/embj.2022113012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40641404",
+      "title": "ATG16L1 membrane recruitment in autophagy.",
+      "first_author": "Wei F",
+      "year": "2025",
+      "journal": "Crit Rev Biochem Mol Biol",
+      "doi": "10.1080/10409238.2025.2521321",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33033362",
+      "title": "Macrophage scavenger receptor 1 controls Chikungunya virus infection through autophagy in mice.",
+      "first_author": "Yang L",
+      "year": "2020",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-020-01285-6",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31901645",
+      "title": "The ATG conjugation systems in autophagy.",
+      "first_author": "Mizushima N",
+      "year": "2020",
+      "journal": "Curr Opin Cell Biol",
+      "doi": "10.1016/j.ceb.2019.12.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36095096",
+      "title": "Apicoplast biogenesis mediated by ATG8 requires the ATG12-ATG5-ATG16L and SNAP29 complexes in Toxoplasma gondii.",
+      "first_author": "Fu J",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2123639",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28160545",
+      "title": "Impact of resistance training on the autophagy-inflammation-apoptosis crosstalk in elderly subjects.",
+      "first_author": "Mej\u00edas-Pe\u00f1a Y",
+      "year": "2017",
+      "journal": "Aging (Albany NY)",
+      "doi": "10.18632/aging.101167",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40907904",
+      "title": "LINC01018 attenuates hepatic lipid accumulation by inducing autophagy via DHX9 pathway in alcohol-associated liver disease.",
+      "first_author": "Ni B",
+      "year": "2025",
+      "journal": "Int J Biol Macromol",
+      "doi": "10.1016/j.ijbiomac.2025.147298",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35322852",
+      "title": "Microwave radiation induces neuronal autophagy through miR-30a-5p/AMPK\u03b12 signal pathway.",
+      "first_author": "Hao Y",
+      "year": "2022",
+      "journal": "Biosci Rep",
+      "doi": "10.1042/BSR20212584",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40763565",
+      "title": "Targeting the ATG12-ATG3 protein-protein interaction: From structural insights to therapeutic opportunities in autophagy modulation.",
+      "first_author": "Kamel EM",
+      "year": "2025",
+      "journal": "Pathol Res Pract",
+      "doi": "10.1016/j.prp.2025.156156",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37432567",
+      "title": "Zinc Oxide Nanoparticles Trigger Autophagy in the Human Multiple Myeloma Cell Line RPMI8226: an In Vitro Study.",
+      "first_author": "Li Z",
+      "year": "2024",
+      "journal": "Biol Trace Elem Res",
+      "doi": "10.1007/s12011-023-03737-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30765325",
+      "title": "miR-221/222-Mediated Inhibition of Autophagy Promotes Dexamethasone Resistance in Multiple Myeloma.",
+      "first_author": "Xu J",
+      "year": "2019",
+      "journal": "Mol Ther",
+      "doi": "10.1016/j.ymthe.2019.01.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18212533",
+      "title": "Blocking autophagy to prevent parasite differentiation: a possible new strategy for fighting parasitic infections?",
+      "first_author": "Alvarez VE",
+      "year": "2008",
+      "journal": "Autophagy",
+      "doi": "10.4161/auto.5592",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34715254",
+      "title": "Exosome-mediated transfer of SNHG7 enhances docetaxel resistance in lung adenocarcinoma.",
+      "first_author": "Zhang K",
+      "year": "2022",
+      "journal": "Cancer Lett",
+      "doi": "10.1016/j.canlet.2021.10.029",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29492791",
+      "title": "Involvement of the autophagic pathway in the progression of AMD-like retinopathy in senescence-accelerated OXYS rats.",
+      "first_author": "Kozhevnikova OS",
+      "year": "2018",
+      "journal": "Biogerontology",
+      "doi": "10.1007/s10522-018-9751-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33414645",
+      "title": "Prognostic Value of Autophagy-related Proteins in Human Gastric Cancer.",
+      "first_author": "Wu M",
+      "year": "2020",
+      "journal": "Cancer Manag Res",
+      "doi": "10.2147/CMAR.S278354",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39341116",
+      "title": "Dinotoms possess two evolutionary distinct autophagy-related ubiquitin-like conjugation systems.",
+      "first_author": "Yazaki E",
+      "year": "2024",
+      "journal": "Protist",
+      "doi": "10.1016/j.protis.2024.126067",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33484718",
+      "title": "Membrane Binding and Homodimerization of Atg16 Via Two Distinct Protein Regions is Essential for Autophagy in Yeast.",
+      "first_author": "Popelka H",
+      "year": "2021",
+      "journal": "J Mol Biol",
+      "doi": "10.1016/j.jmb.2021.166809",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40395294",
+      "title": "Venetoclax inhibits autophagy in chronic lymphocytic leukemia cells.",
+      "first_author": "Chen Y",
+      "year": "2023",
+      "journal": "Autophagy Rep",
+      "doi": "10.1080/27694127.2023.2169518",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

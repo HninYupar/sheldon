@@ -1,0 +1,254 @@
+{
+  "id": "r154",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (haploinsufficiency OR loss of function OR loss-of-function OR truncating OR nonsense OR frameshift)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "202 PubMed hits for 'CACNA1A[gene] AND (haploinsufficiency OR loss of function OR loss-of-function OR truncating OR nonsense OR frameshift)'; showing 20 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (\"haploinsufficiency\"[MeSH Terms] OR \"haploinsufficiency\"[All Fields] OR \"haploinsufficiencies\"[All Fields] OR \"haploinsufficient\"[All Fields] OR (\"loss\"[All Fields] AND (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms])) OR \"loss-of-function\"[All Fields] OR (\"truncate\"[All Fields] OR \"truncated\"[All Fields] OR \"truncates\"[All Fields] OR \"truncating\"[All Fields] OR \"truncation\"[All Fields] OR \"truncations\"[All Fields]) OR (\"codon nonsense\"[Supplementary Concept] OR \"codon nonsense\"[All Fields] OR \"nonsense\"[All Fields] OR \"codon, nonsense\"[MeSH Terms] OR (\"codon\"[All Fields] AND \"nonsense\"[All Fields]) OR \"nonsense codon\"[All Fields] OR \"nonsenses\"[All Fields]) OR (\"frameshift mutation\"[MeSH Terms] OR (\"frameshift\"[All Fields] AND \"mutation\"[All Fields]) OR \"frameshift mutation\"[All Fields] OR \"frameshift\"[All Fields] OR \"frameshifted\"[All Fields] OR \"frameshifter\"[All Fields] OR \"frameshifting\"[All Fields] OR \"frameshifts\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39174245",
+      "title": "Familial hemiplegic migraine.",
+      "first_author": "Villar-Martinez MD",
+      "year": "2024",
+      "journal": "Handb Clin Neurol",
+      "doi": "10.1016/B978-0-323-90820-7.00007-0",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "first_author": "Hommersom MP",
+      "year": "2025",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33911866",
+      "title": "Exploring the Hereditary Nature of Migraine.",
+      "first_author": "Bron C",
+      "year": "2021",
+      "journal": "Neuropsychiatr Dis Treat",
+      "doi": "10.2147/NDT.S282562",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36938367",
+      "title": "A neurodevelopmental disorder caused by a dysfunctional CACNA1A allele.",
+      "first_author": "Kramer AA",
+      "year": "2023",
+      "journal": "eNeurologicalSci",
+      "doi": "10.1016/j.ensci.2023.100456",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38743163",
+      "title": "CACNA1A variant associated with generalized dystonia.",
+      "first_author": "Rinaldi D",
+      "year": "2024",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-024-07592-8",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17395138",
+      "title": "Familial hemiplegic migraine.",
+      "first_author": "Pietrobon D",
+      "year": "2007",
+      "journal": "Neurotherapeutics",
+      "doi": "10.1016/j.nurt.2007.01.008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41775907",
+      "title": "Genotype and Age at Onset Drive Vermis Atrophy in CACNA1A- and GAA-FGF14-related Ataxias.",
+      "first_author": "Indelicato E",
+      "year": "2026",
+      "journal": "Cerebellum",
+      "doi": "10.1007/s12311-026-01966-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "11719255",
+      "title": "Spinocerebellar ataxia type 6: channelopathy or glutamine repeat disorder?",
+      "first_author": "Frontali M",
+      "year": "2001",
+      "journal": "Brain Res Bull",
+      "doi": "10.1016/s0361-9230(01)00574-3",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35154276",
+      "title": "Whole-Exome Sequencing Implicates Neuronal Calcium Channel with Familial Atrial Fibrillation.",
+      "first_author": "Vad OB",
+      "year": "2022",
+      "journal": "Front Genet",
+      "doi": "10.3389/fgene.2022.806429",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "15775663",
+      "title": "[Episodic ataxia type 2].",
+      "first_author": "Tomimitsu H",
+      "year": "2001",
+      "journal": "Clin Calcium",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12736095",
+      "title": "A novel insertion mutation of acetazolamide-responsive episodic ataxia in a Japanese family.",
+      "first_author": "Matsuyama Z",
+      "year": "2003",
+      "journal": "J Neurol Sci",
+      "doi": "10.1016/s0022-510x(03)00008-x",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39781574",
+      "title": "Exploring the association between familial hemiplegic migraine genes (CACNA1A, ATP1A2 and SCN1A) with migraine and epilepsy: A UK Biobank exome-wide association study.",
+      "first_author": "Staehr C",
+      "year": "2025",
+      "journal": "Cephalalgia",
+      "doi": "10.1177/03331024241306103",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35837781",
+      "title": "Clinical features and CACNA1A gene mutation in a family with episodic ataxia type 2.",
+      "first_author": "Xu Y",
+      "year": "2022",
+      "journal": "Zhong Nan Da Xue Xue Bao Yi Xue Ban",
+      "doi": "10.11817/j.issn.1672-7347.2022.210650",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33985586",
+      "title": "Calcium channelopathies and intellectual disability: a systematic review.",
+      "first_author": "Kessi M",
+      "year": "2021",
+      "journal": "Orphanet J Rare Dis",
+      "doi": "10.1186/s13023-021-01850-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "31066025",
+      "title": "Heterozygous missense variants of SPTBN2 are a frequent cause of congenital cerebellar ataxia.",
+      "first_author": "Nicita F",
+      "year": "2019",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.13562",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32249994",
+      "title": "Multiomics Analyses Identify Genes and Pathways Relevant to Essential Tremor.",
+      "first_author": "Liao C",
+      "year": "2020",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.28031",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15545010",
+      "title": "Postnatal apoptosis in cerebellar granule cells of homozygous leaner (tg1a/tg1a) mice.",
+      "first_author": "Lau FC",
+      "year": "2004",
+      "journal": "Neurotox Res",
+      "doi": "10.1007/BF03033437",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "9805992",
+      "title": "[A sporadic case of episodic ataxia with nystagmus (EA-2)].",
+      "first_author": "Namekawa M",
+      "year": "1998",
+      "journal": "Rinsho Shinkeigaku",
+      "doi": "",
+      "pubtype": [
+        "Case Reports",
+        "English Abstract",
+        "Journal Article"
+      ]
+    }
+  ]
+}

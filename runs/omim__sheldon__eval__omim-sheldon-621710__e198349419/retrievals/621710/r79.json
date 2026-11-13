@@ -1,0 +1,108 @@
+{
+  "id": "r79",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[tiab] AND (cerebellar hypoplasia OR ataxia OR epilepsy OR seizures) AND humans[filter]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "8 PubMed hits for 'ATG12[tiab] AND (cerebellar hypoplasia OR ataxia OR epilepsy OR seizures) AND humans[filter]'; showing 8 (PubMed read it as: \"ATG12\"[Title/Abstract] AND (\"cerebellar hypoplasia\"[Supplementary Concept] OR \"cerebellar hypoplasia\"[All Fields] OR (\"ataxia\"[MeSH Terms] OR \"ataxia\"[All Fields] OR \"ataxias\"[All Fields]) OR (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields]) OR (\"seizural\"[All Fields] OR \"seizure s\"[All Fields] OR \"seizured\"[All Fields] OR \"seizures\"[MeSH Terms] OR \"seizures\"[All Fields] OR \"seizure\"[All Fields] OR \"seizuring\"[All Fields])) AND \"humans\"[MeSH Terms])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "30335591",
+      "title": "Trehalose induces autophagy via lysosomal-mediated TFEB activation in models of motoneuron degeneration.",
+      "first_author": "Rusmini P",
+      "year": "2019",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2018.1535292",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25259530",
+      "title": "Trehalose improves human fibroblast deficits in a new CHIP-mutation related ataxia.",
+      "first_author": "Casarejos MJ",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0106931",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29218765",
+      "title": "Deregulation of autophagy in postmortem brains of Machado-Joseph disease patients.",
+      "first_author": "Sittler A",
+      "year": "2018",
+      "journal": "Neuropathology",
+      "doi": "10.1111/neup.12433",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22356768",
+      "title": "Phospho-\u0394Np63\u03b1-dependent regulation of autophagic signaling through transcription and micro-RNA modulation.",
+      "first_author": "Huang Y",
+      "year": "2012",
+      "journal": "Cell Cycle",
+      "doi": "10.4161/cc.11.6.19670",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40374597",
+      "title": "Autophagy- and oxidative stress-related protein deregulation mediated by extracellular vesicles of human MJD/SCA3 iPSC-derived neuroepithelial stem cells and differentiated neural cultures.",
+      "first_author": "Mendon\u00e7a LS",
+      "year": "2025",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-025-07659-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24859968",
+      "title": "The autophagy/lysosome pathway is impaired in SCA7 patients and SCA7 knock-in mice.",
+      "first_author": "Alves S",
+      "year": "2014",
+      "journal": "Acta Neuropathol",
+      "doi": "10.1007/s00401-014-1289-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26812546",
+      "title": "Mutation in ATG5 reduces autophagy and leads to ataxia with developmental delay.",
+      "first_author": "Kim M",
+      "year": "2016",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.12245",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

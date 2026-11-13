@@ -1,0 +1,12 @@
+{
+  "id": "r117",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(DEE42B OR \"developmental and epileptic encephalopathy 42B\" OR 621692) AND CACNA1A",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '(DEE42B OR \"developmental and epileptic encephalopathy 42B\" OR 621692) AND CACNA1A'; showing 0 (PubMed read it as: (((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epileptic\"[All Fields] OR \"epileptics\"[All Fields] OR \"epileptic s\"[All Fields] OR \"epileptical\"[All Fields] OR \"epileptization\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields]) AND \"42b\"[All Fields]) OR 621692[UID]) AND (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]))",
+  "ok": true,
+  "evidence": []
+}

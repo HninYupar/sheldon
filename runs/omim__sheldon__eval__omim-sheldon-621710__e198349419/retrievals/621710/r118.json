@@ -1,0 +1,249 @@
+{
+  "id": "r118",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(ATG12[gene] OR ATG12[tiab]) AND (fibroblast[tiab] OR fibroblasts[tiab] OR patient-derived[tiab] OR complementation[tiab] OR rescue[tiab]) AND (disease[tiab] OR disorder[tiab] OR patient[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "21 PubMed hits for '(ATG12[gene] OR ATG12[tiab]) AND (fibroblast[tiab] OR fibroblasts[tiab] OR patient-derived[tiab] OR complementation[tiab] OR rescue[tiab]) AND (disease[tiab] OR disorder[tiab] OR patient[tiab])'; showing 20 (PubMed read it as: (\"ATG12\"[All Fields] OR \"ATG12\"[Title/Abstract]) AND (\"fibroblast\"[Title/Abstract] OR \"fibroblasts\"[Title/Abstract] OR \"patient-derived\"[Title/Abstract] OR \"complementation\"[Title/Abstract] OR \"rescue\"[Title/Abstract]) AND (\"disease\"[Title/Abstract] OR \"disorder\"[Title/Abstract] OR \"patient\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "32401642",
+      "title": "Autophagy in the physiological endometrium and cancer.",
+      "first_author": "Devis-Jauregui L",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1752548",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36541703",
+      "title": "PEX13 prevents pexophagy by regulating ubiquitinated PEX5 and peroxisomal ROS.",
+      "first_author": "Demers ND",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2160566",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39179205",
+      "title": "Invasion of human dental pulp fibroblasts by Porphyromonas gingivalis leads to autophagy via the phosphoinositide 3-kinase/Akt/mammalian target of rapamycin signaling pathway.",
+      "first_author": "Feng Y",
+      "year": "2024",
+      "journal": "J Oral Biosci",
+      "doi": "10.1016/j.job.2024.08.004",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30809091",
+      "title": "Emodin induces apoptosis and autophagy of fibroblasts obtained from patient with ankylosing spondylitis.",
+      "first_author": "Ma C",
+      "year": "2019",
+      "journal": "Drug Des Devel Ther",
+      "doi": "10.2147/DDDT.S182087",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17213804",
+      "title": "NF-kappaB inhibition sensitizes to starvation-induced cell death in high-risk myelodysplastic syndrome and acute myeloid leukemia.",
+      "first_author": "Fabre C",
+      "year": "2007",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1210187",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33730050",
+      "title": "Reduction of WDR81 impairs autophagic clearance of aggregated proteins and cell viability in neurodegenerative phenotypes.",
+      "first_author": "Liu X",
+      "year": "2021",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1009415",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Retracted Publication"
+      ]
+    },
+    {
+      "pmid": "38524239",
+      "title": "Rapid induction of dopaminergic neuron-like cells from human fibroblasts by autophagy activation with only 2-small molecules.",
+      "first_author": "Sorraksa N",
+      "year": "2024",
+      "journal": "3 Biotech",
+      "doi": "10.1007/s13205-024-03957-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34586588",
+      "title": "Multifunctional thiosemicarbazones targeting sigma receptors: in vitro and in vivo antitumor activities in pancreatic cancer models.",
+      "first_author": "Niso M",
+      "year": "2021",
+      "journal": "Cell Oncol (Dordr)",
+      "doi": "10.1007/s13402-021-00638-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32866627",
+      "title": "The effect of trehalose on autophagy-related proteins and cyst growth in a hypomorphic Pkd1 mouse model of autosomal dominant polycystic kidney disease.",
+      "first_author": "Atwood DJ",
+      "year": "2020",
+      "journal": "Cell Signal",
+      "doi": "10.1016/j.cellsig.2020.109760",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "23075094",
+      "title": "Autophagy in periodontitis patients and gingival fibroblasts: unraveling the link between chronic diseases and inflammation.",
+      "first_author": "Bullon P",
+      "year": "2012",
+      "journal": "BMC Med",
+      "doi": "10.1186/1741-7015-10-122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40907904",
+      "title": "LINC01018 attenuates hepatic lipid accumulation by inducing autophagy via DHX9 pathway in alcohol-associated liver disease.",
+      "first_author": "Ni B",
+      "year": "2025",
+      "journal": "Int J Biol Macromol",
+      "doi": "10.1016/j.ijbiomac.2025.147298",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42715837",
+      "title": "NEDD4L-mediated ALYREF ubiquitination degradation suppresses RUBCNL expression to impair autophagy and promote lipogenesis in alcoholic hepatic fibrosis.",
+      "first_author": "Hu X",
+      "year": "2026",
+      "journal": "Int Immunopharmacol",
+      "doi": "10.1016/j.intimp.2026.117348",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31337282",
+      "title": "A Liver-Specific Thyromimetic, VK2809, Decreases Hepatosteatosis in Glycogen Storage Disease Type Ia.",
+      "first_author": "Zhou J",
+      "year": "2019",
+      "journal": "Thyroid",
+      "doi": "10.1089/thy.2019.0007",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25259530",
+      "title": "Trehalose improves human fibroblast deficits in a new CHIP-mutation related ataxia.",
+      "first_author": "Casarejos MJ",
+      "year": "2014",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0106931",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29133525",
+      "title": "Optineurin promotes autophagosome formation by recruiting the autophagy-related Atg12-5-16L1 complex to phagophores containing the Wipi2 protein.",
+      "first_author": "Bansal M",
+      "year": "2018",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M117.801944",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39337618",
+      "title": "Rice Husk Silica Liquid Enhances Autophagy and Reduces Overactive Immune Responses via TLR-7 Signaling in Lupus-Prone Models.",
+      "first_author": "Kao C",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms251810133",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38537719",
+      "title": "Dual drug nanoparticle synergistically induced apoptosis, suppressed inflammation, and protected autophagic response in rheumatoid arthritis fibroblast-like synoviocytes.",
+      "first_author": "Haloi P",
+      "year": "2024",
+      "journal": "Immunol Lett",
+      "doi": "10.1016/j.imlet.2024.106854",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21304979",
+      "title": "Mevalonate cascade regulation of airway mesenchymal cell autophagy and apoptosis: a dual role for p53.",
+      "first_author": "Ghavami S",
+      "year": "2011",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0016523",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

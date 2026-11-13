@@ -1,0 +1,254 @@
+{
+  "id": "r2",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (MAGIS OR syndrome OR \"immune dysregulation\" OR dysmorphic OR cardiomyopathy OR hearing OR developmental)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "51 PubMed hits for 'GNAI2[gene] AND (MAGIS OR syndrome OR \"immune dysregulation\" OR dysmorphic OR cardiomyopathy OR hearing OR developmental)'; showing 20 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"MAGIS\"[All Fields] OR (\"syndrom\"[All Fields] OR \"syndromal\"[All Fields] OR \"syndromally\"[All Fields] OR \"syndrome\"[MeSH Terms] OR \"syndrome\"[All Fields] OR \"syndromes\"[All Fields] OR \"syndrome s\"[All Fields] OR \"syndromic\"[All Fields] OR \"syndroms\"[All Fields]) OR \"immune dysregulation\"[All Fields] OR (\"congenital abnormalities\"[MeSH Terms] OR (\"congenital\"[All Fields] AND \"abnormalities\"[All Fields]) OR \"congenital abnormalities\"[All Fields] OR \"dysmorphism\"[All Fields] OR \"dysmorphisms\"[All Fields] OR \"dysmorphic\"[All Fields]) OR (\"cardiomyopathie\"[All Fields] OR \"cardiomyopathies\"[MeSH Terms] OR \"cardiomyopathies\"[All Fields] OR \"cardiomyopathy\"[All Fields]) OR (\"hearing\"[MeSH Terms] OR \"hearing\"[All Fields] OR \"hearings\"[All Fields]) OR (\"developmental\"[All Fields] OR \"developmentally\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "41226691",
+      "title": "G\u03b1(i2) Signaling Regulates Neonatal Respiratory Adaptation.",
+      "first_author": "Leiss V",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms262110655",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38811421",
+      "title": "Targeting G\u03b1(i2) in neutrophils protects from myocardial ischemia reperfusion injury.",
+      "first_author": "K\u00f6hler D",
+      "year": "2024",
+      "journal": "Basic Res Cardiol",
+      "doi": "10.1007/s00395-024-01057-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "first_author": "Huang X",
+      "year": "2009",
+      "journal": "Med Hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38651641",
+      "title": "Inhibitory G proteins play multiple roles to polarize sensory hair cell morphogenesis.",
+      "first_author": "Jarysta A",
+      "year": "2024",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.88186",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37292807",
+      "title": "Inhibitory G proteins play multiple roles to polarize sensory hair cell morphogenesis.",
+      "first_author": "Jarysta A",
+      "year": "2024",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2023.05.25.542257",
+      "pubtype": [
+        "Preprint",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39670989",
+      "title": "Single-cell transcriptomics of vomeronasal neuroepithelium reveals a differential endoplasmic reticulum environment amongst neuronal subtypes.",
+      "first_author": "Devakinandan GVS",
+      "year": "2024",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.98250",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37713293",
+      "title": "Extracellular Vesicles and Endocannabinoid Signaling in Patients with COVID-19.",
+      "first_author": "Brandes F",
+      "year": "2024",
+      "journal": "Cannabis Cannabinoid Res",
+      "doi": "10.1089/can.2023.0040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28921447",
+      "title": "Structure, Pharmacology and Roles in Physiology of the P2Y(12) Receptor.",
+      "first_author": "von K\u00fcgelgen I",
+      "year": "2017",
+      "journal": "Adv Exp Med Biol",
+      "doi": "10.1007/5584_2017_98",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "9779985",
+      "title": "Genetic analysis of mammalian G-protein signalling.",
+      "first_author": "Offermanns S",
+      "year": "1998",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1202173",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40141310",
+      "title": "Plasma Exosomal-Derived SERPINA1 and GNAI2 Downregulation as Potential Diagnostic Biomarkers of Kawasaki Disease with Coronary Artery Aneurysms.",
+      "first_author": "Zheng Y",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms26062668",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "8567977",
+      "title": "Mapping a cardiomyopathy locus to chromosome 3p22-p25.",
+      "first_author": "Olson TM",
+      "year": "1996",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI118445",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "40145347",
+      "title": "Functional Genomics Using High-Throughput Methods for Salivary Analysis in Sj\u00f6gren's Disease.",
+      "first_author": "Florezi GP",
+      "year": "2025",
+      "journal": "Oral Dis",
+      "doi": "10.1111/odi.15328",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33914258",
+      "title": "Genetic etiologies associated with infantile hydrocephalus in a Chinese infantile cohort.",
+      "first_author": "Mei HF",
+      "year": "2021",
+      "journal": "World J Pediatr",
+      "doi": "10.1007/s12519-021-00429-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23977324",
+      "title": "The loss of Gnai2 and Gnai3 in B cells eliminates B lymphocyte compartments and leads to a hyper-IgM like syndrome.",
+      "first_author": "Hwang IY",
+      "year": "2013",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0072596",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "25016959",
+      "title": "Par3-mInsc and G\u03b1i3 cooperate to promote oriented epidermal cell divisions through LGN.",
+      "first_author": "Williams SE",
+      "year": "2014",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/ncb3001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15684084",
+      "title": "Mesenteric B cells centrally inhibit CD4+ T cell colitis through interaction with regulatory T cell subsets.",
+      "first_author": "Wei B",
+      "year": "2005",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.0409449102",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "31036916",
+      "title": "Variant\u00a0recurrence in neurodevelopmental disorders: the use of publicly available genomic data identifies clinically relevant pathogenic missense variants.",
+      "first_author": "Lecoquierre F",
+      "year": "2019",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-019-0518-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

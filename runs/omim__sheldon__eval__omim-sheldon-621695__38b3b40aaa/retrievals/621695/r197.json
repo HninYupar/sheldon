@@ -1,0 +1,252 @@
+{
+  "id": "r197",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "37303329",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "101 'similar' links for PMID 37303329; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "17630073",
+      "title": "Stingray envenomation: a retrospective review of clinical presentation and treatment in 119 cases.",
+      "first_author": "Clark RF",
+      "year": "2007",
+      "journal": "J Emerg Med",
+      "doi": "10.1016/j.jemermed.2007.03.043",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36892143",
+      "title": "Management of a stingray barb laceration and suspect envenomation in a dog.",
+      "first_author": "Milne JM",
+      "year": "2023",
+      "journal": "Aust Vet J",
+      "doi": "10.1111/avj.13235",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34294537",
+      "title": "Comparison of Radiographic, Ultrasound, and Magnetic Resonance Imaging for the Detection of Retained Stingray Barb: A Cadaveric Study.",
+      "first_author": "Docter TA",
+      "year": "2021",
+      "journal": "Wilderness Environ Med",
+      "doi": "10.1016/j.wem.2021.03.012",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31813594",
+      "title": "[Stingray injury: A case in French Polynesia].",
+      "first_author": "Luherne C",
+      "year": "2020",
+      "journal": "Ann Dermatol Venereol",
+      "doi": "10.1016/j.annder.2019.10.021",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31683373",
+      "title": "Toxic inoculation associated with a presumptive stingray injury.",
+      "first_author": "Do R",
+      "year": "2019",
+      "journal": "Undersea Hyperb Med",
+      "doi": "",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37891068",
+      "title": "Accuracy of Emergency Medicine Residents Using Point-of-Care Ultrasound (POCUS) to Detect Retained Stingray Barbs.",
+      "first_author": "Richardson SR",
+      "year": "2023",
+      "journal": "J Emerg Med",
+      "doi": "10.1016/j.jemermed.2023.07.004",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36250883",
+      "title": "A technical trick for extracting a stingray spine from hand: a case report.",
+      "first_author": "Akar MS",
+      "year": "2022",
+      "journal": "Acta Orthop Traumatol Turc",
+      "doi": "10.5152/j.aott.2022.21092",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35989733",
+      "title": "A New Endoscopic Approach to Remove a Retained Stingray Barb.",
+      "first_author": "Palatchi Oldak J",
+      "year": "2022",
+      "journal": "Cureus",
+      "doi": "10.7759/cureus.26990",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22588424",
+      "title": "Stingray injury to the webspace of the foot.",
+      "first_author": "Jarvis HC",
+      "year": "2012",
+      "journal": "Orthopedics",
+      "doi": "10.3928/01477447-20120426-38",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29297831",
+      "title": "WHOLE BLOOD TRANSFUSIONS TO TREAT SEVERE ANEMIA IN SEVEN COWNOSE RAYS ( RHINOPTERA BONASUS) AND ONE SHORT-TAIL STINGRAY ( DASYATIS BREVICAUDATA).",
+      "first_author": "Delaune AJM",
+      "year": "2017",
+      "journal": "J Zoo Wildl Med",
+      "doi": "10.1638/2016-0116R2.1",
+      "pubtype": [
+        "Clinical Trial, Veterinary",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "2593906",
+      "title": "Fatal and non-fatal stingray envenomation.",
+      "first_author": "Fenner PJ",
+      "year": "1989",
+      "journal": "Med J Aust",
+      "doi": "10.5694/j.1326-5377.1989.tb139631.x",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17659760",
+      "title": "Morphological characterization of the venom secretory epidermal cells in the stinger of marine and freshwater stingrays.",
+      "first_author": "Pedroso CM",
+      "year": "2007",
+      "journal": "Toxicon",
+      "doi": "10.1016/j.toxicon.2007.06.004",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11990133",
+      "title": "Stingray injuries.",
+      "first_author": "Meyer PK",
+      "year": "1997",
+      "journal": "Wilderness Environ Med",
+      "doi": "10.1580/1080-6032(1997)008[0024:si]2.3.co;2",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25937550",
+      "title": "Retained Stingray Barb and the Importance of Imaging.",
+      "first_author": "O'Malley GF",
+      "year": "2015",
+      "journal": "Wilderness Environ Med",
+      "doi": "10.1016/j.wem.2015.03.006",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26094699",
+      "title": "A Severe Accident Caused by an Ocellate River Stingray (Potamotrygon motoro) in Central Brazil: How Well Do We Really Understand Stingray Venom Chemistry, Envenomation, and Therapeutics?",
+      "first_author": "da Silva NJ Jr",
+      "year": "2015",
+      "journal": "Toxins (Basel)",
+      "doi": "10.3390/toxins7062272",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36737376",
+      "title": "The seven day itch: A delayed histamine reaction to stingray injury.",
+      "first_author": "Lindgren E",
+      "year": "2023",
+      "journal": "Am J Emerg Med",
+      "doi": "10.1016/j.ajem.2023.01.039",
+      "pubtype": [
+        "Review",
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38620041",
+      "title": "An Observational Study of Patient Characteristics and Environmental Risk Factors of Stingray Envenomations in San Diego, California.",
+      "first_author": "Arefieva CA",
+      "year": "2024",
+      "journal": "Wilderness Environ Med",
+      "doi": "10.1177/10806032241239623",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study"
+      ]
+    },
+    {
+      "pmid": "35687320",
+      "title": "PERUANOCOTYLE PELAGICA N. SP. (MONOGENEA: MONOCOTYLIDAE), PARASITE OF THE PACIFIC COWNOSE RAY RHINOPTERA STEINDACHNERI EVERMANN AND JENKINS, 1891 (BATOIDEA: RHINOPTERIDAE) FROM THE SOUTHERN MEXICAN PACIFIC OCEAN.",
+      "first_author": "Ruiz-Escobar F",
+      "year": "2022",
+      "journal": "J Parasitol",
+      "doi": "10.1645/21-27",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24346390",
+      "title": "Marine stingray injuries to the extremities: Series of three cases with emphasis on imaging.",
+      "first_author": "Srinivasan S",
+      "year": "2013",
+      "journal": "J Postgrad Med",
+      "doi": "10.4103/0022-3859.123163",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30969607",
+      "title": "Stingray Sting.",
+      "first_author": "Charnigo A",
+      "year": "2026",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Study Guide"
+      ]
+    }
+  ]
+}

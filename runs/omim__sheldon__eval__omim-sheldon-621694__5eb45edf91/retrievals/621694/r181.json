@@ -1,0 +1,103 @@
+{
+  "id": "r181",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "31792445",
+      "32025096",
+      "32444859"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31792445",
+      "title": "Guided nuclear exploration increases CTCF target search efficiency.",
+      "authors": [
+        "Hansen AS",
+        "Amitai A",
+        "Cattoglio C",
+        "Tjian R",
+        "Darzacq X"
+      ],
+      "year": "2020",
+      "journal": "Nature chemical biology",
+      "doi": "10.1038/s41589-019-0422-3",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Binding Sites",
+        "CCCTC-Binding Factor",
+        "Cell Line",
+        "Cell Nucleus",
+        "Chromatin",
+        "DNA-Binding Proteins",
+        "Female",
+        "Humans",
+        "Male",
+        "Mice",
+        "Protein Binding",
+        "Repressor Proteins",
+        "Single Molecule Imaging"
+      ],
+      "abstract": "The enormous size of mammalian genomes means that for a DNA-binding protein the number of nonspecific, off-target sites vastly exceeds the number of specific, cognate sites. How mammalian DNA-binding proteins overcome this challenge to efficiently locate their target sites is not known. Here, through live-cell single-molecule tracking, we show that CCCTC-binding factor, CTCF, is repeatedly trapped in small zones that likely correspond to CTCF clusters, in a manner that is largely dependent on an internal RNA-binding region (RBRi). We develop a new theoretical model called anisotropic diffusion through transient trapping in zones to explain CTCF dynamics. Functionally, transient RBRi-mediated trapping increases the efficiency of CTCF target search by ~2.5-fold. Overall, our results suggest a 'guided' mechanism where CTCF clusters concentrate diffusing CTCF proteins near cognate binding sites, thus increasing the local ON-rate. We suggest that local guiding may allow DNA-binding proteins to more efficiently locate their target sites."
+    },
+    {
+      "pmid": "32025096",
+      "title": "Patterns and drivers for wetland connections in the Prairie Pothole Region, United States.",
+      "authors": [
+        "Vanderhoof MK",
+        "Christensen JR",
+        "Alexander LC"
+      ],
+      "year": "2017",
+      "journal": "Wetlands ecology and management",
+      "doi": "10.1007/s11273-016-9516-9",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Ecosystem function in rivers, lakes and coastal waters depends on the functioning of upstream aquatic ecosystems, necessitating an improved understanding of watershed-scale interactions including variable surface-water flows between wetlands and streams. As surface water in the Prairie Pothole Region expands in wet years, surface-water connections occur between many depressional wetlands and streams. Minimal research has explored the spatial patterns and drivers for the abundance of these connections, despite their potential to inform resource management and regulatory programs including the U.S. Clean Water Act. In this study, wetlands were identified that did not intersect the stream network, but were shown with Landsat images (1990-2011) to become merged with the stream network as surface water expanded. Wetlands were found to spill into or consolidate with other wetlands within both small (2-10 wetlands) and large (>100 wetlands) wetland clusters, eventually intersecting a stream channel, most often via a riparian wetland. These surface-water connections occurred over a wide range of wetland distances from streams (averaging 90-1400\u00a0m in different ecoregions). Differences in the spatial abundance of wetlands that show a variable surface-water connection to a stream were best explained by smaller wetland-to-wetland distances, greater wetland abundance, and maximum surface-water extent. This analysis demonstrated that wetland arrangement and surface water expansion are important mechanisms for depressional wetlands to connect to streams and provides a first step to understanding the frequency and abundance of these surface-water connections across the Prairie Pothole Region."
+    },
+    {
+      "pmid": "32444859",
+      "title": "Transcriptional profiling of lung macrophages identifies a predictive signature for inflammatory lung disease in preterm infants.",
+      "authors": [
+        "Sahoo D",
+        "Zaramela LS",
+        "Hernandez GE",
+        "Mai U",
+        "Taheri S",
+        "Dang D",
+        "et al."
+      ],
+      "year": "2020",
+      "journal": "Communications biology",
+      "doi": "10.1038/s42003-020-0985-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Biomarkers",
+        "Bronchopulmonary Dysplasia",
+        "Gene Expression Regulation",
+        "Gene Regulatory Networks",
+        "Gestational Age",
+        "Humans",
+        "Infant, Newborn",
+        "Infant, Premature",
+        "Macrophages",
+        "Pneumonia",
+        "Transcriptome"
+      ],
+      "abstract": "Lung macrophages mature after birth, placing newborn infants, particularly those born preterm, within a unique window of susceptibility to disease. We hypothesized that in preterm infants, lung macrophage immaturity contributes to the development of bronchopulmonary dysplasia (BPD), the most common serious complication of prematurity. By measuring changes in lung macrophage gene expression in preterm patients at risk of BPD, we show here that patients eventually developing BPD had higher inflammatory mediator expression even on the first day of life. Surprisingly, the ex vivo response to LPS was similar across all samples. Our analysis did however uncover macrophage signature genes whose expression increased in the first week of life specifically in patients resilient to disease. We propose that these changes describe the dynamics of human lung macrophage differentiation. Our study therefore provides new mechanistic insight into both neonatal lung disease and human developmental immunology."
+    }
+  ]
+}

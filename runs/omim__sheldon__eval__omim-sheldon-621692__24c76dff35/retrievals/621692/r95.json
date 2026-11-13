@@ -1,0 +1,138 @@
+{
+  "id": "r95",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "39460936",
+      "41370402",
+      "33565063",
+      "34102571"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39460936",
+      "title": "CACNA1A haploinsufficiency leads to reduced synaptic function and increased intrinsic excitability.",
+      "authors": [
+        "Hommersom MP",
+        "Doorn N",
+        "Puvogel S",
+        "Lewerissa EI",
+        "Mordelt A",
+        "Ciptasari U",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Brain : a journal of neurology",
+      "doi": "10.1093/brain/awae330",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Haploinsufficiency",
+        "Neurons",
+        "Induced Pluripotent Stem Cells",
+        "Synapses",
+        "Receptors, AMPA",
+        "Calcium Channels",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Haploinsufficiency of CACNA1A, encoding the pore-forming \u03b11 subunit of P/Q-type voltage-gated calcium channels, is associated with a clinically variable phenotype ranging from cerebellar ataxia to neurodevelopmental syndromes with epilepsy and intellectual disability. To understand the pathological mechanisms of CACNA1A loss-of-function variants, we characterized a human neuronal model for CACNA1A haploinsufficiency by differentiating isogenic induced pluripotent stem cell lines into glutamatergic neurons and investigated the effect of CACNA1A haploinsufficiency on mature neuronal networks through a combination of electrophysiology, gene expression analysis and in silico modelling. We observed an altered network synchronization in CACNA1A+/- networks alongside synaptic deficits, notably marked by an augmented contribution of GluA2 subunit-lacking \u03b1-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptors. Intriguingly, these synaptic perturbations coexisted with increased non-synaptically driven activity, as characterized by inhibition of N-methyl-D-aspartate and AMPA receptors on micro-electrode arrays. Single-cell electrophysiology and gene expression analysis corroborated this increased intrinsic excitability through reduced potassium channel function and expression. Moreover, we observed partial mitigation of the CACNA1A+/- network phenotype by 4-aminopyridine, a therapeutic intervention for episodic ataxia type 2. Positive modulation of small conductance calcium-activated potassium channels could reverse the CACNA1A+/- network electrophysiological phenotype. In summary, our study pioneers the characterization of a human induced pluripotent stem cell-derived neuronal model for CACNA1A haploinsufficiency and has unveiled new mechanistic insights. Beyond showcasing synaptic deficits, this neuronal model exhibited increased intrinsic excitability mediated by diminished potassium channel function, underscoring its potential as a therapeutic discovery platform with predictive validity."
+    },
+    {
+      "pmid": "41370402",
+      "title": "Characterization of the functional and clinical impacts of CACNA1A missense variants found in neurodevelopmental disorders.",
+      "authors": [
+        "Kurganov E",
+        "Cui L",
+        "Budnik N",
+        "Chen S",
+        "Olivares E",
+        "Baez-Nieto D",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Science translational medicine",
+      "doi": "10.1126/scitranslmed.adr0024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Mutation, Missense",
+        "Neurodevelopmental Disorders",
+        "Neurons",
+        "Calcium Channels, N-Type",
+        "Calcium Channels",
+        "Induced Pluripotent Stem Cells"
+      ],
+      "abstract": "CACNA1A encodes the \u03b11A subunit of the CaV2.1 voltage-gated calcium channel essential for neuronal excitability, neurotransmitter release, and calcium signaling in neurons. Pathogenic CACNA1A variants are linked to diverse neurological and developmental disorders, including hemiplegic migraine, epilepsy, developmental delay, and ataxia. However, the contribution of CACNA1A variants to neurodevelopmental disorders has been less well established. Clinical heterogeneity and the complex impact of missense variants on channel function have made genotype-phenotype relationships difficult to resolve. Here, we characterized the biophysical properties of 42 de novo CACNA1A missense variants identified in a neurodevelopmental disorder cohort of over 31,000 individuals, alongside eight common variants from the general population. All but one de novo variant altered biophysical properties of the CaV2.1 channel, with 50% abolishing measurable currents. Among variants with detectable currents, nearly half disrupted voltage-dependent gating, whereas common variants had no measurable effect. Similar results were obtained using representative variants in the presence of \u03b23 or \u03b24 auxiliary subunits. The expression of two selected variants in CACNA1A-knockdown hiPSC-derived neurons confirmed similar functional alterations in human neurons. Simulations using the NEURON model of a Purkinje neuron demonstrated that these biophysical changes profoundly affected excitability. Coupling functional data with AlphaMissense predictions, we found that CaV2.1 missense variants contribute to the risk for developmental epileptic encephalopathy. Finally, correlating clinical features with molecular consequences of each variant revealed meaningful associations between specific channel dysfunctions and distinct clinical outcomes. These findings provide insights into CACNA1A molecular pathology and highlight the potential for precision medicine treatment of CACNA1A-associated disorders."
+    },
+    {
+      "pmid": "33565063",
+      "title": "[Clinical manifestation and genetic analysis of a child with early infantile epileptic encephalopathy 42].",
+      "authors": [
+        "Ran Y",
+        "Lyu Y",
+        "Bai H",
+        "Li C",
+        "Li-Ling J"
+      ],
+      "year": "2021",
+      "journal": "Zhonghua yi xue yi chuan xue za zhi = Zhonghua yixue yichuanxue zazhi = Chinese journal of medical genetics",
+      "doi": "10.3760/cma.j.cn511374-20201022-00743",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Calcium Channels",
+        "Genetic Testing",
+        "Heterozygote",
+        "Humans",
+        "Infant",
+        "Mutation",
+        "Spasms, Infantile",
+        "Exome Sequencing",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "OBJECTIVE: To analyze the clinical phenotype and genetic characterization of a child with early infantile epileptic encephalopathy.\nMETHODS: The proband was subjected to history taking and was diagnosed based on his clinical manifestation, magnetic resonance imaging (MRI) and whole exome sequencing (WES). Sanger sequencing was carried out to determine the origin of pathogenic variant.\nRESULTS: The proband unconsciously tilts his head to one side with squint, which revealed an abnormal discharge. MRI indicated suspicious abnormal signal shadow in the left posterior frontal cortex in addition with inflammation signs in the right maxillary sinus and ethmoid sinus. WES revealed that the proband has carried a heterozygous c.5789G>A variant in the CACNAIA gene. The result of Sanger sequencing was in keeping with that of WES. Neither of his parents has carried the same variant.\nCONCLUSION: The heterozygous c.5789G>A variant of the CACNAIA gene probably underlay the early infantile epileptic encephalopathy 42 in the proband, which has a de novo origin."
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "authors": [
+        "Le Roux M",
+        "Barth M",
+        "Gueden S",
+        "Desbordes de Cepoy P",
+        "Aeby A",
+        "Vilain C",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Calcium Channels",
+        "Child, Preschool",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Male",
+        "Seizures",
+        "Spinocerebellar Ataxias",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "CACNA1A pathogenic mutations are involved in various neurological phenotypes including episodic ataxia (EA2), spinocerebellar ataxia (SCA6), and familial hemiplegic migraine (FHM1). Epilepsy is poorly documented. We studied 18 patients (10 males) carrying de novo or inherited CACNA1A mutations, with median age of 2,5 years at epilepsy onset. Eight mutations were novel. Two variants known leading to gain of function (GOF) were found in 5 patients. Five other patients had non-sense variants leading to loss of function (LOF). Seizures were most often revealed by either status epilepticus (SE) (n\u00a0=\u00a08), eventually triggered by fever (n\u00a0=\u00a05), or absences/behavioural arrests (n\u00a0=\u00a07). Non-epileptic paroxysmal events were frequent and consisted in recurrent hemiplegic accesses (n\u00a0=\u00a09), jitteriness in the neonatal period (n\u00a0=\u00a06), and ocular paroxysmal events (n\u00a0=\u00a09). Most of the patients had early permanent cerebellar dysfunction (n\u00a0=\u00a016) and early moderate to severe global developmental delay (GDD)/intellectual deficiency (ID) (n\u00a0=\u00a017). MRI was often abnormal, with cerebellar (n\u00a0=\u00a08) and/or cerebral (n\u00a0=\u00a06) atrophy. Stroke-like occurred in 2 cases. Some antiepileptic drugs including topiramate, levetiracetam, lamotrigine and valproate were effective on seizures. Acetazolamide and calcium channel blockers were often effective when used. More than half of the patients had refractory epilepsy. CACNA1A mutation should be evoked in front of 2 main electro-clinical phenotypes that are associated with permanent cerebellar dysfunction and moderate to severe GDD/ID. The first one, found in all 5 patients with GOF variants, is characterized by intractable seizures, early and recurrent SE and hemiplegic accesses. The second, less severe, found in 5 patients with LOF variants, is characterized by refractory early onset absence seizures."
+    }
+  ]
+}

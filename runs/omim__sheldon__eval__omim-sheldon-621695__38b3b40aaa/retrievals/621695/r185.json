@@ -1,0 +1,36 @@
+{
+  "id": "r185",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND (arthrogryposis OR contractures OR fetal akinesia OR perinatal lethality OR neurogenic)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'PSMF1[tiab] AND (arthrogryposis OR contractures OR fetal akinesia OR perinatal lethality OR neurogenic)'; showing 2 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields] OR (\"contractural\"[All Fields] OR \"contracture\"[MeSH Terms] OR \"contracture\"[All Fields] OR \"contractures\"[All Fields] OR \"contractured\"[All Fields]) OR ((\"fetale\"[All Fields] OR \"fetally\"[All Fields] OR \"fetals\"[All Fields] OR \"foetal\"[All Fields] OR \"fetus\"[MeSH Terms] OR \"fetus\"[All Fields] OR \"fetal\"[All Fields]) AND (\"akinesia\"[All Fields] OR \"akinesias\"[All Fields])) OR ((\"perinatal\"[All Fields] OR \"perinatally\"[All Fields] OR \"perinatals\"[All Fields]) AND (\"lethal\"[All Fields] OR \"lethalities\"[All Fields] OR \"lethality\"[All Fields] OR \"lethals\"[All Fields])) OR (\"neurogenic\"[All Fields] OR \"neurogenically\"[All Fields] OR \"neurogenics\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

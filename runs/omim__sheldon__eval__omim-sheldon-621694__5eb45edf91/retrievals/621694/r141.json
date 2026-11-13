@@ -1,0 +1,12 @@
+{
+  "id": "r141",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CONDMCB[tiab] OR \"neurodegeneration, childhood-onset, with movement disorders, cognitive decline, and brain abnormalities\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'CONDMCB[tiab] OR \"neurodegeneration, childhood-onset, with movement disorders, cognitive decline, and brain abnormalities\"[tiab]'; showing 0 (PubMed read it as: CONDMCB[tiab] OR \"neurodegeneration, childhood-onset, with movement disorders, cognitive decline, and brain abnormalities\"[tiab])",
+  "ok": true,
+  "evidence": []
+}

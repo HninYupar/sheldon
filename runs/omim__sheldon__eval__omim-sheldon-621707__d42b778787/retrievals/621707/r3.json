@@ -1,0 +1,248 @@
+{
+  "id": "r3",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"GNAI2\"[tiab] AND (variant OR mutation OR de novo OR missense OR pathogenic)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "45 PubMed hits for '\"GNAI2\"[tiab] AND (variant OR mutation OR de novo OR missense OR pathogenic)'; showing 20 (PubMed read it as: \"GNAI2\"[Title/Abstract] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields] OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR \"de novo\"[All Fields] OR (\"missenses\"[All Fields] OR \"mutation, missense\"[MeSH Terms] OR (\"mutation\"[All Fields] AND \"missense\"[All Fields]) OR \"missense mutation\"[All Fields] OR \"missense\"[All Fields]) OR (\"pathogen\"[All Fields] OR \"pathogen s\"[All Fields] OR \"pathogene\"[All Fields] OR \"pathogenes\"[All Fields] OR \"pathogenic\"[All Fields] OR \"pathogenically\"[All Fields] OR \"pathogenicities\"[All Fields] OR \"pathogenicity\"[MeSH Subheading] OR \"pathogenicity\"[All Fields] OR \"virulence\"[MeSH Terms] OR \"virulence\"[All Fields] OR \"pathogenity\"[All Fields] OR \"pathogenous\"[All Fields] OR \"pathogens\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41632920",
+      "title": "Hepatic GPR75 exacerbates MASH through GNAI2-dependent signaling.",
+      "first_author": "Yang X",
+      "year": "2026",
+      "journal": "Hepatology",
+      "doi": "10.1097/HEP.0000000000001706",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36201743",
+      "title": "Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma.",
+      "first_author": "Thomas N",
+      "year": "2023",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2022016534",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "31705548",
+      "title": "GNAI2 variants predict nonsteroidal anti-inflammatory drug hypersensitivity in a genome-wide study.",
+      "first_author": "Blanca M",
+      "year": "2020",
+      "journal": "Allergy",
+      "doi": "10.1111/all.14100",
+      "pubtype": [
+        "Letter",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38505600",
+      "title": "G protein subunit alpha i2's pivotal role in angiogenesis.",
+      "first_author": "Bai CW",
+      "year": "2024",
+      "journal": "Theranostics",
+      "doi": "10.7150/thno.92909",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39249692",
+      "title": "A new variant confirms GNAI2 as a rare cause of periventricular nodular heterotopia.",
+      "first_author": "Decio A",
+      "year": "2024",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-024-07764-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40072066",
+      "title": "Finerenone Alleviates Over-Activation of Complement C5a-C5aR1 Axis of Macrophages by Regulating G Protein Subunit Alpha i2 to Improve Diabetic Nephropathy.",
+      "first_author": "Li ZH",
+      "year": "2025",
+      "journal": "Cells",
+      "doi": "10.3390/cells14050337",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34185889",
+      "title": "An epigenome-wide DNA methylation study of patients with COVID-19.",
+      "first_author": "Zhou S",
+      "year": "2021",
+      "journal": "Ann Hum Genet",
+      "doi": "10.1111/ahg.12440",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33914258",
+      "title": "Genetic etiologies associated with infantile hydrocephalus in a Chinese infantile cohort.",
+      "first_author": "Mei HF",
+      "year": "2021",
+      "journal": "World J Pediatr",
+      "doi": "10.1007/s12519-021-00429-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "10833069",
+      "title": "Absence of GNAI2 codon 179 oncogene mutations in inflammatory bowel disease.",
+      "first_author": "Zhang WJ",
+      "year": "2000",
+      "journal": "Inflamm Bowel Dis",
+      "doi": "10.1097/00054725-200005000-00006",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "first_author": "Huang X",
+      "year": "2009",
+      "journal": "Med Hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35756599",
+      "title": "Identifying Novel Psoriatic Disease Drug Targets Using a Genetics-Based Priority Index Pipeline.",
+      "first_author": "Bui A",
+      "year": "2021",
+      "journal": "J Psoriasis Psoriatic Arthritis",
+      "doi": "10.1177/24755303211026023",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36443886",
+      "title": "Immunological and genomic characterization of Ibizan Hound dogs in an endemic Leishmania infantum region.",
+      "first_author": "\u00c1lvarez L",
+      "year": "2022",
+      "journal": "Parasit Vectors",
+      "doi": "10.1186/s13071-022-05504-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42178167",
+      "title": "Potential circadian rhythm-related pathogenic genes in diabetic nephropathy: a multi-omics Mendelian randomization study.",
+      "first_author": "Mao Y",
+      "year": "2026",
+      "journal": "Ren Fail",
+      "doi": "10.1080/0886022X.2026.2663248",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26854024",
+      "title": "JAK-STAT and G-protein-coupled receptor signaling pathways are frequently altered in epitheliotropic intestinal T-cell lymphoma.",
+      "first_author": "Nairism\u00e4gi ML",
+      "year": "2016",
+      "journal": "Leukemia",
+      "doi": "10.1038/leu.2016.13",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36275898",
+      "title": "GNAI2 Is a Risk Factor for Gastric Cancer: Study of Tumor Microenvironment (TME) and Establishment of Immune Risk Score (IRS).",
+      "first_author": "Yu H",
+      "year": "2022",
+      "journal": "Oxid Med Cell Longev",
+      "doi": "10.1155/2022/1254367",
+      "pubtype": [
+        "Journal Article",
+        "Retracted Publication"
+      ]
+    },
+    {
+      "pmid": "22491060",
+      "title": "Genetic and epigenetic analysis of non-small cell lung cancer with NotI-microarrays.",
+      "first_author": "Dmitriev AA",
+      "year": "2012",
+      "journal": "Epigenetics",
+      "doi": "10.4161/epi.19801",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38310583",
+      "title": "Bioinformatics analysis of a disease-specific lncRNA-miRNA-mRNA regulatory network in recurrent spontaneous abortion (RSA).",
+      "first_author": "Reiisi S",
+      "year": "2024",
+      "journal": "Arch Gynecol Obstet",
+      "doi": "10.1007/s00404-023-07356-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

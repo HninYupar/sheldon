@@ -1,0 +1,130 @@
+{
+  "id": "r36",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"PSMF1\"[tiab] OR \"PI31\"[tiab] AND (patient[tiab] OR family[tiab] OR pedigree[tiab] OR variant[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "10 PubMed hits for '\"PSMF1\"[tiab] OR \"PI31\"[tiab] AND (patient[tiab] OR family[tiab] OR pedigree[tiab] OR variant[tiab])'; showing 10 (PubMed read it as: (\"PSMF1\"[Title/Abstract] OR \"PI31\"[Title/Abstract]) AND (\"patient\"[Title/Abstract] OR \"family\"[Title/Abstract] OR \"pedigree\"[Title/Abstract] OR \"variant\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35488273",
+      "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a pan-cancer stemness signature predicting immunotherapy response.",
+      "first_author": "Zhang Z",
+      "year": "2022",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-022-01050-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38466799",
+      "title": "Study of an FBXO7 patient mutation reveals Fbxo7 and PI31 co-regulate proteasomes and mitochondria.",
+      "first_author": "Al Rawi S",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17114",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24100556",
+      "title": "Expression, purification and crystallization of the FP domain of the human F-box protein Fbxo7.",
+      "first_author": "Shang J",
+      "year": "2013",
+      "journal": "Acta Crystallogr Sect F Struct Biol Cryst Commun",
+      "doi": "10.1107/S1744309113023154",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27109828",
+      "title": "Arabidopsis PROTEASOME REGULATOR1 is required for auxin-mediated suppression of proteasome activity and regulates auxin signalling.",
+      "first_author": "Yang BJ",
+      "year": "2016",
+      "journal": "Nat Commun",
+      "doi": "10.1038/ncomms11388",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36221953",
+      "title": "TP53 R249S mutation in hepatic organoids captures the predisposing cancer risk.",
+      "first_author": "Lam YK",
+      "year": "2023",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32802",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36295489",
+      "title": "Integrating Radiosensitivity Gene Signature Improves Glioma Outcome and Radiotherapy Response Prediction.",
+      "first_author": "Wu S",
+      "year": "2022",
+      "journal": "Medicina (Kaunas)",
+      "doi": "10.3390/medicina58101327",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31585107",
+      "title": "A Rare Variant Nonparametric Linkage Method for Nuclear and Extended Pedigrees with Application to Late-Onset Alzheimer Disease via WGS Data.",
+      "first_author": "Zhao L",
+      "year": "2019",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2019.09.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

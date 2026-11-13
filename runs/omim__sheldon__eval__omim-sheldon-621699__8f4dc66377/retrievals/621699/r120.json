@@ -1,0 +1,133 @@
+{
+  "id": "r120",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "42128181",
+    "relation": "similar",
+    "max_results": 10
+  },
+  "summary": "99 'similar' links for PMID 42128181; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "27522155",
+      "title": "Mutations in linker for activation of T\u00a0cells (LAT) lead to a novel form of severe combined immunodeficiency.",
+      "first_author": "Bacchelli C",
+      "year": "2017",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2016.05.036",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40716650",
+      "title": "Heterozygous loss of MAP4K1 causes immune dysregulation by amplifying T-cell responses.",
+      "first_author": "Kaustio M",
+      "year": "2025",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2025.07.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31037583",
+      "title": "Novel MALT1 Mutation Linked to Immunodeficiency, Immune Dysregulation, and an Abnormal T Cell Receptor Repertoire.",
+      "first_author": "Frizinsky S",
+      "year": "2019",
+      "journal": "J Clin Immunol",
+      "doi": "10.1007/s10875-019-00629-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42473108",
+      "title": "A novel linker region truncating variant in BCL10 underlies a leaky immunodeficiency phenotype.",
+      "first_author": "Tong L",
+      "year": "2026",
+      "journal": "Pediatr Allergy Immunol",
+      "doi": "10.1111/pai.70441",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38100037",
+      "title": "A Novel Biallelic LCK Variant Resulting in Profound T-Cell Immune Deficiency and Review of the Literature.",
+      "first_author": "Lanz AL",
+      "year": "2023",
+      "journal": "J Clin Immunol",
+      "doi": "10.1007/s10875-023-01602-8",
+      "pubtype": [
+        "Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37211057",
+      "title": "Combined immunodeficiency and impaired PI3K signaling in a patient with biallelic LCP2 variants.",
+      "first_author": "Edwards ESJ",
+      "year": "2023",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2023.04.020",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41074026",
+      "title": "T cell receptor associated transmembrane adaptor 1 (TRAT1) modulates human Th17 and Treg responses via PI3-kinase and STAT dependent mechanisms.",
+      "first_author": "Frey T",
+      "year": "2025",
+      "journal": "Cell Commun Signal",
+      "doi": "10.1186/s12964-025-02429-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24406074",
+      "title": "Human syndromes of immunodeficiency and dysregulation are characterized by distinct defects in T-cell receptor repertoire development.",
+      "first_author": "Yu X",
+      "year": "2014",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2013.11.018",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "27242165",
+      "title": "Early onset combined immunodeficiency and autoimmunity in patients with loss-of-function mutation in LAT.",
+      "first_author": "Keller B",
+      "year": "2016",
+      "journal": "J Exp Med",
+      "doi": "10.1084/jem.20151110",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33662367",
+      "title": "Loss of DIAPH1 causes SCBMS, combined immunodeficiency, and mitochondrial dysfunction.",
+      "first_author": "Kaustio M",
+      "year": "2021",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2020.12.656",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

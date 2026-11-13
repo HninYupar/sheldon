@@ -1,0 +1,247 @@
+{
+  "id": "r110",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "40796344",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "99 'similar' links for PMID 40796344; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40639803",
+      "title": "Pathogenic variants in DLGAP5 cause female infertility characterized by oocyte maturation arrest and embryonic arrest.",
+      "first_author": "Qu R",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf139",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35670744",
+      "title": "Biallelic variants in MOS cause large polar body in oocyte and human female infertility.",
+      "first_author": "Zhang YL",
+      "year": "2022",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deac120",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34052850",
+      "title": "FBXO43 variants in patients with female infertility characterized by early embryonic arrest.",
+      "first_author": "Wang W",
+      "year": "2021",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deab131",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39348320",
+      "title": "A heterozygous SPRY4 variant identified in female infertility characterized by reduced oocyte potential and early embryonic arrest.",
+      "first_author": "Xia L",
+      "year": "2024",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deae231",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42114970",
+      "title": "Bi-allelic mutations of CAMSAP1 result in teratozoospermia with sperm head and flagella defects in humans.",
+      "first_author": "Zheng R",
+      "year": "2026",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deag071",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32613230",
+      "title": "Germline nuclear transfer in mice may rescue poor embryo development associated with advanced maternal age and early embryo arrest.",
+      "first_author": "Tang M",
+      "year": "2020",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaa112",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41423819",
+      "title": "A homozygous variant in HFM1 causes preimplantation embryo developmental arrest by disrupting zygotic genome activation.",
+      "first_author": "Zhang YW",
+      "year": "2026",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf238",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "37192818",
+      "title": "Biallelic variants in KCTD19 associated with male factor infertility and oligoasthenoteratozoospermia.",
+      "first_author": "Wang W",
+      "year": "2023",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/dead095",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34997960",
+      "title": "Bi-allelic mutations in MOS cause female infertility characterized by preimplantation embryonic arrest.",
+      "first_author": "Zeng Y",
+      "year": "2022",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deab281",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42221552",
+      "title": "Meiotic gene variants contribute to recurrent blastulation failure.",
+      "first_author": "Chen X",
+      "year": "2026",
+      "journal": "Hum Reprod Open",
+      "doi": "10.1093/hropen/hoag039",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36864708",
+      "title": "Whole exome sequencing in unexplained recurrent miscarriage families identified novel pathogenic genetic causes of euploid miscarriage.",
+      "first_author": "Wang X",
+      "year": "2023",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/dead039",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37140151",
+      "title": "Biallelic variants in IQCN cause sperm flagellar assembly defects and male infertility.",
+      "first_author": "Li Q",
+      "year": "2023",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/dead079",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42249589",
+      "title": "Novel variants in YTHDC2 cause non-obstructive azoospermia by disrupting the mitotic-to-meiotic transition in humans and mice.",
+      "first_author": "Zhi A",
+      "year": "2026",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deag086",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34037756",
+      "title": "Novel biallelic mutations in MEI1: expanding the phenotypic spectrum to human embryonic arrest and recurrent implantation failure.",
+      "first_author": "Dong J",
+      "year": "2021",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deab118",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35700449",
+      "title": "TEAD4 regulates trophectoderm differentiation upstream of CDX2 in a GATA3-independent manner in the human preimplantation embryo.",
+      "first_author": "Stamatiadis P",
+      "year": "2022",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deac138",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42062216",
+      "title": "Single-cell proteomics reveals cytoplasmic defects in Patl2-deficient oocytes rescued by spindle transfer.",
+      "first_author": "Cardona Barber\u00e1n A",
+      "year": "2026",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deag073",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33893736",
+      "title": "A homozygous variant in TBPL2 was identified in women with oocyte maturation defects and infertility.",
+      "first_author": "Yang P",
+      "year": "2021",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deab094",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27989988",
+      "title": "Novel mutations and structural deletions in TUBB8: expanding mutational and phenotypic spectrum of patients with arrest in oocyte maturation, fertilization or early embryonic development.",
+      "first_author": "Chen B",
+      "year": "2017",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/dew322",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42330090",
+      "title": "Pathogenic variants in ACTRT3 lead to male infertility characterized by fertilization defects.",
+      "first_author": "Zhu H",
+      "year": "2026",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deag097",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35551387",
+      "title": "Bi-allelic variants in KCNU1 cause impaired acrosome reactions and male infertility.",
+      "first_author": "Liu R",
+      "year": "2022",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deac102",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "r85",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41370402",
+      "33704440"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41370402",
+      "title": "Characterization of the functional and clinical impacts of CACNA1A missense variants found in neurodevelopmental disorders.",
+      "authors": [
+        "Kurganov E",
+        "Cui L",
+        "Budnik N",
+        "Chen S",
+        "Olivares E",
+        "Baez-Nieto D",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "Science translational medicine",
+      "doi": "10.1126/scitranslmed.adr0024",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Mutation, Missense",
+        "Neurodevelopmental Disorders",
+        "Neurons",
+        "Calcium Channels, N-Type",
+        "Calcium Channels",
+        "Induced Pluripotent Stem Cells"
+      ],
+      "abstract": "CACNA1A encodes the \u03b11A subunit of the CaV2.1 voltage-gated calcium channel essential for neuronal excitability, neurotransmitter release, and calcium signaling in neurons. Pathogenic CACNA1A variants are linked to diverse neurological and developmental disorders, including hemiplegic migraine, epilepsy, developmental delay, and ataxia. However, the contribution of CACNA1A variants to neurodevelopmental disorders has been less well established. Clinical heterogeneity and the complex impact of missense variants on channel function have made genotype-phenotype relationships difficult to resolve. Here, we characterized the biophysical properties of 42 de novo CACNA1A missense variants identified in a neurodevelopmental disorder cohort of over 31,000 individuals, alongside eight common variants from the general population. All but one de novo variant altered biophysical properties of the CaV2.1 channel, with 50% abolishing measurable currents. Among variants with detectable currents, nearly half disrupted voltage-dependent gating, whereas common variants had no measurable effect. Similar results were obtained using representative variants in the presence of \u03b23 or \u03b24 auxiliary subunits. The expression of two selected variants in CACNA1A-knockdown hiPSC-derived neurons confirmed similar functional alterations in human neurons. Simulations using the NEURON model of a Purkinje neuron demonstrated that these biophysical changes profoundly affected excitability. Coupling functional data with AlphaMissense predictions, we found that CaV2.1 missense variants contribute to the risk for developmental epileptic encephalopathy. Finally, correlating clinical features with molecular consequences of each variant revealed meaningful associations between specific channel dysfunctions and distinct clinical outcomes. These findings provide insights into CACNA1A molecular pathology and highlight the potential for precision medicine treatment of CACNA1A-associated disorders."
+    },
+    {
+      "pmid": "33704440",
+      "title": "CACNA1I gain-of-function mutations differentially affect channel gating and cause neurodevelopmental disorders.",
+      "authors": [
+        "El Ghaleb Y",
+        "Schneeberger PE",
+        "Fern\u00e1ndez-Quintero ML",
+        "Geisler SM",
+        "Pelizzari S",
+        "Polstra AM",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "Brain : a journal of neurology",
+      "doi": "10.1093/brain/awab101",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Adult",
+        "Animals",
+        "Brain",
+        "Calcium Channels",
+        "Child",
+        "Computer Simulation",
+        "Female",
+        "Gain of Function Mutation",
+        "Genetic Predisposition to Disease",
+        "Humans",
+        "Ion Channel Gating",
+        "Male",
+        "Mice",
+        "Middle Aged",
+        "Models, Molecular",
+        "Models, Neurological",
+        "Mutation, Missense",
+        "Neurodevelopmental Disorders",
+        "Neurons",
+        "Pedigree",
+        "Protein Conformation",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "T-type calcium channels (Cav3.1 to Cav3.3) regulate low-threshold calcium spikes, burst firing and rhythmic oscillations of neurons and are involved in sensory processing, sleep, and hormone and neurotransmitter release. Here, we examined four heterozygous missense variants in CACNA1I, encoding the Cav3.3 channel, in patients with variable neurodevelopmental phenotypes. The p.(Ile860Met) variant, affecting a residue in the putative channel gate at the cytoplasmic end of the IIS6 segment, was identified in three family members with variable cognitive impairment. The de novo p.(Ile860Asn) variant, changing the same amino acid residue, was detected in a patient with severe developmental delay and seizures. In two additional individuals with global developmental delay, hypotonia, and epilepsy, the variants p.(Ile1306Thr) and p.(Met1425Ile), substituting residues at the cytoplasmic ends of IIIS5 and IIIS6, respectively, were found. Because structure modelling indicated that the amino acid substitutions differentially affect the mobility of the channel gate, we analysed possible effects on Cav3.3 channel function using patch-clamp analysis in HEK293T cells. The mutations resulted in slowed kinetics of current activation, inactivation, and deactivation, and in hyperpolarizing shifts of the voltage-dependence of activation and inactivation, with Cav3.3-I860N showing the strongest and Cav3.3-I860M the weakest effect. Structure modelling suggests that by introducing stabilizing hydrogen bonds the mutations slow the kinetics of the channel gate and cause the gain-of-function effect in Cav3.3 channels. The gating defects left-shifted and increased the window currents, resulting in increased calcium influx during repetitive action potentials and even at resting membrane potentials. Thus, calcium toxicity in neurons expressing the Cav3.3 variants is one likely cause of the neurodevelopmental phenotype. Computer modelling of thalamic reticular nuclei neurons indicated that the altered gating properties of the Cav3.3 disease variants lower the threshold and increase the duration and frequency of action potential firing. Expressing the Cav3.3-I860N/M mutants in mouse chromaffin cells shifted the mode of firing from low-threshold spikes and rebound burst firing with wild-type Cav3.3 to slow oscillations with Cav3.3-I860N and an intermediate firing mode with Cav3.3-I860M, respectively. Such neuronal hyper-excitability could explain seizures in the patient with the p.(Ile860A"
+    }
+  ]
+}

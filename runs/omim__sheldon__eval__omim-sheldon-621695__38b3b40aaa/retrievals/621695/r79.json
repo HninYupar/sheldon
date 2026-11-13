@@ -1,0 +1,246 @@
+{
+  "id": "r79",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"arthrogryposis multiplex congenita 8\"[tiab] OR AMC8[tiab] OR \"neurogenic type\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "60 PubMed hits for '\"arthrogryposis multiplex congenita 8\"[tiab] OR AMC8[tiab] OR \"neurogenic type\"[tiab]'; showing 20 (PubMed read it as: \"AMC8\"[Title/Abstract] OR \"neurogenic type\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40580892",
+      "title": "Development of a versatile deep hyperthermia treatment planning tool.",
+      "first_author": "Drizdal T",
+      "year": "2025",
+      "journal": "Phys Med",
+      "doi": "10.1016/j.ejmp.2025.105035",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36628841",
+      "title": "Inherited myopathy plus: Double-trouble from rare neuromuscular disorders.",
+      "first_author": "Granger A",
+      "year": "2023",
+      "journal": "Neuromuscul Disord",
+      "doi": "10.1016/j.nmd.2022.12.009",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41024163",
+      "title": "Hypoglycemic noncardiogenic pulmonary edema: a case report.",
+      "first_author": "Tesfay F",
+      "year": "2025",
+      "journal": "J Med Case Rep",
+      "doi": "10.1186/s13256-025-05413-w",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "34189232",
+      "title": "Management of Fibro-adipose Vascular Anomalies (FAVA) in Paediatric Practice.",
+      "first_author": "Lipede C",
+      "year": "2021",
+      "journal": "JPRAS Open",
+      "doi": "10.1016/j.jpra.2021.05.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35647989",
+      "title": "The electromyographic analysis of orbicularis oculi muscle in epiphora.",
+      "first_author": "Yazicioglu T",
+      "year": "2022",
+      "journal": "Indian J Ophthalmol",
+      "doi": "10.4103/ijo.IJO_2744_21",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "3591208",
+      "title": "Presacral ganglioneuroma. Case report.",
+      "first_author": "Andersen HJ",
+      "year": "1986",
+      "journal": "Acta Chir Scand",
+      "doi": "",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38623857",
+      "title": "Vocal fold electromyography in patients with endoscopic features of unilateral laryngeal paralysis.",
+      "first_author": "Krasnod\u0119bska P",
+      "year": "2024",
+      "journal": "Otolaryngol Pol",
+      "doi": "10.5604/01.3001.0053.8704",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "8024185",
+      "title": "[Do neuromyosites exist?].",
+      "first_author": "Laraki R",
+      "year": "1994",
+      "journal": "Ann Med Interne (Paris)",
+      "doi": "",
+      "pubtype": [
+        "Case Reports",
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "10534594",
+      "title": "Generalised muscular hyperalgesia in chronic whiplash syndrome.",
+      "first_author": "Koelbaek Johansen M",
+      "year": "1999",
+      "journal": "Pain",
+      "doi": "10.1016/s0304-3959(99)00106-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40298747",
+      "title": "Levator muscle changes in Marcus Gunn jaw-winking syndrome and other forms of ocular congenital cranial dysinnervation disorder.",
+      "first_author": "Alkatan HM",
+      "year": "2025",
+      "journal": "Arq Bras Oftalmol",
+      "doi": "10.5935/0004-2749.2024-0236",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "4837288",
+      "title": "Arthrogryposis multiplex congenita: neurogenic type with autosomal recessive inheritance.",
+      "first_author": "Rosenmann A",
+      "year": "1974",
+      "journal": "J Med Genet",
+      "doi": "10.1136/jmg.11.1.91",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "7644255",
+      "title": "The Stockholm spinal cord injury study: 1. Medical problems in a regional SCI population.",
+      "first_author": "Levi R",
+      "year": "1995",
+      "journal": "Paraplegia",
+      "doi": "10.1038/sc.1995.70",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "6320555",
+      "title": "[Effect of peripheral nerve lesions on histochemical enzyme reaction patterns in skeletal muscle fibers].",
+      "first_author": "Herrmann V",
+      "year": "1983",
+      "journal": "Zentralbl Allg Pathol",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31969039",
+      "title": "Locoregional peritoneal hyperthermia to enhance the effectiveness of chemotherapy in patients with peritoneal carcinomatosis: a simulation study comparing different locoregional heating systems.",
+      "first_author": "Kok HP",
+      "year": "2020",
+      "journal": "Int J Hyperthermia",
+      "doi": "10.1080/02656736.2019.1710270",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41918220",
+      "title": "Sphenopalatine Ganglion Radiofrequency Ablation for Severe Facial Rosacea Manifestations.",
+      "first_author": "Kapural L",
+      "year": "2026",
+      "journal": "Pain Pract",
+      "doi": "10.1111/papr.70151",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "1011025",
+      "title": "Toxic polyneuropathy of shoe-industry workers. A study of 122 cases.",
+      "first_author": "Cianchetti C",
+      "year": "1976",
+      "journal": "J Neurol Neurosurg Psychiatry",
+      "doi": "10.1136/jnnp.39.12.1151",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "8482956",
+      "title": "Congenital cervical spinal muscular atrophy: a non-familial, non progressive condition of the upper limbs.",
+      "first_author": "Hageman G",
+      "year": "1993",
+      "journal": "J Neurol Neurosurg Psychiatry",
+      "doi": "10.1136/jnnp.56.4.365",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "2169173",
+      "title": "Infantile hypertrophic pyloric stenosis: myopathic type.",
+      "first_author": "Dieler R",
+      "year": "1990",
+      "journal": "Acta Neuropathol",
+      "doi": "10.1007/BF00294648",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "7940001",
+      "title": "Scoliosis in Rett syndrome. Clinical and biological aspects.",
+      "first_author": "Lidstr\u00f6m J",
+      "year": "1994",
+      "journal": "Spine (Phila Pa 1976)",
+      "doi": "10.1097/00007632-199407001-00013",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15111996",
+      "title": "Life situation of spinal cord-injured persons in Central Finland.",
+      "first_author": "Saikkonen J",
+      "year": "2004",
+      "journal": "Spinal Cord",
+      "doi": "10.1038/sj.sc.3101618",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

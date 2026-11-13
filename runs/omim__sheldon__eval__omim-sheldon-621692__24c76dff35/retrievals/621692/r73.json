@@ -1,0 +1,215 @@
+{
+  "id": "r73",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (DEE42B OR developmental and epileptic encephalopathy 42B OR epileptic encephalopathy 42B OR early-onset epilepsy)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "17 PubMed hits for 'CACNA1A[gene] AND (DEE42B OR developmental and epileptic encephalopathy 42B OR epileptic encephalopathy 42B OR early-onset epilepsy)'; showing 17 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epileptic\"[All Fields] OR \"epileptics\"[All Fields] OR \"epileptic s\"[All Fields] OR \"epileptical\"[All Fields] OR \"epileptization\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields]) AND \"42B\"[All Fields]) OR ((\"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epileptic\"[All Fields] OR \"epileptics\"[All Fields] OR \"epileptic s\"[All Fields] OR \"epileptical\"[All Fields] OR \"epileptization\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields]) AND \"42B\"[All Fields]) OR (\"early-onset\"[All Fields] AND (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36592223",
+      "title": "CACNA1A-Related Channelopathies: Clinical Manifestations and Treatment Options.",
+      "first_author": "Indelicato E",
+      "year": "2023",
+      "journal": "Handb Exp Pharmacol",
+      "doi": "10.1007/164_2022_625",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20837964",
+      "title": "De novo mutations in ATP1A2 and CACNA1A are frequent in early-onset sporadic hemiplegic migraine.",
+      "first_author": "Riant F",
+      "year": "2010",
+      "journal": "Neurology",
+      "doi": "10.1212/WNL.0b013e3181f25e8f",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27476654",
+      "title": "De Novo Mutations in SLC1A2 and CACNA1A Are Important Causes of Epileptic Encephalopathies.",
+      "first_author": "Epi4K Consortium",
+      "year": "2016",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2016.06.003",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33790770",
+      "title": "R1352Q CACNA1A Variant in a Patient with Sporadic Hemiplegic Migraine, Ataxia, Seizures and Cerebral Oedema: A Case Report.",
+      "first_author": "Stubberud A",
+      "year": "2021",
+      "journal": "Case Rep Neurol",
+      "doi": "10.1159/000512275",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35497372",
+      "title": "Two Children with Early-Onset Strokes and Intractable Epilepsy, Both with CACNA1A Mutations.",
+      "first_author": "Bolte KN",
+      "year": "2022",
+      "journal": "Child Neurol Open",
+      "doi": "10.1177/2329048X221094977",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28927557",
+      "title": "CACNA1A-related early-onset encephalopathy with myoclonic epilepsy: A case report.",
+      "first_author": "Hayashida T",
+      "year": "2018",
+      "journal": "Brain Dev",
+      "doi": "10.1016/j.braindev.2017.08.006",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39570184",
+      "title": "Exome sequencing in Nigerian children with early-onset epilepsy syndromes.",
+      "first_author": "Ademuwagun IA",
+      "year": "2025",
+      "journal": "Epilepsia Open",
+      "doi": "10.1002/epi4.13106",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33737904",
+      "title": "From Genotype to Phenotype: Expanding the Clinical Spectrum of CACNA1A Variants in the Era of Next Generation Sequencing.",
+      "first_author": "Indelicato E",
+      "year": "2021",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2021.639994",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39416668",
+      "title": "Intrafamilial neurological phenotypic variability due to either biallelic or monoallelic pathogenic variants in CACNA1A.",
+      "first_author": "Mammadova D",
+      "year": "2024",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2024.1458109",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37165528",
+      "title": "[Episodic ataxia type 2: a clinical, genetic and radiological study of 10 patients].",
+      "first_author": "Alcal\u00e1-Torres J",
+      "year": "2023",
+      "journal": "Rev Neurol",
+      "doi": "10.33588/rn.7610.2023117",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29852413",
+      "title": "Diagnostic yield of targeted massively parallel sequencing in children with epileptic encephalopathy.",
+      "first_author": "Kothur K",
+      "year": "2018",
+      "journal": "Seizure",
+      "doi": "10.1016/j.seizure.2018.05.005",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34135856",
+      "title": "CACNA1A-Linked Hemiplegic Migraine in GLUT 1 Deficiency Syndrome: A Case Report.",
+      "first_author": "Scoppola C",
+      "year": "2021",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2021.679354",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30142438",
+      "title": "Major intra-familial phenotypic heterogeneity and incomplete penetrance due to a CACNA1A pathogenic variant.",
+      "first_author": "Angelini C",
+      "year": "2019",
+      "journal": "Eur J Med Genet",
+      "doi": "10.1016/j.ejmg.2018.08.011",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27250579",
+      "title": "Biallelic CACNA1A mutations cause early onset epileptic encephalopathy with progressive cerebral, cerebellar, and optic nerve atrophy.",
+      "first_author": "Reinson K",
+      "year": "2016",
+      "journal": "Am J Med Genet A",
+      "doi": "10.1002/ajmg.a.37678",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29997391",
+      "title": "Exome sequencing in congenital ataxia identifies two new candidate genes and highlights a pathophysiological link between some congenital ataxias and early infantile epileptic encephalopathies.",
+      "first_author": "Valence S",
+      "year": "2019",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-018-0089-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25877686",
+      "title": "Genomic analysis identifies candidate pathogenic variants in 9 of 18 patients with unexplained West syndrome.",
+      "first_author": "Hino-Fukuyo N",
+      "year": "2015",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-015-1553-6",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

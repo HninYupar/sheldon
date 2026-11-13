@@ -1,0 +1,248 @@
+{
+  "id": "r81",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (patient OR patients OR case OR cases OR family OR familial OR cohort OR proband OR consanguineous)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "78 PubMed hits for 'SIT1[gene] AND (patient OR patients OR case OR cases OR family OR familial OR cohort OR proband OR consanguineous)'; showing 20 (PubMed read it as: \"SIT1\"[All Fields] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"ieee int conf automation sci eng case\"[Journal] OR \"case phila\"[Journal] OR \"case\"[All Fields]) OR (\"cases public health commun mark\"[Journal] OR \"cases\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"proband\"[All Fields] OR \"proband s\"[All Fields] OR \"probands\"[All Fields]) OR (\"consanguine\"[All Fields] OR \"consanguineous\"[All Fields] OR \"consanguineously\"[All Fields] OR \"consanguinity\"[MeSH Terms] OR \"consanguinity\"[All Fields] OR \"consanguinities\"[All Fields] OR \"consanguinous\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39108991",
+      "title": "Discordance Between Phenotypic and WGS-Based Drug Susceptibility Testing Results for Some Anti-Tuberculosis Drugs: A Snapshot Study of Paired Mycobacterium tuberculosis Isolates with Small Genetic Distance.",
+      "first_author": "Sadovska D",
+      "year": "2024",
+      "journal": "Infect Drug Resist",
+      "doi": "10.2147/IDR.S468997",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42838996",
+      "title": "Integrated spatial and single-cell transcriptomics uncover IFI6\u207a regulatory T-cells and SPP1\u207a macrophages immunosuppressive niches in colorectal cancer.",
+      "first_author": "Miroszewska D",
+      "year": "2026",
+      "journal": "Br J Cancer",
+      "doi": "10.1038/s41416-026-03637-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42459881",
+      "title": "A hospital-based genomic analysis reveals predominance of ST215 Mycobacterium tuberculosis with low drug resistance.",
+      "first_author": "Yang M",
+      "year": "2026",
+      "journal": "Front Microbiol",
+      "doi": "10.3389/fmicb.2026.1871161",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39159813",
+      "title": "Cryo-EM structure of ACE2-SIT1 in complex with tiagabine.",
+      "first_author": "Br\u00f6er A",
+      "year": "2024",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2024.107687",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38951531",
+      "title": "Structure and function of the SIT1 proline transporter in complex with the COVID-19 receptor ACE2.",
+      "first_author": "Li HZ",
+      "year": "2024",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-024-48921-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19184091",
+      "title": "Kidney amino acid transport.",
+      "first_author": "Verrey F",
+      "year": "2009",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-009-0638-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36675674",
+      "title": "Discovery and Validation of a SIT1-Related Prognostic Signature Associated with Immune Infiltration in Cutaneous Melanoma.",
+      "first_author": "Jia M",
+      "year": "2022",
+      "journal": "J Pers Med",
+      "doi": "10.3390/jpm13010013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33140827",
+      "title": "ACE2 and gut amino acid transport.",
+      "first_author": "Camargo SMR",
+      "year": "2020",
+      "journal": "Clin Sci (Lond)",
+      "doi": "10.1042/CS20200477",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "11870856",
+      "title": "Siderophore uptake by Candida albicans: effect of serum treatment and comparison with Saccharomyces cerevisiae.",
+      "first_author": "Lesuisse E",
+      "year": "2002",
+      "journal": "Yeast",
+      "doi": "10.1002/yea.840",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22790597",
+      "title": "Defective intestinal amino acid absorption in Ace2 null mice.",
+      "first_author": "Singer D",
+      "year": "2012",
+      "journal": "Am J Physiol Gastrointest Liver Physiol",
+      "doi": "10.1152/ajpgi.00140.2012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21394425",
+      "title": "Extremely high prevalence of multidrug resistant tuberculosis in Murmansk, Russia: a population-based study.",
+      "first_author": "M\u00e4kinen J",
+      "year": "2011",
+      "journal": "Eur J Clin Microbiol Infect Dis",
+      "doi": "10.1007/s10096-011-1200-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40873928",
+      "title": "Role of the putative sit1 gene in normal germination of spores and virulence of the Mucor lusitanicus.",
+      "first_author": "V\u00e1g\u00f3 B",
+      "year": "2025",
+      "journal": "Microb Cell",
+      "doi": "10.15698/mic2025.08.856",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34969185",
+      "title": "SIT1 transporter as a potential novel target in treatment of COVID-19.",
+      "first_author": "Semiz S",
+      "year": "2021",
+      "journal": "Biomol Concepts",
+      "doi": "10.1515/bmc-2021-0017",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21957439",
+      "title": "The transmembrane adaptor protein SIT inhibits TCR-mediated signaling.",
+      "first_author": "Arndt B",
+      "year": "2011",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0023761",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40332667",
+      "title": "Identifying Immune Response Protein Biomarkers in Parkinson's-Related Cognitive Impairment and Depression.",
+      "first_author": "Su Q",
+      "year": "2025",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-025-05022-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30160974",
+      "title": "Intestinal IMINO transporter SIT1 is not expressed in human newborns.",
+      "first_author": "Meier C",
+      "year": "2018",
+      "journal": "Am J Physiol Gastrointest Liver Physiol",
+      "doi": "10.1152/ajpgi.00318.2017",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15632147",
+      "title": "Identification of mammalian proline transporter SIT1 (SLC6A20) with characteristics of classical system imino.",
+      "first_author": "Takanaga H",
+      "year": "2005",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M413027200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "37996067",
+      "title": "Gene Duplication, Shifting Selection, and Dosage Balance of Silicon Transporter Proteins in Marine and Freshwater Diatoms.",
+      "first_author": "Bry\u0142ka K",
+      "year": "2023",
+      "journal": "Genome Biol Evol",
+      "doi": "10.1093/gbe/evad212",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ]
+}

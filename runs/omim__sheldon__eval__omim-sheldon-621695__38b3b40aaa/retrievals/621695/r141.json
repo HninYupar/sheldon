@@ -1,0 +1,12 @@
+{
+  "id": "r141",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND (contractures OR arthrogryposis OR congenital)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[tiab] AND (contractures OR arthrogryposis OR congenital)'; showing 0 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"contractural\"[All Fields] OR \"contracture\"[MeSH Terms] OR \"contracture\"[All Fields] OR \"contractures\"[All Fields] OR \"contractured\"[All Fields] OR (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields]) OR (\"congenital\"[MeSH Subheading] OR \"congenital\"[All Fields] OR \"congenitally\"[All Fields])))",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,222 @@
+{
+  "id": "r187",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "22527033",
+      "30080864",
+      "23115190",
+      "35238776",
+      "35497372",
+      "33565063"
+    ]
+  },
+  "summary": "fetched 6 of 6 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "22527033",
+      "title": "R583Q CACNA1A variant in SHM1 and ataxia: case report and literature update.",
+      "authors": [
+        "Di Cristofori A",
+        "Fusi L",
+        "Gomitoni A",
+        "Grampa G",
+        "Bersano A",
+        "Lombardia GENS collaborators"
+      ],
+      "year": "2012",
+      "journal": "The journal of headache and pain",
+      "doi": "10.1007/s10194-012-0444-7",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh": [
+        "Arginine",
+        "Ataxia",
+        "Calcium Channels",
+        "Cerebellum",
+        "DNA Mutational Analysis",
+        "Female",
+        "Glutamine",
+        "Humans",
+        "Middle Aged",
+        "Migraine with Aura",
+        "Radiography",
+        "Tomography Scanners, X-Ray Computed",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Familial hemiplegic migraine (FHM) type 1 is a rare monogenic dominant autosomal disease due to CACNA1A gene mutations. Besides the classical phenotype, mutations on CACNA1A gene are associated with a broader spectrum of clinical features including cerebellar ataxia, making FHM1 a complex channelopathy. We report the case of a patient carrying the p.Arg583Gln mutation affected by hemiplegic migraine and late onset ataxia and we performed a literature review about the clinical features of p.Arg583Gln. Although p.Arg583Gln mutations are associated with a heterogeneous phenotype, carriers present cerebellar signs which consisted generally in ataxia and dysmetria, with intention tremor appearing mostly in advanced age, often progressive and permanent. The heterogeneous spectrum of CACNA1A gene mutations probably causes sporadic hemiplegic migraine (SHM) to be misdiagnosed. Given the therapeutic opportunities, SHM/FHM1 should be considered in differential diagnosis of patients with cerebellar ataxia and migraine with aura."
+    },
+    {
+      "pmid": "30080864",
+      "title": "Drosophila CaV2 channels harboring human migraine mutations cause synapse hyperexcitability that can be suppressed by inhibition of a Ca2+ store release pathway.",
+      "authors": [
+        "Brusich DJ",
+        "Spring AM",
+        "James TD",
+        "Yeates CJ",
+        "Helms TH",
+        "Frank CA"
+      ],
+      "year": "2018",
+      "journal": "PLoS genetics",
+      "doi": "10.1371/journal.pgen.1007577",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Amino Acid Sequence",
+        "Animals",
+        "Calcium",
+        "Calcium Channels, N-Type",
+        "Cerebellar Ataxia",
+        "Drosophila melanogaster",
+        "Humans",
+        "Migraine Disorders",
+        "Mutation",
+        "Neuromuscular Junction",
+        "Neurons",
+        "Phenotype",
+        "Synapses",
+        "Synaptic Transmission",
+        "Transgenes"
+      ],
+      "abstract": "Gain-of-function mutations in the human CaV2.1 gene CACNA1A cause familial hemiplegic migraine type 1 (FHM1). To characterize cellular problems potentially triggered by CaV2.1 gains of function, we engineered mutations encoding FHM1 amino-acid substitutions S218L (SL) and R192Q (RQ) into transgenes of Drosophila melanogaster CaV2/cacophony. We expressed the transgenes pan-neuronally. Phenotypes were mild for RQ-expressing animals. By contrast, single mutant SL- and complex allele RQ,SL-expressing animals showed overt phenotypes, including sharply decreased viability. By electrophysiology, SL- and RQ,SL-expressing neuromuscular junctions (NMJs) exhibited enhanced evoked discharges, supernumerary discharges, and an increase in the amplitudes and frequencies of spontaneous events. Some spontaneous events were gigantic (10-40 mV), multi-quantal events. Gigantic spontaneous events were eliminated by application of TTX-or by lowered or chelated Ca2+-suggesting that gigantic events were elicited by spontaneous nerve firing. A follow-up genetic approach revealed that some neuronal hyperexcitability phenotypes were reversed after knockdown or mutation of Drosophila homologs of phospholipase C\u03b2 (PLC\u03b2), IP3 receptor, or ryanodine receptor (RyR)-all factors known to mediate Ca2+ release from intracellular stores. Pharmacological inhibitors of intracellular Ca2+ store release produced similar effects. Interestingly, however, the decreased viability phenotype was not reversed by genetic impairment of intracellular Ca2+ release factors. On a cellular level, our data suggest inhibition of signaling that triggers intracellular Ca2+ release could counteract hyperexcitability induced by gains of CaV2.1 function."
+    },
+    {
+      "pmid": "23115190",
+      "title": "Cerebellar ataxia by enhanced Ca(V)2.1 currents is alleviated by Ca2+-dependent K+-channel activators in Cacna1a(S218L) mutant mice.",
+      "authors": [
+        "Gao Z",
+        "Todorov B",
+        "Barrett CF",
+        "van Dorp S",
+        "Ferrari MD",
+        "van den Maagdenberg AM",
+        "et al."
+      ],
+      "year": "2012",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "doi": "10.1523/JNEUROSCI.2454-12.2012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Action Potentials",
+        "Animals",
+        "Behavior, Animal",
+        "Benzimidazoles",
+        "Calcium",
+        "Calcium Channels, N-Type",
+        "Calcium Channels, P-Type",
+        "Calcium Channels, Q-Type",
+        "Calcium Signaling",
+        "Cerebellar Ataxia",
+        "Chlorzoxazone",
+        "Extracellular Space",
+        "Female",
+        "Homeostasis",
+        "Male",
+        "Mice",
+        "Muscle Relaxants, Central",
+        "Mutation",
+        "Patch-Clamp Techniques",
+        "Potassium Channels, Calcium-Activated",
+        "Psychomotor Performance",
+        "Purkinje Cells"
+      ],
+      "abstract": "Mutations in the CACNA1A gene are associated with neurological disorders, such as ataxia, hemiplegic migraine, and epilepsy. These mutations affect the pore-forming \u03b1(1A)-subunit of Ca(V)2.1 channels and thereby either decrease or increase neuronal Ca(2+) influx. A decreased Ca(V)2.1-mediated Ca(2+) influx has been shown to reduce the regularity of cerebellar Purkinje cell activity and to induce episodic cerebellar ataxia. However, little is known about how ataxia can be caused by CACNA1A mutations that increase the Ca(2+) influx, such as the S218L missense mutation. Here, we demonstrate that the S218L mutation causes a negative shift of voltage dependence of Ca(V)2.1 channels of mouse Purkinje cells and results in lowered thresholds for somatic action potentials and dendritic Ca(2+) spikes and in disrupted firing patterns. The hyperexcitability of Cacna1a(S218L) Purkinje cells was counteracted by application of the activators of Ca(2+)-dependent K(+) channels, 1-EBIO and chlorzoxazone (CHZ). Moreover, 1-EBIO also alleviated the irregularity of Purkinje cell firing both in vitro and in vivo, while CHZ improved the irregularity of Purkinje cell firing in vitro as well as the motor performance of Cacna1a(S218L) mutant mice. The current data suggest that abnormalities in Purkinje cell firing contributes to cerebellar ataxia induced by the S218L mutation and they advocate a general therapeutic approach in that targeting Ca(2+)-dependent K(+) channels may be beneficial for treating ataxia not only in patients suffering from a decreased Ca(2+) influx, but also in those suffering from an increased Ca(2+) influx in their Purkinje cells."
+    },
+    {
+      "pmid": "35238776",
+      "title": "CaV2.1 channel mutations causing familial hemiplegic migraine type 1 increase the susceptibility for cortical spreading depolarizations and seizures and worsen outcome after experimental traumatic brain injury.",
+      "authors": [
+        "Terpolilli NA",
+        "Dolp R",
+        "Waehner K",
+        "Schwarzmaier SM",
+        "Rumbler E",
+        "Todorov B",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "eLife",
+      "doi": "10.7554/eLife.74923",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "mesh": [
+        "Animals",
+        "Brain Edema",
+        "Brain Injuries, Traumatic",
+        "Calcium Channels, N-Type",
+        "Humans",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Mice, Transgenic",
+        "Migraine with Aura",
+        "Mutation",
+        "Seizures"
+      ],
+      "abstract": "Patients suffering from familial hemiplegic migraine type 1 (FHM1) may have a disproportionally severe outcome after head trauma, but the underlying mechanisms are unclear. Hence, we subjected knock-in mice carrying the severer S218L or milder R192Q FHM1 gain-of-function missense mutation in the CACNA1A gene that encodes the \u03b11A subunit of neuronal voltage-gated CaV2.1 (P/Q-type) calcium channels and their wild-type (WT) littermates to experimental traumatic brain injury (TBI) by controlled cortical impact and investigated cortical spreading depolarizations (CSDs), lesion volume, brain edema formation, and functional outcome. After TBI, all mutant mice displayed considerably more CSDs and seizures than WT mice, while S218L mutant mice had a substantially higher mortality. Brain edema formation and the resulting increase in intracranial pressure were more pronounced in mutant mice, while only S218L mutant mice had larger lesion volumes and worse functional outcome. Here, we show that gain of CaV2.1 channel function worsens histopathological and functional outcome after TBI in mice. This phenotype was associated with a higher number of CSDs, increased seizure activity, and more pronounced brain edema formation. Hence, our results suggest increased susceptibility for CSDs and seizures as potential mechanisms for bad outcome after TBI in FHM1 mutation carriers."
+    },
+    {
+      "pmid": "35497372",
+      "title": "Two Children with Early-Onset Strokes and Intractable Epilepsy, Both with CACNA1A Mutations.",
+      "authors": [
+        "Bolte KN",
+        "Assaf M",
+        "Zach T",
+        "Peche S"
+      ],
+      "year": "2022",
+      "journal": "Child neurology open",
+      "doi": "10.1177/2329048X221094977",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Background: Mutations in the CACNA1A gene have been associated phenotypically with Familial Hemiplegic Migraine Type 1, Episodic Ataxia Type 2, Idiopathic Generalized Epilepsy, and Developmental and Epileptic Encephalopathy 42. Only six cases have linked ischemic strokes to mutations in the CACNA1A gene. Summary of Cases: We describe two unrelated patients who were found to have different mutations of the CACNA1A gene, one being a novel mutation, as shown by whole exome sequencing. One presented with seizures at birth and the other with seizures at 17 months old, both eventually exhibiting intractable epilepsy, ischemic stroke, and developmental delays. Results: Whole exome sequencing demonstrated de novo pathogenic mutations in the CACNA1A gene, which both caused similar phenotypes in unrelated patients. Conclusion: Pediatric patients who present with ischemic stroke and a history of seizures should be evaluated for CACNA1A mutations, as prompt recognition can help providers facilitate appropriate medical management."
+    },
+    {
+      "pmid": "33565063",
+      "title": "[Clinical manifestation and genetic analysis of a child with early infantile epileptic encephalopathy 42].",
+      "authors": [
+        "Ran Y",
+        "Lyu Y",
+        "Bai H",
+        "Li C",
+        "Li-Ling J"
+      ],
+      "year": "2021",
+      "journal": "Zhonghua yi xue yi chuan xue za zhi = Zhonghua yixue yichuanxue zazhi = Chinese journal of medical genetics",
+      "doi": "10.3760/cma.j.cn511374-20201022-00743",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Calcium Channels",
+        "Genetic Testing",
+        "Heterozygote",
+        "Humans",
+        "Infant",
+        "Mutation",
+        "Spasms, Infantile",
+        "Exome Sequencing",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "OBJECTIVE: To analyze the clinical phenotype and genetic characterization of a child with early infantile epileptic encephalopathy.\nMETHODS: The proband was subjected to history taking and was diagnosed based on his clinical manifestation, magnetic resonance imaging (MRI) and whole exome sequencing (WES). Sanger sequencing was carried out to determine the origin of pathogenic variant.\nRESULTS: The proband unconsciously tilts his head to one side with squint, which revealed an abnormal discharge. MRI indicated suspicious abnormal signal shadow in the left posterior frontal cortex in addition with inflammation signs in the right maxillary sinus and ethmoid sinus. WES revealed that the proband has carried a heterozygous c.5789G>A variant in the CACNAIA gene. The result of Sanger sequencing was in keeping with that of WES. Neither of his parents has carried the same variant.\nCONCLUSION: The heterozygous c.5789G>A variant of the CACNAIA gene probably underlay the early infantile epileptic encephalopathy 42 in the proband, which has a de novo origin."
+    }
+  ]
+}

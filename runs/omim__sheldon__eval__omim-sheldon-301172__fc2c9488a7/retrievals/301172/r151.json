@@ -1,0 +1,26 @@
+{
+  "id": "r151",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "30073059",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "1 'cited_by' links for PMID 30073059; showing 1",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34432005",
+      "title": "Taxonomic Uncertainty and the Anomaly Zone: Phylogenomics Disentangle a Rapid Radiation to Resolve Contentious Species (Gila robusta Complex) in the Colorado River.",
+      "first_author": "Chafin TK",
+      "year": "2021",
+      "journal": "Genome Biol Evol",
+      "doi": "10.1093/gbe/evab200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ]
+}

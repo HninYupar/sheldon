@@ -1,0 +1,33 @@
+{
+  "id": "r31",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "40926810"
+    ]
+  },
+  "summary": "fetched 1 of 1 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "authors": [
+        "Lamborn IT",
+        "Jing H",
+        "Chattopadhyay E",
+        "Ham H",
+        "Zhang Y",
+        "Su HC"
+      ],
+      "year": "2025",
+      "journal": "Journal of human immunity",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Inborn errors of immunity (IEI) presenting with immunodeficiency and autoimmunity can illuminate pathways essential for immunocompetence and self-tolerance. We recently characterized a new IEI named MAGIS (\"Midline malformations of the brain, Anterior pituitary gland dysfunction, Growth retardation, Immunodysregulation/immunodeficiency, and Skeletal defects\") caused by heterozygous germline activating mutations in GNAI2 (encoding the heterotrimeric G-protein, G\u03b1i2). This disorder demonstrates the central role of G\u03b1i2 regulation of chemotaxis in humans and a novel pathway by which G-proteins regulate T-cell activation. Here, we review the clinical features, current genetic and biochemical understanding, and future therapeutic considerations for this new syndromic immune dysregulation disorder."
+    }
+  ]
+}

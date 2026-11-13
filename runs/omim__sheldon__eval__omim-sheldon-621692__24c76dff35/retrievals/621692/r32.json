@@ -1,0 +1,51 @@
+{
+  "id": "r32",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "39096015"
+    ]
+  },
+  "summary": "fetched 1 of 1 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39096015",
+      "title": "Solving the Etiology of Developmental and Epileptic Encephalopathy with Spike-Wave Activation in Sleep (D/EE-SWAS).",
+      "authors": [
+        "Viswanathan S",
+        "Oliver KL",
+        "Regan BM",
+        "Schneider AL",
+        "Myers CT",
+        "Mehaffey MG",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Annals of neurology",
+      "doi": "10.1002/ana.27041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Female",
+        "Male",
+        "Child, Preschool",
+        "Child",
+        "Infant",
+        "Spasms, Infantile",
+        "Adolescent",
+        "Electroencephalography",
+        "Sleep",
+        "Cohort Studies",
+        "Phenotype",
+        "Adult",
+        "Young Adult"
+      ],
+      "abstract": "OBJECTIVE: To understand the etiological landscape and phenotypic differences between 2 developmental and epileptic encephalopathy (DEE) syndromes: DEE with spike-wave activation in sleep (DEE-SWAS) and epileptic encephalopathy with spike-wave activation in sleep (EE-SWAS).\nMETHODS: All patients fulfilled International League Against Epilepsy (ILAE) DEE-SWAS or EE-SWAS criteria with a Core cohort (n\u2009=\u200991) drawn from our Epilepsy Genetics research program, together with 10 etiologically solved patients referred by collaborators in the Expanded cohort (n\u2009=\u2009101). Detailed phenotyping and analysis of molecular genetic results were performed. We compared the phenotypic features of individuals with DEE-SWAS and EE-SWAS. Brain-specific gene co-expression analysis was performed for D/EE-SWAS genes.\nRESULTS: We identified the etiology in 42/91 (46%) patients in our Core cohort, including 29/44 (66%) with DEE-SWAS and 13/47 (28%) with EE-SWAS. A genetic etiology was identified in 31/91 (34%). D/EE-SWAS genes were highly co-expressed in brain, highlighting the importance of channelopathies and transcriptional regulators. Structural etiologies were found in 12/91 (13%) individuals. We identified 10 novel D/EE-SWAS genes with a range of functions: ATP1A2, CACNA1A, FOXP1, GRIN1, KCNMA1, KCNQ3, PPFIA3, PUF60, SETD1B, and ZBTB18, and 2 novel copy number variants, 17p11.2 duplication and 5q22 deletion. Although developmental regression patterns were similar in both syndromes, DEE-SWAS was associated with a longer duration of epilepsy and poorer intellectual outcome than EE-SWAS.\nINTERPRETATION: DEE-SWAS and EE-SWAS have highly heterogeneous genetic and structural etiologies. Phenotypic analysis highlights valuable clinical differences between DEE-SWAS and EE-SWAS which inform clinical care and prognostic counseling. Our etiological findings pave the way for the development of precision therapies. ANN NEUROL 2024;96:932-943."
+    }
+  ]
+}

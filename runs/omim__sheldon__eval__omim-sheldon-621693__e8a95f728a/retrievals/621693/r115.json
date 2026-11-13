@@ -1,0 +1,102 @@
+{
+  "id": "r115",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "38466799",
+      "40956890",
+      "42649079"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38466799",
+      "title": "Study of an FBXO7 patient mutation reveals Fbxo7 and PI31 co-regulate proteasomes and mitochondria.",
+      "authors": [
+        "Al Rawi S",
+        "Simpson L",
+        "Agnarsd\u00f3ttir G",
+        "McDonald NQ",
+        "Chernuha V",
+        "Elpeleg O",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "The FEBS journal",
+      "doi": "10.1111/febs.17114",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "F-Box Proteins",
+        "Proteasome Endopeptidase Complex",
+        "Mitochondria",
+        "Ubiquitination",
+        "Mutation, Missense",
+        "Mitophagy",
+        "Fibroblasts",
+        "Male",
+        "HEK293 Cells",
+        "Female"
+      ],
+      "abstract": "Mutations in FBXO7 have been discovered to be associated with an atypical parkinsonism. We report here a new homozygous missense mutation in a paediatric patient that causes an L250P substitution in the dimerisation domain of Fbxo7. This alteration selectively ablates the Fbxo7-PI31 interaction and causes a significant reduction in Fbxo7 and PI31 levels in patient cells. Consistent with their association with proteasomes, patient fibroblasts have reduced proteasome activity and proteasome subunits. We also show PI31 interacts with the MiD49/51 fission adaptor proteins, and unexpectedly, PI31 acts to facilitate SCFFbxo7-mediated ubiquitination of MiD49. The L250P mutation reduces the SCFFbxo7 ligase-mediated ubiquitination of a subset of its known substrates. Although MiD49/51 expression was reduced in patient cells, there was no effect on the mitochondrial network. However, patient cells show reduced levels of mitochondrial function and mitophagy, higher levels of ROS and are less viable under stress. Our study demonstrates that Fbxo7 and PI31 regulate proteasomes and mitochondria and reveals a new function for PI31 in enhancing the SCFFbxo7 E3 ubiquitin ligase activity."
+    },
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "authors": [
+        "Rodriguez JA",
+        "Minis A",
+        "Aref R",
+        "Nguyen HHM",
+        "Sun F",
+        "Steller H"
+      ],
+      "year": "2025",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Animals",
+        "Mice",
+        "Disease Models, Animal",
+        "F-Box Proteins",
+        "Parkinsonian Disorders",
+        "Humans",
+        "Neurons",
+        "Mice, Transgenic",
+        "tau Proteins",
+        "Phosphorylation",
+        "Proteasome Endopeptidase Complex",
+        "Drosophila melanogaster"
+      ],
+      "abstract": "Neurodegenerative diseases present one of the most significant global health challenges. These disorders are defined by the accumulation of abnormal protein aggregates that impair synaptic function and cause progressive neuronal degeneration. Therefore, stimulating protein clearance mechanisms may be neuro-protective. Variants in FBXO7/PARK15 cause Parkinsonian Pyramidal Syndrome, an early-onset parkinsonian neurodegenerative disorder in humans, and inactivation of this gene in mice recapitulates many phenotypes seen in patients. The proteasome regulator PI31 is a direct binding partner of Fbxo7 and promotes local protein degradation at synapses by mediating fast proteasome transport in neurites. PI31 protein levels are reduced when the function of Fbxo7 is impaired. Here we show that restoring PI31 levels in Fbxo7 mutant fly and mouse strains prevents neuronal degeneration and significantly improves neuronal function, health, and lifespan. Notably, Fbxo7 inactivation in mouse neurons causes hyperphosphorylation of tau, and this was suppressed by transgenic expression of PI31. Our results demonstrate that PI31 is a crucial biological target through which Fbxo7 deficiency drives pathology. Therefore, targeting the PI31-pathway may represent a promising therapeutic approach for treating neurodegenerative disorders."
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "authors": [
+        "Gabbert C",
+        "Much C",
+        "Wengh\u00f6fer A",
+        "Fienemann A",
+        "Schaake S",
+        "L\u00fcth T",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ],
+      "mesh": [],
+      "abstract": ""
+    }
+  ]
+}

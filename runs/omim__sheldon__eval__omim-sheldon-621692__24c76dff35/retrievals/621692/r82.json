@@ -1,0 +1,96 @@
+{
+  "id": "r82",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "33790770",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "7 'cited_by' links for PMID 33790770; showing 7",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40947701",
+      "title": "Current Trends in Management of Migraine: A Review of Current Practice and Recent Advances.",
+      "first_author": "Nayak SK",
+      "year": "2026",
+      "journal": "CNS Neurol Disord Drug Targets",
+      "doi": "10.2174/0118715273408295250825074429",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39763636",
+      "title": "A Longitudinal Exploration of CACNA1A-Related Hemiplegic Migraine in Children Using Electronic Medical Records.",
+      "first_author": "Schaare D",
+      "year": "2025",
+      "journal": "Neurol Genet",
+      "doi": "10.1212/NXG.0000000000200228",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39570184",
+      "title": "Exome sequencing in Nigerian children with early-onset epilepsy syndromes.",
+      "first_author": "Ademuwagun IA",
+      "year": "2025",
+      "journal": "Epilepsia Open",
+      "doi": "10.1002/epi4.13106",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37555011",
+      "title": "The genotype-phenotype correlations of the CACNA1A-related neurodevelopmental disorders: a small case series and literature reviews.",
+      "first_author": "Kessi M",
+      "year": "2023",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2023.1222321",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36833327",
+      "title": "Concomitant Calcium Channelopathies Involving CACNA1A and CACNA1F: A Case Report and Review of the Literature.",
+      "first_author": "Schaare D",
+      "year": "2023",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes14020400",
+      "pubtype": [
+        "Systematic Review",
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36800925",
+      "title": "Genetics of migraine: where are we now?",
+      "first_author": "Grangeon L",
+      "year": "2023",
+      "journal": "J Headache Pain",
+      "doi": "10.1186/s10194-023-01547-8",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "first_author": "Lipman AR",
+      "year": "2022",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

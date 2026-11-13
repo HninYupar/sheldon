@@ -1,0 +1,12 @@
+{
+  "id": "r145",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"systemic lupus erythematosus 19\" OR SLEB19 OR \"Phenotype MIM 301172\" OR 301172) AND SAT1",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '(\"systemic lupus erythematosus 19\" OR SLEB19 OR \"Phenotype MIM 301172\" OR 301172) AND SAT1'; showing 0 (PubMed read it as: (((\"lupus erythematosus, systemic\"[MeSH Terms] OR (\"lupus\"[All Fields] AND \"erythematosus\"[All Fields] AND \"systemic\"[All Fields]) OR \"systemic lupus erythematosus\"[All Fields] OR (\"systemic\"[All Fields] AND \"lupus\"[All Fields] AND \"erythematosus\"[All Fields])) AND \"19 lond\"[Journal]) OR ((\"phenotype\"[MeSH Terms] OR \"phenotype\"[All Fields] OR \"phenotypes\"[All Fields] OR \"phenotyped\"[All Fields] OR \"phenotypic\"[All Fields] OR \"phenotypical\"[All Fields] OR \"phenotypically\"[All Fields] OR \"phenotyping\"[All Fields] OR \"phenotypings\"[All Fields]) AND \"mim\"[All Fields] AND \"301172\"[All Fields]) OR 301172[UID]) AND \"SAT1\"[All Fields])",
+  "ok": true,
+  "evidence": []
+}

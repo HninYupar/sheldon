@@ -1,0 +1,133 @@
+{
+  "id": "r104",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "MAGIS[tiab] OR \"MAGIS syndrome\"[tiab] OR \"GNAI2\"[tiab] AND (syndrome OR phenotype OR disorder OR disease)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "121 PubMed hits for 'MAGIS[tiab] OR \"MAGIS syndrome\"[tiab] OR \"GNAI2\"[tiab] AND (syndrome OR phenotype OR disorder OR disease)'; showing 10 (PubMed read it as: (\"MAGIS\"[Title/Abstract] OR \"MAGIS syndrome\"[Title/Abstract] OR \"GNAI2\"[Title/Abstract]) AND (\"syndrom\"[All Fields] OR \"syndromal\"[All Fields] OR \"syndromally\"[All Fields] OR \"syndrome\"[MeSH Terms] OR \"syndrome\"[All Fields] OR \"syndromes\"[All Fields] OR \"syndrome s\"[All Fields] OR \"syndromic\"[All Fields] OR \"syndroms\"[All Fields] OR (\"phenotype\"[MeSH Terms] OR \"phenotype\"[All Fields] OR \"phenotypes\"[All Fields] OR \"phenotyped\"[All Fields] OR \"phenotypic\"[All Fields] OR \"phenotypical\"[All Fields] OR \"phenotypically\"[All Fields] OR \"phenotyping\"[All Fields] OR \"phenotypings\"[All Fields]) OR (\"disease\"[MeSH Terms] OR \"disease\"[All Fields] OR \"disorder\"[All Fields] OR \"disorders\"[All Fields] OR \"disorder s\"[All Fields] OR \"disordes\"[All Fields]) OR (\"disease\"[MeSH Terms] OR \"disease\"[All Fields] OR \"diseases\"[All Fields] OR \"disease s\"[All Fields] OR \"diseased\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34294713",
+      "title": "S-nitrosylation-mediated coupling of G-protein alpha-2 with CXCR5 induces Hippo/YAP-dependent diabetes-accelerated atherosclerosis.",
+      "first_author": "Chao ML",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-24736-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41632920",
+      "title": "Hepatic GPR75 exacerbates MASH through GNAI2-dependent signaling.",
+      "first_author": "Yang X",
+      "year": "2026",
+      "journal": "Hepatology",
+      "doi": "10.1097/HEP.0000000000001706",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36868481",
+      "title": "Liquid biopsy-based protein biomarkers for risk prediction, early diagnosis, and prognostication of cholangiocarcinoma.",
+      "first_author": "Lapitz A",
+      "year": "2023",
+      "journal": "J Hepatol",
+      "doi": "10.1016/j.jhep.2023.02.027",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36201743",
+      "title": "Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma.",
+      "first_author": "Thomas N",
+      "year": "2023",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2022016534",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36699383",
+      "title": "MAGI-MS: multiple seed-centric module discovery.",
+      "first_author": "Chow JC",
+      "year": "2022",
+      "journal": "Bioinform Adv",
+      "doi": "10.1093/bioadv/vbac025",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35192169",
+      "title": "Memory-Assisted Global Impression of Change (MAGIC).",
+      "first_author": "Deal LS",
+      "year": "2022",
+      "journal": "Ther Innov Regul Sci",
+      "doi": "10.1007/s43441-022-00377-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31705548",
+      "title": "GNAI2 variants predict nonsteroidal anti-inflammatory drug hypersensitivity in a genome-wide study.",
+      "first_author": "Blanca M",
+      "year": "2020",
+      "journal": "Allergy",
+      "doi": "10.1111/all.14100",
+      "pubtype": [
+        "Letter",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38505600",
+      "title": "G protein subunit alpha i2's pivotal role in angiogenesis.",
+      "first_author": "Bai CW",
+      "year": "2024",
+      "journal": "Theranostics",
+      "doi": "10.7150/thno.92909",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36193969",
+      "title": "Proteomic study of Tianxiangdan intervention in rats with myocardial ischemia.",
+      "first_author": "Zhao MF",
+      "year": "2022",
+      "journal": "J Physiol Pharmacol",
+      "doi": "10.26402/jpp.2022.2.13",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

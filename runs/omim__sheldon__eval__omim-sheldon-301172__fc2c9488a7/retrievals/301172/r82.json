@@ -1,0 +1,25 @@
+{
+  "id": "r82",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"SAT1\"[tiab]) AND (\"early-onset systemic lupus erythematosus\"[tiab] OR \"childhood-onset systemic lupus erythematosus\"[tiab] OR \"monogenic lupus\"[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '(\"SAT1\"[tiab]) AND (\"early-onset systemic lupus erythematosus\"[tiab] OR \"childhood-onset systemic lupus erythematosus\"[tiab] OR \"monogenic lupus\"[tiab])'; showing 1 (PubMed read it as: \"SAT1\"[Title/Abstract] AND (\"early-onset systemic lupus erythematosus\"[Title/Abstract] OR \"childhood-onset systemic lupus erythematosus\"[Title/Abstract] OR \"monogenic lupus\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ]
+}

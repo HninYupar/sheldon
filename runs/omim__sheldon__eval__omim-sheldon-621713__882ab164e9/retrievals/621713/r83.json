@@ -1,0 +1,131 @@
+{
+  "id": "r83",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "40796344",
+    "relation": "similar",
+    "max_results": 10
+  },
+  "summary": "99 'similar' links for PMID 40796344; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40639803",
+      "title": "Pathogenic variants in DLGAP5 cause female infertility characterized by oocyte maturation arrest and embryonic arrest.",
+      "first_author": "Qu R",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf139",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35670744",
+      "title": "Biallelic variants in MOS cause large polar body in oocyte and human female infertility.",
+      "first_author": "Zhang YL",
+      "year": "2022",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deac120",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34052850",
+      "title": "FBXO43 variants in patients with female infertility characterized by early embryonic arrest.",
+      "first_author": "Wang W",
+      "year": "2021",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deab131",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39348320",
+      "title": "A heterozygous SPRY4 variant identified in female infertility characterized by reduced oocyte potential and early embryonic arrest.",
+      "first_author": "Xia L",
+      "year": "2024",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deae231",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42114970",
+      "title": "Bi-allelic mutations of CAMSAP1 result in teratozoospermia with sperm head and flagella defects in humans.",
+      "first_author": "Zheng R",
+      "year": "2026",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deag071",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32613230",
+      "title": "Germline nuclear transfer in mice may rescue poor embryo development associated with advanced maternal age and early embryo arrest.",
+      "first_author": "Tang M",
+      "year": "2020",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaa112",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41423819",
+      "title": "A homozygous variant in HFM1 causes preimplantation embryo developmental arrest by disrupting zygotic genome activation.",
+      "first_author": "Zhang YW",
+      "year": "2026",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf238",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "37192818",
+      "title": "Biallelic variants in KCTD19 associated with male factor infertility and oligoasthenoteratozoospermia.",
+      "first_author": "Wang W",
+      "year": "2023",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/dead095",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34997960",
+      "title": "Bi-allelic mutations in MOS cause female infertility characterized by preimplantation embryonic arrest.",
+      "first_author": "Zeng Y",
+      "year": "2022",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deab281",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42221552",
+      "title": "Meiotic gene variants contribute to recurrent blastulation failure.",
+      "first_author": "Chen X",
+      "year": "2026",
+      "journal": "Hum Reprod Open",
+      "doi": "10.1093/hropen/hoag039",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

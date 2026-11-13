@@ -1,0 +1,100 @@
+{
+  "id": "r124",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41253044",
+      "32274753",
+      "24107298"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "authors": [
+        "Cogan G",
+        "Lesage S",
+        "Brice A"
+      ],
+      "year": "2025",
+      "journal": "Current opinion in neurobiology",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Humans",
+        "Parkinson Disease",
+        "Mutation",
+        "Age of Onset",
+        "Genes, Recessive",
+        "Ubiquitin-Protein Ligases"
+      ],
+      "abstract": "Early-onset Parkinson's disease (EOPD) is usually defined as Parkinson's disease (PD) occurring before the age of 40-50 years. Unlike late-onset PD, EOPD is often due to pathogenic mutations in autosomal recessive genes. Two phenotypes can be distinguished: typical EOPD, which progresses slowly (PRKN, PINK1 and DJ-1), and atypical PD, often associated with additional symptoms (ATP13A2, FBXO7, DNAJC6, VPS13C, SYNJ1, PLA2G6). In this review, we will highlight recent advances and remaining challenges. The frequency of causal genetic mutations and the genotype-phenotype landscape of PRKN-associated PD has been refined. Long-read sequencing has solved several undiagnosed cases with a single PRKN mutation. Five new genes have been reported to contribute to EOPD associated with various neurological signs (PTPA, DAGLB, PSMF1, EPG5, SGIP1). Small molecules targeting PRKN dysfunctions are expected to enter clinical trials in the coming years, paving the way for targeted therapies in EOPD."
+    },
+    {
+      "pmid": "32274753",
+      "title": "The Proteasome System in Health and Disease.",
+      "authors": [
+        "Coux O",
+        "Zieba BA",
+        "Meiners S"
+      ],
+      "year": "2020",
+      "journal": "Advances in experimental medicine and biology",
+      "doi": "10.1007/978-3-030-38266-7_3",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Disease",
+        "Health",
+        "Humans",
+        "Proteasome Endopeptidase Complex"
+      ],
+      "abstract": "The proteasome is involved in the regulation of all cellular pathways and consequently plays a central role in the control of cellular homeostasis. Together with its regulators, it is at the frontline, both as an actor and as a target, in human health and when homeostasis is disturbed in disease. In this review, we aim to provide an overview of the many levels at which the functions of the proteasome and its regulators can be regulated to cope with cellular needs or are altered in pathological conditions."
+    },
+    {
+      "pmid": "24107298",
+      "title": "Beyond ubiquitination: the atypical functions of Fbxo7 and other F-box proteins.",
+      "authors": [
+        "Nelson DE",
+        "Randle SJ",
+        "Laman H"
+      ],
+      "year": "2013",
+      "journal": "Open biology",
+      "doi": "10.1098/rsob.130131",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Animals",
+        "Cell Cycle",
+        "Cyclin-Dependent Kinase 6",
+        "Evolution, Molecular",
+        "F-Box Proteins",
+        "Gene Expression Regulation",
+        "Humans",
+        "Mitophagy",
+        "Mutation",
+        "Parkinson Disease",
+        "Proteasome Endopeptidase Complex",
+        "Protein Kinases",
+        "Proteins",
+        "SKP Cullin F-Box Protein Ligases",
+        "Signal Transduction",
+        "Ubiquitin-Protein Ligases",
+        "Ubiquitination",
+        "PTEN-Induced Putative Kinase"
+      ],
+      "abstract": "F-box proteins (FBPs) are substrate-recruiting subunits of Skp1-cullin1-FBP (SCF)-type E3 ubiquitin ligases. To date, 69 FBPs have been identified in humans, but ubiquitinated substrates have only been identified for a few, with the majority of FBPs remaining 'orphans'. In recent years, a growing body of work has identified non-canonical, SCF-independent roles for about 12% of the human FBPs. These atypical FBPs affect processes as diverse as transcription, cell cycle regulation, mitochondrial dynamics and intracellular trafficking. Here, we provide a general review of FBPs, with a particular emphasis on these expanded functions. We review Fbxo7 as an exemplar of this special group as it has well-defined roles in both SCF and non-SCF complexes. We review its function as a cell cycle regulator, via its ability to stabilize p27 protein and Cdk6 complexes, and as a proteasome regulator, owing to its high affinity binding to PI31. We also highlight recent advances in our understanding of Fbxo7 function in Parkinson's disease, where it functions in the regulation of mitophagy with PINK1 and Parkin. We postulate that a few extraordinary FBPs act as platforms that seamlessly segue their canonical and non-canonical functions to integrate different cellular pathways and link their regulation."
+    }
+  ]
+}

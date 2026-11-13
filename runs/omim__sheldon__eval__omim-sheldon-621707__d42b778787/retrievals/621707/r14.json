@@ -1,0 +1,620 @@
+{
+  "id": "r14",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "GNAI2[gene] AND (functional OR signaling OR T-cell OR immune)",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "385 PubMed hits for 'GNAI2[gene] AND (functional OR signaling OR T-cell OR immune)'; showing 50 (PubMed read it as: (\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"functional\"[All Fields] OR \"functional s\"[All Fields] OR \"functionalities\"[All Fields] OR \"functionality\"[All Fields] OR \"functionalization\"[All Fields] OR \"functionalizations\"[All Fields] OR \"functionalize\"[All Fields] OR \"functionalized\"[All Fields] OR \"functionalizes\"[All Fields] OR \"functionalizing\"[All Fields] OR \"functionally\"[All Fields] OR \"functionals\"[All Fields] OR \"functioned\"[All Fields] OR \"functioning\"[All Fields] OR \"functionings\"[All Fields] OR \"functions\"[All Fields] OR \"physiology\"[MeSH Subheading] OR \"physiology\"[All Fields] OR \"function\"[All Fields] OR \"physiology\"[MeSH Terms] OR (\"signal transduction\"[MeSH Terms] OR (\"signal\"[All Fields] AND \"transduction\"[All Fields]) OR \"signal transduction\"[All Fields] OR \"signaling\"[All Fields] OR \"signal\"[All Fields] OR \"signal s\"[All Fields] OR \"signaled\"[All Fields] OR \"signaler\"[All Fields] OR \"signaler s\"[All Fields] OR \"signalers\"[All Fields] OR \"signalings\"[All Fields] OR \"signalization\"[All Fields] OR \"signalled\"[All Fields] OR \"signaller\"[All Fields] OR \"signaller s\"[All Fields] OR \"signallers\"[All Fields] OR \"signalling\"[All Fields] OR \"signallings\"[All Fields] OR \"signals\"[All Fields]) OR (\"t lymphocytes\"[MeSH Terms] OR \"t lymphocytes\"[All Fields] OR \"t cell\"[All Fields]) OR (\"immune\"[All Fields] OR \"immuned\"[All Fields] OR \"immunes\"[All Fields] OR \"immunisation\"[All Fields] OR \"vaccination\"[MeSH Terms] OR \"vaccination\"[All Fields] OR \"immunization\"[All Fields] OR \"immunization\"[MeSH Terms] OR \"immunisations\"[All Fields] OR \"immunizations\"[All Fields] OR \"immunise\"[All Fields] OR \"immunised\"[All Fields] OR \"immuniser\"[All Fields] OR \"immunisers\"[All Fields] OR \"immunising\"[All Fields] OR \"immunities\"[All Fields] OR \"immunity\"[MeSH Terms] OR \"immunity\"[All Fields] OR \"immunization s\"[All Fields] OR \"immunize\"[All Fields] OR \"immunized\"[All Fields] OR \"immunizer\"[All Fields] OR \"immunizers\"[All Fields] OR \"immunizes\"[All Fields] OR \"immunizing\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34294713",
+      "title": "S-nitrosylation-mediated coupling of G-protein alpha-2 with CXCR5 induces Hippo/YAP-dependent diabetes-accelerated atherosclerosis.",
+      "first_author": "Chao ML",
+      "year": "2021",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-021-24736-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41632920",
+      "title": "Hepatic GPR75 exacerbates MASH through GNAI2-dependent signaling.",
+      "first_author": "Yang X",
+      "year": "2026",
+      "journal": "Hepatology",
+      "doi": "10.1097/HEP.0000000000001706",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36868481",
+      "title": "Liquid biopsy-based protein biomarkers for risk prediction, early diagnosis, and prognostication of cholangiocarcinoma.",
+      "first_author": "Lapitz A",
+      "year": "2023",
+      "journal": "J Hepatol",
+      "doi": "10.1016/j.jhep.2023.02.027",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26373671",
+      "title": "Genetic evidence for a Smoothened-G\u03b1(i) signaling axis in mammals.",
+      "first_author": "Ogden SK",
+      "year": "2015",
+      "journal": "Sci Signal",
+      "doi": "10.1126/scisignal.aad0353",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "24423449",
+      "title": "Suppression of GNAI2 message in ovarian cancer.",
+      "first_author": "Raymond JR Jr",
+      "year": "2014",
+      "journal": "J Ovarian Res",
+      "doi": "10.1186/1757-2215-7-6",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "18598698",
+      "title": "TL1A (TNFSF15) regulates the development of chronic colitis by modulating both T-helper 1 and T-helper 17 activation.",
+      "first_author": "Takedatsu H",
+      "year": "2008",
+      "journal": "Gastroenterology",
+      "doi": "10.1053/j.gastro.2008.04.037",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39273699",
+      "title": "Key Disease-Related Genes and Immune Cell Infiltration Landscape in Inflammatory Bowel Disease: A Bioinformatics Investigation.",
+      "first_author": "Alghamdi KS",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25179751",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26854024",
+      "title": "JAK-STAT and G-protein-coupled receptor signaling pathways are frequently altered in epitheliotropic intestinal T-cell lymphoma.",
+      "first_author": "Nairism\u00e4gi ML",
+      "year": "2016",
+      "journal": "Leukemia",
+      "doi": "10.1038/leu.2016.13",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36671532",
+      "title": "Combination Analysis of Ferroptosis and Immune Status Predicts Patients Survival in Breast Invasive Ductal Carcinoma.",
+      "first_author": "Yang Y",
+      "year": "2023",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom13010147",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29738700",
+      "title": "G(\u03b1i) and G(\u03b2\u03b3) subunits have opposing effects on dexmedetomidine-induced sedation.",
+      "first_author": "Liu M",
+      "year": "2018",
+      "journal": "Eur J Pharmacol",
+      "doi": "10.1016/j.ejphar.2018.05.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34322898",
+      "title": "Guanine Nucleotide-Binding Protein G(i) Subunit Alpha 2 Exacerbates NASH Progression by Regulating Peroxiredoxin 1-Related Inflammation and Lipophagy.",
+      "first_author": "Zhang Z",
+      "year": "2021",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.32078",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19282110",
+      "title": "GNAI2 and regulators of G protein signaling as a potential Noonan syndrome mechanism.",
+      "first_author": "Huang X",
+      "year": "2009",
+      "journal": "Med Hypotheses",
+      "doi": "10.1016/j.mehy.2009.01.040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "31036916",
+      "title": "Variant\u00a0recurrence in neurodevelopmental disorders: the use of publicly available genomic data identifies clinically relevant pathogenic missense variants.",
+      "first_author": "Lecoquierre F",
+      "year": "2019",
+      "journal": "Genet Med",
+      "doi": "10.1038/s41436-019-0518-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40072066",
+      "title": "Finerenone Alleviates Over-Activation of Complement C5a-C5aR1 Axis of Macrophages by Regulating G Protein Subunit Alpha i2 to Improve Diabetic Nephropathy.",
+      "first_author": "Li ZH",
+      "year": "2025",
+      "journal": "Cells",
+      "doi": "10.3390/cells14050337",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38505600",
+      "title": "G protein subunit alpha i2's pivotal role in angiogenesis.",
+      "first_author": "Bai CW",
+      "year": "2024",
+      "journal": "Theranostics",
+      "doi": "10.7150/thno.92909",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25972449",
+      "title": "Direct Coupling of a Seven-Transmembrane-Span Receptor to a G\u03b1i G-Protein Regulatory Motif Complex.",
+      "first_author": "Robichaux WG 3rd",
+      "year": "2015",
+      "journal": "Mol Pharmacol",
+      "doi": "10.1124/mol.115.097741",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "34440304",
+      "title": "GNAI2 Promotes Proliferation and Decreases Apoptosis in Rabbit Melanocytes.",
+      "first_author": "Hu S",
+      "year": "2021",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes12081130",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35837296",
+      "title": "Central G\u03b1i(2) Protein Mediated Neuro-Hormonal Control of Blood Pressure and Salt Sensitivity.",
+      "first_author": "Amraei R",
+      "year": "2022",
+      "journal": "Front Endocrinol (Lausanne)",
+      "doi": "10.3389/fendo.2022.895466",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "34185889",
+      "title": "An epigenome-wide DNA methylation study of patients with COVID-19.",
+      "first_author": "Zhou S",
+      "year": "2021",
+      "journal": "Ann Hum Genet",
+      "doi": "10.1111/ahg.12440",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "9779986",
+      "title": "Regulation of cell proliferation by G proteins.",
+      "first_author": "Dhanasekaran N",
+      "year": "1998",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1202242",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40141310",
+      "title": "Plasma Exosomal-Derived SERPINA1 and GNAI2 Downregulation as Potential Diagnostic Biomarkers of Kawasaki Disease with Coronary Artery Aneurysms.",
+      "first_author": "Zheng Y",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms26062668",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28323866",
+      "title": "Elevated fecal peptidase D at onset of colitis in Galphai2-/- mice, a mouse model of IBD.",
+      "first_author": "Bergemalm D",
+      "year": "2017",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0174275",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41226691",
+      "title": "G\u03b1(i2) Signaling Regulates Neonatal Respiratory Adaptation.",
+      "first_author": "Leiss V",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms262110655",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21966394",
+      "title": "G\u03b1i2- and G\u03b1i3-specific regulation of voltage-dependent L-type calcium channels in cardiomyocytes.",
+      "first_author": "Dizayee S",
+      "year": "2011",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0024979",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34439877",
+      "title": "GNAi2/gip2-Regulated Transcriptome and Its Therapeutic Significance in Ovarian Cancer.",
+      "first_author": "Ha JH",
+      "year": "2021",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom11081211",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "11342583",
+      "title": "Chronic endothelin-1 treatment leads to heterologous desensitization of insulin signaling in 3T3-L1 adipocytes.",
+      "first_author": "Ishibashi KI",
+      "year": "2001",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI11753",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "21349876",
+      "title": "G\u03b1(i2)-mediated protection from ischaemic injury is modulated by endogenous RGS proteins in the mouse heart.",
+      "first_author": "Waterson RE",
+      "year": "2011",
+      "journal": "Cardiovasc Res",
+      "doi": "10.1093/cvr/cvr054",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25205820",
+      "title": "Insulin secretion stimulated by L-arginine and its metabolite L-ornithine depends on G\u03b1(i2).",
+      "first_author": "Leiss V",
+      "year": "2014",
+      "journal": "Am J Physiol Endocrinol Metab",
+      "doi": "10.1152/ajpendo.00337.2014",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23699601",
+      "title": "Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing.",
+      "first_author": "Morin RD",
+      "year": "2013",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2013-02-483727",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17579064",
+      "title": "Impaired trafficking of Gnai2+/- and Gnai2-/- T lymphocytes: implications for T cell movement within lymph nodes.",
+      "first_author": "Hwang IY",
+      "year": "2007",
+      "journal": "J Immunol",
+      "doi": "10.4049/jimmunol.179.1.439",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "10811446",
+      "title": "Interleukin-8 and other agonists of Gi2 proteins: autocrine paracrine growth factors for human hematopoietic progenitors acting in synergy with colony stimulating factors.",
+      "first_author": "Hermouet S",
+      "year": "2000",
+      "journal": "Leuk Lymphoma",
+      "doi": "10.3109/10428190009060317",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "8567977",
+      "title": "Mapping a cardiomyopathy locus to chromosome 3p22-p25.",
+      "first_author": "Olson TM",
+      "year": "1996",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI118445",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "9767386",
+      "title": "Influence of Gz and Gi2 transducer proteins in the affinity of opioid agonists to mu receptors.",
+      "first_author": "Garz\u00f3n J",
+      "year": "1998",
+      "journal": "Eur J Neurosci",
+      "doi": "10.1046/j.1460-9568.1998.00267.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38153649",
+      "title": "MiR-30c-5p-Targeted Regulation of GNAI2 Improves Neural Function Injury and Inflammation in Cerebral Ischemia-Reperfusion Injury.",
+      "first_author": "Deng X",
+      "year": "2024",
+      "journal": "Appl Biochem Biotechnol",
+      "doi": "10.1007/s12010-023-04802-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19487293",
+      "title": "Intestinal mucosal inflammation leads to systemic genotoxicity in mice.",
+      "first_author": "Westbrook AM",
+      "year": "2009",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-08-4416",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34054860",
+      "title": "GPCRomics of Homeostatic and Disease-Associated Human Microglia.",
+      "first_author": "Hsiao CC",
+      "year": "2021",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2021.674189",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19230723",
+      "title": "B lymphocytes exit lymph nodes through cortical lymphatic sinusoids by a mechanism independent of sphingosine-1-phosphate-mediated chemotaxis.",
+      "first_author": "Sinha RK",
+      "year": "2009",
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2008.12.018",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "12867032",
+      "title": "Vomeronasal phenotype and behavioral alterations in G alpha i2 mutant mice.",
+      "first_author": "Norlin EM",
+      "year": "2003",
+      "journal": "Curr Biol",
+      "doi": "10.1016/s0960-9822(03)00452-4",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30233409",
+      "title": "RXFP1 Receptor Activation by Relaxin-2 Induces Vascular Relaxation in Mice via a G\u03b1(i2)-Protein/PI3K\u00df/\u03b3/Nitric Oxide-Coupled Pathway.",
+      "first_author": "Lian X",
+      "year": "2018",
+      "journal": "Front Physiol",
+      "doi": "10.3389/fphys.2018.01234",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39063192",
+      "title": "MicroRNA-181a Targets GNAI2 and Affects the Proliferation and Induction Ability of Dermal Papilla Cells: The Potential Involvement of the Wnt/\u03b2-Catenin Signaling Pathway.",
+      "first_author": "He M",
+      "year": "2024",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms25147950",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23977324",
+      "title": "The loss of Gnai2 and Gnai3 in B cells eliminates B lymphocyte compartments and leads to a hyper-IgM like syndrome.",
+      "first_author": "Hwang IY",
+      "year": "2013",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0072596",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "36275898",
+      "title": "GNAI2 Is a Risk Factor for Gastric Cancer: Study of Tumor Microenvironment (TME) and Establishment of Immune Risk Score (IRS).",
+      "first_author": "Yu H",
+      "year": "2022",
+      "journal": "Oxid Med Cell Longev",
+      "doi": "10.1155/2022/1254367",
+      "pubtype": [
+        "Journal Article",
+        "Retracted Publication"
+      ]
+    },
+    {
+      "pmid": "40792212",
+      "title": "Exploring the biological basis for the identification of different syndromes in ischemic heart failure based on joint multi-omics analysis.",
+      "first_author": "Zhang Y",
+      "year": "2025",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2025.1641422",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "16943428",
+      "title": "Pleiotropic phenotype of a genomic knock-in of an RGS-insensitive G184S Gnai2 allele.",
+      "first_author": "Huang X",
+      "year": "2006",
+      "journal": "Mol Cell Biol",
+      "doi": "10.1128/MCB.00314-06",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29940568",
+      "title": "G\u03b1i Proteins are Indispensable for Hearing.",
+      "first_author": "Beer-Hammer S",
+      "year": "2018",
+      "journal": "Cell Physiol Biochem",
+      "doi": "10.1159/000490867",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27811362",
+      "title": "MicroRNA-222-3p/GNAI2/AKT axis inhibits epithelial ovarian cancer cell growth and associates with good overall survival.",
+      "first_author": "Fu X",
+      "year": "2016",
+      "journal": "Oncotarget",
+      "doi": "10.18632/oncotarget.13017",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41580787",
+      "title": "Discovery of new MicroRNAs and their mRNA targets in patients with acute ischemic stroke.",
+      "first_author": "Eyileten C",
+      "year": "2026",
+      "journal": "BMC Med Genomics",
+      "doi": "10.1186/s12920-025-02302-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

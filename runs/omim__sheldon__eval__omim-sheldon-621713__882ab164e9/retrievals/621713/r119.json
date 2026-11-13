@@ -1,0 +1,46 @@
+{
+  "id": "r119",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "OOCYTE ZYGOTE EMBRYO MATURATION ARREST 27[tiab] OR OZEMA27[tiab] OR 621713[si]",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for 'OOCYTE ZYGOTE EMBRYO MATURATION ARREST 27[tiab] OR OZEMA27[tiab] OR 621713[si]'; showing 3 (PubMed read it as: ((\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) AND (\"zygote\"[MeSH Terms] OR \"zygote\"[All Fields] OR \"zygotes\"[All Fields] OR \"zygote s\"[All Fields] OR \"zygotic\"[All Fields] OR \"zygotically\"[All Fields]) AND (\"embryo s\"[All Fields] OR \"embryoes\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryo\"[All Fields] OR \"embryos\"[All Fields]) AND (\"maturate\"[All Fields] OR \"maturated\"[All Fields] OR \"maturating\"[All Fields] OR \"maturation\"[All Fields] OR \"maturational\"[All Fields] OR \"maturations\"[All Fields] OR \"maturative\"[All Fields] OR \"mature\"[All Fields] OR \"matured\"[All Fields] OR \"maturer\"[All Fields] OR \"maturers\"[All Fields] OR \"matures\"[All Fields] OR \"maturing\"[All Fields] OR \"maturities\"[All Fields] OR \"maturity\"[All Fields]) AND (\"arrestant\"[All Fields] OR \"arrestants\"[All Fields] OR \"arresting\"[All Fields] OR \"arrestment\"[All Fields] OR \"arrests\"[All Fields] OR \"heart arrest\"[MeSH Terms] OR (\"heart\"[All Fields] AND \"arrest\"[All Fields]) OR \"heart arrest\"[All Fields] OR \"arrest\"[All Fields] OR \"arrested\"[All Fields])) AND \"27\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39871066",
+      "title": "Oocyte/zygote/embryo maturation arrest: a clinical study expanding the phenotype of NOBOX variants.",
+      "first_author": "Van Der Kelen A",
+      "year": "2025",
+      "journal": "J Assist Reprod Genet",
+      "doi": "10.1007/s10815-025-03402-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32221790",
+      "title": "Assessing the practice of LuPOR for poor responders: a prospective study evaluating follicular fluid cfDNA levels during natural IVF cycles.",
+      "first_author": "Sfakianoudis K",
+      "year": "2020",
+      "journal": "J Assist Reprod Genet",
+      "doi": "10.1007/s10815-020-01743-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38425578",
+      "title": "Pronuclear transfer rescues poor embryo development of in vitro-grown secondary mouse follicles.",
+      "first_author": "Christodoulaki A",
+      "year": "2024",
+      "journal": "Hum Reprod Open",
+      "doi": "10.1093/hropen/hoae009",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "r61",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (oocyte OR oocyte maturation OR zygote OR embryo OR embryonic OR spindle OR arrest) AND (mutation OR variant OR homozygous OR compound heterozygous OR biallelic)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "26 PubMed hits for 'TACC3[gene] AND (oocyte OR oocyte maturation OR zygote OR embryo OR embryonic OR spindle OR arrest) AND (mutation OR variant OR homozygous OR compound heterozygous OR biallelic)'; showing 20 (PubMed read it as: \"TACC3\"[All Fields] AND (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields] OR ((\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) AND (\"maturate\"[All Fields] OR \"maturated\"[All Fields] OR \"maturating\"[All Fields] OR \"maturation\"[All Fields] OR \"maturational\"[All Fields] OR \"maturations\"[All Fields] OR \"maturative\"[All Fields] OR \"mature\"[All Fields] OR \"matured\"[All Fields] OR \"maturer\"[All Fields] OR \"maturers\"[All Fields] OR \"matures\"[All Fields] OR \"maturing\"[All Fields] OR \"maturities\"[All Fields] OR \"maturity\"[All Fields])) OR (\"zygote\"[MeSH Terms] OR \"zygote\"[All Fields] OR \"zygotes\"[All Fields] OR \"zygote s\"[All Fields] OR \"zygotic\"[All Fields] OR \"zygotically\"[All Fields]) OR (\"embryo s\"[All Fields] OR \"embryoes\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryo\"[All Fields] OR \"embryos\"[All Fields]) OR (\"embryonal\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryonic\"[All Fields] OR \"embryonically\"[All Fields] OR \"embryonics\"[All Fields]) OR (\"spindle\"[All Fields] OR \"spindle s\"[All Fields] OR \"spindled\"[All Fields] OR \"spindles\"[All Fields] OR \"spindling\"[All Fields]) OR (\"arrestant\"[All Fields] OR \"arrestants\"[All Fields] OR \"arresting\"[All Fields] OR \"arrestment\"[All Fields] OR \"arrests\"[All Fields] OR \"heart arrest\"[MeSH Terms] OR (\"heart\"[All Fields] AND \"arrest\"[All Fields]) OR \"heart arrest\"[All Fields] OR \"arrest\"[All Fields] OR \"arrested\"[All Fields])) AND (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields] OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields])) OR (\"bialleleic\"[All Fields] OR \"biallelic\"[All Fields] OR \"biallelically\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31987043",
+      "title": "FGFR3 signaling and function in triple negative breast cancer.",
+      "first_author": "Chew NJ",
+      "year": "2020",
+      "journal": "Cell Commun Signal",
+      "doi": "10.1186/s12964-019-0486-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41279925",
+      "title": "The scaffold protein PRR14L links the PP2A-TACC3 axis to mitotic fidelity and sensitivity to MPS1 inhibition.",
+      "first_author": "Liu AZ",
+      "year": "2025",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2025.11.04.686150",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "36864125",
+      "title": "Targeting TACC3 represents a novel vulnerability in highly aggressive breast cancers with centrosome amplification.",
+      "first_author": "Saatci O",
+      "year": "2023",
+      "journal": "Cell Death Differ",
+      "doi": "10.1038/s41418-023-01140-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42160513",
+      "title": "The scaffold protein PRR14L is linked to mitotic fidelity and sensitivity to MPS1 inhibition.",
+      "first_author": "Liu AZ",
+      "year": "2026",
+      "journal": "Mol Biol Cell",
+      "doi": "10.1091/mbc.E25-12-0634",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20237422",
+      "title": "TACC3-TSC2 maintains nuclear envelope structure and controls cell division.",
+      "first_author": "G\u00f3mez-Bald\u00f3 L",
+      "year": "2010",
+      "journal": "Cell Cycle",
+      "doi": "10.4161/cc.9.6.11018",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29017056",
+      "title": "Mitotic Spindle Assembly and Genomic Stability in Breast Cancer Require PI3K-C2\u03b1 Scaffolding Function.",
+      "first_author": "Gulluni F",
+      "year": "2017",
+      "journal": "Cancer Cell",
+      "doi": "10.1016/j.ccell.2017.09.002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42907605",
+      "title": "Activator mimicry by PP6 regulatory subunits directs Aurora A dephosphorylation in mitosis.",
+      "first_author": "Sobajima T",
+      "year": "2026",
+      "journal": "EMBO J",
+      "doi": "10.1038/s44318-026-00923-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25262927",
+      "title": "XTACC3-XMAP215 association reveals an asymmetric interaction promoting microtubule elongation.",
+      "first_author": "Mortuza GB",
+      "year": "2014",
+      "journal": "Nat Commun",
+      "doi": "10.1038/ncomms6072",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20479470",
+      "title": "Quantitative proteomics combined with BAC TransgeneOmics reveals in vivo protein interactions.",
+      "first_author": "Hubner NC",
+      "year": "2010",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.200911091",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26134678",
+      "title": "Aurora-A-Dependent Control of TACC3 Influences the Rate of Mitotic Spindle Assembly.",
+      "first_author": "Burgess SG",
+      "year": "2015",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1005345",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17359303",
+      "title": "TACC3 is required for the proper mitosis of sclerotome mesenchymal cells during formation of the axial skeleton.",
+      "first_author": "Yao R",
+      "year": "2007",
+      "journal": "Cancer Sci",
+      "doi": "10.1111/j.1349-7006.2007.00433.x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19823035",
+      "title": "Cdh1 controls the stability of TACC3.",
+      "first_author": "Jeng JC",
+      "year": "2009",
+      "journal": "Cell Cycle",
+      "doi": "10.4161/cc.8.21.9935",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39834092",
+      "title": "Pathogenic variants of TUBB8 cause oocyte spindle defects by disrupting with EB1/CAKP5 interactions and potential treatment targeting microtubule acetylation through HDAC6 inhibition.",
+      "first_author": "Luo H",
+      "year": "2025",
+      "journal": "Clin Transl Med",
+      "doi": "10.1002/ctm2.70193",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20566684",
+      "title": "Clathrin heavy chain mediates TACC3 targeting to mitotic spindles to ensure spindle stability.",
+      "first_author": "Lin CH",
+      "year": "2010",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.200911120",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36221072",
+      "title": "E2F1 promotes cell cycle progression by stabilizing spindle fiber in colorectal cancer cells.",
+      "first_author": "Fang Z",
+      "year": "2022",
+      "journal": "Cell Mol Biol Lett",
+      "doi": "10.1186/s11658-022-00392-y",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "16107707",
+      "title": "Differential phosphorylation controls Maskin association with eukaryotic translation initiation factor 4E and localization on the mitotic apparatus.",
+      "first_author": "Barnard DC",
+      "year": "2005",
+      "journal": "Mol Cell Biol",
+      "doi": "10.1128/MCB.25.17.7605-7615.2005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "31823729",
+      "title": "Aurora A site specific TACC3 phosphorylation regulates astral microtubule assembly by stabilizing \u03b3-tubulin ring complex.",
+      "first_author": "Rajeev R",
+      "year": "2019",
+      "journal": "BMC Mol Cell Biol",
+      "doi": "10.1186/s12860-019-0242-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23598415",
+      "title": "Mitotic catastrophe and cell death induced by depletion of centrosomal proteins.",
+      "first_author": "Kimura M",
+      "year": "2013",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/cddis.2013.108",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

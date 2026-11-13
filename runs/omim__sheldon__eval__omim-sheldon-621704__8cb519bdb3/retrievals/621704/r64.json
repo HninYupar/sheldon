@@ -1,0 +1,40 @@
+{
+  "id": "r64",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "42827379"
+    ]
+  },
+  "summary": "fetched 1 of 1 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42827379",
+      "title": "A Novel BORCS5 Loss-Of-Function Variant in a Patient With a Rare Neurodevelopmental Disorder.",
+      "authors": [
+        "Mahmood A",
+        "Shah AA",
+        "Zaman G",
+        "Masroof S",
+        "Waqas A",
+        "Umair M"
+      ],
+      "year": "2026",
+      "journal": "International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience",
+      "doi": "10.1002/jdn.70182",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh": [
+        "Humans",
+        "Loss of Function Mutation",
+        "Models, Molecular",
+        "Neurodevelopmental Disorders",
+        "Pedigree"
+      ],
+      "abstract": "BACKGROUND: The BORCS5 is an important and critical component of the BLOC-one-related complex (BORC), involved in kinesin-dependent anterograde lysosomal transport. Aberrations in the octameric protein complex encompass lethal neurological manifestations, such as arthrogryposis multiplex congenita, brain malformations and neuropathological evidence of diffuse neuroaxonal dystrophy. Loss-of-function variants in BORCS5 are associated with extremely rapid and progressive neurodegeneration.\nMETHODS: Herein, we present a family consisting of a proband with intellectual disability, microcephaly, developmental delay, facial dysmorphism, dystonia, focal/generalized seizures and speech delay. We performed whole-exome sequencing followed by Sanger sequencing for molecular diagnosis. Further, we performed 3D protein modelling for structural interpretation.\nRESULTS: Genetic analysis identified a novel stop-gain variant (NM_058169.6, c.262C>T; NP_477517.1, p.(Gln88*)) in BORCS5, subsequently confirmed by Sanger sequencing. The variant is likely pathogenic (PVS1, PM2, PP3). Protein modelling of the BORCS5; p.(Gln88*) variant showed a distinct conformation compared with the wild-type BORCS5, suggesting a potential role for the unfolded protein response in the pathogenesis of BORCS5.\nCONCLUSION: In summary, our findings exemplify a novel stop-gain variant in BORCS5 associated with diverse pathological manifestations, underscoring the importance of further exploring this gene in patients lacking identifiable disease-causing gene variants."
+    }
+  ]
+}

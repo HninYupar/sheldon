@@ -1,0 +1,123 @@
+{
+  "id": "r78",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "42642022",
+      "37951597",
+      "40245862"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42642022",
+      "title": "A Contemporary Pathomechanistic Nosology of Inherited Lysosomal Disorders.",
+      "authors": [
+        "McCarron EP",
+        "Blau N",
+        "Eden ER",
+        "Platt FM",
+        "Aerts JM",
+        "Jones SA",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Journal of inherited metabolic disease",
+      "doi": "10.1002/jimd.70245",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Humans",
+        "Lysosomal Storage Diseases",
+        "Lysosomes",
+        "Autophagy",
+        "Phenotype"
+      ],
+      "abstract": "Lysosomal disorders (LDs) have traditionally been defined by intra-lysosomal substrate accumulation resulting from deficiencies of lysosomal enzymes or associated proteins. Advances in lysosomal biology have demonstrated that lysosomes function as central regulators of cellular signalling, membrane trafficking, autophagy, nutrient sensing, organelle communication and cellular homeostasis, expanding the spectrum of inherited disorders associated with lysosomal dysfunction beyond classical storage phenotypes. We developed a contemporary pathomechanistic nosology of inherited LDs through expert curation and targeted review of databases and published literature. Disorders were included when pathogenic variants resulted in lysosomal dysfunction as a major disease mechanism through defects affecting lysosomal degradation, membrane function, intracellular trafficking, biogenesis, autophagy-lysosome pathways or lysosome-related organelles. A total of 108 inherited lysosomal disorders caused by defects in 102 genes were identified and organised into 11 major disease categories. Neurologic and eye involvement were the most frequently affected organ-system categories, occurring in 80.6% and 68.5% of disorders, respectively. Digestive (including hepatosplenomegaly), dysmorphic, skeletal and haematological involvement occurred in 48.1%, 45.4%, 40.7% and 38.9% of disorders, respectively. Distinct phenotypic signatures were observed across disease categories despite substantial mechanistic overlap involving impaired autophagy, vesicular trafficking, lysosomal stress and altered organelle homeostasis. This proposed nosology extends disease classification beyond substrate accumulation alone and provides a biologically informed framework for disease classification, genomic interpretation, biomarker development, patient stratification and the development of mechanism-based therapies."
+    },
+    {
+      "pmid": "37951597",
+      "title": "Bi-allelic ACBD6 variants lead to a neurodevelopmental syndrome with progressive and complex movement disorders.",
+      "authors": [
+        "Kaiyrzhanov R",
+        "Rad A",
+        "Lin SJ",
+        "Bertoli-Avella A",
+        "Kallemeijn WW",
+        "Godwin A",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Brain : a journal of neurology",
+      "doi": "10.1093/brain/awad380",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Female",
+        "Humans",
+        "Male",
+        "ATP-Binding Cassette Transporters",
+        "Intellectual Disability",
+        "Microcephaly",
+        "Movement Disorders",
+        "Nervous System Malformations",
+        "Neurodevelopmental Disorders",
+        "Tremor",
+        "Zebrafish",
+        "Infant",
+        "Child, Preschool",
+        "Child",
+        "Adolescent",
+        "Young Adult",
+        "Adult",
+        "Middle Aged"
+      ],
+      "abstract": "The acyl-CoA-binding domain-containing protein 6 (ACBD6) is ubiquitously expressed, plays a role in the acylation of lipids and proteins and regulates the N-myristoylation of proteins via N-myristoyltransferase enzymes (NMTs). However, its precise function in cells is still unclear, as is the consequence of ACBD6 defects on human pathophysiology. Using exome sequencing and extensive international data sharing efforts, we identified 45 affected individuals from 28 unrelated families (consanguinity 93%) with bi-allelic pathogenic, predominantly loss-of-function (18/20) variants in ACBD6. We generated zebrafish and Xenopus tropicalis acbd6 knockouts by CRISPR/Cas9 and characterized the role of ACBD6 on protein N-myristoylation with myristic acid alkyne (YnMyr) chemical proteomics in the model organisms and human cells, with the latter also being subjected further to ACBD6 peroxisomal localization studies. The affected individuals (23 males and 22 females), aged 1-50\u2005years, typically present with a complex and progressive disease involving moderate-to-severe global developmental delay/intellectual disability (100%) with significant expressive language impairment (98%), movement disorders (97%), facial dysmorphism (95%) and mild cerebellar ataxia (85%) associated with gait impairment (94%), limb spasticity/hypertonia (76%), oculomotor (71%) and behavioural abnormalities (65%), overweight (59%), microcephaly (39%) and epilepsy (33%). The most conspicuous and common movement disorder was dystonia (94%), frequently leading to early-onset progressive postural deformities (97%), limb dystonia (55%) and cervical dystonia (31%). A jerky tremor in the upper limbs (63%), a mild head tremor (59%), parkinsonism/hypokinesia developing with advancing age (32%) and simple motor and vocal tics were among other frequent movement disorders. Midline brain malformations including corpus callosum abnormalities (70%), hypoplasia/agenesis of the anterior commissure (66%), short midbrain and small inferior cerebellar vermis (38% each) as well as hypertrophy of the clava (24%) were common neuroimaging findings. Acbd6-deficient zebrafish and Xenopus models effectively recapitulated many clinical phenotypes reported in patients including movement disorders, progressive neuromotor impairment, seizures, microcephaly, craniofacial dysmorphism and midbrain defects accompanied by developmental delay with increased mortality over time. Unlike ACBD5, ACBD6 did not show a peroxisomal localizati"
+    },
+    {
+      "pmid": "40245862",
+      "title": "Bi-allelic pathogenic variants in TRMT1 disrupt tRNA modification and induce a neurodevelopmental disorder.",
+      "authors": [
+        "Efthymiou S",
+        "Leo CP",
+        "Deng C",
+        "Lin SJ",
+        "Maroofian R",
+        "Lin R",
+        "et al."
+      ],
+      "year": "2025",
+      "journal": "American journal of human genetics",
+      "doi": "10.1016/j.ajhg.2025.03.015",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Humans",
+        "RNA, Transfer",
+        "Neurodevelopmental Disorders",
+        "tRNA Methyltransferases",
+        "Animals",
+        "Male",
+        "Zebrafish",
+        "Female",
+        "Alleles",
+        "Child",
+        "Child, Preschool",
+        "Intellectual Disability",
+        "RNA Processing, Post-Transcriptional",
+        "Adolescent"
+      ],
+      "abstract": "The post-transcriptional modification of tRNAs plays a crucial role in tRNA structure and function. Pathogenic variants in tRNA-modification enzymes have been implicated in a wide range of human neurodevelopmental and neurological disorders. However, the molecular basis for many of these disorders remains unknown. Here, we describe a comprehensive cohort of 43 individuals from 31 unrelated families with bi-allelic variants in tRNA methyltransferase 1 (TRMT1). These individuals present with a neurodevelopmental disorder universally characterized by developmental delay and intellectual disability, accompanied by variable behavioral abnormalities, epilepsy, and facial dysmorphism. The identified variants include ultra-rare TRMT1 variants, comprising missense and predicted loss-of-function variants, which segregate with the observed clinical pathology. Our findings reveal that several variants lead to mis-splicing and a consequent loss of TRMT1 protein accumulation. Moreover, cells derived from individuals harboring TRMT1 variants exhibit a deficiency in tRNA modifications catalyzed by TRMT1. Molecular analysis reveals distinct regions of TRMT1 required for tRNA-modification activity and binding. Notably, depletion of Trmt1 protein in zebrafish is sufficient to induce developmental and behavioral phenotypes along with gene-expression changes associated with disrupted cell cycle, immune response, and neurodegenerative disorders. Altogether, these findings demonstrate that loss of TRMT1-catalyzed tRNA modifications leads to intellectual disability and provides insight into the molecular underpinnings of tRNA-modification deficiency caused by pathogenic TRMT1 variants."
+    }
+  ]
+}

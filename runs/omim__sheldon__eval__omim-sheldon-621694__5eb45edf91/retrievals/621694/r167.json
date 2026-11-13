@@ -1,0 +1,36 @@
+{
+  "id": "r167",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (fibroblasts[MeSH] OR fibroblast[tiab]) AND (Humans[MeSH] OR patient[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'PSMF1[gene] AND (fibroblasts[MeSH] OR fibroblast[tiab]) AND (Humans[MeSH] OR patient[tiab])'; showing 2 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"fibroblasts\"[MeSH Terms] OR \"fibroblast\"[Title/Abstract]) AND (\"humans\"[MeSH Terms] OR \"patient\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21909130",
+      "title": "AKT induces senescence in human cells via mTORC1 and p53 in the absence of DNA damage: implications for targeting mTOR during malignancy.",
+      "first_author": "Astle MV",
+      "year": "2012",
+      "journal": "Oncogene",
+      "doi": "10.1038/onc.2011.394",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

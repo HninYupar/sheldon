@@ -1,0 +1,173 @@
+{
+  "id": "r82",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (immunodeficiency OR immunologic OR immune) AND (patient OR case OR family OR cohort)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "14 PubMed hits for 'SIT1[gene] AND (immunodeficiency OR immunologic OR immune) AND (patient OR case OR family OR cohort)'; showing 14 (PubMed read it as: \"SIT1\"[All Fields] AND (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields] OR (\"allergy and immunology\"[MeSH Terms] OR (\"allergy\"[All Fields] AND \"immunology\"[All Fields]) OR \"allergy and immunology\"[All Fields] OR \"immunologic\"[All Fields] OR \"immunological\"[All Fields] OR \"immunologically\"[All Fields] OR \"immunologicals\"[All Fields]) OR (\"immune\"[All Fields] OR \"immuned\"[All Fields] OR \"immunes\"[All Fields] OR \"immunisation\"[All Fields] OR \"vaccination\"[MeSH Terms] OR \"vaccination\"[All Fields] OR \"immunization\"[All Fields] OR \"immunization\"[MeSH Terms] OR \"immunisations\"[All Fields] OR \"immunizations\"[All Fields] OR \"immunise\"[All Fields] OR \"immunised\"[All Fields] OR \"immuniser\"[All Fields] OR \"immunisers\"[All Fields] OR \"immunising\"[All Fields] OR \"immunities\"[All Fields] OR \"immunity\"[MeSH Terms] OR \"immunity\"[All Fields] OR \"immunization s\"[All Fields] OR \"immunize\"[All Fields] OR \"immunized\"[All Fields] OR \"immunizer\"[All Fields] OR \"immunizers\"[All Fields] OR \"immunizes\"[All Fields] OR \"immunizing\"[All Fields])) AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"ieee int conf automation sci eng case\"[Journal] OR \"case phila\"[Journal] OR \"case\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33164640",
+      "title": "Bioinformatics analysis to screen key prognostic genes in the breast cancer tumor microenvironment.",
+      "first_author": "Ye Q",
+      "year": "2020",
+      "journal": "Bioengineered",
+      "doi": "10.1080/21655979.2020.1840731",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35563545",
+      "title": "Close Related Drug-Resistance Beijing Isolates of Mycobacterium tuberculosis Reveal a Different Transcriptomic Signature in a Murine Disease Progression Model.",
+      "first_author": "Cerezo-Cort\u00e9s MI",
+      "year": "2022",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms23095157",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35834115",
+      "title": "Screening of Diabetic Nephropathy Progression-Related Genes Based on Weighted Gene Co-expression Network Analysis.",
+      "first_author": "Yu L",
+      "year": "2023",
+      "journal": "Biochem Genet",
+      "doi": "10.1007/s10528-022-10250-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42838996",
+      "title": "Integrated spatial and single-cell transcriptomics uncover IFI6\u207a regulatory T-cells and SPP1\u207a macrophages immunosuppressive niches in colorectal cancer.",
+      "first_author": "Miroszewska D",
+      "year": "2026",
+      "journal": "Br J Cancer",
+      "doi": "10.1038/s41416-026-03637-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34409029",
+      "title": "Identification of CDK2-Related Immune Forecast Model and ceRNA in Lung Adenocarcinoma, a Pan-Cancer Analysis.",
+      "first_author": "Liu TT",
+      "year": "2021",
+      "journal": "Front Cell Dev Biol",
+      "doi": "10.3389/fcell.2021.682002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36008101",
+      "title": "Distinct blood protein profiles associated with the risk of short-term and mid/long-term clinical relapse in patients with Crohn's disease stopping infliximab: when the remission state hides different types of residual disease activity.",
+      "first_author": "Pierre N",
+      "year": "2023",
+      "journal": "Gut",
+      "doi": "10.1136/gutjnl-2022-327321",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36675674",
+      "title": "Discovery and Validation of a SIT1-Related Prognostic Signature Associated with Immune Infiltration in Cutaneous Melanoma.",
+      "first_author": "Jia M",
+      "year": "2022",
+      "journal": "J Pers Med",
+      "doi": "10.3390/jpm13010013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40332667",
+      "title": "Identifying Immune Response Protein Biomarkers in Parkinson's-Related Cognitive Impairment and Depression.",
+      "first_author": "Su Q",
+      "year": "2025",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-025-05022-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42695863",
+      "title": "Identification of Immune Response-Related Proteomic Biomarkers in Moyamoya Disease Using Serum Olink Proteomics.",
+      "first_author": "Zhang Z",
+      "year": "2026",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/acs.jproteome.6c00310",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41033605",
+      "title": "Identification of Distinct Subtypes in Immune Tolerance after Hematopoietic Cell Transplantation Using the Prospective ABLE1.0 Pediatric Study Cohort.",
+      "first_author": "Ng B",
+      "year": "2026",
+      "journal": "Transplant Cell Ther",
+      "doi": "10.1016/j.jtct.2025.09.034",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24821847",
+      "title": "Congenital transmission of multidrug-resistant tuberculosis.",
+      "first_author": "Espiritu N",
+      "year": "2014",
+      "journal": "Am J Trop Med Hyg",
+      "doi": "10.4269/ajtmh.13-0002",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31783188",
+      "title": "Analysis of Mycobacterium tuberculosis genetic lineages circulating in Riga and Riga region, Latvia, isolated between 2008 and 2012.",
+      "first_author": "Pole I",
+      "year": "2020",
+      "journal": "Infect Genet Evol",
+      "doi": "10.1016/j.meegid.2019.104126",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

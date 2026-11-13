@@ -1,0 +1,35 @@
+{
+  "id": "r101",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "42012897",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "2 'cited_by' links for PMID 42012897; showing 2",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41887224",
+      "title": "BLOC1S1 variants cause lysosomal and autophagic defects resulting in a hypomyelinating leukodystrophy with epileptic encephalopathy.",
+      "first_author": "De Pace R",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.02.024",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41465155",
+      "title": "WES-Based Screening of a Swedish Patient Series with Parkinson's Disease.",
+      "first_author": "Kafantari E",
+      "year": "2025",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes16121482",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

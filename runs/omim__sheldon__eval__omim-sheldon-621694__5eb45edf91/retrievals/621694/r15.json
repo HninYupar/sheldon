@@ -1,0 +1,12 @@
+{
+  "id": "r15",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"NEURODEGENERATION, CHILDHOOD-ONSET, WITH MOVEMENT DISORDERS, COGNITIVE DECLINE, AND BRAIN ABNORMALITIES\"[tiab] OR CONDMCB[tiab] OR 621694[si]) AND PSMF1[gene]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '(\"NEURODEGENERATION, CHILDHOOD-ONSET, WITH MOVEMENT DISORDERS, COGNITIVE DECLINE, AND BRAIN ABNORMALITIES\"[tiab] OR CONDMCB[tiab] OR 621694[si]) AND PSMF1[gene]'; showing 0 (PubMed read it as: (\"NEURODEGENERATION, CHILDHOOD-ONSET, WITH MOVEMENT DISORDERS, COGNITIVE DECLINE, AND BRAIN ABNORMALITIES\"[tiab] OR CONDMCB[tiab] OR 621694[si]) AND PSMF1[gene])",
+  "ok": true,
+  "evidence": []
+}

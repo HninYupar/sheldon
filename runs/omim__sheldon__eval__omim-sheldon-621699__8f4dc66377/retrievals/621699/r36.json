@@ -1,0 +1,246 @@
+{
+  "id": "r36",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (variant OR mutation OR homozygous OR biallelic OR pathogenic)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "63 PubMed hits for 'SIT1[gene] AND (variant OR mutation OR homozygous OR biallelic OR pathogenic)'; showing 20 (PubMed read it as: \"SIT1\"[All Fields] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields] OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR (\"bialleleic\"[All Fields] OR \"biallelic\"[All Fields] OR \"biallelically\"[All Fields]) OR (\"pathogen\"[All Fields] OR \"pathogen s\"[All Fields] OR \"pathogene\"[All Fields] OR \"pathogenes\"[All Fields] OR \"pathogenic\"[All Fields] OR \"pathogenically\"[All Fields] OR \"pathogenicities\"[All Fields] OR \"pathogenicity\"[MeSH Subheading] OR \"pathogenicity\"[All Fields] OR \"virulence\"[MeSH Terms] OR \"virulence\"[All Fields] OR \"pathogenity\"[All Fields] OR \"pathogenous\"[All Fields] OR \"pathogens\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38951531",
+      "title": "Structure and function of the SIT1 proline transporter in complex with the COVID-19 receptor ACE2.",
+      "first_author": "Li HZ",
+      "year": "2024",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-024-48921-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33320938",
+      "title": "Drug-resistant Mycobacterium tuberculosis and its genotypes isolated from an outbreak in western Thailand.",
+      "first_author": "Rudeeaneksin J",
+      "year": "2021",
+      "journal": "Trans R Soc Trop Med Hyg",
+      "doi": "10.1093/trstmh/traa148",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38907990",
+      "title": "Biomimetic Analogues of the Desferrioxamine E Siderophore for PET Imaging of Invasive Aspergillosis: Targeting Properties and Species Specificity.",
+      "first_author": "Mular A",
+      "year": "2024",
+      "journal": "J Med Chem",
+      "doi": "10.1021/acs.jmedchem.4c00887",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32608016",
+      "title": "Is susceptibility to severe COVID-19 disease an inborn error of metabolism?",
+      "first_author": "Clayton PT",
+      "year": "2020",
+      "journal": "J Inherit Metab Dis",
+      "doi": "10.1002/jimd.12280",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "39108991",
+      "title": "Discordance Between Phenotypic and WGS-Based Drug Susceptibility Testing Results for Some Anti-Tuberculosis Drugs: A Snapshot Study of Paired Mycobacterium tuberculosis Isolates with Small Genetic Distance.",
+      "first_author": "Sadovska D",
+      "year": "2024",
+      "journal": "Infect Drug Resist",
+      "doi": "10.2147/IDR.S468997",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42459881",
+      "title": "A hospital-based genomic analysis reveals predominance of ST215 Mycobacterium tuberculosis with low drug resistance.",
+      "first_author": "Yang M",
+      "year": "2026",
+      "journal": "Front Microbiol",
+      "doi": "10.3389/fmicb.2026.1871161",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19184091",
+      "title": "Kidney amino acid transport.",
+      "first_author": "Verrey F",
+      "year": "2009",
+      "journal": "Pflugers Arch",
+      "doi": "10.1007/s00424-009-0638-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40873928",
+      "title": "Role of the putative sit1 gene in normal germination of spores and virulence of the Mucor lusitanicus.",
+      "first_author": "V\u00e1g\u00f3 B",
+      "year": "2025",
+      "journal": "Microb Cell",
+      "doi": "10.15698/mic2025.08.856",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36675674",
+      "title": "Discovery and Validation of a SIT1-Related Prognostic Signature Associated with Immune Infiltration in Cutaneous Melanoma.",
+      "first_author": "Jia M",
+      "year": "2022",
+      "journal": "J Pers Med",
+      "doi": "10.3390/jpm13010013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33140827",
+      "title": "ACE2 and gut amino acid transport.",
+      "first_author": "Camargo SMR",
+      "year": "2020",
+      "journal": "Clin Sci (Lond)",
+      "doi": "10.1042/CS20200477",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "28760824",
+      "title": "The glucose sensor Snf1 and the transcription factors Msn2 and Msn4 regulate transcription of the vacuolar iron importer gene CCC1 and iron resistance in yeast.",
+      "first_author": "Li L",
+      "year": "2017",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M117.802504",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12760852",
+      "title": "Ciclopirox olamine treatment affects the expression pattern of Candida albicans genes encoding virulence factors, iron metabolism proteins, and drug resistance factors.",
+      "first_author": "Niewerth M",
+      "year": "2003",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.47.6.1805-1817.2003",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17185532",
+      "title": "The iron- and cAMP-regulated gene SIT1 influences ferrioxamine B utilization, melanization and cell wall structure in Cryptococcus neoformans.",
+      "first_author": "Tangen KL",
+      "year": "2007",
+      "journal": "Microbiology (Reading)",
+      "doi": "10.1099/mic.0.2006/000927-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41142409",
+      "title": "Mechanisms involved in aminoacidurias: impacts of genetic and environmental factors.",
+      "first_author": "Ajayi JA",
+      "year": "2025",
+      "journal": "Curr Res Physiol",
+      "doi": "10.1016/j.crphys.2025.100168",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34575806",
+      "title": "The Siderophore Transporters Sit1 and Sit2 Are Essential for Utilization of Ferrichrome-, Ferrioxamine- and Coprogen-Type Siderophores in Aspergillus fumigatus.",
+      "first_author": "Aguiar M",
+      "year": "2021",
+      "journal": "J Fungi (Basel)",
+      "doi": "10.3390/jof7090768",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25847698",
+      "title": "Genotypic diversity of multidrug-, quinolone- and extensively drug-resistant Mycobacterium tuberculosis isolates in Thailand.",
+      "first_author": "Disratthakit A",
+      "year": "2015",
+      "journal": "Infect Genet Evol",
+      "doi": "10.1016/j.meegid.2015.03.038",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36384914",
+      "title": "Structures of ACE2-SIT1 recognized by Omicron variants of SARS-CoV-2.",
+      "first_author": "Shen Y",
+      "year": "2022",
+      "journal": "Cell Discov",
+      "doi": "10.1038/s41421-022-00488-x",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "37996067",
+      "title": "Gene Duplication, Shifting Selection, and Dosage Balance of Silicon Transporter Proteins in Marine and Freshwater Diatoms.",
+      "first_author": "Bry\u0142ka K",
+      "year": "2023",
+      "journal": "Genome Biol Evol",
+      "doi": "10.1093/gbe/evad212",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "26929401",
+      "title": "Identification of ferrichrome- and ferrioxamine B-mediated iron uptake by Aspergillus fumigatus.",
+      "first_author": "Park YS",
+      "year": "2016",
+      "journal": "Biochem J",
+      "doi": "10.1042/BCJ20160066",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

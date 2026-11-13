@@ -1,0 +1,130 @@
+{
+  "id": "r51",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "35977808",
+    "relation": "similar",
+    "max_results": 10
+  },
+  "summary": "99 'similar' links for PMID 35977808; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "30008451",
+      "title": "Whole Exome Sequencing in Early-onset Systemic Lupus Erythematosus.",
+      "first_author": "Batu ED",
+      "year": "2018",
+      "journal": "J Rheumatol",
+      "doi": "10.3899/jrheum.171358",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38739464",
+      "title": "Detection of genetic mutations underlying early-onset systemic lupus erythematosus.",
+      "first_author": "Sener S",
+      "year": "2024",
+      "journal": "Lupus",
+      "doi": "10.1177/09612033241255011",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "28544690",
+      "title": "Brief Report: Deficiency of Complement 1r Subcomponent in Early-Onset Systemic Lupus Erythematosus: The Role of Disease-Modifying Alleles in a Monogenic Disease.",
+      "first_author": "Demirkaya E",
+      "year": "2017",
+      "journal": "Arthritis Rheumatol",
+      "doi": "10.1002/art.40158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36379578",
+      "title": "Genome-Wide Sequencing Identified Rare Genetic Variants for Childhood-Onset Monogenic Lupus.",
+      "first_author": "Misztal MC",
+      "year": "2023",
+      "journal": "J Rheumatol",
+      "doi": "10.3899/jrheum.220513",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30707351",
+      "title": "Whole-genome sequencing identifies complex contributions to genetic risk by variants in genes causing monogenic systemic lupus erythematosus.",
+      "first_author": "Alml\u00f6f JC",
+      "year": "2019",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-018-01966-7",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31848144",
+      "title": "Germline genetic patterns underlying familial rheumatoid arthritis, systemic lupus erythematosus and primary Sj\u00f6gren's syndrome highlight T cell-initiated autoimmunity.",
+      "first_author": "Wang Y",
+      "year": "2020",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/annrheumdis-2019-215533",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39380326",
+      "title": "Whole exome sequencing in patients with childhood-onset systemic lupus erythematosus: Results from a Croatian national study.",
+      "first_author": "Sestan M",
+      "year": "2024",
+      "journal": "Scand J Immunol",
+      "doi": "10.1111/sji.13411",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34556485",
+      "title": "Human SLE variant NCF1-R90H promotes kidney damage and murine lupus through enhanced Tfh2 responses induced by defective efferocytosis of macrophages.",
+      "first_author": "Geng L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/annrheumdis-2021-220793",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39933823",
+      "title": "Rare and common single nucleotide variants in childhood-onset systemic lupus erythematosus.",
+      "first_author": "Sayadi A",
+      "year": "2025",
+      "journal": "Lupus Sci Med",
+      "doi": "10.1136/lupus-2024-001436",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38263665",
+      "title": "Contribution of rare and predicted pathogenic gene variants to childhood-onset lupus: a large, genetic panel analysis of British and French cohorts.",
+      "first_author": "Belot A",
+      "year": "2020",
+      "journal": "Lancet Rheumatol",
+      "doi": "10.1016/S2665-9913(19)30142-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

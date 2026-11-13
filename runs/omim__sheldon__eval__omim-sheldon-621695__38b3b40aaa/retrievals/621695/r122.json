@@ -1,0 +1,168 @@
+{
+  "id": "r122",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"arthrogryposis multiplex congenita 8\"[tiab] OR AMC8[tiab] OR \"phenotype MIM 621695\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "13 PubMed hits for '\"arthrogryposis multiplex congenita 8\"[tiab] OR AMC8[tiab] OR \"phenotype MIM 621695\"[tiab]'; showing 13 (PubMed read it as: \"AMC8\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40580892",
+      "title": "Development of a versatile deep hyperthermia treatment planning tool.",
+      "first_author": "Drizdal T",
+      "year": "2025",
+      "journal": "Phys Med",
+      "doi": "10.1016/j.ejmp.2025.105035",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21204620",
+      "title": "3D versus 2D steering in patient anatomies: a comparison using hyperthermia treatment planning.",
+      "first_author": "De Greef M",
+      "year": "2011",
+      "journal": "Int J Hyperthermia",
+      "doi": "10.3109/02656736.2010.531882",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31969039",
+      "title": "Locoregional peritoneal hyperthermia to enhance the effectiveness of chemotherapy in patients with peritoneal carcinomatosis: a simulation study comparing different locoregional heating systems.",
+      "first_author": "Kok HP",
+      "year": "2020",
+      "journal": "Int J Hyperthermia",
+      "doi": "10.1080/02656736.2019.1710270",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29145750",
+      "title": "Feasibility of on-line temperature-based hyperthermia treatment planning to improve tumour temperatures during locoregional hyperthermia.",
+      "first_author": "Kok HP",
+      "year": "2018",
+      "journal": "Int J Hyperthermia",
+      "doi": "10.1080/02656736.2017.1400120",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28870786",
+      "title": "Online Adaptive Hyperthermia Treatment Planning During Locoregional Heating to Suppress Treatment-Limiting Hot Spots.",
+      "first_author": "Kok HP",
+      "year": "2017",
+      "journal": "Int J Radiat Oncol Biol Phys",
+      "doi": "10.1016/j.ijrobp.2017.07.011",
+      "pubtype": [
+        "Evaluation Study",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21540493",
+      "title": "Uncertainty in hyperthermia treatment planning: the need for robust system design.",
+      "first_author": "de Greef M",
+      "year": "2011",
+      "journal": "Phys Med Biol",
+      "doi": "10.1088/0031-9155/56/11/005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24411189",
+      "title": "Quantifying the combined effect of radiation therapy and hyperthermia in terms of equivalent dose distributions.",
+      "first_author": "Kok HP",
+      "year": "2014",
+      "journal": "Int J Radiat Oncol Biol Phys",
+      "doi": "10.1016/j.ijrobp.2013.11.212",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19746813",
+      "title": "Acceleration of high resolution temperature based optimization for hyperthermia treatment planning using element grouping.",
+      "first_author": "Kok HP",
+      "year": "2009",
+      "journal": "Med Phys",
+      "doi": "10.1118/1.3168973",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20964171",
+      "title": "Optimization in hyperthermia treatment planning: the impact of tissue perfusion uncertainty.",
+      "first_author": "de Greef M",
+      "year": "2010",
+      "journal": "Med Phys",
+      "doi": "10.1118/1.3462561",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21501024",
+      "title": "Improved power steering with double and triple ring waveguide systems: the impact of the operating frequency.",
+      "first_author": "Kok HP",
+      "year": "2011",
+      "journal": "Int J Hyperthermia",
+      "doi": "10.3109/02656736.2011.561270",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24089933",
+      "title": "Fast thermal simulations and temperature optimization for hyperthermia treatment planning, including realistic 3D vessel networks.",
+      "first_author": "Kok HP",
+      "year": "2013",
+      "journal": "Med Phys",
+      "doi": "10.1118/1.4821544",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20679701",
+      "title": "The impact of the waveguide aperture size of the 3D 70 MHz AMC-8 locoregional hyperthermia system on tumour coverage.",
+      "first_author": "Kok HP",
+      "year": "2010",
+      "journal": "Phys Med Biol",
+      "doi": "10.1088/0031-9155/55/17/002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19848620",
+      "title": "Improving locoregional hyperthermia delivery using the 3-D controlled AMC-8 phased array hyperthermia system: a preclinical study.",
+      "first_author": "Crezee J",
+      "year": "2009",
+      "journal": "Int J Hyperthermia",
+      "doi": "10.3109/02656730903213374",
+      "pubtype": [
+        "Evaluation Study",
+        "Journal Article"
+      ]
+    }
+  ]
+}

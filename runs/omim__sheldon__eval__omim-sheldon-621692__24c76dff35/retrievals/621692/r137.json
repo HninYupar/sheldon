@@ -1,0 +1,12 @@
+{
+  "id": "r137",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (E1044K OR \"p.Glu1044Lys\" OR \"1044Lys\" OR \"Glu1044Lys\")",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'CACNA1A[gene] AND (E1044K OR \"p.Glu1044Lys\" OR \"1044Lys\" OR \"Glu1044Lys\")'; showing 0 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND \"Glu1044Lys\"[All Fields])",
+  "ok": true,
+  "evidence": []
+}

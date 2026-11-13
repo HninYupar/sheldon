@@ -1,0 +1,133 @@
+{
+  "id": "r10",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"NEURODEVELOPMENTAL DISORDER WITH SEIZURES AND CEREBELLAR HYPOPLASIA\"[tiab] OR NEDSCH[tiab] OR ATG12[gene]) AND (patient OR patients OR case OR cohort OR syndrome OR disorder)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "511 PubMed hits for '(\"NEURODEVELOPMENTAL DISORDER WITH SEIZURES AND CEREBELLAR HYPOPLASIA\"[tiab] OR NEDSCH[tiab] OR ATG12[gene]) AND (patient OR patients OR case OR cohort OR syndrome OR disorder)'; showing 10 (PubMed read it as: \"ATG12\"[All Fields] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"ieee int conf automation sci eng case\"[Journal] OR \"case phila\"[Journal] OR \"case\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"syndrom\"[All Fields] OR \"syndromal\"[All Fields] OR \"syndromally\"[All Fields] OR \"syndrome\"[MeSH Terms] OR \"syndrome\"[All Fields] OR \"syndromes\"[All Fields] OR \"syndrome s\"[All Fields] OR \"syndromic\"[All Fields] OR \"syndroms\"[All Fields]) OR (\"disease\"[MeSH Terms] OR \"disease\"[All Fields] OR \"disorder\"[All Fields] OR \"disorders\"[All Fields] OR \"disorder s\"[All Fields] OR \"disordes\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39007805",
+      "title": "Key considerations for investigating and interpreting autophagy in skeletal muscle.",
+      "first_author": "Rahman FA",
+      "year": "2024",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2024.2373676",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35247713",
+      "title": "Substrate-specific presentation of MHC class I-restricted antigens via autophagy pathway.",
+      "first_author": "Tovar Fernandez MC",
+      "year": "2022",
+      "journal": "Cell Immunol",
+      "doi": "10.1016/j.cellimm.2022.104484",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30335591",
+      "title": "Trehalose induces autophagy via lysosomal-mediated TFEB activation in models of motoneuron degeneration.",
+      "first_author": "Rusmini P",
+      "year": "2019",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2018.1535292",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40509575",
+      "title": "Macrophage TRIM21 knockout inhibits septic acute lung injury by downregulating autophagy regulator protein ubiquitination.",
+      "first_author": "Xie F",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2025.2519063",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35222638",
+      "title": "Deficient Autophagy in Microglia Aggravates Repeated Social Defeat Stress-Induced Social Avoidance.",
+      "first_author": "Sakai M",
+      "year": "2022",
+      "journal": "Neural Plast",
+      "doi": "10.1155/2022/7503553",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38948070",
+      "title": "FUNDC1 alleviates doxorubicin-induced cardiotoxicity by restoring mitochondrial-endoplasmic reticulum contacts and blocked autophagic flux.",
+      "first_author": "He W",
+      "year": "2024",
+      "journal": "Theranostics",
+      "doi": "10.7150/thno.92771",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35202175",
+      "title": "Zearalenone Induces Apoptosis and Autophagy in a Spermatogonia Cell Line.",
+      "first_author": "Lee R",
+      "year": "2022",
+      "journal": "Toxins (Basel)",
+      "doi": "10.3390/toxins14020148",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36576150",
+      "title": "TRIM7/RNF90 promotes autophagy via regulation of ATG7 ubiquitination during L. monocytogenes infection.",
+      "first_author": "Wang J",
+      "year": "2023",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2022.2162706",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38186269",
+      "title": "TRPM2-dependent autophagy inhibition exacerbates oxidative stress-induced CXCL16 secretion by keratinocytes in vitiligo.",
+      "first_author": "Kang P",
+      "year": "2024",
+      "journal": "J Pathol",
+      "doi": "10.1002/path.6247",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39153543",
+      "title": "Leptin A deficiency affecting the mitochondrial dynamics of aged oocytes in medaka (Oryzias latipes).",
+      "first_author": "Yang J",
+      "year": "2024",
+      "journal": "Mol Cell Endocrinol",
+      "doi": "10.1016/j.mce.2024.112345",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

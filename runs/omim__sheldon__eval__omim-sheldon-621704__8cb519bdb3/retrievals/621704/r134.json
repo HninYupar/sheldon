@@ -1,0 +1,61 @@
+{
+  "id": "r134",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "BORCS5[gene] AND (2024[dp] OR 2023[dp] OR 2022[dp] OR 2021[dp] OR 2020[dp])",
+    "max_results": 20,
+    "sort": "pub_date"
+  },
+  "summary": "4 PubMed hits for 'BORCS5[gene] AND (2024[dp] OR 2023[dp] OR 2022[dp] OR 2021[dp] OR 2020[dp])'; showing 4 (PubMed read it as: \"BORCS5\"[All Fields] AND (2024/01/01:2024/12/31[Date - Publication] OR 2023/01/01:2023/12/31[Date - Publication] OR 2022/01/01:2022/12/31[Date - Publication] OR 2021/01/01:2021/12/31[Date - Publication] OR 2020/01/01:2020/12/31[Date - Publication]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40336248",
+      "title": "Whole-genome resequencing reveals genetic differentiation and selection signatures among wild, local and commercial duck populations.",
+      "first_author": "Huang Z",
+      "year": "2025",
+      "journal": "Anim Biosci",
+      "doi": "10.5713/ab.24.0643",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39740668",
+      "title": "The structure and assembly of the hetero-octameric BLOC-one-related complex.",
+      "first_author": "Ge X",
+      "year": "2025",
+      "journal": "Structure",
+      "doi": "10.1016/j.str.2024.12.001",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36717601",
+      "title": "BORC complex specific components and Kinesin-1 mediate autophagy evasion by the autophagy-resistant Mycobacterium tuberculosis Beijing strain.",
+      "first_author": "Tunganuntarat J",
+      "year": "2023",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-023-28983-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34032881",
+      "title": "Integrative omics provide biological and clinical insights into acute respiratory distress syndrome.",
+      "first_author": "Du M",
+      "year": "2021",
+      "journal": "Intensive Care Med",
+      "doi": "10.1007/s00134-021-06410-5",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

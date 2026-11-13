@@ -1,0 +1,12 @@
+{
+  "id": "r2",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"SLEB19\"[tiab] OR \"systemic lupus erythematosus 19\"[tiab] OR \"301172\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"SLEB19\"[tiab] OR \"systemic lupus erythematosus 19\"[tiab] OR \"301172\"[tiab]'; showing 0 (PubMed read it as: \"SLEB19\"[tiab] OR \"systemic lupus erythematosus 19\"[tiab] OR \"301172\"[tiab])",
+  "ok": true,
+  "evidence": []
+}

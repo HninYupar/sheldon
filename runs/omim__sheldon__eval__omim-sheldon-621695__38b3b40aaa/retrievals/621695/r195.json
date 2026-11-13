@@ -1,0 +1,25 @@
+{
+  "id": "r195",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "37303329",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "1 'cited_by' links for PMID 37303329; showing 1",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42400009",
+      "title": "From shore to sequelae: delayed hypersensitivity reaction mimicking softtissue infection following stingray envenomation: a case report.",
+      "first_author": "Onyango NO",
+      "year": "2026",
+      "journal": "J Med Case Rep",
+      "doi": "10.1186/s13256-026-06319-x",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    }
+  ]
+}

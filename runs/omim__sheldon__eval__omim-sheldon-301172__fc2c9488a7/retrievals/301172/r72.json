@@ -1,0 +1,77 @@
+{
+  "id": "r72",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "35977808",
+      "37438615"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "authors": [
+        "Xu L",
+        "Zhao J",
+        "Sun Q",
+        "Xu X",
+        "Wang L",
+        "Liu T",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "Annals of the rheumatic diseases",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Animals",
+        "Child",
+        "Female",
+        "Humans",
+        "Male",
+        "Mice",
+        "Genetic Predisposition to Disease",
+        "Homozygote",
+        "Lupus Erythematosus, Systemic",
+        "Spermine",
+        "Genetic Diseases, X-Linked",
+        "Acetyltransferases",
+        "Diamine N-Acetyltransferase"
+      ],
+      "abstract": "OBJECTIVES: Families that contain multiple siblings affected with childhood onset of systemic lupus erythematosus (SLE) likely have strong genetic predispositions. We performed whole exome sequencing (WES) to identify familial rare risk variants and to assess their effects in lupus.\nMETHODS: Sanger sequencing validated the two ultra-rare, predicted pathogenic risk variants discovered by WES and identified additional variants in 562 additional patients with SLE. Effects of a splice site variant and a frameshift variant were assessed using a Minigene assay and CRISPR/Cas9-mediated knock-in (KI) mice, respectively.\nRESULTS: The two familial ultra-rare, predicted loss-of-function (LOF) SAT1 variants exhibited X-linked recessive Mendelian inheritance in two unrelated African-American families. Each LOF variant was transmitted from the heterozygous unaffected mother to her two sons with childhood-onset SLE. The p.Asp40Tyr variant affected a splice donor site causing deleterious transcripts. The young hemizygous male and homozygous female Sat1 p.Glu92Leufs*6 KI mice spontaneously developed splenomegaly, enlarged glomeruli with leucocyte infiltration, proteinuria and elevated expression of type I interferon-inducible genes. SAT1 is highly expressed in neutrophils and encodes spermidine/spermine-N1-acetyltransferase 1 (SSAT1), a rate-limiting enzyme in polyamine catabolism. Young male KI mice exhibited neutrophil defects and decreased proportions of Foxp3 +CD4+ T-cell subsets. Circulating neutrophil counts and proportions of Foxp3 +CD4+ T cells correlated with decreased plasma levels of spermine in treatment-naive, incipient SLE patients.\nCONCLUSIONS: We identified two novel SAT1 LOF variants, showed the ability of the frameshift variant to confer murine lupus, highlighted the pathogenic role of dysregulated polyamine catabolism and identified SAT1 LOF variants as new monogenic causes for SLE."
+    },
+    {
+      "pmid": "37438615",
+      "title": "Genetics of SLE: mechanistic insights from monogenic disease and disease-associated variants.",
+      "authors": [
+        "Vinuesa CG",
+        "Shen N",
+        "Ware T"
+      ],
+      "year": "2023",
+      "journal": "Nature reviews. Nephrology",
+      "doi": "10.1038/s41581-023-00732-x",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh": [
+        "Animals",
+        "Mice",
+        "Genome-Wide Association Study",
+        "Lupus Erythematosus, Systemic",
+        "Autoimmunity",
+        "Autoantibodies",
+        "DNA",
+        "Genetic Predisposition to Disease"
+      ],
+      "abstract": "The past few years have provided important insights into the genetic architecture of systemic autoimmunity through aggregation of findings from genome-wide association studies (GWAS) and whole-exome or whole-genome sequencing studies. In the prototypic systemic autoimmune disease systemic lupus erythematosus (SLE), monogenic disease accounts for a small fraction of cases but has been instrumental in the elucidation of disease mechanisms. Defects in the\u00a0clearance or digestion of extracellular or intracellular DNA or RNA lead to increased sensing of nucleic acids, which can break B cell tolerance and induce the production of type I interferons leading to tissue damage. Current data suggest that multiple GWAS SLE risk alleles act in concert with rare functional variants to promote SLE development. Moreover, introduction of orthologous variant alleles into mice has revealed that pathogenic X-linked dominant and recessive SLE can be caused by novel variants in TLR7 and SAT1, respectively. Such bespoke models of disease help to\u00a0unravel pathogenic pathways and can be used to test targeted therapies. Cell type-specific expression data revealed that most GWAS SLE risk genes are highly expressed in age-associated B cells (ABCs), which supports the view that ABCs produce lupus autoantibodies and contribute to end-organ damage by persisting in inflamed tissues, including the kidneys. ABCs have thus emerged as key targets of promising precision therapeutics."
+    }
+  ]
+}

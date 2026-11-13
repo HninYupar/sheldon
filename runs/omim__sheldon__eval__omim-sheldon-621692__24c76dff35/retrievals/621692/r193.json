@@ -1,0 +1,133 @@
+{
+  "id": "r193",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "34320921",
+    "relation": "references",
+    "max_results": 10
+  },
+  "summary": "14 'references' links for PMID 34320921; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "32430436",
+      "title": "Diagnostic and therapeutic aspects of hemiplegic migraine.",
+      "first_author": "Di Stefano V",
+      "year": "2020",
+      "journal": "J Neurol Neurosurg Psychiatry",
+      "doi": "10.1136/jnnp-2020-322850",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29368949",
+      "title": "Headache Classification Committee of the International Headache Society (IHS) The International Classification of Headache Disorders, 3rd edition.",
+      "first_author": "",
+      "year": "2018",
+      "journal": "Cephalalgia",
+      "doi": "10.1177/0333102417738202",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24498617",
+      "title": "Screening of CACNA1A and ATP1A2 genes in hemiplegic migraine: clinical, genetic, and functional studies.",
+      "first_author": "Carre\u00f1o O",
+      "year": "2013",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.24",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24270521",
+      "title": "Rare clinical findings in a patient with sporadic hemiplegic migraine: FDG-PET provides diminished brain metabolism at 10-year follow-up.",
+      "first_author": "Topakian R",
+      "year": "2014",
+      "journal": "Cephalalgia",
+      "doi": "10.1177/0333102413513182",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "23992774",
+      "title": "Delirium in elderly people.",
+      "first_author": "Inouye SK",
+      "year": "2014",
+      "journal": "Lancet",
+      "doi": "10.1016/S0140-6736(13)60688-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "23077016",
+      "title": "PRRT2 mutations cause hemiplegic migraine.",
+      "first_author": "Riant F",
+      "year": "2012",
+      "journal": "Neurology",
+      "doi": "10.1212/WNL.0b013e3182752cb8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22661290",
+      "title": "Psychotic aura symptoms in familial hemiplegic migraine type 2 (ATP1A2).",
+      "first_author": "Barros J",
+      "year": "2012",
+      "journal": "J Headache Pain",
+      "doi": "10.1007/s10194-012-0462-5",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "21458376",
+      "title": "Sporadic and familial hemiplegic migraine: pathophysiological mechanisms, clinical characteristics, diagnosis, and management.",
+      "first_author": "Russell MB",
+      "year": "2011",
+      "journal": "Lancet Neurol",
+      "doi": "10.1016/S1474-4422(11)70048-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20129625",
+      "title": "Identification of novel and recurrent CACNA1A gene mutations in fifteen patients with episodic ataxia type 2.",
+      "first_author": "Mantuano E",
+      "year": "2010",
+      "journal": "J Neurol Sci",
+      "doi": "10.1016/j.jns.2010.01.010",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "17142831",
+      "title": "The genetic spectrum of a population-based sample of familial hemiplegic migraine.",
+      "first_author": "Thomsen LL",
+      "year": "2007",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awl334",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

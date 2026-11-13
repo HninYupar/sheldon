@@ -1,0 +1,12 @@
+{
+  "id": "r148",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder\"",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for '\"Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder\"'; showing 0 (PubMed read it as: \"bi allelic\"[All Fields] AND \"atg12\"[All Fields] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) AND (\"impair\"[All Fields] OR \"impaired\"[All Fields] OR \"impairement\"[All Fields] OR \"impairements\"[All Fields] OR \"impairing\"[All Fields] OR \"impairment\"[All Fields] OR \"impairments\"[All Fields] OR \"impairs\"[All Fields]) AND (\"autophagies\"[All Fields] OR \"autophagy\"[MeSH Terms] OR \"autophagy\"[All Fields] OR \"autophagy s\"[All Fields]) AND cause a[Author] AND (\"neurodevelopmental disorders\"[MeSH Terms] OR (\"neurodevelopmental\"[All Fields] AND \"disorders\"[All Fields]) OR \"neurodevelopmental disorders\"[All Fields] OR (\"neurodevelopmental\"[All Fields] AND \"disorder\"[All Fields]) OR \"neurodevelopmental disorder\"[All Fields]))",
+  "ok": true,
+  "evidence": []
+}

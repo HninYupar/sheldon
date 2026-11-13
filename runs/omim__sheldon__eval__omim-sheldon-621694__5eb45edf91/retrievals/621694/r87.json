@@ -1,0 +1,71 @@
+{
+  "id": "r87",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "41253044",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "5 'cited_by' links for PMID 41253044; showing 5",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42853660",
+      "title": "Dystrophic changes of nigrostriatal axons harboring a SYNJ1 Parkinson's mutation suggest catastrophic failure of endocytic mechanisms.",
+      "first_author": "Wu Y",
+      "year": "2026",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2622215123",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42602159",
+      "title": "Dynamic structural profiling of PINK1 mutations (T313M and L347P) reveals a vital molecular perturbation namely phospho-Serine 65 ubiquitin recognition point in mitophagy mediated autosomal recessive Parkinson's disease (ARPD).",
+      "first_author": "Vincent D",
+      "year": "2026",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2026.1875988",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42541557",
+      "title": "What's in a name? reframing advanced Parkinson's disease as a multidimensional state.",
+      "first_author": "Phokaewvarangkul O",
+      "year": "2026",
+      "journal": "J Neural Transm (Vienna)",
+      "doi": "10.1007/s00702-026-03257-2",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42218352",
+      "title": "The vicious cycle: unraveling the interplay between \u03b1-synuclein, mitochondrial dysfunction, and neuroinflammation in Parkinson's disease.",
+      "first_author": "Liang YL",
+      "year": "2026",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-026-13900-3",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42121940",
+      "title": "Limitations of Stem Cell Therapy for Parkinson's Disease.",
+      "first_author": "Li Z",
+      "year": "2026",
+      "journal": "Cells",
+      "doi": "10.3390/cells15090839",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

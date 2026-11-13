@@ -1,0 +1,255 @@
+{
+  "id": "r151",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"proteasome inhibitor subunit 1\" AND (fibroblast OR mouse OR mice OR Drosophila OR mitochondria OR proteasome)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1370 PubMed hits for '\"proteasome inhibitor subunit 1\" AND (fibroblast OR mouse OR mice OR Drosophila OR mitochondria OR proteasome)'; showing 20 (PubMed read it as: (\"proteasome inhibitors\"[Pharmacological Action] OR \"proteasome inhibitors\"[Supplementary Concept] OR \"proteasome inhibitors\"[All Fields] OR \"proteasome inhibitor\"[All Fields] OR \"proteasome inhibitors\"[MeSH Terms] OR (\"proteasome\"[All Fields] AND \"inhibitors\"[All Fields]) OR (\"proteasome\"[All Fields] AND \"inhibitor\"[All Fields])) AND (\"protein subunits\"[Supplementary Concept] OR \"protein subunits\"[All Fields] OR \"subunit\"[All Fields] OR \"protein subunits\"[MeSH Terms] OR (\"protein\"[All Fields] AND \"subunits\"[All Fields]) OR \"subunit s\"[All Fields] OR \"subunits\"[All Fields]) AND \"1\"[All Fields] AND (\"fibroblastic\"[All Fields] OR \"fibroblasts\"[MeSH Terms] OR \"fibroblasts\"[All Fields] OR \"fibroblast\"[All Fields] OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields]) OR (\"drosophila\"[MeSH Terms] OR \"drosophila\"[All Fields] OR \"drosophilas\"[All Fields] OR \"drosophila s\"[All Fields]) OR (\"mitochondria\"[MeSH Terms] OR \"mitochondria\"[All Fields] OR \"mitochondria s\"[All Fields] OR \"mitochondriae\"[All Fields] OR \"mitochondrias\"[All Fields]) OR (\"proteasomal\"[All Fields] OR \"proteasomally\"[All Fields] OR \"proteasome endopeptidase complex\"[Supplementary Concept] OR \"proteasome endopeptidase complex\"[All Fields] OR \"proteasome\"[All Fields] OR \"proteasome endopeptidase complex\"[MeSH Terms] OR (\"proteasome\"[All Fields] AND \"endopeptidase\"[All Fields] AND \"complex\"[All Fields]) OR \"proteasomes\"[All Fields] OR \"proteasome s\"[All Fields] OR \"proteasomic\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41339338",
+      "title": "Proteasome inhibition as a potential therapeutic target in thymic cancer.",
+      "first_author": "Okada S",
+      "year": "2025",
+      "journal": "Cell Death Dis",
+      "doi": "10.1038/s41419-025-08240-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35053202",
+      "title": "Site-Specific Proteasome Inhibitors.",
+      "first_author": "Kisselev AF",
+      "year": "2021",
+      "journal": "Biomolecules",
+      "doi": "10.3390/biom12010054",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "39356034",
+      "title": "Targeting Immunoproteasome in Polarized Macrophages Ameliorates Experimental Emphysema Via Activating NRF1/2-P62 Axis and Suppressing IRF4 Transcription.",
+      "first_author": "Guo B",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202405318",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38097652",
+      "title": "Structures revealing mechanisms of resistance and collateral sensitivity of Plasmodium falciparum to proteasome inhibitors.",
+      "first_author": "Hsu HC",
+      "year": "2023",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-023-44077-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "34207520",
+      "title": "Small-Molecule Inhibitors Targeting Proteasome-Associated Deubiquitinases.",
+      "first_author": "Moon S",
+      "year": "2021",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms22126213",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38992067",
+      "title": "Synergistic induction of mitotic pyroptosis and tumor remission by inhibiting proteasome and WEE family kinases.",
+      "first_author": "Chen ZL",
+      "year": "2024",
+      "journal": "Signal Transduct Target Ther",
+      "doi": "10.1038/s41392-024-01896-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "21606061",
+      "title": "Sperm proteasome and fertilization.",
+      "first_author": "Sutovsky P",
+      "year": "2011",
+      "journal": "Reproduction",
+      "doi": "10.1530/REP-11-0041",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36282272",
+      "title": "Single-Nucleotide Variants and Epimutations Induce Proteasome Inhibitor Resistance in Multiple Myeloma.",
+      "first_author": "Haertle L",
+      "year": "2023",
+      "journal": "Clin Cancer Res",
+      "doi": "10.1158/1078-0432.CCR-22-1161",
+      "pubtype": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "28947610",
+      "title": "Regulating protein breakdown through proteasome phosphorylation.",
+      "first_author": "VerPlank JJS",
+      "year": "2017",
+      "journal": "Biochem J",
+      "doi": "10.1042/BCJ20160809",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40931354",
+      "title": "PPM1D is directly degraded by proteasomes in a ubiquitination-independent manner through its carboxyl-terminal region.",
+      "first_author": "Takahashi M",
+      "year": "2025",
+      "journal": "J Biomed Sci",
+      "doi": "10.1186/s12929-025-01185-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38001534",
+      "title": "PSMC5 regulates microglial polarization and activation in LPS-induced cognitive deficits and motor impairments by interacting with TLR4.",
+      "first_author": "Bi W",
+      "year": "2023",
+      "journal": "J Neuroinflammation",
+      "doi": "10.1186/s12974-023-02904-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32781973",
+      "title": "The Ubiquitin-Proteasome Pathway and Epigenetic Modifications in Cancer.",
+      "first_author": "Yerlikaya A",
+      "year": "2021",
+      "journal": "Anticancer Agents Med Chem",
+      "doi": "10.2174/1871520620666200811114159",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40580875",
+      "title": "Proteasome-activating peptide 1 attenuates cardiac ischaemia/reperfusion-induced ferroptosis through the \u03b25i-p53-SLC7A11 axis.",
+      "first_author": "Shi KN",
+      "year": "2025",
+      "journal": "Biomed Pharmacother",
+      "doi": "10.1016/j.biopha.2025.118296",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39095788",
+      "title": "Targeting the immunoproteasome in hypothalamic neurons as a novel therapeutic strategy for high-fat diet-induced obesity and metabolic dysregulation.",
+      "first_author": "Albornoz N",
+      "year": "2024",
+      "journal": "J Neuroinflammation",
+      "doi": "10.1186/s12974-024-03154-z",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33894528",
+      "title": "Discovery of selective fragment-sized immunoproteasome inhibitors.",
+      "first_author": "Koll\u00e1r L",
+      "year": "2021",
+      "journal": "Eur J Med Chem",
+      "doi": "10.1016/j.ejmech.2021.113455",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32101123",
+      "title": "Updated Review and Perspective on 20S Proteasome Inhibitors in the Treatment of Lung Cancer.",
+      "first_author": "Rohondia SO",
+      "year": "2020",
+      "journal": "Curr Cancer Drug Targets",
+      "doi": "10.2174/1568009620666200226094000",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20599784",
+      "title": "LW6, a novel HIF-1 inhibitor, promotes proteasomal degradation of HIF-1alpha via upregulation of VHL in a colon cancer cell line.",
+      "first_author": "Lee K",
+      "year": "2010",
+      "journal": "Biochem Pharmacol",
+      "doi": "10.1016/j.bcp.2010.06.018",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36681728",
+      "title": "Immunoproteasome inhibition prevents progression of castration-resistant prostate cancer.",
+      "first_author": "Li J",
+      "year": "2023",
+      "journal": "Br J Cancer",
+      "doi": "10.1038/s41416-022-02129-2",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35213543",
+      "title": "Proteasome inhibition-enhanced fracture repair is associated with increased mesenchymal progenitor cells in mice.",
+      "first_author": "Zhang H",
+      "year": "2022",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0263839",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "26899267",
+      "title": "Melatonin and the von Hippel-Lindau/HIF-1 oxygen sensing mechanism: A review.",
+      "first_author": "Vriend J",
+      "year": "2016",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbcan.2016.02.004",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

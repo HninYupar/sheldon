@@ -1,0 +1,26 @@
+{
+  "id": "r29",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (loss-of-function OR LoF OR truncating OR nonsense OR frameshift) AND humans",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'SIT1[gene] AND (loss-of-function OR LoF OR truncating OR nonsense OR frameshift) AND humans'; showing 1 (PubMed read it as: \"SIT1\"[All Fields] AND (\"loss-of-function\"[All Fields] OR \"LoF\"[All Fields] OR (\"truncate\"[All Fields] OR \"truncated\"[All Fields] OR \"truncates\"[All Fields] OR \"truncating\"[All Fields] OR \"truncation\"[All Fields] OR \"truncations\"[All Fields]) OR (\"codon nonsense\"[Supplementary Concept] OR \"codon nonsense\"[All Fields] OR \"nonsense\"[All Fields] OR \"codon, nonsense\"[MeSH Terms] OR (\"codon\"[All Fields] AND \"nonsense\"[All Fields]) OR \"nonsense codon\"[All Fields] OR \"nonsenses\"[All Fields]) OR (\"frameshift mutation\"[MeSH Terms] OR (\"frameshift\"[All Fields] AND \"mutation\"[All Fields]) OR \"frameshift mutation\"[All Fields] OR \"frameshift\"[All Fields] OR \"frameshifted\"[All Fields] OR \"frameshifter\"[All Fields] OR \"frameshifting\"[All Fields] OR \"frameshifts\"[All Fields])) AND (\"human s\"[All Fields] OR \"humans\"[MeSH Terms] OR \"humans\"[All Fields] OR \"human\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

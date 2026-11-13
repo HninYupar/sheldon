@@ -1,0 +1,92 @@
+{
+  "id": "r56",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(PSMF1[gene] OR PI31[tiab] OR proteasome inhibitor subunit alpha[tiab]) AND (Parkinson*[tiab] OR parkinsonism[tiab] OR \"parkinson disease\"[tiab]) AND (family[tiab] OR pedigree[tiab] OR cohort[tiab] OR patient[tiab] OR patients[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "7 PubMed hits for '(PSMF1[gene] OR PI31[tiab] OR proteasome inhibitor subunit alpha[tiab]) AND (Parkinson*[tiab] OR parkinsonism[tiab] OR \"parkinson disease\"[tiab]) AND (family[tiab] OR pedigree[tiab] OR cohort[tiab] OR patient[tiab] OR patients[tiab])'; showing 7 (PubMed read it as: (\"PSMF1\"[All Fields] OR \"PI31\"[Title/Abstract] OR ((\"proteasome inhibitors\"[Pharmacological Action] OR \"proteasome inhibitors\"[Supplementary Concept] OR \"proteasome inhibitors\"[All Fields] OR \"proteasome inhibitor\"[All Fields] OR \"proteasome inhibitors\"[MeSH Terms] OR (\"proteasome\"[All Fields] AND \"inhibitors\"[All Fields]) OR (\"proteasome\"[All Fields] AND \"inhibitor\"[All Fields])) AND \"subunit alpha\"[Title/Abstract])) AND (\"parkinson*\"[Title/Abstract] OR \"parkinsonism\"[Title/Abstract] OR \"parkinson disease\"[Title/Abstract]) AND (\"family\"[Title/Abstract] OR \"pedigree\"[Title/Abstract] OR \"cohort\"[Title/Abstract] OR \"patient\"[Title/Abstract] OR \"patients\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39988732",
+      "title": "Autophagy regulates cellular senescence by mediating the degradation of CDKN1A/p21 and CDKN2A/p16 through SQSTM1/p62-mediated selective autophagy in myxomatous mitral valve degeneration.",
+      "first_author": "Tang Q",
+      "year": "2025",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2025.2469315",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40956890",
+      "title": "PI31 expression is neuroprotective in a mouse model of early-onset parkinsonism.",
+      "first_author": "Rodriguez JA",
+      "year": "2025",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2511899122",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38466799",
+      "title": "Study of an FBXO7 patient mutation reveals Fbxo7 and PI31 co-regulate proteasomes and mitochondria.",
+      "first_author": "Al Rawi S",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17114",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    }
+  ]
+}

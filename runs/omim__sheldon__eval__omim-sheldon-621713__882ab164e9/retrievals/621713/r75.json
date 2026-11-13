@@ -1,0 +1,176 @@
+{
+  "id": "r75",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "12237944",
+      "36395215",
+      "17241108",
+      "33901174"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "12237944",
+      "title": "TACC3 expression and localization in the murine egg and ovary.",
+      "authors": [
+        "Hao Z",
+        "Stoler MH",
+        "Sen B",
+        "Shore A",
+        "Westbrook A",
+        "Flickinger CJ",
+        "et al."
+      ],
+      "year": "2002",
+      "journal": "Molecular reproduction and development",
+      "doi": "10.1002/mrd.90012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh": [
+        "Alternative Splicing",
+        "Amino Acid Sequence",
+        "Animals",
+        "Base Sequence",
+        "Electrophoresis, Gel, Two-Dimensional",
+        "Female",
+        "In Situ Hybridization",
+        "Male",
+        "Mice",
+        "Microtubule-Associated Proteins",
+        "Molecular Sequence Data",
+        "Ovary",
+        "Ovum",
+        "Protein Isoforms",
+        "Proteome",
+        "Sequence Alignment",
+        "Testis"
+      ],
+      "abstract": "A protein spot cored from a silver-stained two dimensional (2D) gel of germinal vesicle stage immature mouse oocytes was identified as Transforming Acidic Coiled Coil containing protein (TACC3) by tandem mass spectrometry. PCR amplification revealed two alternatively spliced forms, Tacc3a and Tacc3b, in mouse ovarian cDNA libraries. TACC3a encoded a 630 aa protein with a predicted mass of 70 kDa. It contained seven 24 aa repeats at the N-terminus and two coiled-coil domains at the C-terminus. TACC3b encoded a 426 aa protein with a predicted mass of 49 kDa also containing two coiled coil domains, but lacking the 168 aa repeat region. In addition to homology to the TACC family members, murine TACC3 also showed 35.7% identity to the Xenopus protein, Maskin, a cytoplasmic polyadenylation element binding protein (CPEB)-associated factor. Northern blot analysis demonstrated that TACC3a is abundantly expressed in adult testis and spleen and is moderately expressed in the ovary, heart, and lung, suggesting a wide tissue distribution. Both myc-tagged TACC3a and TACC3b targeted to the cytoplasm of transiently transfected CV-1 cells. In situ hybridization of mouse ovarian tissue sections displayed abundant expression of TACC3 specifically in the cytoplasm of growing oocytes, but not in primordial or atretic follicles. This pattern of expression suggests that TACC3 is expressed in ovarian cells undergoing active growth and development."
+    },
+    {
+      "pmid": "36395215",
+      "title": "The mechanism of acentrosomal spindle assembly in human oocytes.",
+      "authors": [
+        "Wu T",
+        "Dong J",
+        "Fu J",
+        "Kuang Y",
+        "Chen B",
+        "Gu H",
+        "et al."
+      ],
+      "year": "2022",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.abq7361",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Chromosome Segregation",
+        "Kinetochores",
+        "Microtubule-Associated Proteins",
+        "Microtubule-Organizing Center",
+        "Oocytes",
+        "Spindle Apparatus",
+        "Cells, Cultured",
+        "Phosphoproteins",
+        "Cell Cycle Proteins",
+        "Nerve Tissue Proteins"
+      ],
+      "abstract": "Meiotic spindle assembly ensures proper chromosome segregation in oocytes. However, the mechanisms behind spindle assembly in human oocytes remain largely unknown. We used three-dimensional high-resolution imaging of more than 2000 human oocytes to identify a structure that we named the human oocyte microtubule organizing center (huoMTOC). The proteins TACC3, CCP110, CKAP5, and DISC1 were found to be essential components of the huoMTOC. The huoMTOC arises beneath the oocyte cortex and migrates adjacent to the nuclear envelope before nuclear envelope breakdown (NEBD). After NEBD, the huoMTOC fragments and relocates on the kinetochores to initiate microtubule nucleation and spindle assembly. Disrupting the huoMTOC led to spindle assembly defects and oocyte maturation arrest. These results reveal a physiological mechanism of huoMTOC-regulated spindle assembly in human oocytes."
+    },
+    {
+      "pmid": "17241108",
+      "title": "Translational control of maskin mRNA by its 3' untranslated region.",
+      "authors": [
+        "Meijer HA",
+        "Radford HE",
+        "Wilson LS",
+        "Lissenden S",
+        "de Moor CH"
+      ],
+      "year": "2007",
+      "journal": "Biology of the cell",
+      "doi": "10.1042/BC20060112",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "3' Untranslated Regions",
+        "Amino Acid Sequence",
+        "Animals",
+        "Base Sequence",
+        "Cyclin B",
+        "Cyclin B1",
+        "Gene Expression Regulation",
+        "Molecular Sequence Data",
+        "Oocytes",
+        "Oogenesis",
+        "Poly A",
+        "Polyribosomes",
+        "Protein Binding",
+        "Protein Biosynthesis",
+        "RNA-Binding Proteins",
+        "Regulatory Sequences, Nucleic Acid",
+        "Repressor Proteins",
+        "Transcription Factors",
+        "Xenopus Proteins",
+        "Xenopus laevis"
+      ],
+      "abstract": "BACKGROUND INFORMATION: Maskin is a member of the TACC (transforming acidic coiled-coil) domain proteins found in Xenopus laevis oocytes and embryos. It has been implicated in the co-ordination of the spindle and has been reported to mediate translational repression of cyclin B1 mRNA.\nRESULTS: In the present study, we report that maskin mRNA is translationally repressed at the level of initiation in stage 4 oocytes and becomes activated in stage 6 oocytes. The translational repression of maskin mRNA correlates with the presence of a short poly(A) tail on this mRNA in stage 4 oocytes. The 3'-UTR (untranslated region) of maskin can confer the translational regulation to a reporter mRNA, and so can the 3'-UTR of human TACC3. A conserved GUCU repeat element was found to repress translation in both stage 4 and stage 6 oocytes, but deletion of this element did not abrogate repression in stage 4 oocytes. UV cross-linking experiments indicated that overlapping sets of proteins bind efficiently to both the maskin and the cyclin B1 3'-UTRs. As reported previously, CPEB [CPE (cytoplasmic polyadenylation element)-binding protein] binds to the cyclin B1 3'-UTR, but its binding to the maskin 3'-UTR is minimal. By RNA affinity chromatography and MS, we identified the EDEN-BP [EDEN (embryonic deadenylation element)-binding protein] as one of the proteins binding to both the maskin and the cyclin B1 3'-UTRs.\nCONCLUSIONS: Maskin mRNA is translationally regulated by at least two repressor elements and an activation element. One of the repessor elements is the evolutionarily conserved GUCU repeat. EDEN-BP binds to both the maskin and cyclin B1 3'-UTRs, indicating it may be involved in the deadenylation of these mRNAs."
+    },
+    {
+      "pmid": "33901174",
+      "title": "Aurora kinase A is essential for meiosis in mouse oocytes.",
+      "authors": [
+        "Blengini CS",
+        "Ibrahimian P",
+        "Vaskovicova M",
+        "Drutovic D",
+        "Solc P",
+        "Schindler K"
+      ],
+      "year": "2021",
+      "journal": "PLoS genetics",
+      "doi": "10.1371/journal.pgen.1009327",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Aurora Kinase A",
+        "Aurora Kinase B",
+        "Aurora Kinase C",
+        "Cell Cycle Proteins",
+        "Cell Nucleus Division",
+        "Chromosome Segregation",
+        "Female",
+        "Fetal Proteins",
+        "Gene Expression Regulation, Developmental",
+        "Humans",
+        "Meiosis",
+        "Mice",
+        "Microtubule-Associated Proteins",
+        "Microtubule-Organizing Center",
+        "Oocytes",
+        "Protein Serine-Threonine Kinases",
+        "Proto-Oncogene Proteins",
+        "Spindle Apparatus",
+        "Spindle Poles",
+        "Polo-Like Kinase 1"
+      ],
+      "abstract": "The Aurora protein kinases are well-established regulators of spindle building and chromosome segregation in mitotic and meiotic cells. In mouse oocytes, there is significant Aurora kinase A (AURKA) compensatory abilities when the other Aurora kinase homologs are deleted. Whether the other homologs, AURKB or AURKC can compensate for loss of AURKA is not known. Using a conditional mouse oocyte knockout model, we demonstrate that this compensation is not reciprocal because female oocyte-specific knockout mice are sterile, and their oocytes fail to complete meiosis I. In determining AURKA-specific functions, we demonstrate that its first meiotic requirement is to activate Polo-like kinase 1 at acentriolar microtubule organizing centers (aMTOCs; meiotic spindle poles). This activation induces fragmentation of the aMTOCs, a step essential for building a bipolar spindle. We also show that AURKA is required for regulating localization of TACC3, another protein required for spindle building. We conclude that AURKA has multiple functions essential to completing MI that are distinct from AURKB and AURKC."
+    }
+  ]
+}

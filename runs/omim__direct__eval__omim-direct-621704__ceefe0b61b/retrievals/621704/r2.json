@@ -1,0 +1,250 @@
+{
+  "id": "r2",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"NDOABA2\" OR \"neurodegeneration, infantile-onset, with optic atrophy and structural brain abnormalities 2\" OR \"optic atrophy and structural brain abnormalities\"",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "108 PubMed hits for '\"NDOABA2\" OR \"neurodegeneration, infantile-onset, with optic atrophy and structural brain abnormalities 2\" OR \"optic atrophy and structural brain abnormalities\"'; showing 20 (PubMed read it as: ((\"nerve degeneration\"[MeSH Terms] OR (\"nerve\"[All Fields] AND \"degeneration\"[All Fields]) OR \"nerve degeneration\"[All Fields] OR \"neurodegeneration\"[All Fields] OR \"neurodegenerating\"[All Fields] OR \"neurodegenerations\"[All Fields]) AND \"infantile onset\"[All Fields] AND (\"optic atrophy\"[MeSH Terms] OR (\"optic\"[All Fields] AND \"atrophy\"[All Fields]) OR \"optic atrophy\"[All Fields]) AND (\"structural\"[All Fields] OR \"structurally\"[All Fields] OR \"structurals\"[All Fields] OR \"structuration\"[All Fields] OR \"structurations\"[All Fields] OR \"structure\"[All Fields] OR \"structure s\"[All Fields] OR \"structured\"[All Fields] OR \"structures\"[All Fields] OR \"structuring\"[All Fields]) AND (\"brain\"[MeSH Terms] OR \"brain\"[All Fields] OR \"brains\"[All Fields] OR \"brain s\"[All Fields]) AND (\"abnormal\"[All Fields] OR \"abnormalities\"[MeSH Subheading] OR \"abnormalities\"[All Fields] OR \"congenital abnormalities\"[MeSH Terms] OR (\"congenital\"[All Fields] AND \"abnormalities\"[All Fields]) OR \"congenital abnormalities\"[All Fields] OR \"abnormality\"[All Fields] OR \"abnormally\"[All Fields] OR \"abnormals\"[All Fields] OR \"abnormities\"[All Fields] OR \"abnormity\"[All Fields]) AND \"2\"[All Fields]) OR ((\"optic atrophy\"[MeSH Terms] OR (\"optic\"[All Fields] AND \"atrophy\"[All Fields]) OR \"optic atrophy\"[All Fields]) AND (\"structural\"[All Fields] OR \"structurally\"[All Fields] OR \"structurals\"[All Fields] OR \"structuration\"[All Fields] OR \"structurations\"[All Fields] OR \"structure\"[All Fields] OR \"structure s\"[All Fields] OR \"structured\"[All Fields] OR \"structures\"[All Fields] OR \"structuring\"[All Fields]) AND (\"brain\"[MeSH Terms] OR \"brain\"[All Fields] OR \"brains\"[All Fields] OR \"brain s\"[All Fields]) AND (\"abnormal\"[All Fields] OR \"abnormalities\"[MeSH Subheading] OR \"abnormalities\"[All Fields] OR \"congenital abnormalities\"[MeSH Terms] OR (\"congenital\"[All Fields] AND \"abnormalities\"[All Fields]) OR \"congenital abnormalities\"[All Fields] OR \"abnormality\"[All Fields] OR \"abnormally\"[All Fields] OR \"abnormals\"[All Fields] OR \"abnormities\"[All Fields] OR \"abnormity\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34662013",
+      "title": "Heterochromia.",
+      "first_author": "Lui F",
+      "year": "2023",
+      "journal": "",
+      "doi": "",
+      "pubtype": [
+        "Study Guide"
+      ]
+    },
+    {
+      "pmid": "21144325",
+      "title": "[Cerebellar hypoplasias].",
+      "first_author": "Safronova MM",
+      "year": "2010",
+      "journal": "Acta Med Port",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30030366",
+      "title": "Neuroimaging in mitochondrial disorders.",
+      "first_author": "Mascalchi M",
+      "year": "2018",
+      "journal": "Essays Biochem",
+      "doi": "10.1042/EBC20170109",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "28459997",
+      "title": "Hypomorphic mutations in POLR3A are a frequent cause of sporadic and recessive spastic ataxia.",
+      "first_author": "Minnerop M",
+      "year": "2017",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awx095",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24839169",
+      "title": "Genetic disorders associated with postnatal microcephaly.",
+      "first_author": "Seltzer LE",
+      "year": "2014",
+      "journal": "Am J Med Genet C Semin Med Genet",
+      "doi": "10.1002/ajmg.c.31400",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "28112979",
+      "title": "Ocular manifestations in the X-linked intellectual disability syndromes.",
+      "first_author": "Couser NL",
+      "year": "2017",
+      "journal": "Ophthalmic Genet",
+      "doi": "10.1080/13816810.2016.1247459",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41039189",
+      "title": "The neurodevelopmental spectrum of CASK-related disorder.",
+      "first_author": "Martin J",
+      "year": "2025",
+      "journal": "J Neurodev Disord",
+      "doi": "10.1186/s11689-025-09643-3",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "37949375",
+      "title": "Enterovirus 71 leads to abnormal mitochondrial dynamics in human neuroblastoma SK-N-SH cells.",
+      "first_author": "Zhang W",
+      "year": "2024",
+      "journal": "Virus Res",
+      "doi": "10.1016/j.virusres.2023.199267",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38408685",
+      "title": "Structural interhemispheric connectivity defects in mouse models of BBSOAS: Insights from high spatial resolution 3D white matter tractography.",
+      "first_author": "Deloulme JC",
+      "year": "2024",
+      "journal": "Neurobiol Dis",
+      "doi": "10.1016/j.nbd.2024.106455",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42012897",
+      "title": "Pathogenic variants in BORCS5 cause a spectrum of neurodevelopmental and neurodegenerative disorders with lysosomal dysfunction.",
+      "first_author": "Mencacci NE",
+      "year": "2026",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI195336",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31759084",
+      "title": "Retinal structural abnormalities in young adults with psychosis spectrum disorders.",
+      "first_author": "Jerotic S",
+      "year": "2020",
+      "journal": "Prog Neuropsychopharmacol Biol Psychiatry",
+      "doi": "10.1016/j.pnpbp.2019.109825",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40354380",
+      "title": "Optic Atrophy 1: The Conductor of Cellular Harmony and Age-Related Pathologies.",
+      "first_author": "Xu Y",
+      "year": "2025",
+      "journal": "Aging Dis",
+      "doi": "10.14336/AD.2025.0017",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32754641",
+      "title": "Expanded genetic insight and clinical experience of DNMT1-complex disorder.",
+      "first_author": "Bi H",
+      "year": "2020",
+      "journal": "Neurol Genet",
+      "doi": "10.1212/NXG.0000000000000456",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22792385",
+      "title": "Early brain vulnerability in Wolfram syndrome.",
+      "first_author": "Hershey T",
+      "year": "2012",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0040604",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "3934619",
+      "title": "Extreme variant of septo-optic dysplasia.",
+      "first_author": "Stehr K",
+      "year": "1985",
+      "journal": "Ophthalmic Paediatr Genet",
+      "doi": "10.3109/13816818509006129",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40641032",
+      "title": "Characterization of Novel WFS1 Variants in Three Diabetes Pedigrees.",
+      "first_author": "Liu C",
+      "year": "2025",
+      "journal": "J Diabetes",
+      "doi": "10.1111/1753-0407.70114",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "6704791",
+      "title": "Hypothesis: Phylogenetic diseases of the nervous system.",
+      "first_author": "Sarnat HB",
+      "year": "1984",
+      "journal": "Can J Neurol Sci",
+      "doi": "10.1017/s0317167100045285",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40855817",
+      "title": "Models of Bosch-Boonstra-Schaaf optic atrophy syndrome reveal genotype-phenotype correlations in brain structure and behavior.",
+      "first_author": "Maass JG",
+      "year": "2025",
+      "journal": "Dis Model Mech",
+      "doi": "10.1242/dmm.052426",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31537073",
+      "title": "Normal tension vs high tension glaucoma: an - overview.",
+      "first_author": "Le\u0161t\u00e1k J",
+      "year": "2019",
+      "journal": "Cesk Slov Oftalmol",
+      "doi": "10.31348/2019/2/1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "11551749",
+      "title": "Striatal and pontocerebellar hypoperfusion in Hallervorden-Spatz syndrome.",
+      "first_author": "Castelnau P",
+      "year": "2001",
+      "journal": "Pediatr Neurol",
+      "doi": "10.1016/s0887-8994(01)00295-8",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "r124",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "39298586",
+      "38505600",
+      "34294713"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "authors": [
+        "Ham H",
+        "Jing H",
+        "Lamborn IT",
+        "Kober MM",
+        "Koval A",
+        "Berchiche YA",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Humans",
+        "Cell Movement",
+        "Cell Proliferation",
+        "Germ-Line Mutation",
+        "GTP-Binding Protein alpha Subunit, Gi2",
+        "Immunity",
+        "MAP Kinase Signaling System",
+        "Phosphatidylinositol 3-Kinases",
+        "Proto-Oncogene Proteins c-akt",
+        "ras GTPase-Activating Proteins",
+        "ras Proteins",
+        "Receptors, Antigen, T-Cell",
+        "Signal Transduction",
+        "T-Lymphocytes",
+        "Pedigree"
+      ],
+      "abstract": "Humans with monogenic inborn errors responsible for extreme disease phenotypes can reveal essential physiological pathways. We investigated germline mutations in GNAI2, which encodes G\u03b1i2, a key component in heterotrimeric G protein signal transduction usually thought to regulate adenylyl cyclase-mediated cyclic adenosine monophosphate (cAMP) production. Patients with activating G\u03b1i2 mutations had clinical presentations that included impaired immunity. Mutant G\u03b1i2 impaired cell migration and augmented responses to T cell receptor (TCR) stimulation. We found that mutant G\u03b1i2 influenced TCR signaling by sequestering the guanosine triphosphatase (GTPase)-activating protein RASA2, thereby promoting RAS activation and increasing downstream extracellular signal-regulated kinase (ERK)/mitogen-activated protein kinase (MAPK) and phosphatidylinositol 3-kinase (PI3K)-AKT S6 signaling to drive cellular growth and proliferation."
+    },
+    {
+      "pmid": "38505600",
+      "title": "G protein subunit alpha i2's pivotal role in angiogenesis.",
+      "authors": [
+        "Bai CW",
+        "Lu L",
+        "Zhang JN",
+        "Zhou C",
+        "Ni YC",
+        "Li KR",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Theranostics",
+      "doi": "10.7150/thno.92909",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Mice",
+        "Animals",
+        "Diabetic Retinopathy",
+        "GTP-Binding Protein alpha Subunit, Gi2",
+        "Endothelial Cells",
+        "Angiogenesis",
+        "Streptozocin",
+        "Oxygen",
+        "RNA, Small Interfering",
+        "Cell Proliferation"
+      ],
+      "abstract": "Here we explored the potential role of G\u03b1i2 (G protein subunit alpha i2) in endothelial cell function and angiogenesis. Methods: Genetic methodologies such as shRNA, CRISPR/Cas9, dominant negative mutation, and overexpression were utilized to modify G\u03b1i2 expression or regulate its function. Their effects on endothelial cell functions were assessed in vitro. In vivo, the endothelial-specific G\u03b1i2 shRNA adeno-associated virus (AAV) was utilized to silence G\u03b1i2 expression. The impact of this suppression on retinal angiogenesis in control mice and streptozotocin (STZ)-induced diabetic retinopathy (DR) mice was analyzed. Results: Analysis of single-cell RNA sequencing data revealed G\u03b1i2 (GNAI2) was predominantly expressed in retinal endothelial cells and expression was increased in retinal endothelial cells following oxygen-induced retinopathy (OIR) in mice. Moreover, transcriptome analysis linking G\u03b1i2 to angiogenesis-related processes/pathways, supported by increased G\u03b1i2 expression in experimental OIR mouse retinas, highlighted its possible role in angiogenesis. In various endothelial cell types, shRNA-induced silencing and CRISPR/Cas9-mediated knockout (KO) of G\u03b1i2 resulted in substantial reductions in cell proliferation, migration, invasion, and capillary tube formation. Conversely, G\u03b1i2 over-expression in endothelial cells induced pro-angiogenic activities, enhancing cell proliferation, migration, invasion, and capillary tube formation. Furthermore, our investigation revealed a crucial role of G\u03b1i2 in NFAT (nuclear factor of activated T cells) activation, as evidenced by the down-regulation of NFAT-luciferase reporter activity and pro-angiogenesis NFAT-targeted genes (Egr3, CXCR7, and RND1) in G\u03b1i2-silenced or -KO HUVECs, which were up-regulated in G\u03b1i2-overexpressing endothelial cells. Expression of a dominant negative G\u03b1i2 mutation (S48C) also down-regulated NFAT-targeted genes, slowing proliferation, migration, invasion, and capillary tube formation in HUVECs. Importantly, in vivo experiments revealed that endothelial G\u03b1i2 knockdown inhibited retinal angiogenesis in mice, with a concomitant down-regulation of NFAT-targeted genes in mouse retinal tissue. In contrast, G\u03b1i2 over-expression in endothelial cells enhanced retinal angiogenesis in mice. Single-cell RNA sequencing data confirmed increased levels of G\u03b1i2 specifically in retinal endothelial cells of mice with streptozotocin (STZ)-induced diabetic retinopathy (DR). Importantly, endothelial G\u03b1i2 si"
+    },
+    {
+      "pmid": "34294713",
+      "title": "S-nitrosylation-mediated coupling of G-protein alpha-2 with CXCR5 induces Hippo/YAP-dependent diabetes-accelerated atherosclerosis.",
+      "authors": [
+        "Chao ML",
+        "Luo S",
+        "Zhang C",
+        "Zhou X",
+        "Zhou M",
+        "Wang J",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "Nature communications",
+      "doi": "10.1038/s41467-021-24736-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Adaptor Proteins, Signal Transducing",
+        "Animals",
+        "Atherosclerosis",
+        "Cells, Cultured",
+        "Cysteine",
+        "Diabetes Mellitus, Experimental",
+        "Diabetic Angiopathies",
+        "GTP-Binding Protein alpha Subunit, Gi2",
+        "Hippo Signaling Pathway",
+        "Human Umbilical Vein Endothelial Cells",
+        "Humans",
+        "Male",
+        "Melatonin",
+        "Mice",
+        "Mice, Knockout",
+        "Mutagenesis, Site-Directed",
+        "Nitric Oxide Synthase Type II",
+        "Nitroso Compounds",
+        "Protein Serine-Threonine Kinases",
+        "Receptors, CXCR5",
+        "Transcription Factors",
+        "YAP-Signaling Proteins"
+      ],
+      "abstract": "Atherosclerosis-associated cardiovascular disease is one of the main causes of death and disability among patients with diabetes mellitus. However, little is known about the impact of S-nitrosylation in diabetes-accelerated atherosclerosis. Here, we show increased levels of S-nitrosylation of guanine nucleotide-binding protein G(i) subunit alpha-2 (SNO-GNAI2) at Cysteine 66 in coronary artery samples from diabetic patients with atherosclerosis, consistently with results from mice. Mechanistically, SNO-GNAI2 acted by coupling with CXCR5 to dephosphorylate the Hippo pathway kinase LATS1, thereby leading to nuclear translocation of YAP and promoting an inflammatory response in endothelial cells. Furthermore, Cys-mutant GNAI2 refractory to S-nitrosylation abrogated GNAI2-CXCR5 coupling, alleviated atherosclerosis in diabetic mice, restored Hippo activity, and reduced endothelial inflammation. In addition, we showed that melatonin treatment restored endothelial function and protected against diabetes-accelerated atherosclerosis by preventing GNAI2 S-nitrosylation. In conclusion, SNO-GNAI2 drives diabetes-accelerated atherosclerosis by coupling with CXCR5 and activating YAP-dependent endothelial inflammation, and reducing SNO-GNAI2 is an efficient strategy for alleviating diabetes-accelerated atherosclerosis."
+    }
+  ]
+}

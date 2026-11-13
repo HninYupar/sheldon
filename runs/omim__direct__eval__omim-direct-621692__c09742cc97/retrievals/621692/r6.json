@@ -1,0 +1,12 @@
+{
+  "id": "r6",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A[gene] AND (DEE42B[tiab] OR \"DEE 42B\"[tiab] OR \"developmental and epileptic encephalopathy 42B\"[tiab] OR \"epileptic encephalopathy 42B\"[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'CACNA1A[gene] AND (DEE42B[tiab] OR \"DEE 42B\"[tiab] OR \"developmental and epileptic encephalopathy 42B\"[tiab] OR \"epileptic encephalopathy 42B\"[tiab])'; showing 0 (PubMed read it as: CACNA1A[gene] AND (DEE42B[tiab] OR \"DEE 42B\"[tiab] OR \"developmental and epileptic encephalopathy 42B\"[tiab] OR \"epileptic encephalopathy 42B\"[tiab]))",
+  "ok": true,
+  "evidence": []
+}

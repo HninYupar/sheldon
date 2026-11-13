@@ -1,0 +1,167 @@
+{
+  "id": "r94",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41895291",
+      "34161705",
+      "34313536",
+      "42353819"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "authors": [
+        "Lambton J",
+        "Asano S",
+        "Huang Y",
+        "Suomi F",
+        "Eguchi T",
+        "Petree C",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "American journal of human genetics",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Autophagy",
+        "Autophagy-Related Protein 12",
+        "Female",
+        "Zebrafish",
+        "Male",
+        "Animals",
+        "HeLa Cells",
+        "Alleles",
+        "Pedigree",
+        "Child",
+        "Child, Preschool",
+        "Neurodevelopmental Disorders",
+        "Autophagy-Related Protein 5",
+        "Fibroblasts",
+        "Adolescent",
+        "Autophagy-Related Protein 7",
+        "Phenotype"
+      ],
+      "abstract": "Autophagy is an essential developmental and homeostatic process, defined by the endolysosomal degradation of intracellular components and pathogens. Dysfunctional autophagy is implicated in complex human disease, yet reports of congenital autophagy disorders were considered exceedingly rare until the recent report of several unrelated families with bi-allelic variants in the core autophagy effector ATG7, complementing the report of two individuals harboring ATG5 variants. We now report six affected individuals from five families with bi-allelic ATG12 variants with complex neurological phenotypes overlapping those seen in individuals with pathogenic variants in ATG5 and ATG7: developmental delay, intellectual disability, congenital ataxia, hypotonia, and seizures with cerebellar vermis hypoplasia evident on neuroradiological imaging. Structural modeling implicated a potential disruption of the ATG12-ATG5-ATG16N-ATG3 complex. Biochemical analyses of primary fibroblasts confirmed the loss of stable ATG12-ATG5 conjugate in one family and altered autophagic flux in one unrelated family. The HaloTag processing assay in HeLa cells demonstrated a decrease in ATG12-ATG5 conjugate and reduced autophagic flux in response to starvation. Complementation studies demonstrated that equivalent missense atg12 variants were unable to fully recover the biochemical defect in atg12-null yeast, with microscopy analysis demonstrating a reduced delivery of autophagy substrates to the yeast's degradative compartment. Zebrafish studies confirmed that Atg12 is required for normal growth, brain development, and neural function. Collectively, our findings underscore the pivotal role of autophagy in maintaining human neural integrity, emphasize an emerging group of congenital autophagy disorders, and expand our understanding of adaptive homeostasis in human health and disease."
+    },
+    {
+      "pmid": "34161705",
+      "title": "Developmental Consequences of Defective ATG7-Mediated Autophagy in Humans.",
+      "authors": [
+        "Collier JJ",
+        "Guissart C",
+        "Ol\u00e1hov\u00e1 M",
+        "Sasorith S",
+        "Piron-Prunier F",
+        "Suomi F",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "The New England journal of medicine",
+      "doi": "10.1056/NEJMoa1915722",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Abnormalities, Multiple",
+        "Adolescent",
+        "Adult",
+        "Ataxia",
+        "Autophagy",
+        "Autophagy-Related Protein 7",
+        "Cells, Cultured",
+        "Cerebellum",
+        "Computer Simulation",
+        "Developmental Disabilities",
+        "Face",
+        "Female",
+        "Fibroblasts",
+        "Genes, Recessive",
+        "Humans",
+        "Infant",
+        "Male",
+        "Muscle, Skeletal",
+        "Mutation, Missense",
+        "Nervous System Malformations",
+        "Pedigree",
+        "Phenotype"
+      ],
+      "abstract": "BACKGROUND: Autophagy is the major intracellular degradation route in mammalian cells. Systemic ablation of core autophagy-related (ATG) genes in mice leads to embryonic or perinatal lethality, and conditional models show neurodegeneration. Impaired autophagy has been associated with a range of complex human diseases, yet congenital autophagy disorders are rare.\nMETHODS: We performed a genetic, clinical, and neuroimaging analysis involving five families. Mechanistic investigations were conducted with the use of patient-derived fibroblasts, skeletal muscle-biopsy specimens, mouse embryonic fibroblasts, and yeast.\nRESULTS: We found deleterious, recessive variants in human ATG7, a core autophagy-related gene encoding a protein that is indispensable to classical degradative autophagy. Twelve patients from five families with distinct ATG7 variants had complex neurodevelopmental disorders with brain, muscle, and endocrine involvement. Patients had abnormalities of the cerebellum and corpus callosum and various degrees of facial dysmorphism. These patients have survived with impaired autophagic flux arising from a diminishment or absence of ATG7 protein. Although autophagic sequestration was markedly reduced, evidence of basal autophagy was readily identified in fibroblasts and skeletal muscle with loss of ATG7. Complementation of different model systems by deleterious ATG7 variants resulted in poor or absent autophagic function as compared with the reintroduction of wild-type ATG7.\nCONCLUSIONS: We identified several patients with a neurodevelopmental disorder who have survived with a severe loss or complete absence of ATG7, an essential effector enzyme for autophagy without a known functional paralogue. (Funded by the Wellcome Centre for Mitochondrial Research and others.)."
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "authors": [
+        "Collier JJ",
+        "Ol\u00e1hov\u00e1 M",
+        "McWilliams TG",
+        "Taylor RW"
+      ],
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Autophagy",
+        "Autophagy-Related Protein 5",
+        "Autophagy-Related Protein 7",
+        "Fibroblasts",
+        "Humans",
+        "Mice",
+        "Nervous System",
+        "Proteins"
+      ],
+      "abstract": "ATG7 drives macroautophagy, hereafter \"autophagy\", by generating ATG12-ATG5 conjugates and lipidating Atg8 homologs including LC3. A pioneering body of work has defined the requirement of ATG7 for survival in mice and shown that neural-specific atg7 deletion causes neurodegeneration, but it has not been ascertained whether human life is compatible with ATG7 dysfunction. Recently, we defined the importance of ATG7 in human physiology by identifying twelve patients from five families harboring pathogenic, biallelic ATG7 variants causing a neurodevelopmental disorder. Patient fibroblasts show undetectable or severely diminished ATG7 protein levels, and biochemical assessment via autophagic flux and long-lived protein degradation assays demonstrated that attenuated autophagy underpins the pathology. Confirming the pathogenicity of patient variants, mouse cells expressing mutated ATG7 are unable to rescue LC3/Atg8 lipidation to wild-type levels. Our work defines mutated ATG7 as an important cause of human neurological disease and expands our understanding of autophagy in longevity and human health. We demonstrated that in certain circumstances, human survival with relatively mild phenotypes is possible even with undetectable levels of a nonredundant core autophagy protein."
+    },
+    {
+      "pmid": "42353819",
+      "title": "Biallelic ATG9B Variants Define a Novel Autophagy-Related Neurodevelopmental Disorder with Cerebellar Ataxia.",
+      "authors": [
+        "K\u0131l\u0131\u00e7 S",
+        "Esmen K",
+        "M\u00e9reaux JL",
+        "Oto AM",
+        "Kose TB",
+        "Sever-Bahcekapili M",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "Genes",
+      "doi": "10.3390/genes17060660",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Animals",
+        "Autophagy-Related Proteins",
+        "Female",
+        "Mice",
+        "Autophagy",
+        "Male",
+        "Cerebellar Ataxia",
+        "Pedigree",
+        "Neurodevelopmental Disorders",
+        "Child",
+        "Alleles",
+        "Child, Preschool",
+        "Consanguinity"
+      ],
+      "abstract": "BACKGROUND/OBJECTIVES: Autophagy is a highly conserved eukaryotic cellular process whose dysfunction results in human pathologies including cancer and neurodegenerative disease. First identified in yeast, ATG genes are central players in autophagy. Mutations in core autophagy genes ATG5 and ATG7 have been previously reported to cause rare genetic disorders with autosomal recessive inheritance.\nMETHODS: Here we report, for the first time, variants in human ATG9B gene as causative factors for a rare neurodevelopmental disease with autosomal recessive inheritance. Three distinct mutations were detected in three independent families with consanguinity, five patients affected in total.\nRESULTS: The first variant is an 11-nucleotide deletion resulting in a frameshift. A premature stop codon is added and the C-terminal cytosolic domain of ATG9B protein is truncated. The second one is a point mutation that changes a critical amino acid in the transmembrane domain. The third variant is a 2-nucleotide deletion causing a different truncation product. Patients presented with diverse neurodevelopmental anomalies including intellectual disability, behavioral abnormalities, congenital cerebellar ataxia, mild cerebellar atrophy, and microcephaly. Since human ATG9B is expressed specifically in the placenta, we hypothesized that the disease pathology originates during placental development. To characterize the effects of the first frameshift mutation and gain insight into the specific functions of ATG9B in a physiological setting, we used mammalian cells and a knock-in mouse model. Truncated ATG9B was not stable when expressed in cells. It was localized to perinuclear vesicles like the WT protein, but not to peripheral vesicles. Homozygous knock-in mice were viable, fertile, and displayed no gross phenotypical abnormalities. Histomorphometry analysis of the placenta layers did not reveal a significant difference between mutant and control embryos. The assessments of neurobehavioral tests were similar in wild-type and homozygous knock-in mice. However, knock-in mice had a reduced fear memory trend, which is an amygdala-involved response.\nCONCLUSIONS: In this study, we describe a new rare disease linked to ATG9, including cerebellar ataxia and atrophy, as described for ATG5 and ATG7."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "r77",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[au] AND (neurodevelopmental disorder OR cerebellar hypoplasia OR seizures OR epilepsy OR developmental delay)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'ATG12[au] AND (neurodevelopmental disorder OR cerebellar hypoplasia OR seizures OR epilepsy OR developmental delay)'; showing 0 (PubMed read it as: ATG12[au] AND (neurodevelopmental disorder OR cerebellar hypoplasia OR seizures OR epilepsy OR developmental delay))",
+  "ok": true,
+  "evidence": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": "r109",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "41986367",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "7 'cited_by' links for PMID 41986367; showing 7",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42791250",
+      "title": "Reply to: Data from the ROPAD study corroborate an association between ITSN1 loss-of-function variants and Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2026",
+      "journal": "NPJ Parkinsons Dis",
+      "doi": "10.1038/s41531-026-01470-0",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "42768163",
+      "title": "Primary cilia: master conductors of cellular communication in development and disease.",
+      "first_author": "Thomsen OK",
+      "year": "2026",
+      "journal": "Nat Rev Nephrol",
+      "doi": "10.1038/s41581-026-01129-2",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42370079",
+      "title": "Molecular mechanisms in rare proteasomopathies.",
+      "first_author": "Wolfgramm S",
+      "year": "2026",
+      "journal": "EULAR Rheumatol Open",
+      "doi": "10.1016/j.ero.2025.12.005",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42208150",
+      "title": "Translating transcriptomics analysis into diagnostic workflows: clinical variant identification and interpretation in hypothesis-driven and hypothesis-free approaches.",
+      "first_author": "Pang C",
+      "year": "2026",
+      "journal": "EBioMedicine",
+      "doi": "10.1016/j.ebiom.2026.106313",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41796444",
+      "title": "Magical moments in protease biology: proteasome autocatalytic activation and PI31-mediated inhibition.",
+      "first_author": "Rajakumar T",
+      "year": "2026",
+      "journal": "Trends Biochem Sci",
+      "doi": "10.1016/j.tibs.2026.02.003",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "41179085",
+      "title": "Genetics and Phenotypes of Late-Onset Neurodegeneration in Neurodevelopmental Disorders.",
+      "first_author": "Pitton Rissardo J",
+      "year": "2025",
+      "journal": "Cureus",
+      "doi": "10.7759/cureus.93530",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

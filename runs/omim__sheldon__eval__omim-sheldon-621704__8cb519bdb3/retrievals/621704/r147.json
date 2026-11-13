@@ -1,0 +1,137 @@
+{
+  "id": "r147",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "40385417",
+    "relation": "references",
+    "max_results": 10
+  },
+  "summary": "55 'references' links for PMID 40385417; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40040844",
+      "title": "Biallelic variants in GTF3C3 encoding a subunit of the TFIIIC2 complex are associated with neurodevelopmental phenotypes in humans and zebrafish.",
+      "first_author": "Abdel-Hamid MS",
+      "year": "2025",
+      "journal": "Brain Commun",
+      "doi": "10.1093/braincomms/fcaf055",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39467044",
+      "title": "Emerging Molecular-Genetic Families in Dystonia: Endosome-Autophagosome-Lysosome and Integrated Stress Response Pathways.",
+      "first_author": "Calakos N",
+      "year": "2025",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.30037",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38600167",
+      "title": "Messenger RNA transport on lysosomal vesicles maintains axonal mitochondrial homeostasis and prevents axonal degeneration.",
+      "first_author": "De Pace R",
+      "year": "2024",
+      "journal": "Nat Neurosci",
+      "doi": "10.1038/s41593-024-01619-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38128568",
+      "title": "Biallelic BORCS8 variants cause an infantile-onset neurodegenerative disorder with altered lysosome dynamics.",
+      "first_author": "De Pace R",
+      "year": "2024",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad427",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37213076",
+      "title": "Inhibition of endolysosome fusion increases exosome secretion.",
+      "first_author": "Shelke GV",
+      "year": "2023",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.202209084",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "35181782",
+      "title": "Lysosomal ceramides regulate cathepsin B-mediated processing of saposin C and glucocerebrosidase activity.",
+      "first_author": "Kim MJ",
+      "year": "2022",
+      "journal": "Hum Mol Genet",
+      "doi": "10.1093/hmg/ddac047",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34622992",
+      "title": "Dissecting the Phenotype and Genotype of PLA2G6-Related Parkinsonism.",
+      "first_author": "Magrinelli F",
+      "year": "2022",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.28807",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "34377675",
+      "title": "A neuropathological cell model derived from Niemann-Pick disease type C patient-specific iPSCs shows disruption of the p62/SQSTM1-KEAP1-NRF2 Axis and impaired formation of neuronal networks.",
+      "first_author": "Saito R",
+      "year": "2021",
+      "journal": "Mol Genet Metab Rep",
+      "doi": "10.1016/j.ymgmr.2021.100784",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34108659",
+      "title": "Quantitative proteomics identifies the core proteome of exosomes with syntenin-1 as the highest abundant protein and a putative universal biomarker.",
+      "first_author": "Kugeratski FG",
+      "year": "2021",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/s41556-021-00693-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34013567",
+      "title": "Homozygous missense VPS16 variant is associated with a novel disease, resembling mucopolysaccharidosis-plus syndrome in two siblings.",
+      "first_author": "Y\u0131ld\u0131z Y",
+      "year": "2021",
+      "journal": "Clin Genet",
+      "doi": "10.1111/cge.14002",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

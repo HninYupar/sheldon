@@ -1,0 +1,38 @@
+{
+  "id": "r111",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(PSMF1[tiab] OR PARK27[tiab]) AND (review[pt] OR review[ti])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for '(PSMF1[tiab] OR PARK27[tiab]) AND (review[pt] OR review[ti])'; showing 2 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"review\"[Publication Type] OR \"review\"[Title]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38738460",
+      "title": "Short report: Twins with 20p13 duplication. Case report and comprehensive literature review.",
+      "first_author": "Kennedy BJ",
+      "year": "2024",
+      "journal": "Mol Genet Genomic Med",
+      "doi": "10.1002/mgg3.2436",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ]
+    }
+  ]
+}

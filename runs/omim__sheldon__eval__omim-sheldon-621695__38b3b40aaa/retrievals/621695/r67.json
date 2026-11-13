@@ -1,0 +1,50 @@
+{
+  "id": "r67",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[tiab] AND (arthrogryposis OR contracture OR hypotonia OR akinesia OR fetal OR neonatal OR perinatal)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for 'PSMF1[tiab] AND (arthrogryposis OR contracture OR hypotonia OR akinesia OR fetal OR neonatal OR perinatal)'; showing 3 (PubMed read it as: \"PSMF1\"[Title/Abstract] AND (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields] OR (\"contractural\"[All Fields] OR \"contracture\"[MeSH Terms] OR \"contracture\"[All Fields] OR \"contractures\"[All Fields] OR \"contractured\"[All Fields]) OR (\"hypotonias\"[All Fields] OR \"muscle hypotonia\"[MeSH Terms] OR (\"muscle\"[All Fields] AND \"hypotonia\"[All Fields]) OR \"muscle hypotonia\"[All Fields] OR \"hypotonia\"[All Fields]) OR (\"akinesia\"[All Fields] OR \"akinesias\"[All Fields]) OR (\"fetale\"[All Fields] OR \"fetally\"[All Fields] OR \"fetals\"[All Fields] OR \"foetal\"[All Fields] OR \"fetus\"[MeSH Terms] OR \"fetus\"[All Fields] OR \"fetal\"[All Fields]) OR (\"infant, newborn\"[MeSH Terms] OR (\"infant\"[All Fields] AND \"newborn\"[All Fields]) OR \"newborn infant\"[All Fields] OR \"neonatal\"[All Fields] OR \"neonate\"[All Fields] OR \"neonates\"[All Fields] OR \"neonatality\"[All Fields] OR \"neonatals\"[All Fields] OR \"neonate s\"[All Fields]) OR (\"perinatal\"[All Fields] OR \"perinatally\"[All Fields] OR \"perinatals\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33009551",
+      "title": "Genome-Wide Association Analysis of Neonatal White Matter Microstructure.",
+      "first_author": "Zhang J",
+      "year": "2021",
+      "journal": "Cereb Cortex",
+      "doi": "10.1093/cercor/bhaa266",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "r35",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"systemic lupus erythematosus 19\"[tiab] OR SLEB19[tiab] OR SAT1[gene]) AND (patient OR patients OR family OR families OR cohort OR case report)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "169 PubMed hits for '(\"systemic lupus erythematosus 19\"[tiab] OR SLEB19[tiab] OR SAT1[gene]) AND (patient OR patients OR family OR families OR cohort OR case report)'; showing 20 (PubMed read it as: \"SAT1\"[All Fields] AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"case reports\"[Publication Type] OR \"case report\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39689813",
+      "title": "Foot-and-mouth disease in Asia.",
+      "first_author": "Rahman MA",
+      "year": "2025",
+      "journal": "Virus Res",
+      "doi": "10.1016/j.virusres.2024.199514",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39073262",
+      "title": "Autophagy Deficiency Induced by SAT1 Potentiates Tumor Progression in Triple-Negative Breast Cancer.",
+      "first_author": "Tian W",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202309903",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33482370",
+      "title": "A genome-wide association study for shoulder impingement and rotator cuff disease.",
+      "first_author": "Kim SK",
+      "year": "2021",
+      "journal": "J Shoulder Elbow Surg",
+      "doi": "10.1016/j.jse.2020.11.025",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ]
+    },
+    {
+      "pmid": "38547055",
+      "title": "The MUC1-HIF-1\u03b1 signaling axis regulates pancreatic cancer pathogenesis through polyamine metabolism remodeling.",
+      "first_author": "Murthy D",
+      "year": "2024",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2315509121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38429478",
+      "title": "Cancer-associated fibroblast-derived acetate promotes pancreatic cancer development by altering polyamine metabolism via the ACSS2-SP1-SAT1 axis.",
+      "first_author": "Murthy D",
+      "year": "2024",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/s41556-024-01372-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36719378",
+      "title": "SLC26A1 is a major determinant of sulfate homeostasis in humans.",
+      "first_author": "Pfau A",
+      "year": "2023",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI161849",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36772904",
+      "title": "Genetic Variants Associated with Suicide Risk in the Mexican Population: A Systematic Literature Review.",
+      "first_author": "Garcia-Qui\u00f1ones JA",
+      "year": "2024",
+      "journal": "Arch Suicide Res",
+      "doi": "10.1080/13811118.2023.2176269",
+      "pubtype": [
+        "Systematic Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40180916",
+      "title": "A noncanonical role of SAT1 enables anchorage independence and peritoneal metastasis in ovarian cancer.",
+      "first_author": "Zheng C",
+      "year": "2025",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-025-58525-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40536697",
+      "title": "Ezetimibe Engineered L14-8 Suppresses Advanced Prostate Cancer by Activating PLK1/TP53-SAT1-Induced Ferroptosis.",
+      "first_author": "Zhang Y",
+      "year": "2025",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202504192",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31417867",
+      "title": "Elucidating the Reprograming of Colorectal Cancer Metabolism Using Genome-Scale Metabolic Modeling.",
+      "first_author": "Zhang C",
+      "year": "2019",
+      "journal": "Front Oncol",
+      "doi": "10.3389/fonc.2019.00681",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29800655",
+      "title": "The tumor suppressor protein p53 and the ferroptosis network.",
+      "first_author": "Kang R",
+      "year": "2019",
+      "journal": "Free Radic Biol Med",
+      "doi": "10.1016/j.freeradbiomed.2018.05.074",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34721539",
+      "title": "A Systematic Review of Transcriptional Dysregulation in Huntington's Disease Studied by RNA Sequencing.",
+      "first_author": "Malla B",
+      "year": "2021",
+      "journal": "Front Genet",
+      "doi": "10.3389/fgene.2021.751033",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40485050",
+      "title": "Dauricine Overcomes Osimertinib Resistance in Lung Cancer by Inducing Ferroptosis via Stabilizing SAT1.",
+      "first_author": "Men B",
+      "year": "2025",
+      "journal": "Cancer Sci",
+      "doi": "10.1111/cas.70113",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39170609",
+      "title": "Hub genes identification and validation of ferroptosis in SARS-CoV-2 induced ARDS: perspective from transcriptome analysis.",
+      "first_author": "Li Y",
+      "year": "2024",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2024.1407924",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34836197",
+      "title": "Therapeutic Effects of Dietary Soybean Genistein on Triple-Negative Breast Cancer via Regulation of Epigenetic Mechanisms.",
+      "first_author": "Sharma M",
+      "year": "2021",
+      "journal": "Nutrients",
+      "doi": "10.3390/nu13113944",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40023161",
+      "title": "The polyamine-regulating enzyme SSAT1 impairs tissue regulatory T\u00a0cell function in chronic cutaneous inflammation.",
+      "first_author": "Neuwirth T",
+      "year": "2025",
+      "journal": "Immunity",
+      "doi": "10.1016/j.immuni.2025.02.011",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20837543",
+      "title": "Polyamine pathway contributes to the pathogenesis of Parkinson disease.",
+      "first_author": "Lewandowski NM",
+      "year": "2010",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1011751107",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36247089",
+      "title": "Exploring Potential Biomarkers, Ferroptosis Mechanisms, and Therapeutic Targets Associated with Cutaneous Squamous Cell Carcinoma via Integrated Transcriptomic Analysis.",
+      "first_author": "Su W",
+      "year": "2022",
+      "journal": "J Healthc Eng",
+      "doi": "10.1155/2022/3524022",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35741808",
+      "title": "miRNAs Copy Number Variations Repertoire as Hallmark Indicator of Cancer Species Predisposition.",
+      "first_author": "Vischioni C",
+      "year": "2022",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes13061046",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

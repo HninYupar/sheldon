@@ -1,0 +1,131 @@
+{
+  "id": "r149",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "39148840",
+    "relation": "similar",
+    "max_results": 10
+  },
+  "summary": "99 'similar' links for PMID 39148840; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "first_author": "Navarro E",
+      "year": "2024",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "40518954",
+      "title": "Reduced expression of Pss gene in Drosophila cortex glia causes dopaminergic cell death.",
+      "first_author": "Pak B",
+      "year": "2025",
+      "journal": "J Parkinsons Dis",
+      "doi": "10.1177/1877718X251349407",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37644186",
+      "title": "A sporadic Parkinson's disease model via silencing of the ubiquitin-proteasome/E3 ligase component,\u00a0SKP1A.",
+      "first_author": "Fishman-Jacob T",
+      "year": "2024",
+      "journal": "J Neural Transm (Vienna)",
+      "doi": "10.1007/s00702-023-02687-6",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42463407",
+      "title": "Biallelic hexose-6-phosphate dehydrogenase variants cause mitochondrial dysfunction underlying Parkinson's disease.",
+      "first_author": "Zhao M",
+      "year": "2026",
+      "journal": "Sci Bull (Beijing)",
+      "doi": "10.1016/j.scib.2026.07.038",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40721924",
+      "title": "Deficiency of PLA2G6 Induces Ferroptosis in Dopaminergic Neurons and Contributes to Parkinson's Disease Pathogenesis via Disruption of PRDX6/FTH1/GPX4 Axis.",
+      "first_author": "Li T",
+      "year": "2025",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-025-05257-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29222404",
+      "title": "Lack of Parkin Anticipates the Phenotype and Affects Mitochondrial Morphology and mtDNA Levels in a Mouse Model of Parkinson's Disease.",
+      "first_author": "Pinto M",
+      "year": "2018",
+      "journal": "J Neurosci",
+      "doi": "10.1523/JNEUROSCI.1384-17.2017",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33141179",
+      "title": "Mitochondrial UQCRC1 mutations cause autosomal dominant parkinsonism with polyneuropathy.",
+      "first_author": "Lin CH",
+      "year": "2020",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awaa279",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27053209",
+      "title": "Dopaminergic Neurons Exhibit an Age-Dependent Decline in Electrophysiological Parameters in the MitoPark Mouse Model of Parkinson's Disease.",
+      "first_author": "Branch SY",
+      "year": "2016",
+      "journal": "J Neurosci",
+      "doi": "10.1523/JNEUROSCI.1395-15.2016",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    }
+  ]
+}

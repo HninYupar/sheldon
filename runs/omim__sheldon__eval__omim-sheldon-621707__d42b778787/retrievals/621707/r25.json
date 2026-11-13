@@ -1,0 +1,260 @@
+{
+  "id": "r25",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "39298586",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "99 'similar' links for PMID 39298586; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "12393539",
+      "title": "cAMP inhibits both Ras and Rap1 activation in primary human T lymphocytes, but only Ras inhibition correlates with blockade of cell cycle progression.",
+      "first_author": "Grader-Beck T",
+      "year": "2003",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2002-06-1665",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "22090358",
+      "title": "Ran is a potential therapeutic target for cancer cells with molecular changes associated with activation of the PI3K/Akt/mTORC1 and Ras/MEK/ERK pathways.",
+      "first_author": "Yuen HF",
+      "year": "2012",
+      "journal": "Clin Cancer Res",
+      "doi": "10.1158/1078-0432.CCR-11-2035",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19426503",
+      "title": "Interplay between the heterotrimeric G-protein subunits Galphaq and Galphai2 sets the threshold for chemotaxis and TCR activation.",
+      "first_author": "Ngai J",
+      "year": "2009",
+      "journal": "BMC Immunol",
+      "doi": "10.1186/1471-2172-10-27",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "22668349",
+      "title": "Impact of oncogenic driver mutations on feedback between the PI3K and MEK pathways in cancer cells.",
+      "first_author": "Yuen HF",
+      "year": "2012",
+      "journal": "Biosci Rep",
+      "doi": "10.1042/BSR20120050",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "9796702",
+      "title": "p21ras initiates Rac-1 but not phosphatidyl inositol 3 kinase/PKB, mediated signaling pathways in T lymphocytes.",
+      "first_author": "Genot E",
+      "year": "1998",
+      "journal": "Oncogene",
+      "doi": "10.1038/sj.onc.1202101",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23770287",
+      "title": "Rit subfamily small GTPases: regulators in neuronal differentiation and survival.",
+      "first_author": "Shi GX",
+      "year": "2013",
+      "journal": "Cell Signal",
+      "doi": "10.1016/j.cellsig.2013.06.002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "27563827",
+      "title": "Integrin \u03b21, myosin light chain kinase and myosin IIA are required for activation of PI3K-AKT signaling following MEK inhibition in metastatic triple negative breast cancer.",
+      "first_author": "Choi C",
+      "year": "2016",
+      "journal": "Oncotarget",
+      "doi": "10.18632/oncotarget.11525",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "20086095",
+      "title": "Cross talk between phosphatidylinositol 3-kinase and cyclic AMP (cAMP)-protein kinase a signaling pathways at the level of a protein kinase B/beta-arrestin/cAMP phosphodiesterase 4 complex.",
+      "first_author": "Bj\u00f8rgo E",
+      "year": "2010",
+      "journal": "Mol Cell Biol",
+      "doi": "10.1128/MCB.00696-09",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24084984",
+      "title": "Network analysis of differential Ras isoform mutation effects on intestinal epithelial responses to TNF-\u03b1.",
+      "first_author": "Lau KS",
+      "year": "2013",
+      "journal": "Integr Biol (Camb)",
+      "doi": "10.1039/c3ib40062j",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "16860436",
+      "title": "Signal transduction of MEK/ERK and PI3K/Akt activation by hypoxia/reoxygenation in renal epithelial cells.",
+      "first_author": "Kwon DS",
+      "year": "2006",
+      "journal": "Eur J Cell Biol",
+      "doi": "10.1016/j.ejcb.2006.06.001",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "15677464",
+      "title": "H-Ras-specific activation of Rac-MKK3/6-p38 pathway: its critical role in invasion and migration of breast epithelial cells.",
+      "first_author": "Shin I",
+      "year": "2005",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M411625200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "9774418",
+      "title": "Phosphoinositide 3-kinase regulation of T cell receptor-mediated interleukin-2 gene expression in normal T cells.",
+      "first_author": "Eder AM",
+      "year": "1998",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.273.43.28025",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31931009",
+      "title": "Oncogenic K-Ras4B Dimerization Enhances Downstream Mitogen-activated Protein Kinase Signaling.",
+      "first_author": "Muratcioglu S",
+      "year": "2020",
+      "journal": "J Mol Biol",
+      "doi": "10.1016/j.jmb.2020.01.002",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31235839",
+      "title": "The Specificity of EGF-Stimulated IQGAP1 Scaffold Towards the PI3K-Akt Pathway is Defined by the IQ3 motif.",
+      "first_author": "Chen M",
+      "year": "2019",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-019-45671-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "14668344",
+      "title": "Alpha-thrombin-mediated phosphatidylinositol 3-kinase activation through release of Gbetagamma dimers from Galphaq and Galphai2.",
+      "first_author": "Goel R",
+      "year": "2004",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.M308753200",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "20471474",
+      "title": "PI3K/Akt-sensitive MEK-independent compensatory circuit of ERK activation in ER-positive PI3K-mutant T47D breast cancer cells.",
+      "first_author": "Aksamitiene E",
+      "year": "2010",
+      "journal": "Cell Signal",
+      "doi": "10.1016/j.cellsig.2010.05.006",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11884439",
+      "title": "CD28 costimulation mediates down-regulation of p27kip1 and cell cycle progression by activation of the PI3K/PKB signaling pathway in primary human T cells.",
+      "first_author": "Appleman LJ",
+      "year": "2002",
+      "journal": "J Immunol",
+      "doi": "10.4049/jimmunol.168.6.2729",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "10476970",
+      "title": "Activation of the ERK/MAPK pathway by an isoform of rap1GAP associated with G alpha(i).",
+      "first_author": "Mochizuki N",
+      "year": "1999",
+      "journal": "Nature",
+      "doi": "10.1038/23738",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20699365",
+      "title": "PIK3CA mutation uncouples tumor growth and cyclin D1 regulation from MEK/ERK and mutant KRAS signaling.",
+      "first_author": "Halilovic E",
+      "year": "2010",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-10-0409",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23871832",
+      "title": "The small GTPase N-Ras regulates extracellular matrix synthesis, proliferation and migration in fibroblasts.",
+      "first_author": "Fuentes-Calvo I",
+      "year": "2013",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/j.bbamcr.2013.07.008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

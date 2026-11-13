@@ -1,0 +1,48 @@
+{
+  "id": "r60",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"GNAI2 activating variants\" OR \"MAGIS syndrome\") AND (case report OR cohort OR patient OR family OR endocrine OR growth OR long-term)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for '(\"GNAI2 activating variants\" OR \"MAGIS syndrome\") AND (case report OR cohort OR patient OR family OR endocrine OR growth OR long-term)'; showing 3 (PubMed read it as: (((\"gnai2 protein human\"[Supplementary Concept] OR \"gnai2 protein human\"[All Fields] OR \"gnai2\"[All Fields]) AND (\"activable\"[All Fields] OR \"activate\"[All Fields] OR \"activated\"[All Fields] OR \"activates\"[All Fields] OR \"activating\"[All Fields] OR \"activation\"[All Fields] OR \"activations\"[All Fields] OR \"activator\"[All Fields] OR \"activator s\"[All Fields] OR \"activators\"[All Fields] OR \"active\"[All Fields] OR \"actived\"[All Fields] OR \"actively\"[All Fields] OR \"actives\"[All Fields] OR \"activities\"[All Fields] OR \"activity s\"[All Fields] OR \"activitys\"[All Fields] OR \"exercise\"[MeSH Terms] OR \"exercise\"[All Fields] OR \"activity\"[All Fields]) AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields])) OR \"MAGIS syndrome\"[All Fields]) AND (\"case reports\"[Publication Type] OR \"case report\"[All Fields] OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"endocrinal\"[All Fields] OR \"endocrine system\"[MeSH Terms] OR (\"endocrine\"[All Fields] AND \"system\"[All Fields]) OR \"endocrine system\"[All Fields] OR \"endocrine\"[All Fields] OR \"endocrines\"[All Fields] OR \"endocrinic\"[All Fields] OR \"endocrinous\"[All Fields]) OR (\"growth and development\"[MeSH Subheading] OR (\"growth\"[All Fields] AND \"development\"[All Fields]) OR \"growth and development\"[All Fields] OR \"growth\"[All Fields] OR \"growth\"[MeSH Terms] OR \"growths\"[All Fields]) OR \"long-term\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "10771086",
+      "title": "Investigation of the role of the carboxyl-terminal tails of the alpha and beta isoforms of the human thromboxane A(2) receptor (TP) in mediating receptor:effector coupling.",
+      "first_author": "Walsh M",
+      "year": "2000",
+      "journal": "Biochim Biophys Acta",
+      "doi": "10.1016/s0167-4889(00)00031-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

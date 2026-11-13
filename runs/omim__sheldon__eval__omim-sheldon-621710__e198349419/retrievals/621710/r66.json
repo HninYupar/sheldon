@@ -1,0 +1,125 @@
+{
+  "id": "r66",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "41895291",
+      "34313536",
+      "17223264"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "authors": [
+        "Lambton J",
+        "Asano S",
+        "Huang Y",
+        "Suomi F",
+        "Eguchi T",
+        "Petree C",
+        "et al."
+      ],
+      "year": "2026",
+      "journal": "American journal of human genetics",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Autophagy",
+        "Autophagy-Related Protein 12",
+        "Female",
+        "Zebrafish",
+        "Male",
+        "Animals",
+        "HeLa Cells",
+        "Alleles",
+        "Pedigree",
+        "Child",
+        "Child, Preschool",
+        "Neurodevelopmental Disorders",
+        "Autophagy-Related Protein 5",
+        "Fibroblasts",
+        "Adolescent",
+        "Autophagy-Related Protein 7",
+        "Phenotype"
+      ],
+      "abstract": "Autophagy is an essential developmental and homeostatic process, defined by the endolysosomal degradation of intracellular components and pathogens. Dysfunctional autophagy is implicated in complex human disease, yet reports of congenital autophagy disorders were considered exceedingly rare until the recent report of several unrelated families with bi-allelic variants in the core autophagy effector ATG7, complementing the report of two individuals harboring ATG5 variants. We now report six affected individuals from five families with bi-allelic ATG12 variants with complex neurological phenotypes overlapping those seen in individuals with pathogenic variants in ATG5 and ATG7: developmental delay, intellectual disability, congenital ataxia, hypotonia, and seizures with cerebellar vermis hypoplasia evident on neuroradiological imaging. Structural modeling implicated a potential disruption of the ATG12-ATG5-ATG16N-ATG3 complex. Biochemical analyses of primary fibroblasts confirmed the loss of stable ATG12-ATG5 conjugate in one family and altered autophagic flux in one unrelated family. The HaloTag processing assay in HeLa cells demonstrated a decrease in ATG12-ATG5 conjugate and reduced autophagic flux in response to starvation. Complementation studies demonstrated that equivalent missense atg12 variants were unable to fully recover the biochemical defect in atg12-null yeast, with microscopy analysis demonstrating a reduced delivery of autophagy substrates to the yeast's degradative compartment. Zebrafish studies confirmed that Atg12 is required for normal growth, brain development, and neural function. Collectively, our findings underscore the pivotal role of autophagy in maintaining human neural integrity, emphasize an emerging group of congenital autophagy disorders, and expand our understanding of adaptive homeostasis in human health and disease."
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "authors": [
+        "Collier JJ",
+        "Ol\u00e1hov\u00e1 M",
+        "McWilliams TG",
+        "Taylor RW"
+      ],
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Autophagy",
+        "Autophagy-Related Protein 5",
+        "Autophagy-Related Protein 7",
+        "Fibroblasts",
+        "Humans",
+        "Mice",
+        "Nervous System",
+        "Proteins"
+      ],
+      "abstract": "ATG7 drives macroautophagy, hereafter \"autophagy\", by generating ATG12-ATG5 conjugates and lipidating Atg8 homologs including LC3. A pioneering body of work has defined the requirement of ATG7 for survival in mice and shown that neural-specific atg7 deletion causes neurodegeneration, but it has not been ascertained whether human life is compatible with ATG7 dysfunction. Recently, we defined the importance of ATG7 in human physiology by identifying twelve patients from five families harboring pathogenic, biallelic ATG7 variants causing a neurodevelopmental disorder. Patient fibroblasts show undetectable or severely diminished ATG7 protein levels, and biochemical assessment via autophagic flux and long-lived protein degradation assays demonstrated that attenuated autophagy underpins the pathology. Confirming the pathogenicity of patient variants, mouse cells expressing mutated ATG7 are unable to rescue LC3/Atg8 lipidation to wild-type levels. Our work defines mutated ATG7 as an important cause of human neurological disease and expands our understanding of autophagy in longevity and human health. We demonstrated that in certain circumstances, human survival with relatively mild phenotypes is possible even with undetectable levels of a nonredundant core autophagy protein."
+    },
+    {
+      "pmid": "17223264",
+      "title": "Kainic acid induces early and transient autophagic stress in mouse hippocampus.",
+      "authors": [
+        "Shacka JJ",
+        "Lu J",
+        "Xie ZL",
+        "Uchiyama Y",
+        "Roth KA",
+        "Zhang J"
+      ],
+      "year": "2007",
+      "journal": "Neuroscience letters",
+      "doi": "10.1016/j.neulet.2006.12.025",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Animals",
+        "Autophagy",
+        "Autophagy-Related Protein 5",
+        "Biomarkers",
+        "Epilepsy",
+        "Hippocampus",
+        "Kainic Acid",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Mice, Transgenic",
+        "Microtubule-Associated Proteins",
+        "Molecular Chaperones",
+        "Nerve Degeneration",
+        "Neurotoxins",
+        "Oncogene Protein v-akt",
+        "Stress, Physiological",
+        "Ubiquitins",
+        "Up-Regulation"
+      ],
+      "abstract": "Kainic acid (KA) treatment is a well-established model of hippocampal neuron death mediated in large part by KA receptor-induced excitotoxicity. KA-induced, delayed neuron death has been shown previously to follow the induction of seizures and exhibit characteristics of both apoptosis and necrosis. Growing evidence supports a role of autophagic stress-induced death of neurons in several in vitro and in vivo models of neuron death and neurodegeneration. However, whether autophagic stress also plays a role in KA-induced excitotoxicity has not been previously investigated. To examine whether KA alters the levels of proteins associated with or known to regulate the formation of autophagic vacuoles, we isolated hippocampal extracts from control mice and in mice following 2-16 h KA injection. KA induced a significant increase in the amount of LC3-II, a specific marker of autophagic vacuoles, at 4-6h following KA, which indicates a transient induction of autophagic stress. Levels of autophagy-associated proteins including ATG5 (conjugated to ATG12), ATG6 and ATG7 did not change significantly after treatment with KA. However, ratios of phospho-mTOR/mTOR were elevated from 6 to 16 h, and ratios of phospho-Akt/Akt were elevated at 16 h following KA treatment, suggesting a potential negative feedback loop to inhibit further stimulation of autophagic stress. Together these data indicate the transient induction of autophagic stress by KA which may serve to regulate excitotoxic death in mouse hippocampus."
+    }
+  ]
+}

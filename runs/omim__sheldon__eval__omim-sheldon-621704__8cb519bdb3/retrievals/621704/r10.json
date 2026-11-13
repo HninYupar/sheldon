@@ -1,0 +1,82 @@
+{
+  "id": "r10",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "BORCS5[gene] AND (lysosome OR lysosomal OR autophagy OR transport OR positioning OR BORC)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "6 PubMed hits for 'BORCS5[gene] AND (lysosome OR lysosomal OR autophagy OR transport OR positioning OR BORC)'; showing 6 (PubMed read it as: \"BORCS5\"[All Fields] AND (\"lysosomal\"[All Fields] OR \"lysosomally\"[All Fields] OR \"lysosomes\"[MeSH Terms] OR \"lysosomes\"[All Fields] OR \"lysosome\"[All Fields] OR (\"lysosomal\"[All Fields] OR \"lysosomally\"[All Fields] OR \"lysosomes\"[MeSH Terms] OR \"lysosomes\"[All Fields] OR \"lysosome\"[All Fields]) OR (\"autophagies\"[All Fields] OR \"autophagy\"[MeSH Terms] OR \"autophagy\"[All Fields] OR \"autophagy s\"[All Fields]) OR (\"biological transport\"[MeSH Terms] OR (\"biological\"[All Fields] AND \"transport\"[All Fields]) OR \"biological transport\"[All Fields] OR \"transport\"[All Fields] OR \"membrane transport proteins\"[Supplementary Concept] OR \"membrane transport proteins\"[All Fields] OR \"transporter\"[All Fields] OR \"membrane transport proteins\"[MeSH Terms] OR (\"membrane\"[All Fields] AND \"transport\"[All Fields] AND \"proteins\"[All Fields]) OR \"transporters\"[All Fields] OR \"transportable\"[All Fields] OR \"transportation\"[MeSH Terms] OR \"transportation\"[All Fields] OR \"transportations\"[All Fields] OR \"transported\"[All Fields] OR \"transporter s\"[All Fields] OR \"transporting\"[All Fields] OR \"transports\"[All Fields]) OR (\"patient positioning\"[MeSH Terms] OR (\"patient\"[All Fields] AND \"positioning\"[All Fields]) OR \"patient positioning\"[All Fields] OR \"positioning\"[All Fields] OR \"position\"[All Fields] OR \"position s\"[All Fields] OR \"positional\"[All Fields] OR \"positioned\"[All Fields] OR \"positionings\"[All Fields] OR \"positions\"[All Fields]) OR \"BORC\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40385417",
+      "title": "Pathogenic variants in BORCS5 Cause a Spectrum of Neurodevelopmental and Neurodegenerative Disorders with Lysosomal Dysfunction.",
+      "first_author": "Mencacci NE",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2025.04.30.25326597",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42012897",
+      "title": "Pathogenic variants in BORCS5 cause a spectrum of neurodevelopmental and neurodegenerative disorders with lysosomal dysfunction.",
+      "first_author": "Mencacci NE",
+      "year": "2026",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI195336",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41557793",
+      "title": "BORC assemblies integrate BLOC-1 subunits to diversify endosomal trafficking functions.",
+      "first_author": "de Araujo MEG",
+      "year": "2026",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2515691123",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36717601",
+      "title": "BORC complex specific components and Kinesin-1 mediate autophagy evasion by the autophagy-resistant Mycobacterium tuberculosis Beijing strain.",
+      "first_author": "Tunganuntarat J",
+      "year": "2023",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-023-28983-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39740668",
+      "title": "The structure and assembly of the hetero-octameric BLOC-one-related complex.",
+      "first_author": "Ge X",
+      "year": "2025",
+      "journal": "Structure",
+      "doi": "10.1016/j.str.2024.12.001",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42827379",
+      "title": "A Novel BORCS5 Loss-Of-Function Variant in a Patient With a Rare Neurodevelopmental Disorder.",
+      "first_author": "Mahmood A",
+      "year": "2026",
+      "journal": "Int J Dev Neurosci",
+      "doi": "10.1002/jdn.70182",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    }
+  ]
+}

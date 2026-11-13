@@ -1,0 +1,25 @@
+{
+  "id": "r37",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(PI31 OR \"proteasome regulator\" OR PSMF1) AND (parkinsonism OR Parkinson) AND (recessive OR autosomal recessive)",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '(PI31 OR \"proteasome regulator\" OR PSMF1) AND (parkinsonism OR Parkinson) AND (recessive OR autosomal recessive)'; showing 1 (PubMed read it as: (\"PI31\"[All Fields] OR \"proteasome regulator\"[All Fields] OR \"PSMF1\"[All Fields]) AND (\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR \"parkinson s\"[All Fields] OR \"parkinsons\"[All Fields] OR \"parkinson\"[All Fields] OR \"parkinsonian disorders\"[MeSH Terms] OR (\"parkinsonian\"[All Fields] AND \"disorders\"[All Fields]) OR \"parkinsonian disorders\"[All Fields] OR \"parkinsonism\"[All Fields] OR \"parkinsonisms\"[All Fields] OR \"parkinsons s\"[All Fields] OR (\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields] OR \"parkinson s\"[All Fields] OR \"parkinsons\"[All Fields] OR \"parkinson\"[All Fields] OR \"parkinsonian disorders\"[MeSH Terms] OR (\"parkinsonian\"[All Fields] AND \"disorders\"[All Fields]) OR \"parkinsonian disorders\"[All Fields] OR \"parkinsonism\"[All Fields] OR \"parkinsonisms\"[All Fields] OR \"parkinsons s\"[All Fields])) AND (\"recessive\"[All Fields] OR \"recessively\"[All Fields] OR \"recessives\"[All Fields] OR ((\"autosomal\"[All Fields] OR \"autosomally\"[All Fields] OR \"autosome\"[All Fields] OR \"autosomes\"[All Fields] OR \"autosomic\"[All Fields] OR \"autosomical\"[All Fields]) AND (\"recessive\"[All Fields] OR \"recessively\"[All Fields] OR \"recessives\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

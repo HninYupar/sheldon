@@ -1,0 +1,132 @@
+{
+  "id": "r178",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "35722745",
+      "23934111",
+      "33565063",
+      "35497372"
+    ]
+  },
+  "summary": "fetched 4 of 4 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "35722745",
+      "title": "Clinical and genetic characterization of CACNA1A-related disease.",
+      "authors": [
+        "Lipman AR",
+        "Fan X",
+        "Shen Y",
+        "Chung WK"
+      ],
+      "year": "2022",
+      "journal": "Clinical genetics",
+      "doi": "10.1111/cge.14180",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Autism Spectrum Disorder",
+        "Calcium Channels",
+        "Humans",
+        "Nystagmus, Pathologic",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Pathogenic variants in the CACNA1A gene have been associated with episodic ataxia type 2, familial hemiplegic migraine, and spinocerebellar ataxia 6. With increasing use of clinical genetic testing, associations have expanded to include developmental delay, epilepsy, paroxysmal dystonia, and neuropsychiatric disorders. We report 47 individuals with 33 unique likely pathogenic or pathogenic CACNA1A variants. A machine learning method, funNCion, was used to predict loss-of-function (LoF)/gain-of-function (GoF) impact of genetic variants, and a heuristic severity score was designed to analyze genotype/phenotype correlations. Commonly reported phenotypes include developmental delay/intellectual disability (96%), hemiplegic migraines (36%), episodic ataxia type 2 (32%), epilepsy (55%), autism spectrum disorder (23%), and paroxysmal tonic upward gaze (36%). Severity score was significantly higher for predicted GoF variants, variants in the S5/S6 helices, and the recurrent p.Val1392Met variant. Seizures/status epilepticus were correlated with GoF and were more frequent in those with the p.Val1392Met variant. Our findings demonstrate a breadth of disease severity in CACNA1A-related disease and suggest that the clinical phenotypic heterogeneity likely reflects diverse molecular phenotypes. A better understanding of the natural history of CACNA1A-related disease and genotype/phenotype correlations will help inform prognosis and prepare for future clinical trials."
+    },
+    {
+      "pmid": "23934111",
+      "title": "De novo mutations in epileptic encephalopathies.",
+      "authors": [
+        "Epi4K Consortium",
+        "Epilepsy Phenome/Genome Project",
+        "Allen AS",
+        "Berkovic SF",
+        "Cossette P",
+        "Delanty N",
+        "et al."
+      ],
+      "year": "2013",
+      "journal": "Nature",
+      "doi": "10.1038/nature12439",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, American Recovery and Reinvestment Act",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Child Development Disorders, Pervasive",
+        "Cohort Studies",
+        "Exome",
+        "Female",
+        "Fragile X Messenger Ribonucleoprotein 1",
+        "Genetic Predisposition to Disease",
+        "Humans",
+        "Infant",
+        "Intellectual Disability",
+        "Lennox Gastaut Syndrome",
+        "Male",
+        "Mutation",
+        "Mutation Rate",
+        "N-Acetylglucosaminyltransferases",
+        "Probability",
+        "Receptors, GABA-A",
+        "Spasms, Infantile"
+      ],
+      "abstract": "Epileptic encephalopathies are a devastating group of severe childhood epilepsy disorders for which the cause is often unknown. Here we report a screen for de novo mutations in patients with two classical epileptic encephalopathies: infantile spasms (n = 149) and Lennox-Gastaut syndrome (n = 115). We sequenced the exomes of 264 probands, and their parents, and confirmed 329 de novo mutations. A likelihood analysis showed a significant excess of de novo mutations in the \u223c4,000 genes that are the most intolerant to functional genetic variation in the human population (P = 2.9\u2009\u00d7\u200910(-3)). Among these are GABRB3, with de novo mutations in four patients, and ALG13, with the same de novo mutation in two patients; both genes show clear statistical evidence of association with epileptic encephalopathy. Given the relevant site-specific mutation rates, the probabilities of these outcomes occurring by chance are P = 4.1\u2009\u00d7\u200910(-10) and P = 7.8\u2009\u00d7\u200910(-12), respectively. Other genes with de novo mutations in this cohort include CACNA1A, CHD2, FLNA, GABRA1, GRIN1, GRIN2B, HNRNPU, IQSEC2, MTOR and NEDD4L. Finally, we show that the de novo mutations observed are enriched in specific gene sets including genes regulated by the fragile X protein (P\u2009<\u200910(-8)), as has been reported previously for autism spectrum disorders."
+    },
+    {
+      "pmid": "33565063",
+      "title": "[Clinical manifestation and genetic analysis of a child with early infantile epileptic encephalopathy 42].",
+      "authors": [
+        "Ran Y",
+        "Lyu Y",
+        "Bai H",
+        "Li C",
+        "Li-Ling J"
+      ],
+      "year": "2021",
+      "journal": "Zhonghua yi xue yi chuan xue za zhi = Zhonghua yixue yichuanxue zazhi = Chinese journal of medical genetics",
+      "doi": "10.3760/cma.j.cn511374-20201022-00743",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Calcium Channels",
+        "Genetic Testing",
+        "Heterozygote",
+        "Humans",
+        "Infant",
+        "Mutation",
+        "Spasms, Infantile",
+        "Exome Sequencing",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "OBJECTIVE: To analyze the clinical phenotype and genetic characterization of a child with early infantile epileptic encephalopathy.\nMETHODS: The proband was subjected to history taking and was diagnosed based on his clinical manifestation, magnetic resonance imaging (MRI) and whole exome sequencing (WES). Sanger sequencing was carried out to determine the origin of pathogenic variant.\nRESULTS: The proband unconsciously tilts his head to one side with squint, which revealed an abnormal discharge. MRI indicated suspicious abnormal signal shadow in the left posterior frontal cortex in addition with inflammation signs in the right maxillary sinus and ethmoid sinus. WES revealed that the proband has carried a heterozygous c.5789G>A variant in the CACNAIA gene. The result of Sanger sequencing was in keeping with that of WES. Neither of his parents has carried the same variant.\nCONCLUSION: The heterozygous c.5789G>A variant of the CACNAIA gene probably underlay the early infantile epileptic encephalopathy 42 in the proband, which has a de novo origin."
+    },
+    {
+      "pmid": "35497372",
+      "title": "Two Children with Early-Onset Strokes and Intractable Epilepsy, Both with CACNA1A Mutations.",
+      "authors": [
+        "Bolte KN",
+        "Assaf M",
+        "Zach T",
+        "Peche S"
+      ],
+      "year": "2022",
+      "journal": "Child neurology open",
+      "doi": "10.1177/2329048X221094977",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Background: Mutations in the CACNA1A gene have been associated phenotypically with Familial Hemiplegic Migraine Type 1, Episodic Ataxia Type 2, Idiopathic Generalized Epilepsy, and Developmental and Epileptic Encephalopathy 42. Only six cases have linked ischemic strokes to mutations in the CACNA1A gene. Summary of Cases: We describe two unrelated patients who were found to have different mutations of the CACNA1A gene, one being a novel mutation, as shown by whole exome sequencing. One presented with seizures at birth and the other with seizures at 17 months old, both eventually exhibiting intractable epilepsy, ischemic stroke, and developmental delays. Results: Whole exome sequencing demonstrated de novo pathogenic mutations in the CACNA1A gene, which both caused similar phenotypes in unrelated patients. Conclusion: Pediatric patients who present with ischemic stroke and a history of seizures should be evaluated for CACNA1A mutations, as prompt recognition can help providers facilitate appropriate medical management."
+    }
+  ]
+}

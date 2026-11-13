@@ -1,0 +1,248 @@
+{
+  "id": "r2",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"PARK27\" OR \"parkinson disease 27\" OR \"autosomal recessive early-onset parkinson disease\" OR \"PARKINSON DISEASE 27\" )",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "6757 PubMed hits for '(\"PARK27\" OR \"parkinson disease 27\" OR \"autosomal recessive early-onset parkinson disease\" OR \"PARKINSON DISEASE 27\" )'; showing 20 (PubMed read it as: ((\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields]) AND \"27\"[All Fields]) OR \"autosomal recessive early-onset parkinson disease\"[All Fields] OR ((\"parkinson disease\"[MeSH Terms] OR (\"parkinson\"[All Fields] AND \"disease\"[All Fields]) OR \"parkinson disease\"[All Fields]) AND \"27\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31631455",
+      "title": "Parkinson disease.",
+      "first_author": "Balestrino R",
+      "year": "2020",
+      "journal": "Eur J Neurol",
+      "doi": "10.1111/ene.14108",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29882128",
+      "title": "Special issue \"Parkinson's disease\".",
+      "first_author": "Braak H",
+      "year": "2018",
+      "journal": "Cell Tissue Res",
+      "doi": "10.1007/s00441-018-2863-5",
+      "pubtype": [
+        "Editorial",
+        "Introductory Journal Article"
+      ]
+    },
+    {
+      "pmid": "5092060",
+      "title": "[Parkinsonism].",
+      "first_author": "Uono M",
+      "year": "1971",
+      "journal": "Naika",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "19555822",
+      "title": "Movement disorders. Preface.",
+      "first_author": "Jankovic J",
+      "year": "2009",
+      "journal": "Neurol Clin",
+      "doi": "10.1016/j.ncl.2009.04.012",
+      "pubtype": [
+        "Introductory Journal Article"
+      ]
+    },
+    {
+      "pmid": "34219644",
+      "title": "[Non-motor symptoms in Parkinson's disease].",
+      "first_author": "Nielsen NS",
+      "year": "2021",
+      "journal": "Ugeskr Laeger",
+      "doi": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "26099862",
+      "title": "Parkinson's disease and insomnia.",
+      "first_author": "Ylikoski A",
+      "year": "2015",
+      "journal": "Neurol Sci",
+      "doi": "10.1007/s10072-015-2288-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29084313",
+      "title": "Safety and Efficacy of Focused Ultrasound Thalamotomy for Patients With Medication-Refractory, Tremor-Dominant Parkinson Disease: A Randomized Clinical Trial.",
+      "first_author": "Bond AE",
+      "year": "2017",
+      "journal": "JAMA Neurol",
+      "doi": "10.1001/jamaneurol.2017.3098",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12217636",
+      "title": "Parkinson's genetics--creating exciting new insights.",
+      "first_author": "Grimes DA",
+      "year": "2002",
+      "journal": "Parkinsonism Relat Disord",
+      "doi": "10.1016/s1353-8020(02)00030-5",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "1350072",
+      "title": "When does Parkinson's disease begin?",
+      "first_author": "Koller WC",
+      "year": "1992",
+      "journal": "Neurology",
+      "doi": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "3332804",
+      "title": "Charcot on Parkinson's disease.",
+      "first_author": "Goetz CG",
+      "year": "1986",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.870010104",
+      "pubtype": [
+        "Biography",
+        "Historical Article",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38145280",
+      "title": "The Spectrum of Non-Parkinsonian Tremor: A Registry at a Tertiary Care Teaching Institute.",
+      "first_author": "Pandey S",
+      "year": "2023",
+      "journal": "Tremor Other Hyperkinet Mov (N Y)",
+      "doi": "10.5334/tohm.828",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "3206230",
+      "title": "Embryonic questions.",
+      "first_author": "Beardsley TM",
+      "year": "1988",
+      "journal": "Sci Am",
+      "doi": "10.1038/scientificamerican1288-27",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26525814",
+      "title": "[Pain fluctuations in Parkinson's disease].",
+      "first_author": "Yakovleva LA",
+      "year": "2015",
+      "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+      "doi": "10.17116/jnevro20151159141-44",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26331387",
+      "title": "Electroconvulsive therapy in Parkinson's disease.",
+      "first_author": "Calder\u00f3n-Fajardo H",
+      "year": "2015",
+      "journal": "Arq Neuropsiquiatr",
+      "doi": "10.1590/0004-282X20150131",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30474499",
+      "title": "Paraquat exposure and Parkinson's disease: A systematic review and meta-analysis.",
+      "first_author": "Tangamornsuksan W",
+      "year": "2019",
+      "journal": "Arch Environ Occup Health",
+      "doi": "10.1080/19338244.2018.1492894",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    {
+      "pmid": "30585606",
+      "title": "[Parkinson disease and asthenic syndrome].",
+      "first_author": "Zhukova IA",
+      "year": "2018",
+      "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+      "doi": "10.17116/jnevro201811811160",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "245293",
+      "title": "Parkinson's disease.",
+      "first_author": "Taylor J",
+      "year": "1977",
+      "journal": "Aust Nurses J",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36905718",
+      "title": "Clozapine: Efficacy for Parkinson Disease psychosis in patients refractory to pimavanserin.",
+      "first_author": "Thames BH",
+      "year": "2023",
+      "journal": "Parkinsonism Relat Disord",
+      "doi": "10.1016/j.parkreldis.2023.105356",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "19191342",
+      "title": "Cognitive decline in early Parkinson's disease.",
+      "first_author": "Kandiah N",
+      "year": "2009",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.22384",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36412151",
+      "title": "[Particularities of thermoregulation in Parkinson's disease].",
+      "first_author": "Coloman II",
+      "year": "2022",
+      "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+      "doi": "10.17116/jnevro202212211219",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    }
+  ]
+}

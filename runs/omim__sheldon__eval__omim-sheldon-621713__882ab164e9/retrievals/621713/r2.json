@@ -1,0 +1,253 @@
+{
+  "id": "r2",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (variant OR mutation OR mutations OR biallelic OR homozygous OR compound heterozygous OR patient OR patients OR case OR cohort)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "281 PubMed hits for 'TACC3[gene] AND (variant OR mutation OR mutations OR biallelic OR homozygous OR compound heterozygous OR patient OR patients OR case OR cohort)'; showing 20 (PubMed read it as: \"TACC3\"[All Fields] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields] OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"bialleleic\"[All Fields] OR \"biallelic\"[All Fields] OR \"biallelically\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields])) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"ieee int conf automation sci eng case\"[Journal] OR \"case phila\"[Journal] OR \"case\"[All Fields]) OR (\"cohort\"[All Fields] OR \"cohort s\"[All Fields] OR \"cohorte\"[All Fields] OR \"cohorts\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "24476821",
+      "title": "Comprehensive molecular characterization of urothelial bladder carcinoma.",
+      "first_author": "Cancer Genome Atlas Research Network",
+      "year": "2014",
+      "journal": "Nature",
+      "doi": "10.1038/nature12965",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40759029",
+      "title": "Spatial Multiomics Defines a Shared Tumor Infiltrative Signature at the Resection Margin in High-Grade Gliomas.",
+      "first_author": "Pai B",
+      "year": "2025",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-24-4708",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38319231",
+      "title": "Targeting TACC3 Induces Immunogenic Cell Death and Enhances T-DM1 Response in HER2-Positive Breast Cancer.",
+      "first_author": "Gedik ME",
+      "year": "2024",
+      "journal": "Cancer Res",
+      "doi": "10.1158/0008-5472.CAN-23-2812",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "37210288",
+      "title": "Genome-wide Association Study of Bladder Cancer Reveals New Biological and Translational Insights.",
+      "first_author": "Koutros S",
+      "year": "2023",
+      "journal": "Eur Urol",
+      "doi": "10.1016/j.eururo.2023.04.020",
+      "pubtype": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40223054",
+      "title": "Integrative eQTL and Mendelian randomization analysis reveals key genetic markers in mesothelioma.",
+      "first_author": "Li J",
+      "year": "2025",
+      "journal": "Respir Res",
+      "doi": "10.1186/s12931-025-03219-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38067258",
+      "title": "Diffuse Gliomas with FGFR3-TACC3 Fusions: Oncogenic Mechanisms, Hallmarks, and Therapeutic Perspectives.",
+      "first_author": "Picca A",
+      "year": "2023",
+      "journal": "Cancers (Basel)",
+      "doi": "10.3390/cancers15235555",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40866361",
+      "title": "Transforming acidic coiled-coil-containing protein 3-mediated lipid metabolism reprogramming impairs CD8(+) T-cell cytotoxicity in hepatocellular carcinoma.",
+      "first_author": "Li Y",
+      "year": "2025",
+      "journal": "Signal Transduct Target Ther",
+      "doi": "10.1038/s41392-025-02367-9",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39470303",
+      "title": "LncRNA evf-2 Exacerbates Podocyte Injury in Diabetic Nephropathy by Inducing Cell Cycle Re-entry and Inflammation Through Distinct Mechanisms Triggered by hnRNPU.",
+      "first_author": "Zhang C",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202406532",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41165398",
+      "title": "Diffuse glioma with FGFR3-TACC3 fusion in adults is not a homogenous clinicopathological and molecular entity.",
+      "first_author": "Su X",
+      "year": "2025",
+      "journal": "J Pathol Clin Res",
+      "doi": "10.1002/2056-4538.70057",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36647073",
+      "title": "Clinico-pathological and epigenetic heterogeneity of diffuse gliomas with FGFR3::TACC3 fusion.",
+      "first_author": "M\u00e9tais A",
+      "year": "2023",
+      "journal": "Acta Neuropathol Commun",
+      "doi": "10.1186/s40478-023-01506-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36455273",
+      "title": "Varied histomorphology and clinical outcomes of FGFR3-TACC3 fusion gliomas.",
+      "first_author": "McDonald MF",
+      "year": "2022",
+      "journal": "Neurosurg Focus",
+      "doi": "10.3171/2022.9.FOCUS22420",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30051533",
+      "title": "Low-grade neuroepithelial tumor: Unusual presentation in an adult without history of seizures.",
+      "first_author": "Riva G",
+      "year": "2018",
+      "journal": "Neuropathology",
+      "doi": "10.1111/neup.12504",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39030352",
+      "title": "Predicting Infertility: How Genetic Variants in Oocyte Spindle Genes Affect Egg Quality.",
+      "first_author": "Biswas L",
+      "year": "2024",
+      "journal": "Adv Anat Embryol Cell Biol",
+      "doi": "10.1007/978-3-031-55163-5_1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35222252",
+      "title": "Glioblastoma, IDH-Wild Type With FGFR3-TACC3 Fusion: When Morphology May Reliably Predict the Molecular Profile of a Tumor. A Case Report and Literature Review.",
+      "first_author": "Broggi G",
+      "year": "2022",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2022.823015",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "38255255",
+      "title": "Clinicopathological and Molecular Characteristics of IDH-Wildtype Glioblastoma with FGFR3::TACC3 Fusion.",
+      "first_author": "Bae H",
+      "year": "2024",
+      "journal": "Biomedicines",
+      "doi": "10.3390/biomedicines12010150",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38480537",
+      "title": "Cellular senescence gene TACC3 associated with colorectal cancer risk via genetic and DNA methylated alteration.",
+      "first_author": "Shen H",
+      "year": "2024",
+      "journal": "Arch Toxicol",
+      "doi": "10.1007/s00204-024-03702-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37341435",
+      "title": "TACC3 is an independent prognostic marker, and knockdown of TACC3 enhances the efficacy of CDK1 inhibitor RO3306 in liver cancer cells.",
+      "first_author": "Guo E",
+      "year": "2023",
+      "journal": "J Biochem Mol Toxicol",
+      "doi": "10.1002/jbt.23402",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35066105",
+      "title": "Single-cell DNA-seq depicts clonal evolution of multiple driver alterations in osimertinib-resistant patients.",
+      "first_author": "Chen J",
+      "year": "2022",
+      "journal": "Ann Oncol",
+      "doi": "10.1016/j.annonc.2022.01.004",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41279925",
+      "title": "The scaffold protein PRR14L links the PP2A-TACC3 axis to mitotic fidelity and sensitivity to MPS1 inhibition.",
+      "first_author": "Liu AZ",
+      "year": "2025",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2025.11.04.686150",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    }
+  ]
+}

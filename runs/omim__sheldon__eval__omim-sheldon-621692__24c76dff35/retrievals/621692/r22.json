@@ -1,0 +1,114 @@
+{
+  "id": "r22",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "34102571",
+      "30185235",
+      "31171384"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "authors": [
+        "Le Roux M",
+        "Barth M",
+        "Gueden S",
+        "Desbordes de Cepoy P",
+        "Aeby A",
+        "Vilain C",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Calcium Channels",
+        "Child, Preschool",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Male",
+        "Seizures",
+        "Spinocerebellar Ataxias",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "CACNA1A pathogenic mutations are involved in various neurological phenotypes including episodic ataxia (EA2), spinocerebellar ataxia (SCA6), and familial hemiplegic migraine (FHM1). Epilepsy is poorly documented. We studied 18 patients (10 males) carrying de novo or inherited CACNA1A mutations, with median age of 2,5 years at epilepsy onset. Eight mutations were novel. Two variants known leading to gain of function (GOF) were found in 5 patients. Five other patients had non-sense variants leading to loss of function (LOF). Seizures were most often revealed by either status epilepticus (SE) (n\u00a0=\u00a08), eventually triggered by fever (n\u00a0=\u00a05), or absences/behavioural arrests (n\u00a0=\u00a07). Non-epileptic paroxysmal events were frequent and consisted in recurrent hemiplegic accesses (n\u00a0=\u00a09), jitteriness in the neonatal period (n\u00a0=\u00a06), and ocular paroxysmal events (n\u00a0=\u00a09). Most of the patients had early permanent cerebellar dysfunction (n\u00a0=\u00a016) and early moderate to severe global developmental delay (GDD)/intellectual deficiency (ID) (n\u00a0=\u00a017). MRI was often abnormal, with cerebellar (n\u00a0=\u00a08) and/or cerebral (n\u00a0=\u00a06) atrophy. Stroke-like occurred in 2 cases. Some antiepileptic drugs including topiramate, levetiracetam, lamotrigine and valproate were effective on seizures. Acetazolamide and calcium channel blockers were often effective when used. More than half of the patients had refractory epilepsy. CACNA1A mutation should be evoked in front of 2 main electro-clinical phenotypes that are associated with permanent cerebellar dysfunction and moderate to severe GDD/ID. The first one, found in all 5 patients with GOF variants, is characterized by intractable seizures, early and recurrent SE and hemiplegic accesses. The second, less severe, found in 5 patients with LOF variants, is characterized by refractory early onset absence seizures."
+    },
+    {
+      "pmid": "30185235",
+      "title": "Novel and de novo mutations in pediatric refractory epilepsy.",
+      "authors": [
+        "Liu J",
+        "Tong L",
+        "Song S",
+        "Niu Y",
+        "Li J",
+        "Wu X",
+        "et al."
+      ],
+      "year": "2018",
+      "journal": "Molecular brain",
+      "doi": "10.1186/s13041-018-0392-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Adolescent",
+        "Child",
+        "Child, Preschool",
+        "Epilepsies, Myoclonic",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Infant",
+        "Infant, Newborn",
+        "Male",
+        "Mutation",
+        "NAV1.1 Voltage-Gated Sodium Channel"
+      ],
+      "abstract": "Pediatric refractory epilepsy is a broad phenotypic spectrum with great genetic heterogeneity. Next-generation sequencing (NGS) combined with Sanger sequencing could help to understand the genetic diversity and underlying disease mechanisms in pediatric epilepsy. Here, we report sequencing results from a cohort of 172 refractory epilepsy patients aged 0-14\u00a0years. The pathogenicity of identified variants was evaluated in accordance with the American College of Medical Genetics and Genomics (ACMG) criteria. We identified 43 pathogenic or likely pathogenic variants in 40 patients (23.3%). Among these variants, 74.4% mutations (32/43) were de novo and 60.5% mutations (26/43) were novel. Patients with onset age of seizures \u226412\u00a0months had higher yields of deleterious variants compared to those with onset age of seizures >\u200912\u00a0months (P\u00a0=\u20090.006). Variants in ion channel genes accounted for the greatest functional gene category (55.8%), with SCN1A coming first (16/43). 81.25% (13/16) of SCN1A mutations were de novo and 68.8% (11/16) were novel in Dravet syndrome. Pathogenic or likely pathogenic variants were found in the KCNQ2, STXBP1, SCN2A genes in Ohtahara syndrome. Novel deleterious variants were also found in West syndrome, Doose syndrome and glucose transporter type 1 deficiency syndrome patients. One de novo MECP2 mutation were found in a Rett syndrome patient. TSC1/TSC2 variants were found in 60% patients with tuberous sclerosis complex patients. Other novel mutations detected in unclassified epilepsy patients involve the SCN8A, CACNA1A, GABRB3, GABRA1, IQSEC2, TSC1, VRK2, ATP1A2, PCDH19, SLC9A6 and CHD2 genes. Our study provides novel insights into the genetic origins of pediatric epilepsy and represents a starting-point for further investigations into the molecular pathophysiology of pediatric epilepsy that could eventually lead to better treatments."
+    },
+    {
+      "pmid": "31171384",
+      "title": "Genomic backgrounds of Japanese patients with undiagnosed neurodevelopmental disorders.",
+      "authors": [
+        "Yamamoto T",
+        "Imaizumi T",
+        "Yamamoto-Shimojima K",
+        "Lu Y",
+        "Yanagishita T",
+        "Shimada S",
+        "et al."
+      ],
+      "year": "2019",
+      "journal": "Brain & development",
+      "doi": "10.1016/j.braindev.2019.05.007",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Asian People",
+        "Child, Preschool",
+        "DNA Copy Number Variations",
+        "Female",
+        "Genetic Predisposition to Disease",
+        "Humans",
+        "Japan",
+        "Male",
+        "Neurodevelopmental Disorders",
+        "Polymorphism, Single Nucleotide"
+      ],
+      "abstract": "BACKGROUND: Recently, many genes related to neurodevelopmental disorders have been identified by high-throughput genomic analysis; however, a comprehensive understanding of the mechanism underlying neurodevelopmental disorders remains to be established. To further understand these underlying mechanisms, we performed a comprehensive genomic analysis of patients with undiagnosed neurodevelopmental disorders.\nMETHODS: Genomic analysis using next-generation sequencing with a targeted panel was performed for a total of 133 Japanese patients (male/female, 81/52) with previously undiagnosed neurodevelopmental disorders, including developmental delay (DD), intellectual disability (ID), autism spectrum disorder (ASD), and epilepsy. Genomic copy numbers were also analyzed using the eXome Hidden Markov Model (XHMM).\nRESULTS: Thirty-nine patients (29.3%) exhibited pathogenic or likely pathogenic findings with single-gene variants or chromosomal aberrations. Among them, 20 patients were presented here. Pathogenic or likely pathogenic variants were identified in 18 genes, including ACTG1, CACNA1A, CHD2, CDKL5, DNMT3A, EHMT1, GABRB3, GABRG2, GRIN2B, KCNQ3, KDM5C, MED13L, SCN2A, SHANK3, SMARCA2, STXBP1, SYNGAP1, and TBL1XR1.\nCONCLUSION: A diagnostic yield of 29.3% in this study was nearly the same as that previously reported from other countries. Thus, we suggest that there is no difference in genomic backgrounds in Japanese patients with undiagnosed neurodevelopmental disabilities. Although most of the patients possessed de novo variants, one of the patients showed an X-linked inheritance pattern. As X-linked recessive disorders exhibit the possibility of recurrent occurrence in the family, comprehensive molecular diagnosis is important for genetic counseling."
+    }
+  ]
+}

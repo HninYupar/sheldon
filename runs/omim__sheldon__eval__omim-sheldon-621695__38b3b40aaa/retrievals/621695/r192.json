@@ -1,0 +1,12 @@
+{
+  "id": "r192",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (arthrogryposis OR congenital contractures OR congenital neuromuscular OR neonatal hypotonia OR myopathy OR neuropathy OR myotonic)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (arthrogryposis OR congenital contractures OR congenital neuromuscular OR neonatal hypotonia OR myopathy OR neuropathy OR myotonic)'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields] OR ((\"congenital\"[MeSH Subheading] OR \"congenital\"[All Fields] OR \"congenitally\"[All Fields]) AND (\"contractural\"[All Fields] OR \"contracture\"[MeSH Terms] OR \"contracture\"[All Fields] OR \"contractures\"[All Fields] OR \"contractured\"[All Fields])) OR ((\"congenital\"[MeSH Subheading] OR \"congenital\"[All Fields] OR \"congenitally\"[All Fields]) AND \"neuromuscular\"[All Fields]) OR (\"muscle hypotonia\"[MeSH Terms] OR (\"muscle\"[All Fields] AND \"hypotonia\"[All Fields]) OR \"muscle hypotonia\"[All Fields] OR (\"neonatal\"[All Fields] AND \"hypotonia\"[All Fields]) OR \"neonatal hypotonia\"[All Fields]) OR (\"muscular diseases\"[MeSH Terms] OR (\"muscular\"[All Fields] AND \"diseases\"[All Fields]) OR \"muscular diseases\"[All Fields] OR \"myopathies\"[All Fields] OR \"myopathy\"[All Fields]) OR (\"neuropathies\"[All Fields] OR \"neuropathy\"[All Fields]) OR (\"myotonic\"[All Fields] OR \"myotonics\"[All Fields])))",
+  "ok": true,
+  "evidence": []
+}

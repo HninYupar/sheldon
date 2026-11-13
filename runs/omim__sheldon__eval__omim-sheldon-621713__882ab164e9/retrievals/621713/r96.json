@@ -1,0 +1,86 @@
+{
+  "id": "r96",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (splice OR intronic OR promoter OR regulatory OR copy number OR deletion OR duplication OR dosage) AND (infertility OR oocyte OR zygote OR embryo)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "6 PubMed hits for 'TACC3[gene] AND (splice OR intronic OR promoter OR regulatory OR copy number OR deletion OR duplication OR dosage) AND (infertility OR oocyte OR zygote OR embryo)'; showing 6 (PubMed read it as: \"TACC3\"[All Fields] AND (\"rna splicing\"[MeSH Terms] OR (\"rna\"[All Fields] AND \"splicing\"[All Fields]) OR \"rna splicing\"[All Fields] OR \"splicing\"[All Fields] OR \"splice\"[All Fields] OR \"spliced\"[All Fields] OR \"splices\"[All Fields] OR \"splicings\"[All Fields] OR (\"intron s\"[All Fields] OR \"introne\"[All Fields] OR \"intronically\"[All Fields] OR \"intronization\"[All Fields] OR \"introns\"[MeSH Terms] OR \"introns\"[All Fields] OR \"intron\"[All Fields] OR \"intronic\"[All Fields]) OR (\"promoter\"[All Fields] OR \"promoter s\"[All Fields] OR \"promoters\"[All Fields]) OR \"regulatory\"[All Fields] OR (\"copy\"[All Fields] AND (\"number\"[All Fields] OR \"numbers\"[All Fields])) OR (\"deletable\"[All Fields] OR \"deletant\"[All Fields] OR \"deletants\"[All Fields] OR \"delete\"[All Fields] OR \"deleted\"[All Fields] OR \"deleter\"[All Fields] OR \"deleters\"[All Fields] OR \"deletes\"[All Fields] OR \"deleting\"[All Fields] OR \"deletion s\"[All Fields] OR \"deletional\"[All Fields] OR \"gene deletion\"[MeSH Terms] OR (\"gene\"[All Fields] AND \"deletion\"[All Fields]) OR \"gene deletion\"[All Fields] OR \"deletions\"[All Fields] OR \"sequence deletion\"[MeSH Terms] OR (\"sequence\"[All Fields] AND \"deletion\"[All Fields]) OR \"sequence deletion\"[All Fields] OR \"deletion\"[All Fields]) OR (\"duplicate\"[All Fields] OR \"duplicated\"[All Fields] OR \"duplicates\"[All Fields] OR \"duplicating\"[All Fields] OR \"duplication\"[All Fields] OR \"duplications\"[All Fields] OR \"duplicative\"[All Fields]) OR (\"dosage\"[All Fields] OR \"dosages\"[All Fields])) AND (\"infertiles\"[All Fields] OR \"infertilities\"[All Fields] OR \"infertility\"[MeSH Terms] OR \"infertility\"[All Fields] OR \"infertile\"[All Fields] OR (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]) OR (\"zygote\"[MeSH Terms] OR \"zygote\"[All Fields] OR \"zygotes\"[All Fields] OR \"zygote s\"[All Fields] OR \"zygotic\"[All Fields] OR \"zygotically\"[All Fields]) OR (\"embryo s\"[All Fields] OR \"embryoes\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryo\"[All Fields] OR \"embryos\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "31249032",
+      "title": "A liquid-like spindle domain promotes acentrosomal spindle assembly in mammalian oocytes.",
+      "first_author": "So C",
+      "year": "2019",
+      "journal": "Science",
+      "doi": "10.1126/science.aat9557",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "33901174",
+      "title": "Aurora kinase A is essential for meiosis in mouse oocytes.",
+      "first_author": "Blengini CS",
+      "year": "2021",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1009327",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33519912",
+      "title": "Identification of Potential Prognostic Competing Triplets in High-Grade Serous Ovarian Cancer.",
+      "first_author": "Zhao J",
+      "year": "2020",
+      "journal": "Front Genet",
+      "doi": "10.3389/fgene.2020.607722",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17241108",
+      "title": "Translational control of maskin mRNA by its 3' untranslated region.",
+      "first_author": "Meijer HA",
+      "year": "2007",
+      "journal": "Biol Cell",
+      "doi": "10.1042/BC20060112",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12237944",
+      "title": "TACC3 expression and localization in the murine egg and ovary.",
+      "first_author": "Hao Z",
+      "year": "2002",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.90012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "16859839",
+      "title": "Rethinking some mechanisms invoked to explain translational regulation in eukaryotes.",
+      "first_author": "Kozak M",
+      "year": "2006",
+      "journal": "Gene",
+      "doi": "10.1016/j.gene.2006.06.004",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

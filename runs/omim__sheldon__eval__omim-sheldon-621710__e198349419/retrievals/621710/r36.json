@@ -1,0 +1,24 @@
+{
+  "id": "r36",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (seizures[tiab] OR epilepsy[tiab]) AND (cerebellar hypoplasia[tiab] OR hypoplasia[tiab] OR neurodevelopmental[tiab] OR developmental delay[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for 'ATG12[gene] AND (seizures[tiab] OR epilepsy[tiab]) AND (cerebellar hypoplasia[tiab] OR hypoplasia[tiab] OR neurodevelopmental[tiab] OR developmental delay[tiab])'; showing 1 (PubMed read it as: \"ATG12\"[All Fields] AND (\"seizures\"[Title/Abstract] OR \"epilepsy\"[Title/Abstract]) AND (\"cerebellar hypoplasia\"[Title/Abstract] OR \"hypoplasia\"[Title/Abstract] OR \"neurodevelopmental\"[Title/Abstract] OR \"developmental delay\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

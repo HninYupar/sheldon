@@ -1,0 +1,72 @@
+{
+  "id": "r37",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "38466799",
+      "38708447"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38466799",
+      "title": "Study of an FBXO7 patient mutation reveals Fbxo7 and PI31 co-regulate proteasomes and mitochondria.",
+      "authors": [
+        "Al Rawi S",
+        "Simpson L",
+        "Agnarsd\u00f3ttir G",
+        "McDonald NQ",
+        "Chernuha V",
+        "Elpeleg O",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "The FEBS journal",
+      "doi": "10.1111/febs.17114",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "F-Box Proteins",
+        "Proteasome Endopeptidase Complex",
+        "Mitochondria",
+        "Ubiquitination",
+        "Mutation, Missense",
+        "Mitophagy",
+        "Fibroblasts",
+        "Male",
+        "HEK293 Cells",
+        "Female"
+      ],
+      "abstract": "Mutations in FBXO7 have been discovered to be associated with an atypical parkinsonism. We report here a new homozygous missense mutation in a paediatric patient that causes an L250P substitution in the dimerisation domain of Fbxo7. This alteration selectively ablates the Fbxo7-PI31 interaction and causes a significant reduction in Fbxo7 and PI31 levels in patient cells. Consistent with their association with proteasomes, patient fibroblasts have reduced proteasome activity and proteasome subunits. We also show PI31 interacts with the MiD49/51 fission adaptor proteins, and unexpectedly, PI31 acts to facilitate SCFFbxo7-mediated ubiquitination of MiD49. The L250P mutation reduces the SCFFbxo7 ligase-mediated ubiquitination of a subset of its known substrates. Although MiD49/51 expression was reduced in patient cells, there was no effect on the mitochondrial network. However, patient cells show reduced levels of mitochondrial function and mitophagy, higher levels of ROS and are less viable under stress. Our study demonstrates that Fbxo7 and PI31 regulate proteasomes and mitochondria and reveals a new function for PI31 in enhancing the SCFFbxo7 E3 ubiquitin ligase activity."
+    },
+    {
+      "pmid": "38708447",
+      "title": "A new mutation in the Parkinson's-related FBXO7 gene impairs mitochondrial and proteasomal function.",
+      "authors": [
+        "Navarro E",
+        "Esteras N"
+      ],
+      "year": "2024",
+      "journal": "The FEBS journal",
+      "doi": "10.1111/febs.17155",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Humans",
+        "Parkinson Disease",
+        "Proteasome Endopeptidase Complex",
+        "F-Box Proteins",
+        "Mitochondria",
+        "Mutation",
+        "Mitophagy",
+        "Ubiquitination"
+      ],
+      "abstract": "Around 10% of Parkinson's disease (PD) cases are associated with mutations in various genes, including FBXO7, which encodes the substrate-recognition component for the Skp1-Cullin-F-box (SCF) class of ubiquitin E3 ligases that target proteins for proteasomal degradation. In their recent study, Al Rawi et\u00a0al. characterized a new mutation in FBXO7, L250P, in a pediatric patient. Their findings reveal that the L250P mutation abolishes Fbxo7 interaction with the proteasome regulator, proteasome inhibitor 31kD (PI31), affecting proteasomal activity and the ubiquitination of some of the ligase's targets. Furthermore, the authors show that this previously undescribed mutation impairs mitochondrial function and mitophagy, emphasizing the importance of mitochondrial and proteasomal dysfunction in PD pathogenesis."
+    }
+  ]
+}

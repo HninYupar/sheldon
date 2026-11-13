@@ -1,0 +1,24 @@
+{
+  "id": "r124",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"Immunodeficiency 135\"[tiab] OR IMD135[tiab] OR \"MIM 621699\"[tiab] OR 621699[tiab])",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '(\"Immunodeficiency 135\"[tiab] OR IMD135[tiab] OR \"MIM 621699\"[tiab] OR 621699[tiab])'; showing 1 (PubMed read it as: \"621699\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "29665898",
+      "title": "[Clinical Characteristics and Prognosis of Acute Myeloid Leukemia with FLT3-ITD Mutation].",
+      "first_author": "Liu Y",
+      "year": "2018",
+      "journal": "Zhongguo Shi Yan Xue Ye Xue Za Zhi",
+      "doi": "10.7534/j.issn.1009-2137.2018.02.008",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

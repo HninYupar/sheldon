@@ -1,0 +1,252 @@
+{
+  "id": "r53",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"systemic lupus erythematosus 19\"[tiab] OR SLEB19[tiab] OR SAT1[tiab]) AND (family[tiab] OR patient[tiab] OR cohort[tiab] OR variant[tiab] OR mutation[tiab])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "120 PubMed hits for '(\"systemic lupus erythematosus 19\"[tiab] OR SLEB19[tiab] OR SAT1[tiab]) AND (family[tiab] OR patient[tiab] OR cohort[tiab] OR variant[tiab] OR mutation[tiab])'; showing 20 (PubMed read it as: \"SAT1\"[Title/Abstract] AND (\"family\"[Title/Abstract] OR \"patient\"[Title/Abstract] OR \"cohort\"[Title/Abstract] OR \"variant\"[Title/Abstract] OR \"mutation\"[Title/Abstract]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39689813",
+      "title": "Foot-and-mouth disease in Asia.",
+      "first_author": "Rahman MA",
+      "year": "2025",
+      "journal": "Virus Res",
+      "doi": "10.1016/j.virusres.2024.199514",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39073262",
+      "title": "Autophagy Deficiency Induced by SAT1 Potentiates Tumor Progression in Triple-Negative Breast Cancer.",
+      "first_author": "Tian W",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202309903",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38547055",
+      "title": "The MUC1-HIF-1\u03b1 signaling axis regulates pancreatic cancer pathogenesis through polyamine metabolism remodeling.",
+      "first_author": "Murthy D",
+      "year": "2024",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2315509121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "38429478",
+      "title": "Cancer-associated fibroblast-derived acetate promotes pancreatic cancer development by altering polyamine metabolism via the ACSS2-SP1-SAT1 axis.",
+      "first_author": "Murthy D",
+      "year": "2024",
+      "journal": "Nat Cell Biol",
+      "doi": "10.1038/s41556-024-01372-4",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36719378",
+      "title": "SLC26A1 is a major determinant of sulfate homeostasis in humans.",
+      "first_author": "Pfau A",
+      "year": "2023",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI161849",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "36276091",
+      "title": "Ferroptosis-related gene signature predicts prognosis in kidney renal papillary cell carcinoma.",
+      "first_author": "Yin H",
+      "year": "2022",
+      "journal": "Front Oncol",
+      "doi": "10.3389/fonc.2022.988867",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29800655",
+      "title": "The tumor suppressor protein p53 and the ferroptosis network.",
+      "first_author": "Kang R",
+      "year": "2019",
+      "journal": "Free Radic Biol Med",
+      "doi": "10.1016/j.freeradbiomed.2018.05.074",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30807778",
+      "title": "Inherent biophysical stability of foot-and-mouth disease SAT1, SAT2 and SAT3 viruses.",
+      "first_author": "Scott KA",
+      "year": "2019",
+      "journal": "Virus Res",
+      "doi": "10.1016/j.virusres.2019.02.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40485050",
+      "title": "Dauricine Overcomes Osimertinib Resistance in Lung Cancer by Inducing Ferroptosis via Stabilizing SAT1.",
+      "first_author": "Men B",
+      "year": "2025",
+      "journal": "Cancer Sci",
+      "doi": "10.1111/cas.70113",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30888421",
+      "title": "Conservation, Divergence, and Functions of Centromeric Satellite DNA Families in the Bovidae.",
+      "first_author": "Escudeiro A",
+      "year": "2019",
+      "journal": "Genome Biol Evol",
+      "doi": "10.1093/gbe/evz061",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19851986",
+      "title": "Association of the SAT1 in/del polymorphism with suicide completion.",
+      "first_author": "Fiori LM",
+      "year": "2010",
+      "journal": "Am J Med Genet B Neuropsychiatr Genet",
+      "doi": "10.1002/ajmg.b.31040",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29635519",
+      "title": "CoERG11 A395T mutation confers azole resistance in Candida orthopsilosis clinical isolates.",
+      "first_author": "Rizzato C",
+      "year": "2018",
+      "journal": "J Antimicrob Chemother",
+      "doi": "10.1093/jac/dky122",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35355777",
+      "title": "Immunity Evaluation of an Experimental Designed Nanoliposomal Vaccine Containing FMDV Immunodominant Peptides.",
+      "first_author": "Heshmati L",
+      "year": "2021",
+      "journal": "Arch Razi Inst",
+      "doi": "10.22092/ari.2021.352498.1566",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31417867",
+      "title": "Elucidating the Reprograming of Colorectal Cancer Metabolism Using Genome-Scale Metabolic Modeling.",
+      "first_author": "Zhang C",
+      "year": "2019",
+      "journal": "Front Oncol",
+      "doi": "10.3389/fonc.2019.00681",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39894307",
+      "title": "WWOX-mediated p53/SAT1 and NRF2/FPN1 axis contribute to toosendanin-induced ferroptosis in hepatocellular carcinoma.",
+      "first_author": "Yang T",
+      "year": "2025",
+      "journal": "Biochem Pharmacol",
+      "doi": "10.1016/j.bcp.2025.116790",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38831092",
+      "title": "MNT inhibits lung adenocarcinoma ferroptosis and chemosensitivity by suppressing SAT1.",
+      "first_author": "Zhao G",
+      "year": "2024",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-024-06373-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33482370",
+      "title": "A genome-wide association study for shoulder impingement and rotator cuff disease.",
+      "first_author": "Kim SK",
+      "year": "2021",
+      "journal": "J Shoulder Elbow Surg",
+      "doi": "10.1016/j.jse.2020.11.025",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ]
+    },
+    {
+      "pmid": "35977808",
+      "title": "Loss-of-function variants in SAT1 cause X-linked childhood-onset systemic lupus erythematosus.",
+      "first_author": "Xu L",
+      "year": "2022",
+      "journal": "Ann Rheum Dis",
+      "doi": "10.1136/ard-2022-222795",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "31352009",
+      "title": "Knockdown of SSATX, an alternative splicing variant of the SAT1 gene, promotes melanoma progression.",
+      "first_author": "Yang Q",
+      "year": "2019",
+      "journal": "Gene",
+      "doi": "10.1016/j.gene.2019.144010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35597180",
+      "title": "Bioinformatics-based screening of key genes between maternal preeclampsia and offspring schizophrenia.",
+      "first_author": "Zhang J",
+      "year": "2022",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2022.05.026",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

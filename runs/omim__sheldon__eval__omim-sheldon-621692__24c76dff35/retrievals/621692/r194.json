@@ -1,0 +1,67 @@
+{
+  "id": "r194",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "33425808",
+      "34102571"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33425808",
+      "title": "CACNA1A Gene Variants in Eight Chinese Patients With a Wide Range of Phenotypes.",
+      "authors": [
+        "Zhang L",
+        "Wen Y",
+        "Zhang Q",
+        "Chen Y",
+        "Wang J",
+        "Shi K",
+        "et al."
+      ],
+      "year": "2020",
+      "journal": "Frontiers in pediatrics",
+      "doi": "10.3389/fped.2020.577544",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Background: The CACNA1A gene encodes the voltage-dependent P/Q-type calcium channel subunit alpha-1A, which is widely expressed throughout the CNS. The biological roles of the P/Q channel are diverse and the phenotypic spectrum caused by CACNA1A mutations is wide. The aim of this study is to demonstrate its phenotypic diversity and analyze the genotype-phenotype correlations in a cohort of Chinese patients. Methods: Patients with hemiplegic migraine, cerebellar ataxia, developmental delay, or epilepsy without known causes were tested by trios whole-exome sequencing. Patients with pathogenic CACNA1A gene variants were recruited. The clinical information of the patients was collected, and the association between the genotype and the phenotype was investigated. Results: In total, eight patients (six females and two males) were found to have CACNA1A gene variants. All the variants were de novo including six missense variants and one frameshift variant. Four de novo missense variants were found in five patients located in the S4, S5, or S6 transmembrane segments of Domain II and III (p.R1352Q, p.G701V, p.A713T, p.V1393M). All of them were correlated with severe phenotypes, including three with sporadic hemiplegic migraine type 1 and epilepsy, and two with developmental and epileptic encephalopathy. The other two missense variants, p.Y62C and p.F1814L, located in the cytoplasmic side of the N-terminus and C-terminus, respectively. The variant p.Y62C was associated with severe hemiconvulsion-hemiplegia-epilepsy syndrome, and p.F1814L was associated with relatively mild phenotypes. All the missense variants were speculated as gain-of-function (GOF) mutations. The only frameshift variant, p.Q681Rfs*100, a lose-of-function (LOF) mutation, was found in a patient with episodic ataxia type 2. Meanwhile, all the patients had developmental delay ranging from mild to severe, as well as cerebellar ataxia including one with congenital ataxia, one with episodic ataxia, and six with non-progressive ataxia. Conclusions: CACNA1A variants could lead to a wide spectrum of neurological disorders including epileptic or non-epileptic paroxysmal events, cerebellar ataxia, and developmental delay. The variants could be both GOF and LOF mutations. There appeared to be some correlations between genotypes and phenotypes."
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "authors": [
+        "Le Roux M",
+        "Barth M",
+        "Gueden S",
+        "Desbordes de Cepoy P",
+        "Aeby A",
+        "Vilain C",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Calcium Channels",
+        "Child, Preschool",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Male",
+        "Seizures",
+        "Spinocerebellar Ataxias",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "CACNA1A pathogenic mutations are involved in various neurological phenotypes including episodic ataxia (EA2), spinocerebellar ataxia (SCA6), and familial hemiplegic migraine (FHM1). Epilepsy is poorly documented. We studied 18 patients (10 males) carrying de novo or inherited CACNA1A mutations, with median age of 2,5 years at epilepsy onset. Eight mutations were novel. Two variants known leading to gain of function (GOF) were found in 5 patients. Five other patients had non-sense variants leading to loss of function (LOF). Seizures were most often revealed by either status epilepticus (SE) (n\u00a0=\u00a08), eventually triggered by fever (n\u00a0=\u00a05), or absences/behavioural arrests (n\u00a0=\u00a07). Non-epileptic paroxysmal events were frequent and consisted in recurrent hemiplegic accesses (n\u00a0=\u00a09), jitteriness in the neonatal period (n\u00a0=\u00a06), and ocular paroxysmal events (n\u00a0=\u00a09). Most of the patients had early permanent cerebellar dysfunction (n\u00a0=\u00a016) and early moderate to severe global developmental delay (GDD)/intellectual deficiency (ID) (n\u00a0=\u00a017). MRI was often abnormal, with cerebellar (n\u00a0=\u00a08) and/or cerebral (n\u00a0=\u00a06) atrophy. Stroke-like occurred in 2 cases. Some antiepileptic drugs including topiramate, levetiracetam, lamotrigine and valproate were effective on seizures. Acetazolamide and calcium channel blockers were often effective when used. More than half of the patients had refractory epilepsy. CACNA1A mutation should be evoked in front of 2 main electro-clinical phenotypes that are associated with permanent cerebellar dysfunction and moderate to severe GDD/ID. The first one, found in all 5 patients with GOF variants, is characterized by intractable seizures, early and recurrent SE and hemiplegic accesses. The second, less severe, found in 5 patients with LOF variants, is characterized by refractory early onset absence seizures."
+    }
+  ]
+}

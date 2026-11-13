@@ -1,0 +1,252 @@
+{
+  "id": "r127",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND (homozygous OR compound heterozygous OR biallelic OR mutation OR variant)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "181 PubMed hits for 'TACC3[gene] AND (homozygous OR compound heterozygous OR biallelic OR mutation OR variant)'; showing 20 (PubMed read it as: \"TACC3\"[All Fields] AND (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields] OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields])) OR (\"bialleleic\"[All Fields] OR \"biallelic\"[All Fields] OR \"biallelically\"[All Fields]) OR (\"mutate\"[All Fields] OR \"mutated\"[All Fields] OR \"mutates\"[All Fields] OR \"mutating\"[All Fields] OR \"mutation\"[MeSH Terms] OR \"mutation\"[All Fields] OR \"mutations\"[All Fields] OR \"mutation s\"[All Fields] OR \"mutational\"[All Fields] OR \"mutator\"[All Fields] OR \"mutators\"[All Fields]) OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "24476821",
+      "title": "Comprehensive molecular characterization of urothelial bladder carcinoma.",
+      "first_author": "Cancer Genome Atlas Research Network",
+      "year": "2014",
+      "journal": "Nature",
+      "doi": "10.1038/nature12965",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39470303",
+      "title": "LncRNA evf-2 Exacerbates Podocyte Injury in Diabetic Nephropathy by Inducing Cell Cycle Re-entry and Inflammation Through Distinct Mechanisms Triggered by hnRNPU.",
+      "first_author": "Zhang C",
+      "year": "2024",
+      "journal": "Adv Sci (Weinh)",
+      "doi": "10.1002/advs.202406532",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31987043",
+      "title": "FGFR3 signaling and function in triple negative breast cancer.",
+      "first_author": "Chew NJ",
+      "year": "2020",
+      "journal": "Cell Commun Signal",
+      "doi": "10.1186/s12964-019-0486-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40796344",
+      "title": "Biallelic variants in DLGAP5 cause spindle assembly defects and human early embryonic arrest.",
+      "first_author": "Hu H",
+      "year": "2025",
+      "journal": "Hum Reprod",
+      "doi": "10.1093/humrep/deaf158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35066105",
+      "title": "Single-cell DNA-seq depicts clonal evolution of multiple driver alterations in osimertinib-resistant patients.",
+      "first_author": "Chen J",
+      "year": "2022",
+      "journal": "Ann Oncol",
+      "doi": "10.1016/j.annonc.2022.01.004",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37210288",
+      "title": "Genome-wide Association Study of Bladder Cancer Reveals New Biological and Translational Insights.",
+      "first_author": "Koutros S",
+      "year": "2023",
+      "journal": "Eur Urol",
+      "doi": "10.1016/j.eururo.2023.04.020",
+      "pubtype": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34160364",
+      "title": "Insights of fibroblast growth factor receptor 3 aberrations in pan-cancer and their roles in potential clinical treatment.",
+      "first_author": "Li J",
+      "year": "2021",
+      "journal": "Aging (Albany NY)",
+      "doi": "10.18632/aging.203175",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39717713",
+      "title": "CRISPR-Cas13a Targeting the FGFR3-TACC3 Fusion Gene Inhibits Proliferation of Bladder Cancer Cells in vitro and in vivo.",
+      "first_author": "Wang Y",
+      "year": "2024",
+      "journal": "Onco Targets Ther",
+      "doi": "10.2147/OTT.S492659",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41207822",
+      "title": "Virus-mediated gene fusion: igniting and sustaining oncogenesis.",
+      "first_author": "Starrett GJ",
+      "year": "2025",
+      "journal": "Trends Cancer",
+      "doi": "10.1016/j.trecan.2025.10.008",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "22138824",
+      "title": "High-efficiency counterselection recombineering for site-directed mutagenesis in bacterial artificial chromosomes.",
+      "first_author": "Bird AW",
+      "year": "2011",
+      "journal": "Nat Methods",
+      "doi": "10.1038/nmeth.1803",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31290679",
+      "title": "Comparative proteogenomic characterization of glioblastoma.",
+      "first_author": "Asif S",
+      "year": "2019",
+      "journal": "CNS Oncol",
+      "doi": "10.2217/cns-2019-0003",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36455273",
+      "title": "Varied histomorphology and clinical outcomes of FGFR3-TACC3 fusion gliomas.",
+      "first_author": "McDonald MF",
+      "year": "2022",
+      "journal": "Neurosurg Focus",
+      "doi": "10.3171/2022.9.FOCUS22420",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "23696246",
+      "title": "FGF receptors: cancer biology and therapeutics.",
+      "first_author": "Katoh M",
+      "year": "2014",
+      "journal": "Med Res Rev",
+      "doi": "10.1002/med.21288",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36647073",
+      "title": "Clinico-pathological and epigenetic heterogeneity of diffuse gliomas with FGFR3::TACC3 fusion.",
+      "first_author": "M\u00e9tais A",
+      "year": "2023",
+      "journal": "Acta Neuropathol Commun",
+      "doi": "10.1186/s40478-023-01506-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "16107707",
+      "title": "Differential phosphorylation controls Maskin association with eukaryotic translation initiation factor 4E and localization on the mitotic apparatus.",
+      "first_author": "Barnard DC",
+      "year": "2005",
+      "journal": "Mol Cell Biol",
+      "doi": "10.1128/MCB.25.17.7605-7615.2005",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "27409839",
+      "title": "FGFR3-TACC3 fusion in solid tumors: mini review.",
+      "first_author": "Costa R",
+      "year": "2016",
+      "journal": "Oncotarget",
+      "doi": "10.18632/oncotarget.10482",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40978103",
+      "title": "Genetic susceptibility and environmental risk factors in bladder cancer: Evidence from the UK biobank.",
+      "first_author": "Bukavina L",
+      "year": "2025",
+      "journal": "Bladder Cancer",
+      "doi": "10.1177/23523735251370863",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33709535",
+      "title": "The Co-mutational Spectrum Determines the Therapeutic Response in Murine FGFR2 Fusion-Driven Cholangiocarcinoma.",
+      "first_author": "Kendre G",
+      "year": "2021",
+      "journal": "Hepatology",
+      "doi": "10.1002/hep.31799",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41165398",
+      "title": "Diffuse glioma with FGFR3-TACC3 fusion in adults is not a homogenous clinicopathological and molecular entity.",
+      "first_author": "Su X",
+      "year": "2025",
+      "journal": "J Pathol Clin Res",
+      "doi": "10.1002/2056-4538.70057",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41005586",
+      "title": "FGFR3 alteration sites and response rate to FGFR inhibitors in urothelial carcinoma.",
+      "first_author": "Song Y",
+      "year": "2025",
+      "journal": "Pharmacol Res",
+      "doi": "10.1016/j.phrs.2025.107968",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

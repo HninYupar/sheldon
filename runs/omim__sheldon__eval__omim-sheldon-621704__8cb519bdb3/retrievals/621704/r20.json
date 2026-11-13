@@ -1,0 +1,78 @@
+{
+  "id": "r20",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "38128568",
+      "42827379"
+    ]
+  },
+  "summary": "fetched 2 of 2 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "38128568",
+      "title": "Biallelic BORCS8 variants cause an infantile-onset neurodegenerative disorder with altered lysosome dynamics.",
+      "authors": [
+        "De Pace R",
+        "Maroofian R",
+        "Paimboeuf A",
+        "Zamani M",
+        "Zaki MS",
+        "Sadeghian S",
+        "et al."
+      ],
+      "year": "2024",
+      "journal": "Brain : a journal of neurology",
+      "doi": "10.1093/brain/awad427",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh": [
+        "Humans",
+        "Lysosomes",
+        "Female",
+        "Male",
+        "Neurodegenerative Diseases",
+        "Animals",
+        "Infant",
+        "Child, Preschool",
+        "Child",
+        "Zebrafish",
+        "Pedigree",
+        "ADP-Ribosylation Factors",
+        "Alleles",
+        "Mutation, Missense"
+      ],
+      "abstract": "BLOC-one-related complex (BORC) is a multiprotein complex composed of eight subunits named BORCS1-8. BORC associates with the cytosolic face of lysosomes, where it sequentially recruits the small GTPase ARL8 and kinesin-1 and -3 microtubule motors to promote anterograde transport of lysosomes toward the peripheral cytoplasm in non-neuronal cells and the distal axon in neurons. The physiological and pathological importance of BORC in humans, however, remains to be determined. Here, we report the identification of compound heterozygous variants [missense c.85T>C (p.Ser29Pro) and frameshift c.71-75dupTGGCC (p.Asn26Trpfs*51)] and homozygous variants [missense c.196A>C (p.Thr66Pro) and c.124T>C (p.Ser42Pro)] in BORCS8 in five children with a severe early-infantile neurodegenerative disorder from three unrelated families. The children exhibit global developmental delay, severe-to-profound intellectual disability, hypotonia, limb spasticity, muscle wasting, dysmorphic facies, optic atrophy, leuko-axonopathy with hypomyelination, and neurodegenerative features with prevalent supratentorial involvement. Cellular studies using a heterologous transfection system show that the BORCS8 missense variants p.Ser29Pro, p.Ser42Pro and p.Thr66Pro are expressed at normal levels but exhibit reduced assembly with other BORC subunits and reduced ability to drive lysosome distribution toward the cell periphery. The BORCS8 frameshift variant p.Asn26Trpfs*51, on the other hand, is expressed at lower levels and is completely incapable of assembling with other BORC subunits and promoting lysosome distribution toward the cell periphery. Therefore, all the BORCS8 variants are partial or total loss-of-function alleles and are thus likely pathogenic. Knockout of the orthologous borcs8 in zebrafish causes decreased brain and eye size, neuromuscular anomalies and impaired locomotion, recapitulating some of the key traits of the human disease. These findings thus identify BORCS8 as a novel genetic locus for an early-infantile neurodegenerative disorder and highlight the critical importance of BORC and lysosome dynamics for the development and function of the central nervous system."
+    },
+    {
+      "pmid": "42827379",
+      "title": "A Novel BORCS5 Loss-Of-Function Variant in a Patient With a Rare Neurodevelopmental Disorder.",
+      "authors": [
+        "Mahmood A",
+        "Shah AA",
+        "Zaman G",
+        "Masroof S",
+        "Waqas A",
+        "Umair M"
+      ],
+      "year": "2026",
+      "journal": "International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience",
+      "doi": "10.1002/jdn.70182",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh": [
+        "Humans",
+        "Loss of Function Mutation",
+        "Models, Molecular",
+        "Neurodevelopmental Disorders",
+        "Pedigree"
+      ],
+      "abstract": "BACKGROUND: The BORCS5 is an important and critical component of the BLOC-one-related complex (BORC), involved in kinesin-dependent anterograde lysosomal transport. Aberrations in the octameric protein complex encompass lethal neurological manifestations, such as arthrogryposis multiplex congenita, brain malformations and neuropathological evidence of diffuse neuroaxonal dystrophy. Loss-of-function variants in BORCS5 are associated with extremely rapid and progressive neurodegeneration.\nMETHODS: Herein, we present a family consisting of a proband with intellectual disability, microcephaly, developmental delay, facial dysmorphism, dystonia, focal/generalized seizures and speech delay. We performed whole-exome sequencing followed by Sanger sequencing for molecular diagnosis. Further, we performed 3D protein modelling for structural interpretation.\nRESULTS: Genetic analysis identified a novel stop-gain variant (NM_058169.6, c.262C>T; NP_477517.1, p.(Gln88*)) in BORCS5, subsequently confirmed by Sanger sequencing. The variant is likely pathogenic (PVS1, PM2, PP3). Protein modelling of the BORCS5; p.(Gln88*) variant showed a distinct conformation compared with the wild-type BORCS5, suggesting a potential role for the unfolded protein response in the pathogenesis of BORCS5.\nCONCLUSION: In summary, our findings exemplify a novel stop-gain variant in BORCS5 associated with diverse pathological manifestations, underscoring the importance of further exploring this gene in patients lacking identifiable disease-causing gene variants."
+    }
+  ]
+}

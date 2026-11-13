@@ -1,0 +1,249 @@
+{
+  "id": "r119",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "ATG12[gene] AND (variant OR variants OR biallelic OR homozygous OR compound heterozygous)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "26 PubMed hits for 'ATG12[gene] AND (variant OR variants OR biallelic OR homozygous OR compound heterozygous)'; showing 20 (PubMed read it as: \"ATG12\"[All Fields] AND (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields] OR (\"variant\"[All Fields] OR \"variant s\"[All Fields] OR \"variants\"[All Fields]) OR (\"bialleleic\"[All Fields] OR \"biallelic\"[All Fields] OR \"biallelically\"[All Fields]) OR (\"homozygote\"[MeSH Terms] OR \"homozygote\"[All Fields] OR \"homozygous\"[All Fields] OR \"homozygously\"[All Fields]) OR ((\"compound\"[All Fields] OR \"compound s\"[All Fields] OR \"compounds\"[All Fields]) AND (\"heterozygote\"[MeSH Terms] OR \"heterozygote\"[All Fields] OR \"heterozygous\"[All Fields] OR \"heterozygously\"[All Fields]))))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "32401642",
+      "title": "Autophagy in the physiological endometrium and cancer.",
+      "first_author": "Devis-Jauregui L",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2020.1752548",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36062813",
+      "title": "ATG5: A central autophagy regulator implicated in various human diseases.",
+      "first_author": "Changotra H",
+      "year": "2022",
+      "journal": "Cell Biochem Funct",
+      "doi": "10.1002/cbf.3740",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30503495",
+      "title": "Blocking LC3 lipidation and ATG12 conjugation reactions by ATG7 mutant protein containing C572S.",
+      "first_author": "Nitta A",
+      "year": "2019",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2018.11.158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29259263",
+      "title": "Clinical Implications of the Autophagy Core Gene Variations in Advanced Lung Adenocarcinoma Treated with Gefitinib.",
+      "first_author": "Yuan J",
+      "year": "2017",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-017-18165-5",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40350399",
+      "title": "[Mechanism of BNIP3-mediated mitophagy in m.3635G>A related Leber hereditary optic neuropathy].",
+      "first_author": "Liu Z",
+      "year": "2025",
+      "journal": "Zhonghua Yi Xue Yi Chuan Xue Za Zhi",
+      "doi": "10.3760/cma.j.cn511374-20221101-00574",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25946189",
+      "title": "Uvrag targeting by Mir125a and Mir351 modulates autophagy associated with Ewsr1 deficiency.",
+      "first_author": "Kim Y",
+      "year": "2015",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2015.1035503",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29637616",
+      "title": "ATG12 expression quantitative trait loci associated with head and neck squamous cell carcinoma risk in a Chinese Han population.",
+      "first_author": "Song X",
+      "year": "2018",
+      "journal": "Mol Carcinog",
+      "doi": "10.1002/mc.22823",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39472694",
+      "title": "Gene-based burden tests of rare germline variants identify six cancer susceptibility genes.",
+      "first_author": "Ivarsdottir EV",
+      "year": "2024",
+      "journal": "Nat Genet",
+      "doi": "10.1038/s41588-024-01966-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33752267",
+      "title": "ATG16L1 functions in cell homeostasis beyond autophagy.",
+      "first_author": "Hamaoui D",
+      "year": "2022",
+      "journal": "FEBS J",
+      "doi": "10.1111/febs.15833",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42911884",
+      "title": "miR-570 in cancer: context-dependent molecular functions, regulatory networks, biomarker potential, and therapeutic perspectives.",
+      "first_author": "Liu J",
+      "year": "2026",
+      "journal": "Biomarkers",
+      "doi": "10.1080/1354750X.2026.2754025",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31340167",
+      "title": "Functional variants of autophagy-related genes are associated with the development of hepatocellular carcinoma.",
+      "first_author": "Shen M",
+      "year": "2019",
+      "journal": "Life Sci",
+      "doi": "10.1016/j.lfs.2019.116675",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "29454863",
+      "title": "Potentially Functional Variants of ATG16L2 Predict Radiation Pneumonitis and Outcomes in Patients with Non-Small Cell Lung Cancer after Definitive Radiotherapy.",
+      "first_author": "Wen J",
+      "year": "2018",
+      "journal": "J Thorac Oncol",
+      "doi": "10.1016/j.jtho.2018.01.028",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "28229934",
+      "title": "Novel and functional ATG12 gene variants in sporadic Parkinson's disease.",
+      "first_author": "Li Y",
+      "year": "2017",
+      "journal": "Neurosci Lett",
+      "doi": "10.1016/j.neulet.2017.02.028",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33147747",
+      "title": "Pathogenic Single Nucleotide Polymorphisms on Autophagy-Related Genes.",
+      "first_author": "Tamargo-G\u00f3mez I",
+      "year": "2020",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms21218196",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "28441070",
+      "title": "The Thr300Ala variant of ATG16L1 is associated with decreased risk of brain metastasis in patients with non-small cell lung cancer.",
+      "first_author": "Li QX",
+      "year": "2017",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2017.1308997",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41977248",
+      "title": "Autophagy-Mitophagy Pathway-Linked Genetic Variants Associate with Systemic Inflammation and Interact with Dietary Factors in Asian and European Cohorts.",
+      "first_author": "Choi Y",
+      "year": "2026",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms27073062",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40093192",
+      "title": "Autophagy related genes polymorphisms in Parkinson's Disease; A systematic review of literature.",
+      "first_author": "Yousefi P",
+      "year": "2025",
+      "journal": "Clin Park Relat Disord",
+      "doi": "10.1016/j.prdoa.2025.100312",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "37686237",
+      "title": "MAGED2 Depletion Promotes Stress-Induced Autophagy by Impairing the cAMP/PKA Pathway.",
+      "first_author": "Nasrah S",
+      "year": "2023",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms241713433",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "r1",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (arthrogryposis OR \"arthrogryposis multiplex congenita\" OR AMC OR contracture*)",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "0 PubMed hits for 'PSMF1[gene] AND (arthrogryposis OR \"arthrogryposis multiplex congenita\" OR AMC OR contracture*)'; showing 0 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"arthrogryposis\"[MeSH Terms] OR \"arthrogryposis\"[All Fields] OR \"arthrogryposes\"[All Fields] OR \"arthrogryposis multiplex congenita\"[All Fields] OR (\"acta med colomb\"[Journal] OR \"amc\"[All Fields]) OR \"contracture*\"[All Fields]))",
+  "ok": true,
+  "evidence": []
+}

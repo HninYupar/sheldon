@@ -1,0 +1,46 @@
+{
+  "run_id": "omim__direct__eval__omim-direct-621710__43b1e684c2",
+  "benchmark": "omim",
+  "method": "direct",
+  "split": "eval",
+  "model": "gpt-5.4-mini",
+  "tag": "omim-direct-621710",
+  "n": 1,
+  "score": 1.0,
+  "stderr": 0.0,
+  "metrics": {
+    "n_found": 1.0,
+    "n_gold": 1.0,
+    "n_gold_with_pmid": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "scored": 1.0
+  },
+  "errors": 0,
+  "mean_rounds": 1.0,
+  "usage": {
+    "calls": 3,
+    "input_tokens": 3846,
+    "output_tokens": 251,
+    "cache_read_tokens": 2688,
+    "cache_write_tokens": 0,
+    "cost_usd": 0.004216
+  },
+  "cost_per_task": 0.00422,
+  "cost_usd": 0.0042,
+  "billed_usd": 0.0042,
+  "calls_per_task": 3.0,
+  "wall_s": 7.7,
+  "concurrency": 8,
+  "latency_mean_s": 7.7,
+  "latency_p50_s": 7.7,
+  "latency_p90_s": 7.7,
+  "started_at": "2026-11-12T21:25:38+00:00",
+  "finished_at": "2026-11-12T21:25:46+00:00",
+  "cache": {
+    "hits": 0,
+    "misses": 3
+  },
+  "git_sha": "7fbf027",
+  "config_hash": "43b1e684c2"
+}

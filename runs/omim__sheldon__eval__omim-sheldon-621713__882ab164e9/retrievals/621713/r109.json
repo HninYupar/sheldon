@@ -1,0 +1,37 @@
+{
+  "id": "r109",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "40796344",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "2 'cited_by' links for PMID 40796344; showing 2",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42840748",
+      "title": "A novel homozygous DLGAP5 splice-site variant in a woman with oocyte maturation arrest and recurrent IVF failure: a case report.",
+      "first_author": "Jacob P",
+      "year": "2026",
+      "journal": "Front Genet",
+      "doi": "10.3389/fgene.2026.1963011",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41999479",
+      "title": "Current gene panels for female infertility: gaps between evidence and clinical application.",
+      "first_author": "Nemati SM",
+      "year": "2026",
+      "journal": "J Assist Reprod Genet",
+      "doi": "10.1007/s10815-026-03860-y",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

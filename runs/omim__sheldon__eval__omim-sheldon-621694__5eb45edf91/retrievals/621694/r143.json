@@ -1,0 +1,48 @@
+{
+  "id": "r143",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "PSMF1[gene] AND (review[pt] OR systematic review[pt] OR cohort[tiab] OR letter[tiab]) AND (parkinson* OR EOPD OR \"autosomal recessive\" )",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "3 PubMed hits for 'PSMF1[gene] AND (review[pt] OR systematic review[pt] OR cohort[tiab] OR letter[tiab]) AND (parkinson* OR EOPD OR \"autosomal recessive\" )'; showing 3 (PubMed read it as: \"PSMF1\"[All Fields] AND (\"review\"[Publication Type] OR \"systematic review\"[Publication Type] OR \"cohort\"[Title/Abstract] OR \"letter\"[Title/Abstract]) AND (\"parkinson*\"[All Fields] OR \"EOPD\"[All Fields] OR \"autosomal recessive\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41253044",
+      "title": "The genetics of autosomal recessive early-onset Parkinson's disease.",
+      "first_author": "Cogan G",
+      "year": "2025",
+      "journal": "Curr Opin Neurobiol",
+      "doi": "10.1016/j.conb.2025.103141",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42649079",
+      "title": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+      "first_author": "Gabbert C",
+      "year": "2026",
+      "journal": "Mov Disord",
+      "doi": "10.1002/mds.70473",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "24107298",
+      "title": "Beyond ubiquitination: the atypical functions of Fbxo7 and other F-box proteins.",
+      "first_author": "Nelson DE",
+      "year": "2013",
+      "journal": "Open Biol",
+      "doi": "10.1098/rsob.130131",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

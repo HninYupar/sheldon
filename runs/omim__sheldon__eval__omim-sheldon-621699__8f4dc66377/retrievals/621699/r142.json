@@ -1,0 +1,242 @@
+{
+  "id": "r142",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (2026[dp] OR 2025[dp] OR 2024[dp])",
+    "max_results": 20,
+    "sort": "pub_date"
+  },
+  "summary": "25 PubMed hits for 'SIT1[gene] AND (2026[dp] OR 2025[dp] OR 2024[dp])'; showing 20 (PubMed read it as: \"SIT1\"[All Fields] AND (2026/01/01:2026/12/31[Date - Publication] OR 2025/01/01:2025/12/31[Date - Publication] OR 2024/01/01:2024/12/31[Date - Publication]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42838996",
+      "title": "Integrated spatial and single-cell transcriptomics uncover IFI6\u207a regulatory T-cells and SPP1\u207a macrophages immunosuppressive niches in colorectal cancer.",
+      "first_author": "Miroszewska D",
+      "year": "2026",
+      "journal": "Br J Cancer",
+      "doi": "10.1038/s41416-026-03637-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42780558",
+      "title": "Early post-exercise physiological and perceptual responses following different sprint interval training configurations in highly trained national-level swimmers: a randomized crossover study.",
+      "first_author": "Long L",
+      "year": "2026",
+      "journal": "Front Physiol",
+      "doi": "10.3389/fphys.2026.1922489",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42695863",
+      "title": "Identification of Immune Response-Related Proteomic Biomarkers in Moyamoya Disease Using Serum Olink Proteomics.",
+      "first_author": "Zhang Z",
+      "year": "2026",
+      "journal": "J Proteome Res",
+      "doi": "10.1021/acs.jproteome.6c00310",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42680775",
+      "title": "A multi-omics systems toxicology framework reveals amino acid-mediated stress adaptation to deltamethrin exposure in a yeast model.",
+      "first_author": "Yavuz M",
+      "year": "2026",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-026-66841-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42459881",
+      "title": "A hospital-based genomic analysis reveals predominance of ST215 Mycobacterium tuberculosis with low drug resistance.",
+      "first_author": "Yang M",
+      "year": "2026",
+      "journal": "Front Microbiol",
+      "doi": "10.3389/fmicb.2026.1871161",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42327219",
+      "title": "Candidozyma auris utilizes transferrin, but not heme-bound iron for in vivo virulence.",
+      "first_author": "Arekar T",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.06.09.731159",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42045545",
+      "title": "Antifungal conjugates incorporating N(5)-acetyl-N(5)-hydroxy-L-ornithine as a molecular carrier.",
+      "first_author": "Stefaniak-Skorupa J",
+      "year": "2026",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-026-50833-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41609499",
+      "title": "The siderophore transporter Sit1 is involved in the uptake of caspofungin by Candida albicans.",
+      "first_author": "Pedras A",
+      "year": "2026",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/aac.01236-25",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41033605",
+      "title": "Identification of Distinct Subtypes in Immune Tolerance after Hematopoietic Cell Transplantation Using the Prospective ABLE1.0 Pediatric Study Cohort.",
+      "first_author": "Ng B",
+      "year": "2026",
+      "journal": "Transplant Cell Ther",
+      "doi": "10.1016/j.jtct.2025.09.034",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41597335",
+      "title": "Tendon Yaw (TY) Angle: Direct Measurement of the Quadriceps Vector Resolves the Rotational Enigma of Recurrent Patellar Instability.",
+      "first_author": "Nizi\u0107 D",
+      "year": "2025",
+      "journal": "Medicina (Kaunas)",
+      "doi": "10.3390/medicina62010049",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41142409",
+      "title": "Mechanisms involved in aminoacidurias: impacts of genetic and environmental factors.",
+      "first_author": "Ajayi JA",
+      "year": "2025",
+      "journal": "Curr Res Physiol",
+      "doi": "10.1016/j.crphys.2025.100168",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40332667",
+      "title": "Identifying Immune Response Protein Biomarkers in Parkinson's-Related Cognitive Impairment and Depression.",
+      "first_author": "Su Q",
+      "year": "2025",
+      "journal": "Mol Neurobiol",
+      "doi": "10.1007/s12035-025-05022-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40873928",
+      "title": "Role of the putative sit1 gene in normal germination of spores and virulence of the Mucor lusitanicus.",
+      "first_author": "V\u00e1g\u00f3 B",
+      "year": "2025",
+      "journal": "Microb Cell",
+      "doi": "10.15698/mic2025.08.856",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40864903",
+      "title": "Comparison of the standard and boosted sterile insect techniques for the suppression of Aedes albopictus populations under semi-field conditions.",
+      "first_author": "Dupraz M",
+      "year": "2025",
+      "journal": "Parasite",
+      "doi": "10.1051/parasite/2025047",
+      "pubtype": [
+        "Journal Article",
+        "Comparative Study"
+      ]
+    },
+    {
+      "pmid": "39298472",
+      "title": "Molecular forecasting of domoic acid during a pervasive toxic diatom bloom.",
+      "first_author": "Brunson JK",
+      "year": "2024",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2319177121",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39187242",
+      "title": "The Energetic Saver Profile From Sit-to-Stand Does Not Persist During Very Low-Intensity Physical Activity in Healthy Men and Women.",
+      "first_author": "Isacco L",
+      "year": "2024",
+      "journal": "J Phys Act Health",
+      "doi": "10.1123/jpah.2024-0223",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39159813",
+      "title": "Cryo-EM structure of ACE2-SIT1 in complex with tiagabine.",
+      "first_author": "Br\u00f6er A",
+      "year": "2024",
+      "journal": "J Biol Chem",
+      "doi": "10.1016/j.jbc.2024.107687",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39108991",
+      "title": "Discordance Between Phenotypic and WGS-Based Drug Susceptibility Testing Results for Some Anti-Tuberculosis Drugs: A Snapshot Study of Paired Mycobacterium tuberculosis Isolates with Small Genetic Distance.",
+      "first_author": "Sadovska D",
+      "year": "2024",
+      "journal": "Infect Drug Resist",
+      "doi": "10.2147/IDR.S468997",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38691318",
+      "title": "SIT1 identifies circulating hypoactive T cells with elevated cytotoxic molecule secretion in systemic lupus erythematosus patients.",
+      "first_author": "Hasimu A",
+      "year": "2024",
+      "journal": "Immunol Res",
+      "doi": "10.1007/s12026-024-09481-w",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

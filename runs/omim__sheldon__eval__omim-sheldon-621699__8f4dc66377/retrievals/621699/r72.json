@@ -1,0 +1,253 @@
+{
+  "id": "r72",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "SIT1[gene] AND (immunodeficiency OR combined immunodeficiency OR primary immunodeficiency OR infection) AND (patient OR patients OR family OR siblings OR case report OR kindred)",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "37 PubMed hits for 'SIT1[gene] AND (immunodeficiency OR combined immunodeficiency OR primary immunodeficiency OR infection) AND (patient OR patients OR family OR siblings OR case report OR kindred)'; showing 20 (PubMed read it as: \"SIT1\"[All Fields] AND (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields] OR ((\"combinable\"[All Fields] OR \"combinated\"[All Fields] OR \"combination\"[All Fields] OR \"combinational\"[All Fields] OR \"combinations\"[All Fields] OR \"combinative\"[All Fields] OR \"combine\"[All Fields] OR \"combined\"[All Fields] OR \"combines\"[All Fields] OR \"combining\"[All Fields]) AND (\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields])) OR (\"primary immunodeficiency diseases\"[MeSH Terms] OR (\"primary\"[All Fields] AND \"immunodeficiency\"[All Fields] AND \"diseases\"[All Fields]) OR \"primary immunodeficiency diseases\"[All Fields] OR (\"primary\"[All Fields] AND \"immunodeficiency\"[All Fields]) OR \"primary immunodeficiency\"[All Fields]) OR (\"infect\"[All Fields] OR \"infectability\"[All Fields] OR \"infectable\"[All Fields] OR \"infectant\"[All Fields] OR \"infectants\"[All Fields] OR \"infected\"[All Fields] OR \"infecteds\"[All Fields] OR \"infectibility\"[All Fields] OR \"infectible\"[All Fields] OR \"infecting\"[All Fields] OR \"infection s\"[All Fields] OR \"infections\"[MeSH Terms] OR \"infections\"[All Fields] OR \"infection\"[All Fields] OR \"infective\"[All Fields] OR \"infectiveness\"[All Fields] OR \"infectives\"[All Fields] OR \"infectivities\"[All Fields] OR \"infects\"[All Fields] OR \"pathogenicity\"[MeSH Subheading] OR \"pathogenicity\"[All Fields] OR \"infectivity\"[All Fields])) AND (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields] OR (\"patient s\"[All Fields] OR \"patients\"[MeSH Terms] OR \"patients\"[All Fields] OR \"patient\"[All Fields] OR \"patients s\"[All Fields]) OR (\"familialities\"[All Fields] OR \"familiality\"[All Fields] OR \"familially\"[All Fields] OR \"familials\"[All Fields] OR \"familie\"[All Fields] OR \"family\"[MeSH Terms] OR \"family\"[All Fields] OR \"familial\"[All Fields] OR \"families\"[All Fields] OR \"family s\"[All Fields] OR \"familys\"[All Fields]) OR (\"sibling s\"[All Fields] OR \"siblings\"[MeSH Terms] OR \"siblings\"[All Fields] OR \"sibling\"[All Fields]) OR (\"case reports\"[Publication Type] OR \"case report\"[All Fields]) OR (\"kindred\"[All Fields] OR \"kindred s\"[All Fields] OR \"kindreds\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33296644",
+      "title": "[A poisoned gift].",
+      "first_author": "Jordan B",
+      "year": "2020",
+      "journal": "Med Sci (Paris)",
+      "doi": "10.1051/medsci/2020240",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27183719",
+      "title": "[MOLECULAR CHARACTERISTICS OF THE MULTIDRUG-RESISTANT MYCOBACTERIUM TUBERCULOSIS STRAINS IN THE NORTHWEST RUSSIA].",
+      "first_author": "Vyazovaya AA",
+      "year": "2016",
+      "journal": "Mol Gen Mikrobiol Virusol",
+      "doi": "",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "8723457",
+      "title": "Ciprofloxacin pharmacokinetics in burn patients.",
+      "first_author": "Garrelts JC",
+      "year": "1996",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.40.5.1153",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "12793843",
+      "title": "Pharmacokinetics and pharmacodynamics of intravenous levofloxacin in patients with early-onset ventilator-associated pneumonia.",
+      "first_author": "Pea F",
+      "year": "2003",
+      "journal": "Clin Pharmacokinet",
+      "doi": "10.2165/00003088-200342060-00008",
+      "pubtype": [
+        "Clinical Trial",
+        "Clinical Trial, Phase I",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38951531",
+      "title": "Structure and function of the SIT1 proline transporter in complex with the COVID-19 receptor ACE2.",
+      "first_author": "Li HZ",
+      "year": "2024",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-024-48921-x",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "11870856",
+      "title": "Siderophore uptake by Candida albicans: effect of serum treatment and comparison with Saccharomyces cerevisiae.",
+      "first_author": "Lesuisse E",
+      "year": "2002",
+      "journal": "Yeast",
+      "doi": "10.1002/yea.840",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "33140827",
+      "title": "ACE2 and gut amino acid transport.",
+      "first_author": "Camargo SMR",
+      "year": "2020",
+      "journal": "Clin Sci (Lond)",
+      "doi": "10.1042/CS20200477",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "25797613",
+      "title": "Tuberculosis - A global emergency: Tools and methods to monitor, understand, and control the epidemic with specific example of the Beijing lineage.",
+      "first_author": "Couvin D",
+      "year": "2015",
+      "journal": "Tuberculosis (Edinb)",
+      "doi": "10.1016/j.tube.2015.02.023",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40873928",
+      "title": "Role of the putative sit1 gene in normal germination of spores and virulence of the Mucor lusitanicus.",
+      "first_author": "V\u00e1g\u00f3 B",
+      "year": "2025",
+      "journal": "Microb Cell",
+      "doi": "10.15698/mic2025.08.856",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34969185",
+      "title": "SIT1 transporter as a potential novel target in treatment of COVID-19.",
+      "first_author": "Semiz S",
+      "year": "2021",
+      "journal": "Biomol Concepts",
+      "doi": "10.1515/bmc-2021-0017",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26929401",
+      "title": "Identification of ferrichrome- and ferrioxamine B-mediated iron uptake by Aspergillus fumigatus.",
+      "first_author": "Park YS",
+      "year": "2016",
+      "journal": "Biochem J",
+      "doi": "10.1042/BCJ20160066",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36951900",
+      "title": "Advantages of analysing both pairwise SNV-distance and differing SNVs between Mycobacterium tuberculosis isolates for recurrent tuberculosis cause determination.",
+      "first_author": "Sadovska D",
+      "year": "2023",
+      "journal": "Microb Genom",
+      "doi": "10.1099/mgen.0.000956",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24821847",
+      "title": "Congenital transmission of multidrug-resistant tuberculosis.",
+      "first_author": "Espiritu N",
+      "year": "2014",
+      "journal": "Am J Trop Med Hyg",
+      "doi": "10.4269/ajtmh.13-0002",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35435077",
+      "title": "Spoligotyping of Mycobacterium tuberculosis isolates from Pulmonary Tuberculosis patients from North Karnataka, India.",
+      "first_author": "Bellad R",
+      "year": "2022",
+      "journal": "Trop Doct",
+      "doi": "10.1177/00494755221080584",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38590765",
+      "title": "Genetic diversity of Mycobacterium tuberculosis strains isolated from spiritual holy water site attendees in Northwest Ethiopia. A cross-sectional study.",
+      "first_author": "Reta MA",
+      "year": "2024",
+      "journal": "New Microbes New Infect",
+      "doi": "10.1016/j.nmni.2024.101235",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26679959",
+      "title": "Trends in molecular epidemiology of drug-resistant tuberculosis in Republic of Karelia, Russian Federation.",
+      "first_author": "Mokrousov I",
+      "year": "2015",
+      "journal": "BMC Microbiol",
+      "doi": "10.1186/s12866-015-0613-3",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39108991",
+      "title": "Discordance Between Phenotypic and WGS-Based Drug Susceptibility Testing Results for Some Anti-Tuberculosis Drugs: A Snapshot Study of Paired Mycobacterium tuberculosis Isolates with Small Genetic Distance.",
+      "first_author": "Sadovska D",
+      "year": "2024",
+      "journal": "Infect Drug Resist",
+      "doi": "10.2147/IDR.S468997",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "8517694",
+      "title": "Pharmacodynamics of intravenous ciprofloxacin in seriously ill patients.",
+      "first_author": "Forrest A",
+      "year": "1993",
+      "journal": "Antimicrob Agents Chemother",
+      "doi": "10.1128/AAC.37.5.1073",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31299365",
+      "title": "Insight into genetic diversity of Mycobacterium tuberculosis in Kandy, Sri Lanka reveals predominance of the Euro-American lineage.",
+      "first_author": "Mendis C",
+      "year": "2019",
+      "journal": "Int J Infect Dis",
+      "doi": "10.1016/j.ijid.2019.07.001",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

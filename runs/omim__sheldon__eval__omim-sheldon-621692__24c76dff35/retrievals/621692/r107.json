@@ -1,0 +1,248 @@
+{
+  "id": "r107",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "35722745",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "99 'similar' links for PMID 35722745; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "33425808",
+      "title": "CACNA1A Gene Variants in Eight Chinese Patients With a Wide Range of Phenotypes.",
+      "first_author": "Zhang L",
+      "year": "2020",
+      "journal": "Front Pediatr",
+      "doi": "10.3389/fped.2020.577544",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37555011",
+      "title": "The genotype-phenotype correlations of the CACNA1A-related neurodevelopmental disorders: a small case series and literature reviews.",
+      "first_author": "Kessi M",
+      "year": "2023",
+      "journal": "Front Mol Neurosci",
+      "doi": "10.3389/fnmol.2023.1222321",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32336275",
+      "title": "Two distinct phenotypes, hemiplegic migraine and episodic Ataxia type 2, caused by a novel common CACNA1A variant.",
+      "first_author": "Nardello R",
+      "year": "2020",
+      "journal": "BMC Neurol",
+      "doi": "10.1186/s12883-020-01704-5",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38681799",
+      "title": "Developing a pathway to clinical trials for CACNA1A-related epilepsies: A patient organization perspective.",
+      "first_author": "Fox PM",
+      "year": "2024",
+      "journal": "Ther Adv Rare Dis",
+      "doi": "10.1177/26330040241245725",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "first_author": "Le Roux M",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36592223",
+      "title": "CACNA1A-Related Channelopathies: Clinical Manifestations and Treatment Options.",
+      "first_author": "Indelicato E",
+      "year": "2023",
+      "journal": "Handb Exp Pharmacol",
+      "doi": "10.1007/164_2022_625",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34806130",
+      "title": "The complexities of CACNA1A in clinical neurogenetics.",
+      "first_author": "Hommersom MP",
+      "year": "2022",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-021-10897-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33349592",
+      "title": "Clinical phenotypes of infantile onset CACNA1A-related disorder.",
+      "first_author": "Gur-Hartman T",
+      "year": "2021",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2020.10.004",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "25596066",
+      "title": "Paroxysmal tonic upward gaze as a presentation of de-novo mutations in CACNA1A.",
+      "first_author": "Blumkin L",
+      "year": "2015",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2014.12.018",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26814174",
+      "title": "Eye movement disorders are an early manifestation of CACNA1A mutations in children.",
+      "first_author": "Tantsis EM",
+      "year": "2016",
+      "journal": "Dev Med Child Neurol",
+      "doi": "10.1111/dmcn.13033",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30063100",
+      "title": "The neuropsychiatric phenotype in CACNA1A mutations: a retrospective single center study and review of the literature.",
+      "first_author": "Indelicato E",
+      "year": "2019",
+      "journal": "Eur J Neurol",
+      "doi": "10.1111/ene.13765",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25735478",
+      "title": "CACNA1A haploinsufficiency causes cognitive impairment, autism and epileptic encephalopathy with mild cerebellar symptoms.",
+      "first_author": "Damaj L",
+      "year": "2015",
+      "journal": "Eur J Hum Genet",
+      "doi": "10.1038/ejhg.2015.21",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41370964",
+      "title": "Diagnostic value of genetic testing, with focus on CACNA1A, in children with episodic neurologic disorders: a single-centre retrospective study.",
+      "first_author": "Chinigioli M",
+      "year": "2026",
+      "journal": "Eur J Paediatr Neurol",
+      "doi": "10.1016/j.ejpn.2025.11.005",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "24836863",
+      "title": "Congenital ataxia and hemiplegic migraine with cerebral edema associated with a novel gain of function mutation in the calcium channel CACNA1A.",
+      "first_author": "Garc\u00eda Segarra N",
+      "year": "2014",
+      "journal": "J Neurol Sci",
+      "doi": "10.1016/j.jns.2014.04.027",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "19586927",
+      "title": "Large scale calcium channel gene rearrangements in episodic ataxia and hemiplegic migraine: implications for diagnostic testing.",
+      "first_author": "Labrum RW",
+      "year": "2009",
+      "journal": "J Med Genet",
+      "doi": "10.1136/jmg.2009.067967",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "24046065",
+      "title": "Novel CACNA1A mutation(s) associated with slow saccade velocities.",
+      "first_author": "Kipfer S",
+      "year": "2013",
+      "journal": "J Neurol",
+      "doi": "10.1007/s00415-013-7099-4",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33737904",
+      "title": "From Genotype to Phenotype: Expanding the Clinical Spectrum of CACNA1A Variants in the Era of Next Generation Sequencing.",
+      "first_author": "Indelicato E",
+      "year": "2021",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2021.639994",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32888184",
+      "title": "Progressive Ataxia with Hemiplegic Migraines: a Phenotype of CACNA1A Missense Mutations, Not CAG Repeat Expansions.",
+      "first_author": "Duque KR",
+      "year": "2021",
+      "journal": "Cerebellum",
+      "doi": "10.1007/s12311-020-01185-9",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "32471306",
+      "title": "Association of A Novel Splice Site Mutation in P/Q-Type Calcium Channels with Childhood Epilepsy and Late-Onset Slowly Progressive Non-Episodic Cerebellar Ataxia.",
+      "first_author": "Stendel C",
+      "year": "2020",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms21113810",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26961263",
+      "title": "The Genetics of Benign Paroxysmal Torticollis of Infancy: Is There an Association With Mutations in the CACNA1A Gene?",
+      "first_author": "Shin M",
+      "year": "2016",
+      "journal": "J Child Neurol",
+      "doi": "10.1177/0883073816636226",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

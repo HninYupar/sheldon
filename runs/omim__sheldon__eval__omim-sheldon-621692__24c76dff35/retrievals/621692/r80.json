@@ -1,0 +1,129 @@
+{
+  "id": "r80",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "27476654",
+    "relation": "cited_by",
+    "max_results": 10
+  },
+  "summary": "139 'cited_by' links for PMID 27476654; showing 10",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42428507",
+      "title": "Ethnopharmacological relevance of Chinese medicinal materials and natural products in epilepsy: a critical multi-target review integrating neurons, glia and inflammatory signaling.",
+      "first_author": "Yan S",
+      "year": "2026",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2026.1819195",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42182458",
+      "title": "Tau Ablation Rewires Brain Cell Programs in Health and Restores Function in Disease.",
+      "first_author": "Chimal-Ju\u00e1rez E",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.12.724684",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "41988489",
+      "title": "Deletion of Alg13 disrupts postnatal development and migration of GABAergic cortical interneurons.",
+      "first_author": "Liu H",
+      "year": "2026",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2026.1757800",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41026912",
+      "title": "The SLC-ome of membrane transport: from molecular discovery to physiology and clinical applications.",
+      "first_author": "Gyimesi G",
+      "year": "2026",
+      "journal": "Physiol Rev",
+      "doi": "10.1152/physrev.00001.2024",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41019480",
+      "title": "A GABRB3 mutation (c.5G>A, p.Trp2*) in twins with generalized epilepsy with febrile seizures: A case report.",
+      "first_author": "Lv SM",
+      "year": "2025",
+      "journal": "Exp Ther Med",
+      "doi": "10.3892/etm.2025.12963",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40725423",
+      "title": "Polymorphisms in CACNA1A, CACNA1C, and CACNA1H Genes in Korean Pediatric Patients with Developmental Delay and Intellectual Disability: A Focus on Epilepsy Comorbidity.",
+      "first_author": "Han JY",
+      "year": "2025",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes16070767",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40650259",
+      "title": "Multiple Chemical Sensitivity and the SLC Gene Superfamily: A Case-Control Study.",
+      "first_author": "Alcorta E",
+      "year": "2025",
+      "journal": "Int J Mol Sci",
+      "doi": "10.3390/ijms26136484",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40613532",
+      "title": "Multifaceted role of galanin in brain excitability.",
+      "first_author": "Rieser NN",
+      "year": "2025",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.98634",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40542409",
+      "title": "Clinical and functional characterization of the GABRB3 p.Met80Val variant in early-onset epilepsy with long-term follow-up.",
+      "first_author": "Hua R",
+      "year": "2025",
+      "journal": "Ital J Pediatr",
+      "doi": "10.1186/s13052-025-02046-z",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "40529445",
+      "title": "Developmental mechanisms underlying pediatric epilepsy.",
+      "first_author": "Lolam V",
+      "year": "2025",
+      "journal": "Front Neurol",
+      "doi": "10.3389/fneur.2025.1586947",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ]
+}

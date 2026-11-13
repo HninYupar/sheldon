@@ -1,0 +1,262 @@
+{
+  "id": "r129",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "TACC3[gene] AND human oocyte OR human embryo OR human infertility",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "437277 PubMed hits for 'TACC3[gene] AND human oocyte OR human embryo OR human infertility'; showing 20 (PubMed read it as: (\"TACC3\"[All Fields] AND ((\"human s\"[All Fields] OR \"humans\"[MeSH Terms] OR \"humans\"[All Fields] OR \"human\"[All Fields]) AND (\"oocyte s\"[All Fields] OR \"oocytes\"[MeSH Terms] OR \"oocytes\"[All Fields] OR \"oocyte\"[All Fields] OR \"oocytic\"[All Fields]))) OR ((\"human s\"[All Fields] OR \"humans\"[MeSH Terms] OR \"humans\"[All Fields] OR \"human\"[All Fields]) AND (\"embryo s\"[All Fields] OR \"embryoes\"[All Fields] OR \"embryonic structures\"[MeSH Terms] OR (\"embryonic\"[All Fields] AND \"structures\"[All Fields]) OR \"embryonic structures\"[All Fields] OR \"embryo\"[All Fields] OR \"embryos\"[All Fields])) OR ((\"human s\"[All Fields] OR \"humans\"[MeSH Terms] OR \"humans\"[All Fields] OR \"human\"[All Fields]) AND (\"infertiles\"[All Fields] OR \"infertilities\"[All Fields] OR \"infertility\"[MeSH Terms] OR \"infertility\"[All Fields] OR \"infertile\"[All Fields])))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "40038241",
+      "title": "GRB2 regulation of essential signaling pathways in the endometrium is critical for implantation and decidualization.",
+      "first_author": "Tran DN",
+      "year": "2025",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-025-57173-2",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37039141",
+      "title": "Embryonic arrest: causes and implications.",
+      "first_author": "Sahin GN",
+      "year": "2023",
+      "journal": "Curr Opin Obstet Gynecol",
+      "doi": "10.1097/GCO.0000000000000871",
+      "pubtype": [
+        "Review",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "27509101",
+      "title": "Fresh versus Frozen Embryos for Infertility in the Polycystic Ovary Syndrome.",
+      "first_author": "Chen ZJ",
+      "year": "2016",
+      "journal": "N Engl J Med",
+      "doi": "10.1056/NEJMoa1513873",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "27273344",
+      "title": "Mutations in TUBB8 cause a multiplicity of phenotypes in human oocytes and early embryos.",
+      "first_author": "Feng R",
+      "year": "2016",
+      "journal": "J Med Genet",
+      "doi": "10.1136/jmedgenet-2016-103891",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "35552636",
+      "title": "Deconstructing human peri-implantation embryogenesis based on embryos and embryoids\u2020.",
+      "first_author": "Ai Z",
+      "year": "2022",
+      "journal": "Biol Reprod",
+      "doi": "10.1093/biolre/ioac096",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "18569063",
+      "title": "Epigenetic consequences of assisted reproduction and infertility on the human preimplantation embryo.",
+      "first_author": "Huntriss J",
+      "year": "2008",
+      "journal": "Hum Fertil (Camb)",
+      "doi": "10.1080/14647270802116250",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30765866",
+      "title": "Novel mutations in PATL2: expanding the mutational spectrum and corresponding phenotypic variability associated with female infertility.",
+      "first_author": "Wu L",
+      "year": "2019",
+      "journal": "J Hum Genet",
+      "doi": "10.1038/s10038-019-0568-6",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33843124",
+      "title": "Genetic causes of preimplantation embryo developmental failure.",
+      "first_author": "Paonessa M",
+      "year": "2021",
+      "journal": "Mol Reprod Dev",
+      "doi": "10.1002/mrd.23471",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36988904",
+      "title": "Determinants of Embryo Implantation: Roles of the Endometrium and Embryo in Implantation Success.",
+      "first_author": "Awonuga AO",
+      "year": "2023",
+      "journal": "Reprod Sci",
+      "doi": "10.1007/s43032-023-01224-w",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "26700242",
+      "title": "Phospholipase C zeta (PLC\u03b6) and male infertility: Clinical update and topical developments.",
+      "first_author": "Amdani SN",
+      "year": "2016",
+      "journal": "Adv Biol Regul",
+      "doi": "10.1016/j.jbior.2015.11.009",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21339285",
+      "title": "Involvement of BCL2 family members in the regulation of human oocyte and early embryo survival and death: gene expression and beyond.",
+      "first_author": "Boumela I",
+      "year": "2011",
+      "journal": "Reproduction",
+      "doi": "10.1530/REP-10-0504",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "27852683",
+      "title": "Potential of human twin embryos generated by embryo splitting in assisted reproduction and research.",
+      "first_author": "Noli L",
+      "year": "2017",
+      "journal": "Hum Reprod Update",
+      "doi": "10.1093/humupd/dmw041",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "34191027",
+      "title": "The subcortical maternal complex: emerging roles and novel perspectives.",
+      "first_author": "Bebbere D",
+      "year": "2021",
+      "journal": "Mol Hum Reprod",
+      "doi": "10.1093/molehr/gaab043",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30917080",
+      "title": "Epigenetic Regulation and Risk Factors During the Development of Human Gametes and Early Embryos.",
+      "first_author": "Wang Y",
+      "year": "2019",
+      "journal": "Annu Rev Genomics Hum Genet",
+      "doi": "10.1146/annurev-genom-083118-015143",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20075602",
+      "title": "How to repair the oocyte and zygote?",
+      "first_author": "Fulka H",
+      "year": "2009",
+      "journal": "J Reprod Dev",
+      "doi": "10.1262/jrd.09-085h",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21703683",
+      "title": "A review of the promises and pitfalls of oocyte and embryo metabolomics.",
+      "first_author": "Nel-Themaat L",
+      "year": "2011",
+      "journal": "Placenta",
+      "doi": "10.1016/j.placenta.2011.05.011",
+      "pubtype": [
+        "Evaluation Study",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "41863644",
+      "title": "Human YTHDC2 mutations disturb RNA homeostasis of oocytes and early embryos.",
+      "first_author": "Su W",
+      "year": "2026",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-026-02818-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "25734350",
+      "title": "Human embryo cryopreservation-methods, timing, and other considerations for optimizing an embryo cryopreservation program.",
+      "first_author": "Sparks AE",
+      "year": "2015",
+      "journal": "Semin Reprod Med",
+      "doi": "10.1055/s-0035-1546826",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40455380",
+      "title": "GMNN mutations cause female infertility characterized by preimplantation embryo arrest through regulating DNA re-replication.",
+      "first_author": "Zhang H",
+      "year": "2025",
+      "journal": "Sci China Life Sci",
+      "doi": "10.1007/s11427-024-2837-9",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37148315",
+      "title": "NLRP7 participates in the human subcortical maternal complex and its variants cause female infertility characterized by early embryo arrest.",
+      "first_author": "Han J",
+      "year": "2023",
+      "journal": "J Mol Med (Berl)",
+      "doi": "10.1007/s00109-023-02322-7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

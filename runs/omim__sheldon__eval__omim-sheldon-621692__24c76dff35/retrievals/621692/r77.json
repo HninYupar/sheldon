@@ -1,0 +1,106 @@
+{
+  "id": "r77",
+  "tool": "pubmed_fetch",
+  "arguments": {
+    "pmids": [
+      "27476654",
+      "34102571",
+      "33790770"
+    ]
+  },
+  "summary": "fetched 3 of 3 PMIDs",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "27476654",
+      "title": "De Novo Mutations in SLC1A2 and CACNA1A Are Important Causes of Epileptic Encephalopathies.",
+      "authors": [
+        "Epi4K Consortium"
+      ],
+      "year": "2016",
+      "journal": "American journal of human genetics",
+      "doi": "10.1016/j.ajhg.2016.06.003",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh": [
+        "Adolescent",
+        "Adult",
+        "Alleles",
+        "Calcium Channels",
+        "Child, Preschool",
+        "Cohort Studies",
+        "Epilepsy",
+        "Excitatory Amino Acid Transporter 2",
+        "Female",
+        "GTP-Binding Protein alpha Subunits, Gi-Go",
+        "Glutamate Plasma Membrane Transport Proteins",
+        "Guanine Nucleotide Exchange Factors",
+        "Humans",
+        "Infant",
+        "Infant, Newborn",
+        "Male",
+        "Mosaicism",
+        "Mutation",
+        "N-Acetylglucosaminyltransferases",
+        "Receptors, GABA-A",
+        "Seizures",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "Epileptic encephalopathies (EEs) are the most clinically important group of severe early-onset epilepsies. Next-generation sequencing has highlighted the crucial contribution of de novo mutations to the genetic architecture of EEs as well as to their underlying genetic heterogeneity. Our previous whole-exome sequencing study of 264 parent-child trios revealed more than 290 candidate genes in which only a single individual had a de novo variant. We sought to identify additional pathogenic variants in a subset (n = 27) of these genes via targeted sequencing in an unsolved cohort of 531 individuals with a diverse range of EEs. We report 17 individuals with pathogenic variants in seven of the 27 genes, defining a genetic etiology in 3.2% of this unsolved cohort. Our results provide definitive evidence that de novo mutations in SLC1A2 and CACNA1A cause specific EEs and expand the compendium of clinically relevant genotypes for GABRB3. We also identified EEs caused by genetic variants in ALG13, DNM1, and GNAO1 and report a mutation in IQSEC2. Notably, recurrent mutations accounted for 7/17 of the pathogenic variants identified. As a result of high-depth coverage, parental mosaicism was identified in two out of 14 cases tested with mutant allelic fractions of 5%-6% in the unaffected parents, carrying significant reproductive counseling implications. These results confirm that dysregulation in diverse cellular neuronal pathways causes EEs, and they will inform the diagnosis and management of individuals with these devastating disorders."
+    },
+    {
+      "pmid": "34102571",
+      "title": "CACNA1A-associated epilepsy: Electroclinical findings and treatment response on seizures in 18 patients.",
+      "authors": [
+        "Le Roux M",
+        "Barth M",
+        "Gueden S",
+        "Desbordes de Cepoy P",
+        "Aeby A",
+        "Vilain C",
+        "et al."
+      ],
+      "year": "2021",
+      "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+      "doi": "10.1016/j.ejpn.2021.05.010",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "mesh": [
+        "Ataxia",
+        "Calcium Channels",
+        "Child, Preschool",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Male",
+        "Seizures",
+        "Spinocerebellar Ataxias",
+        "Calcium Channels, N-Type"
+      ],
+      "abstract": "CACNA1A pathogenic mutations are involved in various neurological phenotypes including episodic ataxia (EA2), spinocerebellar ataxia (SCA6), and familial hemiplegic migraine (FHM1). Epilepsy is poorly documented. We studied 18 patients (10 males) carrying de novo or inherited CACNA1A mutations, with median age of 2,5 years at epilepsy onset. Eight mutations were novel. Two variants known leading to gain of function (GOF) were found in 5 patients. Five other patients had non-sense variants leading to loss of function (LOF). Seizures were most often revealed by either status epilepticus (SE) (n\u00a0=\u00a08), eventually triggered by fever (n\u00a0=\u00a05), or absences/behavioural arrests (n\u00a0=\u00a07). Non-epileptic paroxysmal events were frequent and consisted in recurrent hemiplegic accesses (n\u00a0=\u00a09), jitteriness in the neonatal period (n\u00a0=\u00a06), and ocular paroxysmal events (n\u00a0=\u00a09). Most of the patients had early permanent cerebellar dysfunction (n\u00a0=\u00a016) and early moderate to severe global developmental delay (GDD)/intellectual deficiency (ID) (n\u00a0=\u00a017). MRI was often abnormal, with cerebellar (n\u00a0=\u00a08) and/or cerebral (n\u00a0=\u00a06) atrophy. Stroke-like occurred in 2 cases. Some antiepileptic drugs including topiramate, levetiracetam, lamotrigine and valproate were effective on seizures. Acetazolamide and calcium channel blockers were often effective when used. More than half of the patients had refractory epilepsy. CACNA1A mutation should be evoked in front of 2 main electro-clinical phenotypes that are associated with permanent cerebellar dysfunction and moderate to severe GDD/ID. The first one, found in all 5 patients with GOF variants, is characterized by intractable seizures, early and recurrent SE and hemiplegic accesses. The second, less severe, found in 5 patients with LOF variants, is characterized by refractory early onset absence seizures."
+    },
+    {
+      "pmid": "33790770",
+      "title": "R1352Q CACNA1A Variant in a Patient with Sporadic Hemiplegic Migraine, Ataxia, Seizures and Cerebral Oedema: A Case Report.",
+      "authors": [
+        "Stubberud A",
+        "O'Connor E",
+        "Tronvik E",
+        "Houlden H",
+        "Matharu M"
+      ],
+      "year": "2021",
+      "journal": "Case reports in neurology",
+      "doi": "10.1159/000512275",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh": [],
+      "abstract": "Mutations in the CACNA1A gene show a wide range of neurological phenotypes including hemiplegic migraine, ataxia, mental retardation and epilepsy. In some cases, hemiplegic migraine attacks can be triggered by minor head trauma and culminate in encephalopathy and cerebral oedema. A 37-year-old male without a family history of complex migraine experienced hemiplegic migraine attacks from childhood. The attacks were usually triggered by minor head trauma, and on several occasions complicated with encephalopathy and cerebral oedema. Genetic testing of the proband and unaffected parents revealed a de novo heterozygous nucleotide missense mutation in exon 25 of the CACNA1A gene (c.4055G>A, p.R1352Q). The R1352Q CACNA1A variant shares the phenotype with other described CACNA1A mutations and highlights the interesting association of trauma as a precipitant for hemiplegic migraine. Subjects with early-onset sporadic hemiplegic migraine triggered by minor head injury or associated with seizures, ataxia or episodes of encephalopathy should be screened for mutations. These patients should also be advised to avoid activities that may result in head trauma, and anticonvulsants should be considered as prophylactic migraine therapy."
+    }
+  ]
+}

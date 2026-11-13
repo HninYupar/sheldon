@@ -1,0 +1,257 @@
+{
+  "id": "r63",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"PSMF1\"[tiab] OR \"PI31\"[tiab] AND fibroblast* OR mitochondria OR mouse OR drosophila",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2690320 PubMed hits for '\"PSMF1\"[tiab] OR \"PI31\"[tiab] AND fibroblast* OR mitochondria OR mouse OR drosophila'; showing 20 (PubMed read it as: ((\"PSMF1\"[Title/Abstract] OR \"PI31\"[Title/Abstract]) AND \"fibroblast*\"[All Fields]) OR (\"mitochondria\"[MeSH Terms] OR \"mitochondria\"[All Fields] OR \"mitochondria s\"[All Fields] OR \"mitochondriae\"[All Fields] OR \"mitochondrias\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields] OR \"mouse\"[All Fields] OR \"mouse s\"[All Fields] OR \"mouses\"[All Fields]) OR (\"drosophila\"[MeSH Terms] OR \"drosophila\"[All Fields] OR \"drosophilas\"[All Fields] OR \"drosophila s\"[All Fields]))",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "30089241",
+      "title": "Interplay between YAP/TAZ and Metabolism.",
+      "first_author": "Koo JH",
+      "year": "2018",
+      "journal": "Cell Metab",
+      "doi": "10.1016/j.cmet.2018.07.010",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42561934",
+      "title": "Tau-induced mitochondrial reverse electron transport drives neurodegeneration.",
+      "first_author": "Li W",
+      "year": "2026",
+      "journal": "Neuron",
+      "doi": "10.1016/j.neuron.2026.07.012",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "33852843",
+      "title": "Dietary spermidine improves cognitive function.",
+      "first_author": "Schroeder S",
+      "year": "2021",
+      "journal": "Cell Rep",
+      "doi": "10.1016/j.celrep.2021.108985",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40505663",
+      "title": "Mitochondrial fumarate inhibits Parkin-mediated mitophagy.",
+      "first_author": "Ham SJ",
+      "year": "2025",
+      "journal": "Mol Cell",
+      "doi": "10.1016/j.molcel.2025.05.021",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "39115659",
+      "title": "Analysis of Mitophagy Reporters in Drosophila.",
+      "first_author": "Sanchez-Martinez A",
+      "year": "2024",
+      "journal": "Methods Mol Biol",
+      "doi": "10.1007/978-1-0716-4067-8_7",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "35858366",
+      "title": "Alcohol, neuronal plasticity, and mitochondrial trafficking.",
+      "first_author": "Hernandez J",
+      "year": "2022",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.2208744119",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "41379939",
+      "title": "Spatial and morphological organization of mitochondria in neurons across a connectome.",
+      "first_author": "Sager G",
+      "year": "2026",
+      "journal": "Science",
+      "doi": "10.1126/science.ads6674",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35412289",
+      "title": "Mitochondrial DNA Transport in Drosophila Neurons.",
+      "first_author": "Bateman JM",
+      "year": "2022",
+      "journal": "Methods Mol Biol",
+      "doi": "10.1007/978-1-0716-1990-2_21",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41436474",
+      "title": "Leveraging engineered mitochondria through intercellular communication network for accelerated transport and delivery.",
+      "first_author": "Peng Y",
+      "year": "2025",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-025-67837-8",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "38884788",
+      "title": "The initiation of mitochondrial DNA replication.",
+      "first_author": "Liu Y",
+      "year": "2024",
+      "journal": "Biochem Soc Trans",
+      "doi": "10.1042/BST20230952",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36254835",
+      "title": "Mitochondrial DNA maintenance in Drosophila melanogaster.",
+      "first_author": "Rodrigues APC",
+      "year": "2022",
+      "journal": "Biosci Rep",
+      "doi": "10.1042/BSR20211693",
+      "pubtype": [
+        "Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "4368919",
+      "title": "Mitochondrial heterosis.",
+      "first_author": "Grunder AA",
+      "year": "1974",
+      "journal": "Poult Sci",
+      "doi": "10.3382/ps.0531306",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "36355348",
+      "title": "REC drives recombination to repair double-strand breaks in animal mtDNA.",
+      "first_author": "Klucnika A",
+      "year": "2023",
+      "journal": "J Cell Biol",
+      "doi": "10.1083/jcb.202201137",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25299061",
+      "title": "Keeping mtDNA in shape between generations.",
+      "first_author": "Stewart JB",
+      "year": "2014",
+      "journal": "PLoS Genet",
+      "doi": "10.1371/journal.pgen.1004670",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "20228940",
+      "title": "Aging: Dial M for Mitochondria.",
+      "first_author": "Hur JH",
+      "year": "2010",
+      "journal": "Aging (Albany NY)",
+      "doi": "10.18632/aging.100118",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40184468",
+      "title": "Retromer promotes the lysosomal turnover of mtDNA.",
+      "first_author": "Kakanj P",
+      "year": "2025",
+      "journal": "Sci Adv",
+      "doi": "10.1126/sciadv.adr6415",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34043204",
+      "title": "Analysis of Dopaminergic Functions in Drosophila.",
+      "first_author": "Inoshita T",
+      "year": "2021",
+      "journal": "Methods Mol Biol",
+      "doi": "10.1007/978-1-0716-1495-2_18",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "32047033",
+      "title": "Decision between mitophagy and apoptosis by Parkin via VDAC1 ubiquitination.",
+      "first_author": "Ham SJ",
+      "year": "2020",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1909814117",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20949033",
+      "title": "Drosophila Porin/VDAC affects mitochondrial morphology.",
+      "first_author": "Park J",
+      "year": "2010",
+      "journal": "PLoS One",
+      "doi": "10.1371/journal.pone.0013151",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38304969",
+      "title": "A Drosophila model of mitochondrial disease phenotypic heterogeneity.",
+      "first_author": "Granat L",
+      "year": "2024",
+      "journal": "Biol Open",
+      "doi": "10.1242/bio.060278",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

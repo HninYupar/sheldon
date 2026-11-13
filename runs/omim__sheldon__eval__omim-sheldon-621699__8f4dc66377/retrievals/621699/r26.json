@@ -1,0 +1,26 @@
+{
+  "id": "r26",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "42128181[PMID] OR 42128181[All Fields]",
+    "max_results": 5,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '42128181[PMID] OR 42128181[All Fields]'; showing 1 (PubMed read it as: 42128181[UID])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42128181",
+      "title": "Homozygous loss-of-function mutation in SIT1 leads to combined immunodeficiency due to dysregulated T-cell receptor signaling.",
+      "first_author": "Chen P",
+      "year": "2026",
+      "journal": "J Allergy Clin Immunol",
+      "doi": "10.1016/j.jaci.2026.03.030",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

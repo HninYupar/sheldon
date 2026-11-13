@@ -1,0 +1,24 @@
+{
+  "id": "r76",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder\"[tiab] OR Lambton[au] ATG12",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "1 PubMed hits for '\"Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder\"[tiab] OR Lambton[au] ATG12'; showing 1 (PubMed read it as: Lambton[Author] AND \"ATG12\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41895291",
+      "title": "Bi-allelic ATG12 variants impair autophagy and cause a neurodevelopmental disorder.",
+      "first_author": "Lambton J",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.03.002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

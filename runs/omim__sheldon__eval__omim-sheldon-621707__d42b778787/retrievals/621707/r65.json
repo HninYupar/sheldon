@@ -1,0 +1,269 @@
+{
+  "id": "r65",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "40926810",
+    "relation": "references",
+    "max_results": 20
+  },
+  "summary": "52 'references' links for PMID 40926810; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41608114",
+      "title": "Human inborn errors of immunity: 2024 update on the classification from the International Union of Immunological Societies Expert Committee.",
+      "first_author": "Poli MC",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250003",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41608113",
+      "title": "The 2024 update of IUIS phenotypic classification of human inborn errors of immunity.",
+      "first_author": "Bousfiha AA",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250002",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39525797",
+      "title": "Xolremdi (Mavorixafor): a breakthrough in WHIM syndrome treatment - unraveling efficacy and safety in a rare disease frontier.",
+      "first_author": "Nadeem F",
+      "year": "2024",
+      "journal": "Ann Med Surg (Lond)",
+      "doi": "10.1097/MS9.0000000000002590",
+      "pubtype": [
+        "Editorial"
+      ]
+    },
+    {
+      "pmid": "39298586",
+      "title": "Germline mutations in a G protein identify signaling cross-talk in T cells.",
+      "first_author": "Ham H",
+      "year": "2024",
+      "journal": "Science",
+      "doi": "10.1126/science.add8947",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "39035006",
+      "title": "The complex nature of CXCR4 mutations in WHIM syndrome.",
+      "first_author": "Rodr\u00edguez-Frade JM",
+      "year": "2024",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2024.1406532",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38524120",
+      "title": "A mini-review: phosphodiesterases in charge to balance intracellular cAMP during T-cell activation.",
+      "first_author": "Bielenberg M",
+      "year": "2024",
+      "journal": "Front Immunol",
+      "doi": "10.3389/fimmu.2024.1365484",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37561579",
+      "title": "A phase III randomized crossover trial of plerixafor versus G-CSF for treatment of WHIM syndrome.",
+      "first_author": "McDermott DH",
+      "year": "2023",
+      "journal": "J Clin Invest",
+      "doi": "10.1172/JCI164918",
+      "pubtype": [
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36506513",
+      "title": "Recent developments of phosphodiesterase inhibitors: Clinical trials, emerging indications and novel molecules.",
+      "first_author": "Bondarev AD",
+      "year": "2022",
+      "journal": "Front Pharmacol",
+      "doi": "10.3389/fphar.2022.1057083",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33334857",
+      "title": "Subcellular Organization of the cAMP Signaling Pathway.",
+      "first_author": "Zaccolo M",
+      "year": "2021",
+      "journal": "Pharmacol Rev",
+      "doi": "10.1124/pharmrev.120.000086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33106103",
+      "title": "Hematopoietic Stem Cell Transplantation for Autoimmune Disease.",
+      "first_author": "Alexander T",
+      "year": "2021",
+      "journal": "Annu Rev Med",
+      "doi": "10.1146/annurev-med-070119-115617",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32562817",
+      "title": "Blame the signaling: Role of cAMP for the resolution of inflammation.",
+      "first_author": "Tavares LP",
+      "year": "2020",
+      "journal": "Pharmacol Res",
+      "doi": "10.1016/j.phrs.2020.105030",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31636120",
+      "title": "Regulator of G-protein signaling (RGS) proteins as drug targets: Progress and future potentials.",
+      "first_author": "O'Brien JB",
+      "year": "2019",
+      "journal": "J Biol Chem",
+      "doi": "10.1074/jbc.REV119.007060",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "30819232",
+      "title": "Cerebellar involvement in warts Hypogammaglobulinemia immunodeficiency myelokathexis patients: neuroimaging and clinical findings.",
+      "first_author": "Galli J",
+      "year": "2019",
+      "journal": "Orphanet J Rare Dis",
+      "doi": "10.1186/s13023-019-1030-8",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30716504",
+      "title": "Long-Term Outcome of WHIM Syndrome in 18 Patients: High Risk of Lung Disease and HPV-Related Malignancies.",
+      "first_author": "Dotta L",
+      "year": "2019",
+      "journal": "J Allergy Clin Immunol Pract",
+      "doi": "10.1016/j.jaip.2019.01.045",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29254755",
+      "title": "Human genetics of infectious diseases: Unique insights into immunological redundancy.",
+      "first_author": "Casanova JL",
+      "year": "2018",
+      "journal": "Semin Immunol",
+      "doi": "10.1016/j.smim.2017.12.008",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29066537",
+      "title": "How I treat warts, hypogammaglobulinemia, infections, and myelokathexis syndrome.",
+      "first_author": "Badolato R",
+      "year": "2017",
+      "journal": "Blood",
+      "doi": "10.1182/blood-2017-02-708552",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "28235863",
+      "title": "Normal Thymocyte Egress, T Cell Trafficking, and CD4(+) T Cell Homeostasis Require Interactions between RGS Proteins and G\u03b1(i2).",
+      "first_author": "Hwang IY",
+      "year": "2017",
+      "journal": "J Immunol",
+      "doi": "10.4049/jimmunol.1601433",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural"
+      ]
+    },
+    {
+      "pmid": "27515397",
+      "title": "Regulation, Signaling, and Physiological Functions of G-Proteins.",
+      "first_author": "Syrovatkina V",
+      "year": "2016",
+      "journal": "J Mol Biol",
+      "doi": "10.1016/j.jmb.2016.08.002",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "26083206",
+      "title": "Inherited DOCK2 Deficiency in Patients with Early-Onset Invasive Infections.",
+      "first_author": "Dobbs K",
+      "year": "2015",
+      "journal": "N Engl J Med",
+      "doi": "10.1056/NEJMoa1413462",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25422492",
+      "title": "DOCK8 regulates lymphocyte shape integrity for skin antiviral immunity.",
+      "first_author": "Zhang Q",
+      "year": "2014",
+      "journal": "J Exp Med",
+      "doi": "10.1084/jem.20141307",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

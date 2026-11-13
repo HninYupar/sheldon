@@ -1,0 +1,254 @@
+{
+  "id": "r78",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"621707\"[tiab] OR \"MAGIS syndrome\"[tiab] OR \"MAGIS\"[tiab]",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "43 PubMed hits for '\"621707\"[tiab] OR \"MAGIS syndrome\"[tiab] OR \"MAGIS\"[tiab]'; showing 20 (PubMed read it as: \"MAGIS syndrome\"[Title/Abstract] OR \"MAGIS\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "36699383",
+      "title": "MAGI-MS: multiple seed-centric module discovery.",
+      "first_author": "Chow JC",
+      "year": "2022",
+      "journal": "Bioinform Adv",
+      "doi": "10.1093/bioadv/vbac025",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35192169",
+      "title": "Memory-Assisted Global Impression of Change (MAGIC).",
+      "first_author": "Deal LS",
+      "year": "2022",
+      "journal": "Ther Innov Regul Sci",
+      "doi": "10.1007/s43441-022-00377-1",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "30547889",
+      "title": "Cytokines and male infertility.",
+      "first_author": "Syriou V",
+      "year": "2018",
+      "journal": "Eur Cytokine Netw",
+      "doi": "10.1684/ecn.2018.0412",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33712709",
+      "title": "MAGIs regulate aPKC to enable balanced distribution of intercellular tension for epithelial sheet homeostasis.",
+      "first_author": "Matsuzawa K",
+      "year": "2021",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-021-01874-z",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40926810",
+      "title": "MAGIS syndrome: phenotypes, pathogenesis, and treatment.",
+      "first_author": "Lamborn IT",
+      "year": "2025",
+      "journal": "J Hum Immun",
+      "doi": "10.70962/jhi.20250065",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34503076",
+      "title": "A New Story of the Three Magi: Scaffolding Proteins and lncRNA Suppressors of Cancer.",
+      "first_author": "Kotelevets L",
+      "year": "2021",
+      "journal": "Cancers (Basel)",
+      "doi": "10.3390/cancers13174264",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42920069",
+      "title": "GNAI2 activating variants and MAGIS syndrome: long-term endocrine and growth outcome.",
+      "first_author": "Giannakopoulos A",
+      "year": "2026",
+      "journal": "Hormones (Athens)",
+      "doi": "10.1007/s42000-026-00835-7",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "29992660",
+      "title": "Identification of seminal markers of male accessory gland inflammation: From molecules to proteome.",
+      "first_author": "Grande G",
+      "year": "2018",
+      "journal": "Am J Reprod Immunol",
+      "doi": "10.1111/aji.12992",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "21498811",
+      "title": "MAGUKs, synaptic development, and synaptic plasticity.",
+      "first_author": "Zheng CY",
+      "year": "2011",
+      "journal": "Neuroscientist",
+      "doi": "10.1177/1073858410386384",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "15830133",
+      "title": "Evaluation of five ab initio gene prediction programs for the discovery of maize genes.",
+      "first_author": "Yao H",
+      "year": "2005",
+      "journal": "Plant Mol Biol",
+      "doi": "10.1007/s11103-005-0271-1",
+      "pubtype": [
+        "Comparative Study",
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "25870524",
+      "title": "Universal neonatal hearing screening in Albania, 2009-2012.",
+      "first_author": "Beqiri E",
+      "year": "2015",
+      "journal": "Mater Sociomed",
+      "doi": "10.5455/msm.2014.27.13-14",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "35284317",
+      "title": "Clinicopathological features and prognosis of papillary thyroid cancer patients with type 2 diabetes mellitus.",
+      "first_author": "Shi P",
+      "year": "2022",
+      "journal": "Gland Surg",
+      "doi": "10.21037/gs-21-905",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36893480",
+      "title": "Estimating and Assessing Differential Equation Models with Time-Course Data.",
+      "first_author": "Wong SWK",
+      "year": "2023",
+      "journal": "J Phys Chem B",
+      "doi": "10.1021/acs.jpcb.2c08932",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "16103354",
+      "title": "Quality assessment of maize assembled genomic islands (MAGIs) and large-scale experimental verification of predicted genes.",
+      "first_author": "Fu Y",
+      "year": "2005",
+      "journal": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.0503394102",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "pmid": "38024513",
+      "title": "Acute uropathogen-related cowperitis with sepsis: case report and literature review.",
+      "first_author": "Maiolino G",
+      "year": "2023",
+      "journal": "Urol Case Rep",
+      "doi": "10.1016/j.eucr.2023.102566",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31072601",
+      "title": "Left main coronary artery calcium and mortality risk: Repetita iuvant et magis notitia.",
+      "first_author": "Raggi P",
+      "year": "2019",
+      "journal": "Atherosclerosis",
+      "doi": "10.1016/j.atherosclerosis.2019.04.224",
+      "pubtype": [
+        "Editorial",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "38567624",
+      "title": "Author Correction: Achievement of sustainable development goals through the Mediterranean diet.",
+      "first_author": "Medori MC",
+      "year": "2024",
+      "journal": "Eur Rev Med Pharmacol Sci",
+      "doi": "10.26355/eurrev_202403_35781",
+      "pubtype": [
+        "Journal Article",
+        "Published Erratum"
+      ]
+    },
+    {
+      "pmid": "31653223",
+      "title": "Dissecting the genetic basis of comorbid epilepsy phenotypes in neurodevelopmental disorders.",
+      "first_author": "Chow J",
+      "year": "2019",
+      "journal": "Genome Med",
+      "doi": "10.1186/s13073-019-0678-y",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40963666",
+      "title": "Public health leadership: a framework inspired by timeless lessons from 500 years of the Jesuit tradition.",
+      "first_author": "Chyu L",
+      "year": "2025",
+      "journal": "Front Public Health",
+      "doi": "10.3389/fpubh.2025.1621381",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "15448342",
+      "title": "Degradation of hDlg and MAGIs by human papillomavirus E6 is E6-AP-independent.",
+      "first_author": "Grm HS",
+      "year": "2004",
+      "journal": "J Gen Virol",
+      "doi": "10.1099/vir.0.80035-0",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

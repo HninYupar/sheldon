@@ -1,0 +1,104 @@
+{
+  "id": "r107",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "32416884",
+    "relation": "cited_by",
+    "max_results": 20
+  },
+  "summary": "8 'cited_by' links for PMID 32416884; showing 8",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "42652642",
+      "title": "Treatment-Based Recurrence of Scar Pregnancy: A Systematic Review of the Literature as a Tool for More Informed Decision-Making.",
+      "first_author": "Carlucci S",
+      "year": "2026",
+      "journal": "J Clin Med",
+      "doi": "10.3390/jcm15166239",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42369914",
+      "title": "Clinical effect of uterine artery embolization combined with curettage in the treatment of cesarean scar pregnancy.",
+      "first_author": "Zhang T",
+      "year": "2026",
+      "journal": "Pak J Med Sci",
+      "doi": "10.12669/pjms.42.6.14466",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41590069",
+      "title": "Transcatheter Arterial Embolization (TAE) of Uterine Artery with Gelatin Sponge for Cesarean Scar Pregnancy: A Current State of the Art Review.",
+      "first_author": "Minici R",
+      "year": "2026",
+      "journal": "Gels",
+      "doi": "10.3390/gels12010044",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "40206394",
+      "title": "Clinical investigation of fertility after uterine artery embolization combined with dilation and curettage(D&C) or D&C alone for cesarean scar pregnancies.",
+      "first_author": "Gao J",
+      "year": "2025",
+      "journal": "Eur J Obstet Gynecol Reprod Biol X",
+      "doi": "10.1016/j.eurox.2025.100379",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36915335",
+      "title": "Effects of lauromacrogol injection under contrast-enhanced ultrasound guidance on cesarean scar pregnancy: a prospective cohort study.",
+      "first_author": "Sun J",
+      "year": "2023",
+      "journal": "Quant Imaging Med Surg",
+      "doi": "10.21037/qims-22-190",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "36556010",
+      "title": "Treatment of Cesarean Scar Ectopic Pregnancy in China with Uterine Artery Embolization-A Systematic Review and Meta-Analysis.",
+      "first_author": "Marchand GJ",
+      "year": "2022",
+      "journal": "J Clin Med",
+      "doi": "10.3390/jcm11247393",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "35422906",
+      "title": "Application of laparoscopic internal iliac artery temporary occlusion and uterine repair combined with hysteroscopic aspiration in type III cesarean scar pregnancy.",
+      "first_author": "Su X",
+      "year": "2022",
+      "journal": "Am J Transl Res",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "34943587",
+      "title": "Uterine Artery Embolization Combined with Subsequent Suction Evacuation as Low-Risk Treatment for Cesarean Scar Pregnancy.",
+      "first_author": "Bohiltea R",
+      "year": "2021",
+      "journal": "Diagnostics (Basel)",
+      "doi": "10.3390/diagnostics11122350",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

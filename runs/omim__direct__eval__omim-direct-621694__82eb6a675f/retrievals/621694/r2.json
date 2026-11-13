@@ -1,0 +1,60 @@
+{
+  "id": "r2",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"neurodegeneration\"[tiab] OR \"movement disorders\"[tiab] OR dystonia[tiab] OR parkinsonism[tiab] OR \"cognitive decline\"[tiab]) AND PSMF1[tiab]",
+    "max_results": 50,
+    "sort": "relevance"
+  },
+  "summary": "4 PubMed hits for '(\"neurodegeneration\"[tiab] OR \"movement disorders\"[tiab] OR dystonia[tiab] OR parkinsonism[tiab] OR \"cognitive decline\"[tiab]) AND PSMF1[tiab]'; showing 4 (PubMed read it as: (\"neurodegeneration\"[Title/Abstract] OR \"movement disorders\"[Title/Abstract] OR \"dystonia\"[Title/Abstract] OR \"parkinsonism\"[Title/Abstract] OR \"cognitive decline\"[Title/Abstract]) AND \"PSMF1\"[Title/Abstract])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39148840",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from early-onset Parkinson's disease to perinatal lethality and disrupt mitochondrial function.",
+      "first_author": "Magrinelli F",
+      "year": "2025",
+      "journal": "medRxiv",
+      "doi": "10.1101/2024.06.19.24308302",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "26086101",
+      "title": "VCP and PSMF1: Antagonistic regulators of proteasome activity.",
+      "first_author": "Clemen CS",
+      "year": "2015",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2015.06.086",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41986367",
+      "title": "Variants in the proteasome regulator PSMF1 cause a phenotypic spectrum from parkinsonism to perinatal lethality.",
+      "first_author": "Magrinelli F",
+      "year": "2026",
+      "journal": "Nat Commun",
+      "doi": "10.1038/s41467-026-71351-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42282567",
+      "title": "Structural basis for regulation of the proteasome 20S core particle by the Parkinsonism-associated proteins FBXO7 and PI31.",
+      "first_author": "Adolf F",
+      "year": "2026",
+      "journal": "bioRxiv",
+      "doi": "10.64898/2026.05.28.728263",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "r120",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "(\"NEURODEGENERATION, INFANTILE-ONSET, WITH OPTIC ATROPHY AND STRUCTURAL BRAIN ABNORMALITIES 2\" OR NDOABA2 OR \"621704\")",
+    "max_results": 10,
+    "sort": "relevance"
+  },
+  "summary": "5 PubMed hits for '(\"NEURODEGENERATION, INFANTILE-ONSET, WITH OPTIC ATROPHY AND STRUCTURAL BRAIN ABNORMALITIES 2\" OR NDOABA2 OR \"621704\")'; showing 5 (PubMed read it as: ((\"nerve degeneration\"[MeSH Terms] OR (\"nerve\"[All Fields] AND \"degeneration\"[All Fields]) OR \"nerve degeneration\"[All Fields] OR \"neurodegeneration\"[All Fields] OR \"neurodegenerating\"[All Fields] OR \"neurodegenerations\"[All Fields]) AND \"infantile onset\"[All Fields] AND (\"optic atrophy\"[MeSH Terms] OR (\"optic\"[All Fields] AND \"atrophy\"[All Fields]) OR \"optic atrophy\"[All Fields]) AND ((\"structural\"[All Fields] OR \"structurally\"[All Fields] OR \"structurals\"[All Fields] OR \"structuration\"[All Fields] OR \"structurations\"[All Fields] OR \"structure\"[All Fields] OR \"structure s\"[All Fields] OR \"structured\"[All Fields] OR \"structures\"[All Fields] OR \"structuring\"[All Fields]) AND (\"brain\"[MeSH Terms] OR \"brain\"[All Fields] OR \"brains\"[All Fields] OR \"brain s\"[All Fields]) AND (\"abnormal\"[All Fields] OR \"abnormalities\"[MeSH Subheading] OR \"abnormalities\"[All Fields] OR \"congenital abnormalities\"[MeSH Terms] OR (\"congenital\"[All Fields] AND \"abnormalities\"[All Fields]) OR \"congenital abnormalities\"[All Fields] OR \"abnormality\"[All Fields] OR \"abnormally\"[All Fields] OR \"abnormals\"[All Fields] OR \"abnormities\"[All Fields] OR \"abnormity\"[All Fields]) AND \"2\"[All Fields])) OR \"621704\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "39942192",
+      "title": "Hydrogen-Induced Ductility Loss of GH625 Superalloy Under Thermal Hydrogen Charging.",
+      "first_author": "Zhang J",
+      "year": "2025",
+      "journal": "Materials (Basel)",
+      "doi": "10.3390/ma18030526",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "12421102",
+      "title": "Diagnosis and management of psoriatic arthritis.",
+      "first_author": "Brockbank J",
+      "year": "2002",
+      "journal": "Drugs",
+      "doi": "10.2165/00003495-200262170-00004",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42174126",
+      "title": "Assessing the stability and adaptability of wheat genotypes in well-watered and rainfed conditions using AMMI, BLUP, GGE biplot and MTSI approaches.",
+      "first_author": "Abdi N",
+      "year": "2026",
+      "journal": "Sci Rep",
+      "doi": "10.1038/s41598-026-54262-0",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "40363421",
+      "title": "Effect of Nb/C Ratio on Microstructure and Mechanical Properties of B50A789G Precipitation Hardening Stainless Steel.",
+      "first_author": "Liu S",
+      "year": "2025",
+      "journal": "Materials (Basel)",
+      "doi": "10.3390/ma18091917",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30920826",
+      "title": "Theoretical Investigation of Steric Effect Influence on Reactivity of Substituted Butadienes with Bromocyclobutenone.",
+      "first_author": "Adilakshmi A",
+      "year": "2019",
+      "journal": "J Chem Inf Model",
+      "doi": "10.1021/acs.jcim.9b00177",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

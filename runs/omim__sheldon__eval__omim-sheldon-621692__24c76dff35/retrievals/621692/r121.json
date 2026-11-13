@@ -1,0 +1,39 @@
+{
+  "id": "r121",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "CACNA1A AND (epileptic encephalopathy OR developmental encephalopathy OR developmental and epileptic encephalopathy OR DEE OR epilepsy) AND (case report[pt] OR clinical study[pt] OR cohort[pt])",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2 PubMed hits for 'CACNA1A AND (epileptic encephalopathy OR developmental encephalopathy OR developmental and epileptic encephalopathy OR DEE OR epilepsy) AND (case report[pt] OR clinical study[pt] OR cohort[pt])'; showing 2 (PubMed read it as: (\"cacna1a protein human\"[Supplementary Concept] OR \"cacna1a protein human\"[All Fields] OR \"cacna1a\"[All Fields]) AND (((\"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epileptic\"[All Fields] OR \"epileptics\"[All Fields] OR \"epileptic s\"[All Fields] OR \"epileptical\"[All Fields] OR \"epileptization\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields])) OR ((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields])) OR ((\"developmental\"[All Fields] OR \"developmentally\"[All Fields]) AND (\"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epileptic\"[All Fields] OR \"epileptics\"[All Fields] OR \"epileptic s\"[All Fields] OR \"epileptical\"[All Fields] OR \"epileptization\"[All Fields]) AND (\"brain diseases\"[MeSH Terms] OR (\"brain\"[All Fields] AND \"diseases\"[All Fields]) OR \"brain diseases\"[All Fields] OR \"encephalopathies\"[All Fields] OR \"encephalopathy\"[All Fields])) OR \"DEE\"[All Fields] OR (\"epilepsie\"[All Fields] OR \"epilepsy\"[MeSH Terms] OR \"epilepsy\"[All Fields] OR \"epilepsies\"[All Fields] OR \"epilepsy s\"[All Fields])) AND \"clinical study\"[Publication Type])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "32593896",
+      "title": "Genotype-phenotype correlates of infantile-onset developmental & epileptic encephalopathy syndromes in South India: A single centre experience.",
+      "first_author": "Mitta N",
+      "year": "2020",
+      "journal": "Epilepsy Res",
+      "doi": "10.1016/j.eplepsyres.2020.106398",
+      "pubtype": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "25877686",
+      "title": "Genomic analysis identifies candidate pathogenic variants in 9 of 18 patients with unexplained West syndrome.",
+      "first_author": "Hino-Fukuyo N",
+      "year": "2015",
+      "journal": "Hum Genet",
+      "doi": "10.1007/s00439-015-1553-6",
+      "pubtype": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

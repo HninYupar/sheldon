@@ -1,0 +1,252 @@
+{
+  "id": "r28",
+  "tool": "related_papers",
+  "arguments": {
+    "pmid": "41895291",
+    "relation": "similar",
+    "max_results": 20
+  },
+  "summary": "99 'similar' links for PMID 41895291; showing 20",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "34161705",
+      "title": "Developmental Consequences of Defective ATG7-Mediated Autophagy in Humans.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "N Engl J Med",
+      "doi": "10.1056/NEJMoa1915722",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34313536",
+      "title": "ATG7 safeguards human neural integrity.",
+      "first_author": "Collier JJ",
+      "year": "2021",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2021.1953267",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "40930097",
+      "title": "Bi-allelic deleterious variants in SNAPIN, which encodes a retrograde dynein adaptor, cause a prenatal-onset neurodevelopmental disorder.",
+      "first_author": "Yousaf H",
+      "year": "2025",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2025.08.015",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "42353819",
+      "title": "Biallelic ATG9B Variants Define a Novel Autophagy-Related Neurodevelopmental Disorder with Cerebellar Ataxia.",
+      "first_author": "K\u0131l\u0131\u00e7 S",
+      "year": "2026",
+      "journal": "Genes (Basel)",
+      "doi": "10.3390/genes17060660",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41643666",
+      "title": "Bi-allelic loss-of-function variants in JKAMP cause a neurodevelopmental syndrome associated with dysregulation of GPR37 trafficking.",
+      "first_author": "Chacon-Millan P",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.01.008",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26812546",
+      "title": "Mutation in ATG5 reduces autophagy and leads to ataxia with developmental delay.",
+      "first_author": "Kim M",
+      "year": "2016",
+      "journal": "Elife",
+      "doi": "10.7554/eLife.12245",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "31794024",
+      "title": "Deficiencies in vesicular transport mediated by TRAPPC4 are associated with severe syndromic intellectual disability.",
+      "first_author": "Van Bergen NJ",
+      "year": "2020",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awz374",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "37951597",
+      "title": "Bi-allelic ACBD6 variants lead to a neurodevelopmental syndrome with progressive and complex movement disorders.",
+      "first_author": "Kaiyrzhanov R",
+      "year": "2024",
+      "journal": "Brain",
+      "doi": "10.1093/brain/awad380",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "29367244",
+      "title": "Hepatitis B Virus Subverts the Autophagy Elongation Complex Atg5-12/16L1 and Does Not Require Atg8/LC3 Lipidation for Viral Maturation.",
+      "first_author": "D\u00f6ring T",
+      "year": "2018",
+      "journal": "J Virol",
+      "doi": "10.1128/JVI.01513-17",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41260215",
+      "title": "Bi-allelic PRMT9 loss-of-function variants cause a syndromic form of intellectual disability.",
+      "first_author": "Kr\u00f6ll-Hermi A",
+      "year": "2025",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2025.10.014",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "40245862",
+      "title": "Bi-allelic pathogenic variants in TRMT1 disrupt tRNA modification and induce a neurodevelopmental disorder.",
+      "first_author": "Efthymiou S",
+      "year": "2025",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2025.03.015",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "34102099",
+      "title": "De novo and bi-allelic variants in AP1G1 cause neurodevelopmental disorder with developmental delay, intellectual disability, and epilepsy.",
+      "first_author": "Usmani MA",
+      "year": "2021",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2021.05.007",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "41720098",
+      "title": "Bi-allelic variants in FSD1L cause a neurodevelopmental disorder overlapping with L1 syndrome.",
+      "first_author": "Serpieri V",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2026.01.014",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31252046",
+      "title": "Grass carp ATG5 and ATG12 promote autophagy but down-regulate the transcriptional expression levels of IFN-I signaling pathway.",
+      "first_author": "Chu P",
+      "year": "2019",
+      "journal": "Fish Shellfish Immunol",
+      "doi": "10.1016/j.fsi.2019.06.014",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "41544630",
+      "title": "Bi-allelic variants in neuronal adhesion molecule astrotactin 1 gene ASTN1 cause diverse neurodevelopmental disorders.",
+      "first_author": "Levine JM",
+      "year": "2026",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2025.12.011",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30503495",
+      "title": "Blocking LC3 lipidation and ATG12 conjugation reactions by ATG7 mutant protein containing C572S.",
+      "first_author": "Nitta A",
+      "year": "2019",
+      "journal": "Biochem Biophys Res Commun",
+      "doi": "10.1016/j.bbrc.2018.11.158",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42141163",
+      "title": "Atg7-Atg12 conjugation and autophagy are negatively regulated by the disordered region of Atg12.",
+      "first_author": "Popelka H",
+      "year": "2026",
+      "journal": "Commun Biol",
+      "doi": "10.1038/s42003-026-10269-x",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31612776",
+      "title": "BIRC5/Survivin is a novel ATG12-ATG5 conjugate interactor and an autophagy-induced DNA damage suppressor in human cancer and mouse embryonic fibroblast cells.",
+      "first_author": "Lin TY",
+      "year": "2020",
+      "journal": "Autophagy",
+      "doi": "10.1080/15548627.2019.1671643",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "38641995",
+      "title": "Biallelic loss-of-function variants of ZFTRAF1 cause neurodevelopmental disorder with microcephaly and hypotonia.",
+      "first_author": "Asif M",
+      "year": "2024",
+      "journal": "Genet Med",
+      "doi": "10.1016/j.gim.2024.101143",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "34800363",
+      "title": "Bi-allelic variants in OGDHL cause a neurodevelopmental spectrum disease featuring epilepsy, hearing loss, visual impairment, and ataxia.",
+      "first_author": "Yap ZY",
+      "year": "2021",
+      "journal": "Am J Hum Genet",
+      "doi": "10.1016/j.ajhg.2021.11.003",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

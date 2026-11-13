@@ -1,0 +1,257 @@
+{
+  "id": "r45",
+  "tool": "pubmed_search",
+  "arguments": {
+    "query": "\"IMMUNODEFICIENCY 135\" OR IMD135 OR \"621699\"",
+    "max_results": 20,
+    "sort": "relevance"
+  },
+  "summary": "2639 PubMed hits for '\"IMMUNODEFICIENCY 135\" OR IMD135 OR \"621699\"'; showing 20 (PubMed read it as: ((\"immunodeficience\"[All Fields] OR \"immunodeficiences\"[All Fields] OR \"immunologic deficiency syndromes\"[MeSH Terms] OR (\"immunologic\"[All Fields] AND \"deficiency\"[All Fields] AND \"syndromes\"[All Fields]) OR \"immunologic deficiency syndromes\"[All Fields] OR \"immunodeficiencies\"[All Fields] OR \"immunodeficiency\"[All Fields]) AND \"135\"[All Fields]) OR \"621699\"[All Fields])",
+  "ok": true,
+  "evidence": [
+    {
+      "pmid": "41882858",
+      "title": "[The history of HIV].",
+      "first_author": "Shioda T",
+      "year": "2025",
+      "journal": "Uirusu",
+      "doi": "10.2222/jsv.75.135",
+      "pubtype": [
+        "Journal Article",
+        "Review",
+        "Historical Article",
+        "English Abstract"
+      ]
+    },
+    {
+      "pmid": "33464134",
+      "title": "Primary Immunodeficiency and Thrombocytopenia.",
+      "first_author": "Mohtashami M",
+      "year": "2022",
+      "journal": "Int Rev Immunol",
+      "doi": "10.1080/08830185.2020.1868454",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "12342840",
+      "title": "Caribbean.",
+      "first_author": "Narain J",
+      "year": "1990",
+      "journal": "AIDS Action",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "1164110",
+      "title": "Autoimmune hemolytic anemia.",
+      "first_author": "Dacie JV",
+      "year": "1975",
+      "journal": "Arch Intern Med",
+      "doi": "",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "3022903",
+      "title": "Chronic viral diseases.",
+      "first_author": "Berris B",
+      "year": "1986",
+      "journal": "CMAJ",
+      "doi": "",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "33275684",
+      "title": "Preventing infections in children and adults with asplenia.",
+      "first_author": "Lee GM",
+      "year": "2020",
+      "journal": "Hematology Am Soc Hematol Educ Program",
+      "doi": "10.1182/hematology.2020000117",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "3522224",
+      "title": "Cryptosporidiosis.",
+      "first_author": "Rolston KV",
+      "year": "1986",
+      "journal": "Eur J Clin Microbiol",
+      "doi": "10.1007/BF02013967",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "4147380",
+      "title": "Immunologic reconstitution.",
+      "first_author": "Biggar WD",
+      "year": "1973",
+      "journal": "Annu Rev Med",
+      "doi": "10.1146/annurev.me.24.020173.001031",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "32128574",
+      "title": "Topoisomerase 2\u03b2 mutation impairs early B-cell development.",
+      "first_author": "Papapietro O",
+      "year": "2020",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2019003299",
+      "pubtype": [
+        "Letter",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "20167540",
+      "title": "Immunoglobulin class switch recombination deficiencies.",
+      "first_author": "Kracker S",
+      "year": "2010",
+      "journal": "Clin Immunol",
+      "doi": "10.1016/j.clim.2010.01.012",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "3002946",
+      "title": "Neuropsychiatric manifestations of AIDS-spectrum disorders.",
+      "first_author": "Perry S",
+      "year": "1986",
+      "journal": "Hosp Community Psychiatry",
+      "doi": "10.1176/ps.37.2.135",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "pmid": "35638570",
+      "title": "HIV and FIV glycoproteins increase cellular tau pathology via cGMP-dependent kinase II activation.",
+      "first_author": "Sathler MF",
+      "year": "2022",
+      "journal": "J Cell Sci",
+      "doi": "10.1242/jcs.259764",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "27806711",
+      "title": "Prevalence and correlates of depression and anxiety among patients with HIV on-follow up at Alert Hospital, Addis Ababa, Ethiopia.",
+      "first_author": "Tesfaw G",
+      "year": "2016",
+      "journal": "BMC Psychiatry",
+      "doi": "10.1186/s12888-016-1037-9",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "3401182",
+      "title": "AIDS anxiety.",
+      "first_author": "Samuels AH",
+      "year": "1988",
+      "journal": "Aust N Z J Psychiatry",
+      "doi": "",
+      "pubtype": [
+        "Case Reports",
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "30391550",
+      "title": "Hematopoietic Stem Cell Transplantation as Treatment for Patients with DOCK8 Deficiency.",
+      "first_author": "Aydin SE",
+      "year": "2019",
+      "journal": "J Allergy Clin Immunol Pract",
+      "doi": "10.1016/j.jaip.2018.10.035",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "3315500",
+      "title": "Autoimmunity and immunodeficiency disease.",
+      "first_author": "Rosen FS",
+      "year": "1987",
+      "journal": "Ciba Found Symp",
+      "doi": "10.1002/9780470513484.ch10",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31942637",
+      "title": "Increased activation of PI3 kinase-\u03b4 predisposes to B-cell lymphoma.",
+      "first_author": "Durandy A",
+      "year": "2020",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2019002072",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "31942606",
+      "title": "Current genetic landscape in common variable immune deficiency.",
+      "first_author": "Abolhassani H",
+      "year": "2020",
+      "journal": "Blood",
+      "doi": "10.1182/blood.2019000929",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "pmid": "36719357",
+      "title": "Advances in diagnosis and treatment of talaromycosis in patients with AIDS.",
+      "first_author": "Guo P",
+      "year": "2022",
+      "journal": "Chin Med J (Engl)",
+      "doi": "10.1097/CM9.0000000000002506",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37863316",
+      "title": "The Association Between Malignancy, Immunodeficiency, and Atopy in IgE-Deficient Patients.",
+      "first_author": "Agress A",
+      "year": "2024",
+      "journal": "J Allergy Clin Immunol Pract",
+      "doi": "10.1016/j.jaip.2023.10.026",
+      "pubtype": [
+        "Journal Article"
+      ]
+    }
+  ]
+}
