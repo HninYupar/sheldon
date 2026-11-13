@@ -1,9 +1,8 @@
-# data & results are reproducible artifacts, not source
+# data: only the OMIM benchmark data is tracked; runs/ is tracked for traces
 data/*
 !data/README.md
 !data/.gitkeep
-runs/*
-!runs/.gitkeep
+!data/omim/
 .cache/
 
 # secrets

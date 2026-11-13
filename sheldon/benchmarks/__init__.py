@@ -8,6 +8,7 @@ from sheldon.benchmarks import (  # noqa: F401
     arc_agi,
     dockstring,
     med_dx,
+    omim,
     orca_bench,
     skydiscover,
 )

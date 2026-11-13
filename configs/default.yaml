@@ -15,7 +15,9 @@ engine: toolloop
 
 # auto picks the OpenAI-compatible endpoint when OPENAI_BASE_URL is set.
 provider: auto
-model: gpt-5.6-terra
+# model: gpt-5.6-terra
+# model: gemini-flash
+model: gpt-5.4-mini
 effort: high
 max_tokens: 16000
 thinking: true
